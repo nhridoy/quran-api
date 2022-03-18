@@ -79,6 +79,11 @@ _Note: Because each endpoints contains huge ammount of data. That is why I recom
 6. Single Surah Arbi: https://api.quran.sutanlab.id/surah/1 https://api.alquran.cloud/v1/surah/1
 7. Single Surah Audio: https://api.quran.sutanlab.id/surah/1
 8. Single Surah Arbi Pronouch: https://api.quran.sutanlab.id/surah/1
+9. https://github.com/alQuranBD/Bangla-Quran-api
+10. https://alquran.cloud/api
+11. https://elements.heroku.com/buttons/afrizaloky/quran-api
+12. https://github.com/fawazahmed0/quran-api
+13. https://quran.api-docs.io/v4/getting-started
 
 **Alternative Endpoints**
 _Faster But Not Organized_
