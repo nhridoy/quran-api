@@ -86,7 +86,7 @@ _Faster But Not Organized_
 <h1 align="center">Quran API</h1>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/fawazahmed0/quran-api/raw/1/quran.jpg">
+  <img width="460" height="300" src="https://github.com/nhridoy/quran-api/raw/1/quran.jpg">
 </p>
 
 [![](https://data.jsdelivr.com/v1/package/gh/nhridoy/quran-api/badge)](https://www.jsdelivr.com/package/gh/nhridoy/quran-api)
@@ -122,37 +122,28 @@ The above formats also work for fallback i.e if `.min.json` link fails, you can 
 **Endpoints:**
 
 - `/editions`<br>
-  > Lists all the available editions in prettified json format:<br>
-  > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.json") <br>
+  > Lists all the available editions in prettified json format:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.json") <br>
 
-> Get a minified version of it:<br>
-> [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.min.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.min.json")
+> Get a minified version of it:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.min.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.min.json")
 
 - `/editions/{editionName}`<br>
-  > Get the whole quran/quran translation:<br>
-  > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan.json") <br>
+  > Get the whole quran/quran translation:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan.json") <br>
 
-> Get a latin(roman) script version of it by adding -la:<br>
-> [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la.json")<br>
+> Get a latin(roman) script version of it by adding -la:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la.json")<br>
 
-> Get a latin(roman) script with diacritical marks by adding -lad:<br>
-> [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad.json")
+> Get a latin(roman) script with diacritical marks by adding -lad:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad.json")
 
 - `/editions/{editionName}/{ChapterNo}` <br>
-  > Get the whole chapter 5:<br>
-  > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.json")
+  > Get the whole chapter 5:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.json")
 
-> Get the whole chapter 5 in minified format:<br>
-> [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json")
+> Get the whole chapter 5 in minified format:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json")
 
 - `/editions/{editionName}/{ChapterNo}/{VerseNo}` <br>
 
-  > Get Chapter 5 verse 10:<br>
-  > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json")
+  > Get Chapter 5 verse 10:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json")
 
 - `/editions/{editionName}/juzs/{juzNo}` <br>
-  > Get juz 3:<br>
-  > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json")
+  > Get juz 3:<br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json")
 
 Similarly:
 
@@ -163,12 +154,10 @@ Similarly:
 
 - `/info` <br>
 
-  > Get all the details about quran such as number of juzs,sajdas, rukus etc in quran <br>
-  > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/info.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/info.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/info.json")<br>
+  > Get all the details about quran such as number of juzs,sajdas, rukus etc in quran <br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/info.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/info.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/info.json")<br>
 
 - `/fonts` <br>
-  > Lists arabic fonts available: <br>
-  > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/fonts.json")<br>
+  > Lists arabic fonts available: <br> > [https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/fonts.json")<br>
 
 ### Displaying Text:
 
