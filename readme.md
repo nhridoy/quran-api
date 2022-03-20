@@ -84,7 +84,10 @@ _Note: Because each endpoints contains huge ammount of data. That is why I recom
 11. https://elements.heroku.com/buttons/afrizaloky/quran-api
 12. https://github.com/fawazahmed0/quran-api
 13. https://quran.api-docs.io/v4/getting-started
-
+14. https://islamic.network/
+15. https://quran.com/
+16. https://github.com/fawazahmed0/quran-api/
+<!-- 
 **Alternative Endpoints**
 _Faster But Not Organized_
 
@@ -230,4 +233,4 @@ Please see [Editions](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@1/editions.j
 <br>
 <br>
 
-[:pencil2:_Improve this page_](https://github.com/nhridoy/quran-api/edit/1/README.md)
+[:pencil2:_Improve this page_](https://github.com/nhridoy/quran-api/edit/1/README.md) -->
