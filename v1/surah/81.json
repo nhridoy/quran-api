@@ -1,0 +1,243 @@
+{
+    "no": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "enName": "At-Takwir",
+    "enNameTranslation": "The Overthrowing",
+    "bnNameTranslation": "আত তাকবীর",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "verses": [
+        {
+            "text": "إِذَا الشَّمْسُ كُوِّرَتْ",
+            "bnText": "যখন সূর্য আলোহীন হয়ে যাবে",
+            "enText": "When the sun is wrapped up [in darkness]",
+            "enTextTransliteration": "Izash shamsu kuwwirat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5801",
+            "numberInSurah": 1
+        },
+        {
+            "text": "وَإِذَا النُّجُومُ انكَدَرَتْ",
+            "bnText": "যখন নক্ষত্র মলিন হয়ে যাবে",
+            "enText": "And when the stars fall, dispersing,",
+            "enTextTransliteration": "Wa izan nujoomun kadarat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5802",
+            "numberInSurah": 2
+        },
+        {
+            "text": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+            "bnText": "যখন পর্বতমালা অপসারিত হবে",
+            "enText": "And when the mountains are removed",
+            "enTextTransliteration": "Wa izal jibaalu suyyirat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5803",
+            "numberInSurah": 3
+        },
+        {
+            "text": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+            "bnText": "যখন দশ মাসের গর্ভবতী উষ্ট্রীসমূহ উপেক্ষিত হবে",
+            "enText": "And when full-term she-camels are neglected",
+            "enTextTransliteration": "Wa izal 'ishaaru 'uttilat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5804",
+            "numberInSurah": 4
+        },
+        {
+            "text": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+            "bnText": "যখন বন্য পশুরা একত্রিত হয়ে যাবে",
+            "enText": "And when the wild beasts are gathered",
+            "enTextTransliteration": "Wa izal wuhooshu hushirat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5805",
+            "numberInSurah": 5
+        },
+        {
+            "text": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+            "bnText": "যখন সমুদ্রকে উত্তাল করে তোলা হবে",
+            "enText": "And when the seas are filled with flame",
+            "enTextTransliteration": "Wa izal bihaaru sujjirat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5806",
+            "numberInSurah": 6
+        },
+        {
+            "text": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+            "bnText": "যখন আত্মাসমূহকে যুগল করা হবে",
+            "enText": "And when the souls are paired",
+            "enTextTransliteration": "Wa izan nufoosu zuwwijat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5807",
+            "numberInSurah": 7
+        },
+        {
+            "text": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+            "bnText": "যখন জীবন্ত প্রোথিত কন্যাকে জিজ্ঞেস করা হবে",
+            "enText": "And when the girl [who was] buried alive is asked",
+            "enTextTransliteration": "Wa izal maw'oodatu su'ilat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5808",
+            "numberInSurah": 8
+        },
+        {
+            "text": "بِأَيِّ ذَنبٍ قُتِلَتْ",
+            "bnText": "কি অপরাধে তাকে হত্য করা হল",
+            "enText": "For what sin she was killed",
+            "enTextTransliteration": "Bi ayyi zambin qutilat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5809",
+            "numberInSurah": 9
+        },
+        {
+            "text": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+            "bnText": "যখন আমলনামা খোলা হবে",
+            "enText": "And when the pages are made public",
+            "enTextTransliteration": "Wa izas suhufu nushirat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5810",
+            "numberInSurah": 10
+        },
+        {
+            "text": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+            "bnText": "যখন আকাশের আবরণ অপসারিত হবে",
+            "enText": "And when the sky is stripped away",
+            "enTextTransliteration": "Wa izas samaaa'u kushitat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5811",
+            "numberInSurah": 11
+        },
+        {
+            "text": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+            "bnText": "যখন জাহান্নামের অগ্নি প্রজ্বলিত করা হবে",
+            "enText": "And when Hellfire is set ablaze",
+            "enTextTransliteration": "Wa izal jaheemu su'-'irat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5812",
+            "numberInSurah": 12
+        },
+        {
+            "text": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+            "bnText": "এবং যখন জান্নাত সন্নিকটবর্তী হবে",
+            "enText": "And when Paradise is brought near,",
+            "enTextTransliteration": "Wa izal jannatu uzlifat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5813",
+            "numberInSurah": 13
+        },
+        {
+            "text": "عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ",
+            "bnText": "তখন প্রত্যেকেই জেনে নিবে সে কি উপস্থিত করেছে।",
+            "enText": "A soul will [then] know what it has brought [with it].",
+            "enTextTransliteration": "'Alimat nafsum maaa ahdarat",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5814",
+            "numberInSurah": 14
+        },
+        {
+            "text": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+            "bnText": "আমি শপথ করি যেসব নক্ষত্রগুলো পশ্চাতে সরে যায়।",
+            "enText": "So I swear by the retreating stars -",
+            "enTextTransliteration": "Falaaa uqsimu bil khunnas",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5815",
+            "numberInSurah": 15
+        },
+        {
+            "text": "الْجَوَارِ الْكُنَّسِ",
+            "bnText": "চলমান হয় ও অদৃশ্য হয়",
+            "enText": "Those that run [their courses] and disappear -",
+            "enTextTransliteration": "Al jawaaril kunnas",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5816",
+            "numberInSurah": 16
+        },
+        {
+            "text": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+            "bnText": "শপথ নিশাবসান ও",
+            "enText": "And by the night as it closes in",
+            "enTextTransliteration": "Wallaili izaa 'as'as",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5817",
+            "numberInSurah": 17
+        },
+        {
+            "text": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+            "bnText": "প্রভাত আগমন কালের",
+            "enText": "And by the dawn when it breathes",
+            "enTextTransliteration": "Wassubhi izaa tanaffas",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5818",
+            "numberInSurah": 18
+        },
+        {
+            "text": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+            "bnText": "নিশ্চয় কোরআন সম্মানিত রসূলের আনীত বাণী",
+            "enText": "[That] indeed, the Qur'an is a word [conveyed by] a noble messenger",
+            "enTextTransliteration": "Innahoo laqawlu rasoolin kareem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5819",
+            "numberInSurah": 19
+        },
+        {
+            "text": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ",
+            "bnText": "যিনি শক্তিশালী, আরশের মালিকের নিকট মর্যাদাশালী",
+            "enText": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
+            "enTextTransliteration": "Zee quwwatin 'inda zil 'arshi makeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5820",
+            "numberInSurah": 20
+        },
+        {
+            "text": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+            "bnText": "সবার মান্যবর, সেখানকার বিশ্বাসভাজন।",
+            "enText": "Obeyed there [in the heavens] and trustworthy.",
+            "enTextTransliteration": "Mutaa'in samma ameen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5821",
+            "numberInSurah": 21
+        },
+        {
+            "text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+            "bnText": "এবং তোমাদের সাথী পাগল নন।",
+            "enText": "And your companion is not [at all] mad.",
+            "enTextTransliteration": "Wa maa saahibukum bimajnoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5822",
+            "numberInSurah": 22
+        },
+        {
+            "text": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+            "bnText": "তিনি সেই ফেরেশতাকে প্রকাশ্য দিগন্তে দেখেছেন।",
+            "enText": "And he has already seen Gabriel in the clear horizon.",
+            "enTextTransliteration": "Wa laqad ra aahu bilufuqil mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5823",
+            "numberInSurah": 23
+        },
+        {
+            "text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+            "bnText": "তিনি অদৃশ্য বিষয় বলতে কৃপনতা করেন না।",
+            "enText": "And Muhammad is not a withholder of [knowledge of] the unseen.",
+            "enTextTransliteration": "Wa maa huwa 'alal ghaibi bidaneen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5824",
+            "numberInSurah": 24
+        },
+        {
+            "text": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَّجِيمٍ",
+            "bnText": "এটা বিতাড়িত শয়তানের উক্তি নয়।",
+            "enText": "And the Qur'an is not the word of a devil, expelled [from the heavens].",
+            "enTextTransliteration": "Wa maa huwa biqawli shaitaanir rajeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5825",
+            "numberInSurah": 25
+        },
+        {
+            "text": "فَأَيْنَ تَذْهَبُونَ",
+            "bnText": "অতএব, তোমরা কোথায় যাচ্ছ",
+            "enText": "So where are you going?",
+            "enTextTransliteration": "Fa ayna tazhaboon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5826",
+            "numberInSurah": 26
+        },
+        {
+            "text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
+            "bnText": "এটা তো কেবল বিশ্বাবাসীদের জন্যে উপদেশ",
+            "enText": "It is not except a reminder to the worlds",
+            "enTextTransliteration": "In huwa illaa zikrul lil'aalameen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5827",
+            "numberInSurah": 27
+        },
+        {
+            "text": "لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ",
+            "bnText": "তার জন্যে, যে তোমাদের মধ্যে সোজা চলতে চায়।",
+            "enText": "For whoever wills among you to take a right course.",
+            "enTextTransliteration": "Liman shaaa'a minkum ai yastaqeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5828",
+            "numberInSurah": 28
+        },
+        {
+            "text": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+            "bnText": "তোমরা আল্লাহ রাব্বুল আলামীনের অভিপ্রায়ের বাইরে অন্য কিছুই ইচ্ছা করতে পার না।",
+            "enText": "And you do not will except that Allah wills - Lord of the worlds.",
+            "enTextTransliteration": "Wa maa tashaaa'oona illaaa ai yashaaa 'al laahu Rabbul 'Aalameen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5829",
+            "numberInSurah": 29
+        }
+    ]
+}

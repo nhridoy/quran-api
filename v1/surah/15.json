@@ -1,0 +1,803 @@
+{
+    "no": 15,
+    "name": "سُورَةُ الحِجۡرِ",
+    "enName": "Al-Hijr",
+    "enNameTranslation": "The Rock",
+    "bnNameTranslation": "আল হিজর",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 99,
+    "verses": [
+        {
+            "text": "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُّبِينٍ",
+            "bnText": "আলিফ-লা-ম-রা; এগুলো পরিপূর্ণ গ্রন্থ ও সুস্পষ্ট কোরআনের আয়াত।",
+            "enText": "Alif, Lam, Ra. These are the verses of the Book and a clear Qur'an.",
+            "enTextTransliteration": "Alif-Laaam-Raa; tilka Aayaatul Kitaabi wa Qur-aa-nim Mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1803",
+            "numberInSurah": 1
+        },
+        {
+            "text": "رُّبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ",
+            "bnText": "কোন সময় কাফেররা আকাঙ্ক্ষা করবে যে, কি চমৎকার হত, যদি তারা মুসলমান হত।",
+            "enText": "Perhaps those who disbelieve will wish that they had been Muslims.",
+            "enTextTransliteration": "Rubamaa yawaddul lazeena kafaroo law kaanoo muslimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1804",
+            "numberInSurah": 2
+        },
+        {
+            "text": "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ",
+            "bnText": "আপনি ছেড়ে দিন তাদেরকে, খেয়ে নিক এবং ভোগ করে নিক এবং আশায় ব্যাপৃত থাকুক। অতি সত্বর তারা জেনে নেবে।",
+            "enText": "Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know.",
+            "enTextTransliteration": "Zarhum yaakuloo wa tatamatta'oo wa yulhihimul amalu fasawfa ya'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1805",
+            "numberInSurah": 3
+        },
+        {
+            "text": "وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ",
+            "bnText": "আমি কোন জনপদ ধবংস করিনি; কিন্ত তার নির্দিষ্ট সময় লিখিত ছিল।",
+            "enText": "And We did not destroy any city but that for it was a known decree.",
+            "enTextTransliteration": "Wa maaa ahlaknaa min qaryatin illaa wa lahaa kitaabum ma'loom",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1806",
+            "numberInSurah": 4
+        },
+        {
+            "text": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ",
+            "bnText": "কোন সম্প্রদায় তার নির্দিষ্ট সময়ের অগ্রে যায় না এবং পশ্চাতে থাকে না।",
+            "enText": "No nation will precede its term, nor will they remain thereafter.",
+            "enTextTransliteration": "Maa tasbiqu min ummatin ajalahaa wa maa yastaakhiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1807",
+            "numberInSurah": 5
+        },
+        {
+            "text": "وَقَالُوا يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+            "bnText": "তারা বললঃ হে ঐ ব্যক্তি, যার প্রতি কোরআন নাযিল হয়েছে, আপনি তো একজন উম্মাদ।",
+            "enText": "And they say, \"O you upon whom the message has been sent down, indeed you are mad.",
+            "enTextTransliteration": "Wa qaaloo yaaa aiyuhal lazee nuzzila 'alaihiz Zikru innaka lamajnoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1808",
+            "numberInSurah": 6
+        },
+        {
+            "text": "لَّوْ مَا تَأْتِينَا بِالْمَلَائِكَةِ إِن كُنتَ مِنَ الصَّادِقِينَ",
+            "bnText": "যদি আপনি সত্যবাদী হন, তবে আমাদের কাছে ফেরেশতাদেরকে আনেন না কেন",
+            "enText": "Why do you not bring us the angels, if you should be among the truthful?\"",
+            "enTextTransliteration": "Law maa taateenaa bil malaaa'ikati in kunta minas saadiqeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1809",
+            "numberInSurah": 7
+        },
+        {
+            "text": "مَا نُنَزِّلُ الْمَلَائِكَةَ إِلَّا بِالْحَقِّ وَمَا كَانُوا إِذًا مُّنظَرِينَ",
+            "bnText": "আমি ফেরেশতাদেরকে একমাত্র ফায়সালার জন্যেই নাযিল করি। তখন তাদেরকে অবকাশ দেয়া হবে না।",
+            "enText": "We do not send down the angels except with truth; and the disbelievers would not then be reprieved.",
+            "enTextTransliteration": "Maa nunazzilul malaaa'i kata illaa bilhaqqi wa maa kaanooo izam munzareen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1810",
+            "numberInSurah": 8
+        },
+        {
+            "text": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+            "bnText": "আমি স্বয়ং এ উপদেশ গ্রন্থ অবতারণ করেছি এবং আমি নিজেই এর সংরক্ষক।",
+            "enText": "Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian.",
+            "enTextTransliteration": "Innaa Nahnu nazalnaz Zikra wa Innaa lahoo lahaa fizoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1811",
+            "numberInSurah": 9
+        },
+        {
+            "text": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِي شِيَعِ الْأَوَّلِينَ",
+            "bnText": "আমি আপনার পূর্বে পূর্ববর্তী সম্প্রদায়ের মধ্যে রসূল প্রেরণ করেছি।",
+            "enText": "And We had certainly sent [messengers] before you, [O Muhammad], among the sects of the former peoples.",
+            "enTextTransliteration": "Wa laqad arsalnaa min qablika fee shiya'il awwaleen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1812",
+            "numberInSurah": 10
+        },
+        {
+            "text": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+            "bnText": "ওদের কাছে এমন কোন রসূল আসেননি, যাদের সাথে ওরা ঠাট্টাবিদ্রূপ করতে থাকেনি।",
+            "enText": "And no messenger would come to them except that they ridiculed him.",
+            "enTextTransliteration": "Wa maa yaateehim mir Rasoolin illaa kaanoo bihee yastahzi'oon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1813",
+            "numberInSurah": 11
+        },
+        {
+            "text": "كَذَٰلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ",
+            "bnText": "এমনিভাবে আমি এ ধরনের আচরণ পাপীদের অন্তরে বদ্ধমূল করে দেই।",
+            "enText": "Thus do We insert denial into the hearts of the criminals.",
+            "enTextTransliteration": "kazaalika naslukuhoo fee quloobil mujrimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1814",
+            "numberInSurah": 12
+        },
+        {
+            "text": "لَا يُؤْمِنُونَ بِهِ ۖ وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ",
+            "bnText": "ওরা এর প্রতি বিশ্বাস করবে না। পূর্ববর্তীদের এমন রীতি চলে আসছে।",
+            "enText": "They will not believe in it, while there has already occurred the precedent of the former peoples.",
+            "enTextTransliteration": "Laa yu'minoona bihee wa qad khalat sunnatul awwaleen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1815",
+            "numberInSurah": 13
+        },
+        {
+            "text": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ",
+            "bnText": "যদি আমি ওদের সামনে আকাশের কোন দরজাও খুলে দেই আর তাতে ওরা দিনভর আরোহণ ও করতে থাকে।",
+            "enText": "And [even] if We opened to them a gate from the heaven and they continued therein to ascend,",
+            "enTextTransliteration": "Wa law fatahnaa 'alaihim baabam minas samaaa'i fazaloo feehi ya'rujoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1816",
+            "numberInSurah": 14
+        },
+        {
+            "text": "لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ",
+            "bnText": "তবুও ওরা একথাই বলবে যে, আমাদের দৃষ্টির বিভ্রাট ঘটানো হয়েছে না বরং আমরা যাদুগ্রস্ত হয়ে পড়েছি।",
+            "enText": "They would say, \"Our eyes have only been dazzled. Rather, we are a people affected by magic.\"",
+            "enTextTransliteration": "Laqaaloo innamaa sukkirat absaarunaa bal nahnu qawmum mashooroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1817",
+            "numberInSurah": 15
+        },
+        {
+            "text": "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ",
+            "bnText": "নিশ্চয় আমি আকাশে রাশিচক্র সৃষ্টি করেছি এবং তাকে দর্শকদের জন্যে সুশোভিত করে দিয়েছি।",
+            "enText": "And We have placed within the heaven great stars and have beautified it for the observers.",
+            "enTextTransliteration": "Wa laqad ja'alnaa fissamaaa'i buroojanw wa zaiyannaahaa linnaazireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1818",
+            "numberInSurah": 16
+        },
+        {
+            "text": "وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ",
+            "bnText": "আমি আকাশকে প্রত্যেক বিতাড়িত শয়তান থেকে নিরাপদ করে দিয়েছি।",
+            "enText": "And We have protected it from every devil expelled [from the mercy of Allah]",
+            "enTextTransliteration": "Wa hafiznaahaa min kulli Shaitaanir rajeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1819",
+            "numberInSurah": 17
+        },
+        {
+            "text": "إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُّبِينٌ",
+            "bnText": "কিন্তু যে চুরি করে শুনে পালায়, তার পশ্চাদ্ধাবন করে উজ্জ্বল উল্কাপিন্ড।",
+            "enText": "Except one who steals a hearing and is pursued by a clear burning flame.",
+            "enTextTransliteration": "Illaa manis taraqas sam'a fa atba'ahoo shihaabum mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1820",
+            "numberInSurah": 18
+        },
+        {
+            "text": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ شَيْءٍ مَّوْزُونٍ",
+            "bnText": "আমি ভু-পৃষ্ঠকে বিস্তৃত করেছি এবং তার উপর পর্বতমালা স্থাপন করেছি এবং তাতে প্রত্যেক বস্তু সুপরিমিতভাবে উৎপন্ন করেছি।",
+            "enText": "And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing.",
+            "enTextTransliteration": "Wal arda madadnaahaa wa alqainaa feehaa rawaasiya wa ambatnaa feehaa min kulli shai'im mawzoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1821",
+            "numberInSurah": 19
+        },
+        {
+            "text": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ",
+            "bnText": "আমি তোমাদের জন্যে তাতে জীবিকার উপকরন সৃষ্টি করছি এবং তাদের জন্যেও যাদের অন্নদাতা তোমরা নও।",
+            "enText": "And We have made for you therein means of living and [for] those for whom you are not providers.",
+            "enTextTransliteration": "Wa ja'alnaa lakum feehaa ma'aayisha wa mal lastum lahoo biraaziqeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1822",
+            "numberInSurah": 20
+        },
+        {
+            "text": "وَإِن مِّن شَيْءٍ إِلَّا عِندَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ مَّعْلُومٍ",
+            "bnText": "আমার কাছে প্রত্যেক বস্তুর ভান্ডার রয়েছে। আমি নির্দিষ্ট পরিমানেই তা অবতরণ করি।",
+            "enText": "And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure.",
+            "enTextTransliteration": "Wa im min shai'in illaa 'indanaa khazaaa 'inuhoo wa maa nunazziluhooo illaa biqadarim ma'loom",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1823",
+            "numberInSurah": 21
+        },
+        {
+            "text": "وَأَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَسْقَيْنَاكُمُوهُ وَمَا أَنتُمْ لَهُ بِخَازِنِينَ",
+            "bnText": "আমি বৃষ্টিগর্ভ বায়ু পরিচালনা করি অতঃপর আকাশ থেকে পানি বর্ষণ করি, এরপর তোমাদেরকে তা পান করাই। বস্তুতঃ তোমাদের কাছে এর ভান্ডার নেই।",
+            "enText": "And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.",
+            "enTextTransliteration": "Wa arsalnar riyaaha la waaqiha fa anzalnaa minas samaaa'i maaa'an fa asqai naakumoohu wa maaa antum lahoo bikhaazineen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1824",
+            "numberInSurah": 22
+        },
+        {
+            "text": "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ",
+            "bnText": "আমিই জীবনদান করি, মৃত্যুদান করি এবং আমিই চুড়ান্ত মালিকানার অধিকারী।",
+            "enText": "And indeed, it is We who give life and cause death, and We are the Inheritor.",
+            "enTextTransliteration": "Wa innnaa la nahnu nuhyee wa numeetu wa nahnul waarisoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1825",
+            "numberInSurah": 23
+        },
+        {
+            "text": "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِينَ",
+            "bnText": "আমি জেনে রেখেছি তোমাদের অগ্রগামীদেরকে এবং আমি জেনে রেখেছি পশ্চাদগামীদেরকে।",
+            "enText": "And We have already known the preceding [generations] among you, and We have already known the later [ones to come].",
+            "enTextTransliteration": "Wa la qad 'alimnal mustaqdimeena minkum wa laqad 'alimnal mustaakhireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1826",
+            "numberInSurah": 24
+        },
+        {
+            "text": "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُ حَكِيمٌ عَلِيمٌ",
+            "bnText": "আপনার পালনকর্তাই তাদেরকে একত্রিত করে আনবেন। নিশ্চয় তিনি প্রজ্ঞাবান, জ্ঞানময়।",
+            "enText": "And indeed, your Lord will gather them; indeed, He is Wise and Knowing.",
+            "enTextTransliteration": "Wa inna Rabbaka Huwa yahshuruhum; innahoo Hakeem 'Aleem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1827",
+            "numberInSurah": 25
+        },
+        {
+            "text": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+            "bnText": "আমি মানবকে পচা কর্দম থেকে তৈরী বিশুস্ক ঠনঠনে মাটি দ্বারা সৃষ্টি করেছি।",
+            "enText": "And We did certainly create man out of clay from an altered black mud.",
+            "enTextTransliteration": "Wa laqad khalaqnal insaana min salsaalim min hama im masnoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1828",
+            "numberInSurah": 26
+        },
+        {
+            "text": "وَالْجَانَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ",
+            "bnText": "এবং জিনকে এর আগে লু এর আগুনের দ্বারা সৃজিত করেছি।",
+            "enText": "And the jinn We created before from scorching fire.",
+            "enTextTransliteration": "Waljaaanna khalaqnaahu min qablu min naaris samoom",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1829",
+            "numberInSurah": 27
+        },
+        {
+            "text": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+            "bnText": "আর আপনার পালনকর্তা যখন ফেরেশতাদেরকে বললেনঃ আমি পচা কর্দম থেকে তৈরী বিশুষ্ক ঠনঠনে মাটি দ্বারা সৃষ্ট একটি মানব জাতির পত্তন করব।",
+            "enText": "And [mention, O Muhammad], when your Lord said to the angels, \"I will create a human being out of clay from an altered black mud.",
+            "enTextTransliteration": "Wa iz qaala Rabbuka lilmalaaa' ikati innee khaaliqum basharam min salsaalim min hama im masnoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1830",
+            "numberInSurah": 28
+        },
+        {
+            "text": "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ",
+            "bnText": "অতঃপর যখন তাকে ঠিকঠাক করে নেব এবং তাতে আমার রূহ থেকে ফঁুক দেব, তখন তোমরা তার সামনে সেজদায় পড়ে যেয়ো।",
+            "enText": "And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\"",
+            "enTextTransliteration": "Fa izaa sawwaituhoo wa nafakhtu feehi mir roohee faqa'oo lahoo saajideen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1831",
+            "numberInSurah": 29
+        },
+        {
+            "text": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+            "bnText": "তখন ফেরেশতারা সবাই মিলে সেজদা করল।",
+            "enText": "So the angels prostrated - all of them entirely,",
+            "enTextTransliteration": "Fasajadal malaaa'ikatu kulluhum ajma'oon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1832",
+            "numberInSurah": 30
+        },
+        {
+            "text": "إِلَّا إِبْلِيسَ أَبَىٰ أَن يَكُونَ مَعَ السَّاجِدِينَ",
+            "bnText": "কিন্তু ইবলীস-সে সেজদাকারীদের অন্তর্ভূক্ত হতে স্বীকৃত হল না।",
+            "enText": "Except Iblees, he refused to be with those who prostrated.",
+            "enTextTransliteration": "Illaaa ibleesa abaaa ai yakoona ma'as saajideen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1833",
+            "numberInSurah": 31
+        },
+        {
+            "text": "قَالَ يَا إِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ السَّاجِدِينَ",
+            "bnText": "আল্লাহ বললেনঃ হে ইবলিস, তোমার কি হলো যে তুমি সেজদাকারীদের অন্তর্ভূক্ত হতে স্বীকৃত হলে না",
+            "enText": "[Allah] said, O Iblees, what is [the matter] with you that you are not with those who prostrate?\"",
+            "enTextTransliteration": "Qaala yaaa Ibleesu maa laka allaa takoona ma'as saajideen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1834",
+            "numberInSurah": 32
+        },
+        {
+            "text": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+            "bnText": "বললঃ আমি এমন নই যে, একজন মানবকে সেজদা করব, যাকে আপনি পচা কর্দম থেকে তৈরী ঠনঠনে বিশুষ্ক মাটি দ্বারা সৃষ্টি করেছেন।",
+            "enText": "He said, \"Never would I prostrate to a human whom You created out of clay from an altered black mud.\"",
+            "enTextTransliteration": "Qaala lam akul li asjuda libasharin khalaqtahoo min salsaalim min hama im masnoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1835",
+            "numberInSurah": 33
+        },
+        {
+            "text": "قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+            "bnText": "আল্লাহ বললেনঃ তবে তুমি এখান থেকে বের হয়ে যাও। তুমি বিতাড়িত।",
+            "enText": "[Allah] said, \"Then get out of it, for indeed, you are expelled.",
+            "enTextTransliteration": "Qaala fakhruj minhaa fa innaka rajeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1836",
+            "numberInSurah": 34
+        },
+        {
+            "text": "وَإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَىٰ يَوْمِ الدِّينِ",
+            "bnText": "এবং তোমার প্রতি ন্যায় বিচারের দিন পর্যন্ত অভিসম্পাত।",
+            "enText": "And indeed, upon you is the curse until the Day of Recompense.\"",
+            "enTextTransliteration": "Wa inna 'alikal la'nata ilaa Yawmid Deen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1837",
+            "numberInSurah": 35
+        },
+        {
+            "text": "قَالَ رَبِّ فَأَنظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ",
+            "bnText": "সে বললঃ হে আমার পালনকর্তা, আপনি আমাকে পুনরুত্থান দিবস পর্যন্ত অবকাশ দিন।",
+            "enText": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\"",
+            "enTextTransliteration": "Qaala Rabbi fa anzirneee ilaa Yawmi yub'asoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1838",
+            "numberInSurah": 36
+        },
+        {
+            "text": "قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ",
+            "bnText": "আল্লাহ বললেনঃ তোমাকে অবকাশ দেয়া হল।",
+            "enText": "[Allah] said, \"So indeed, you are of those reprieved",
+            "enTextTransliteration": "Qaala fa innaka minal munzareen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1839",
+            "numberInSurah": 37
+        },
+        {
+            "text": "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+            "bnText": "সেই অবধারিত সময় উপস্থিত হওয়ার দিন পর্যন্ত।",
+            "enText": "Until the Day of the time well-known.\"",
+            "enTextTransliteration": "Ilaa Yawmil waqtil ma'loom",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1840",
+            "numberInSurah": 38
+        },
+        {
+            "text": "قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+            "bnText": "সে বললঃ হে আমার পলনকর্তা, আপনি যেমন আমাকে পথ ভ্রষ্ট করেছেন, আমিও তাদের সবাইকে পৃথিবীতে নানা সৌন্দর্যে আকৃষ্ট করব এবং তাদের সবাইকে পথ ভ্রষ্ঠ করে দেব।",
+            "enText": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them on earth, and I will mislead them all",
+            "enTextTransliteration": "Qaala Rabbi bimaaa aghwaitanee la uzayyinaana lahum fil ardi wa la ughwiyan nahum ajma'een",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1841",
+            "numberInSurah": 39
+        },
+        {
+            "text": "إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ",
+            "bnText": "আপনার মনোনীত বান্দাদের ব্যতীত।",
+            "enText": "Except, among them, Your chosen servants.\"",
+            "enTextTransliteration": "Illaa 'ibaadaka minhumul mukhlaseen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1842",
+            "numberInSurah": 40
+        },
+        {
+            "text": "قَالَ هَٰذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ",
+            "bnText": "আল্লাহ বললেনঃ এটা আমা পর্যন্ত সোজা পথ।",
+            "enText": "[Allah] said, \"This is a path [of return] to Me [that is] straight.",
+            "enTextTransliteration": "Qaala haaza Siraatun 'alaiya Mustaqeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1843",
+            "numberInSurah": 41
+        },
+        {
+            "text": "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ",
+            "bnText": "যারা আমার বান্দা, তাদের উপর তোমার কোন ক্ষমতা নেই; কিন্তু পথভ্রান্তদের মধ্য থেকে যারা তোমার পথে চলে।",
+            "enText": "Indeed, My servants - no authority will you have over them, except those who follow you of the deviators.",
+            "enTextTransliteration": "Inna 'ibaadee laisa laka 'alaihim sultaanun illaa manittaba'aka minal ghaaween",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1844",
+            "numberInSurah": 42
+        },
+        {
+            "text": "وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ",
+            "bnText": "তাদের সবার নির্ধারিত স্থান হচ্ছে জাহান্নাম।",
+            "enText": "And indeed, Hell is the promised place for them all.",
+            "enTextTransliteration": "Wa inna jahannama lamaw'iduhum ajma'een",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1845",
+            "numberInSurah": 43
+        },
+        {
+            "text": "لَهَا سَبْعَةُ أَبْوَابٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ",
+            "bnText": "এর সাতটি দরজা আছে। প্রত্যেক দরজার জন্যে এক একটি পৃথক দল আছে।",
+            "enText": "It has seven gates; for every gate is of them a portion designated.\"",
+            "enTextTransliteration": "Lahaa sab'atu abwaab; likulli baabim minhum juz'um maqsoom",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1846",
+            "numberInSurah": 44
+        },
+        {
+            "text": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+            "bnText": "নিশ্চয় খোদাভীরুরা বাগান ও নির্ঝরিনীসহূহে থাকবে।",
+            "enText": "Indeed, the righteous will be within gardens and springs.",
+            "enTextTransliteration": "Innal muttaqeena fee Jannaatinw wa 'uyoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1847",
+            "numberInSurah": 45
+        },
+        {
+            "text": "ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+            "bnText": "বলা হবেঃ এগুলোতে নিরাপত্তা ও শান্তি সহকরে প্রবেশ কর।",
+            "enText": "[Having been told], \"Enter it in peace, safe [and secure].\"",
+            "enTextTransliteration": "Udkhuloohaa bisalaamin aamineen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1848",
+            "numberInSurah": 46
+        },
+        {
+            "text": "وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ إِخْوَانًا عَلَىٰ سُرُرٍ مُّتَقَابِلِينَ",
+            "bnText": "তাদের অন্তরে যে ক্রোধ ছিল, আমি তা দূর করে দেব। তারা ভাই ভাইয়ের মত সামনা-সামনি আসনে বসবে।",
+            "enText": "And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.",
+            "enTextTransliteration": "Wa naza'naa ma fee sudoorihim min ghillin ikhwaanan 'alaa sururim mutaqaabileen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1849",
+            "numberInSurah": 47
+        },
+        {
+            "text": "لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ",
+            "bnText": "সেখানে তাদের মোটেই কষ্ট হবে না এবং তারা সেখান থেকে বহিস্কৃত হবে না।",
+            "enText": "No fatigue will touch them therein, nor from it will they [ever] be removed.",
+            "enTextTransliteration": "Laa yamas suhum feehaa nasabunw wa maa hum minhaa bimukhrajeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1850",
+            "numberInSurah": 48
+        },
+        {
+            "text": "۞ نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ",
+            "bnText": "আপনি আমার বান্দাদেরকে জানিয়ে দিন যে, আমি অত্যন্ত ক্ষমাশীল দয়ালু।",
+            "enText": "[O Muhammad], inform My servants that it is I who am the Forgiving, the Merciful.",
+            "enTextTransliteration": "Nabbi' 'ibaadeee annneee anal Ghafoorur Raheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1851",
+            "numberInSurah": 49
+        },
+        {
+            "text": "وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ",
+            "bnText": "এবং ইহাও যে, আমার শাস্তিই যন্ত্রনাদায়ক শাস্তি।",
+            "enText": "And that it is My punishment which is the painful punishment.",
+            "enTextTransliteration": "Wa anna 'azaabee uwal 'azaabul aleem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1852",
+            "numberInSurah": 50
+        },
+        {
+            "text": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَاهِيمَ",
+            "bnText": "আপনি তাদেরকে ইব্রাহীমের মেহমানদের অবস্থা শুনিয়ে দিন।",
+            "enText": "And inform them about the guests of Abraham,",
+            "enTextTransliteration": "Wa nabbi'hum 'an daifi Ibraaheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1853",
+            "numberInSurah": 51
+        },
+        {
+            "text": "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ",
+            "bnText": "যখন তারা তাঁর গৃহে আগমন করল এবং বললঃ সালাম। তিনি বললেনঃ আমরা তোমাদের ব্যাপারে ভীত।",
+            "enText": "When they entered upon him and said, \"Peace.\" [Abraham] said, \"Indeed, we are fearful of you.\"",
+            "enTextTransliteration": "Iz dakhaloo 'alaihi faqaaloo salaaman qaala innaa minkum wajiloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1854",
+            "numberInSurah": 52
+        },
+        {
+            "text": "قَالُوا لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَامٍ عَلِيمٍ",
+            "bnText": "তারা বললঃ ভয় করবেন না। আমরা আপনাকে একজন জ্ঞানবান ছেলে-সন্তানের সুসংবাদ দিচ্ছি।",
+            "enText": "[The angels] said, \"Fear not. Indeed, we give you good tidings of a learned boy.\"",
+            "enTextTransliteration": "Qaaloo la tawjal innaa nubashshiruka bighulaamin 'aleem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1855",
+            "numberInSurah": 53
+        },
+        {
+            "text": "قَالَ أَبَشَّرْتُمُونِي عَلَىٰ أَن مَّسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ",
+            "bnText": "তিনি বললেনঃ তোমরা কি আমাকে এমতাবস্থায় সুসংবাদ দিচ্ছ, যখন আমি বার্ধক্যে পৌছে গেছি",
+            "enText": "He said, \"Have you given me good tidings although old age has come upon me? Then of what [wonder] do you inform?\"",
+            "enTextTransliteration": "Qaala abashshartumoonee 'alaaa am massaniyal kibaru fabima tubashshiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1856",
+            "numberInSurah": 54
+        },
+        {
+            "text": "قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُن مِّنَ الْقَانِطِينَ",
+            "bnText": "তারা বললঃ আমরা আপনাকে সত্য সু-সংবাদ দিচ্ছি! অতএব আপনি নিরাশ হবেন না।",
+            "enText": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\"",
+            "enTextTransliteration": "Qaaloo bashsharnaaka bilhaqqi falaa takum minal qaaniteen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1857",
+            "numberInSurah": 55
+        },
+        {
+            "text": "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ",
+            "bnText": "তিনি বললেনঃ পালনকর্তার রহমত থেকে পথভ্রষ্টরা ছাড়া কে নিরাশ হয়",
+            "enText": "He said, \"And who despairs of the mercy of his Lord except for those astray?\"",
+            "enTextTransliteration": "Qaala wa mai yaqnatu mir rahmati Rabbiheee illad daaaloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1858",
+            "numberInSurah": 56
+        },
+        {
+            "text": "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+            "bnText": "তিনি বললেনঃ অতঃপর তোমাদের প্রধান উদ্দেশ্য কি হে আল্লাহর প্রেরিতগণ",
+            "enText": "[Abraham] said, \"Then what is your business [here], O messengers?\"",
+            "enTextTransliteration": "Qaala famaa khatbukum aiyuhal mursaloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1859",
+            "numberInSurah": 57
+        },
+        {
+            "text": "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُّجْرِمِينَ",
+            "bnText": "তারা বললঃ আমরা একটি অপরাধী সম্প্রদায়ের প্রতি প্রেরিত হয়েছি।",
+            "enText": "They said, \"Indeed, we have been sent to a people of criminals,",
+            "enTextTransliteration": "Qaaloo innaaa ursilnaaa ilaa qawmim mujrimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1860",
+            "numberInSurah": 58
+        },
+        {
+            "text": "إِلَّا آلَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+            "bnText": "কিন্তু লূতের পরিবার-পরিজন। আমরা অবশ্যই তাদের সবাইকে বাঁচিয়ে নেব।",
+            "enText": "Except the family of Lot; indeed, we will save them all",
+            "enTextTransliteration": "Illaaa Aala Loot; innaa lamunajjoohum ajma'een",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1861",
+            "numberInSurah": 59
+        },
+        {
+            "text": "إِلَّا امْرَأَتَهُ قَدَّرْنَا ۙ إِنَّهَا لَمِنَ الْغَابِرِينَ",
+            "bnText": "তবে তার স্ত্রী। আমরা স্থির করেছি যে, সে থেকে যাওয়াদের দলভূক্ত হবে।",
+            "enText": "Except his wife.\" Allah decreed that she is of those who remain behind.",
+            "enTextTransliteration": "Illam ra atahoo qaddarnaaa innahaa laminal ghaabireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1862",
+            "numberInSurah": 60
+        },
+        {
+            "text": "فَلَمَّا جَاءَ آلَ لُوطٍ الْمُرْسَلُونَ",
+            "bnText": "অতঃপর যখন প্রেরিতরা লূতের গৃহে পৌছল।",
+            "enText": "And when the messengers came to the family of Lot,",
+            "enTextTransliteration": "Falamma jaaa'a Aala Lootinil mursaloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1863",
+            "numberInSurah": 61
+        },
+        {
+            "text": "قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ",
+            "bnText": "তিনি বললেনঃ তোমরা তো অপরিচিত লোক।",
+            "enText": "He said, \"Indeed, you are people unknown.\"",
+            "enTextTransliteration": "Qaala innakum qawmum munkaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1864",
+            "numberInSurah": 62
+        },
+        {
+            "text": "قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا فِيهِ يَمْتَرُونَ",
+            "bnText": "তারা বললঃ না বরং আমরা আপনার কাছে ঐ বস্তু নিয়ে এসেছি, যে সম্পর্কে তারা বিবাদ করত।",
+            "enText": "They said, \"But we have come to you with that about which they were disputing,",
+            "enTextTransliteration": "Qaaloo bal ji'naaka bimaa kaanoo feehi yamtaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1865",
+            "numberInSurah": 63
+        },
+        {
+            "text": "وَأَتَيْنَاكَ بِالْحَقِّ وَإِنَّا لَصَادِقُونَ",
+            "bnText": "এবং আমরা আপনার কাছে সত্য বিষয় নিয়ে এসেছি এবং আমরা সত্যবাদী।",
+            "enText": "And we have come to you with truth, and indeed, we are truthful.",
+            "enTextTransliteration": "Wa atainaaka bilhaqqi wa innaa lasaadiqoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1866",
+            "numberInSurah": 64
+        },
+        {
+            "text": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ",
+            "bnText": "অতএব আপনি শেষরাত্রে পরিবারের সকলকে নিয়ে চলে যান এবং আপনি তাদের পশ্চাদনুসরণ করবেন না এবং আপনাদের মধ্যে কেউ যেন পিছন ফিরে না দেখে। আপনারা যেখানে আদেশ প্রাপ্ত হচ্ছেন সেখানে যান।",
+            "enText": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\"",
+            "enTextTransliteration": "Fa asri bi ahlika biqit'im minal laili wattabi' adbaarahum wa laa yaltafit minkum ahadunw wamdoo haisu tu'maroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1867",
+            "numberInSurah": 65
+        },
+        {
+            "text": "وَقَضَيْنَا إِلَيْهِ ذَٰلِكَ الْأَمْرَ أَنَّ دَابِرَ هَٰؤُلَاءِ مَقْطُوعٌ مُّصْبِحِينَ",
+            "bnText": "আমি লূতকে এ বিষয় পরিজ্ঞাত করে দেই যে, সকাল হলেই তাদেরকে সমুলে বিনাশ করে দেয়া হবে।",
+            "enText": "And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning.",
+            "enTextTransliteration": "Wa qadainaaa ilaihi zaalikal amra anna daabira haaa'ulaaa'i maqtoo'um musbiheen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1868",
+            "numberInSurah": 66
+        },
+        {
+            "text": "وَجَاءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ",
+            "bnText": "শহরবাসীরা আনন্দ-উল্লাস করতে করতে পৌছল।",
+            "enText": "And the people of the city came rejoicing.",
+            "enTextTransliteration": "Wa jaaa'a ahlul madeenati yastabshiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1869",
+            "numberInSurah": 67
+        },
+        {
+            "text": "قَالَ إِنَّ هَٰؤُلَاءِ ضَيْفِي فَلَا تَفْضَحُونِ",
+            "bnText": "লূত বললেনঃ তারা আমার মেহমান। অতএব আমাকে লাঞ্ছিত করো না।",
+            "enText": "[Lot] said, \"Indeed, these are my guests, so do not shame me.",
+            "enTextTransliteration": "Qaala inna haaa'ulaaa'i daifee falaa tafdahoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1870",
+            "numberInSurah": 68
+        },
+        {
+            "text": "وَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ",
+            "bnText": "তোমরা আল্লাহকে ভয় কর এবং আমার ইযযত নষ্ট করো না।",
+            "enText": "And fear Allah and do not disgrace me.\"",
+            "enTextTransliteration": "Wattaqul laaha wa laa tukhzoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1871",
+            "numberInSurah": 69
+        },
+        {
+            "text": "قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ",
+            "bnText": "তার বললঃ আমরা কি আপনাকে জগৎদ্বাসীর সমর্থন করতে নিষেধ করিনি।",
+            "enText": "They said, \"Have we not forbidden you from [protecting] people?\"",
+            "enTextTransliteration": "Qaalooo awalam nanhaka 'anil 'aalameen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1872",
+            "numberInSurah": 70
+        },
+        {
+            "text": "قَالَ هَٰؤُلَاءِ بَنَاتِي إِن كُنتُمْ فَاعِلِينَ",
+            "bnText": "তিনি বললেনঃ যদি তোমরা একান্ত কিছু করতেই চাও, তবে আমার কন্যারা উপস্থিত আছে।",
+            "enText": "[Lot] said, \"These are my daughters - if you would be doers [of lawful marriage].\"",
+            "enTextTransliteration": "Qaala haaa'ulaaa'i banaateee in kuntum faa'ileen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1873",
+            "numberInSurah": 71
+        },
+        {
+            "text": "لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ",
+            "bnText": "আপনার প্রাণের কসম, তারা আপন নেশায় প্রমত্ত ছিল।",
+            "enText": "By your life, [O Muhammad], indeed they were, in their intoxication, wandering blindly.",
+            "enTextTransliteration": "La'amruka innahum lafee sakratihim ya'mahoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1874",
+            "numberInSurah": 72
+        },
+        {
+            "text": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ",
+            "bnText": "অতঃপর সুর্যোদয়ের সময় তাদেরকে প্রচন্ড একটি শব্দ এসে পাকড়াও করল।",
+            "enText": "So the shriek seized them at sunrise.",
+            "enTextTransliteration": "Fa akhazat humus saihatu mushriqeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1875",
+            "numberInSurah": 73
+        },
+        {
+            "text": "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ",
+            "bnText": "অতঃপর আমি জনপদটিকে উল্টে দিলাম এবং তাদের উপর কঙ্করের প্রস্থর বর্ষণ করলাম।",
+            "enText": "And We made the highest part [of the city] its lowest and rained upon them stones of hard clay.",
+            "enTextTransliteration": "Faja'alnaa 'aaliyahaa saafilahaa wa amtamaa 'alaihim hijaaratam min sjijjeel",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1876",
+            "numberInSurah": 74
+        },
+        {
+            "text": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ",
+            "bnText": "নিশ্চয় এতে চিন্তাশীলদের জন্যে নিদর্শনাবলী রয়েছে।",
+            "enText": "Indeed in that are signs for those who discern.",
+            "enTextTransliteration": "Inna fee zaalika la Aayaatil lilmutawassimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1877",
+            "numberInSurah": 75
+        },
+        {
+            "text": "وَإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ",
+            "bnText": "জনপদটি সোজা পথে অবস্থিত রয়েছে।",
+            "enText": "And indeed, those cities are [situated] on an established road.",
+            "enTextTransliteration": "Wa innahaa labi sabeelim muqeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1878",
+            "numberInSurah": 76
+        },
+        {
+            "text": "إِنَّ فِي ذَٰلِكَ لَآيَةً لِّلْمُؤْمِنِينَ",
+            "bnText": "নিশ্চয় এতে ঈমানদারদের জন্যে নিদর্শণ আছে।",
+            "enText": "Indeed in that is a sign for the believers.",
+            "enTextTransliteration": "Inna fee zaalika la Aayatal lilmu'mineen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1879",
+            "numberInSurah": 77
+        },
+        {
+            "text": "وَإِن كَانَ أَصْحَابُ الْأَيْكَةِ لَظَالِمِينَ",
+            "bnText": "নিশ্চয় গহীন বনের অধিবাসীরা পাপী ছিল।",
+            "enText": "And the companions of the thicket were [also] wrongdoers.",
+            "enTextTransliteration": "Wa in kaana Ashaabul Aikati lazaalimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1880",
+            "numberInSurah": 78
+        },
+        {
+            "text": "فَانتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+            "bnText": "অতঃপর আমি তাদের কাছ থেকে প্রতিশোধ নিয়েছি। উভয় বস্তি প্রকাশ্য রাস্তার উপর অবস্থিত।",
+            "enText": "So We took retribution from them, and indeed, both [cities] are on a clear highway.",
+            "enTextTransliteration": "Fantaqamnaa minhum wa innahumaa labi imaamim mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1881",
+            "numberInSurah": 79
+        },
+        {
+            "text": "وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ",
+            "bnText": "নিশ্চয় হিজরের বাসিন্দারা পয়গম্বরগণের প্রতি মিথ্যারোপ করেছে।",
+            "enText": "And certainly did the companions of Thamud deny the messengers.",
+            "enTextTransliteration": "Wa laqad kazzaba ashaabul Hijril mursaleen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1882",
+            "numberInSurah": 80
+        },
+        {
+            "text": "وَآتَيْنَاهُمْ آيَاتِنَا فَكَانُوا عَنْهَا مُعْرِضِينَ",
+            "bnText": "আমি তাদেরকে নিজের নিদর্শনাবলী দিয়েছি। অতঃপর তারা এগুলো থেকে মুখ ফিরিয়ে নেয়।",
+            "enText": "And We gave them Our signs, but from them they were turning away.",
+            "enTextTransliteration": "Wa aatainaahum Aayaatinaa fakaanoo 'anhaa mu'rideen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1883",
+            "numberInSurah": 81
+        },
+        {
+            "text": "وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا آمِنِينَ",
+            "bnText": "তারা পাহাড়ে নিশ্চিন্তে ঘর খোদাই করত।",
+            "enText": "And they used to carve from the mountains, houses, feeling secure.",
+            "enTextTransliteration": "Wa kaanoo yanhitoona minal jibaali buyootan aamineen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1884",
+            "numberInSurah": 82
+        },
+        {
+            "text": "فَأَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ",
+            "bnText": "অতঃপর এক প্রত্যুষে তাদের উপর একটা শব্দ এসে আঘাত করল।",
+            "enText": "But the shriek seized them at early morning.",
+            "enTextTransliteration": "Fa akhazat humus saihatu musbiheen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1885",
+            "numberInSurah": 83
+        },
+        {
+            "text": "فَمَا أَغْنَىٰ عَنْهُم مَّا كَانُوا يَكْسِبُونَ",
+            "bnText": "তখন কোন উপকারে আসল না যা তারা উপার্জন করেছিল।",
+            "enText": "So nothing availed them [from] what they used to earn.",
+            "enTextTransliteration": "Famaaa aghnaa 'anhum maa kaanoo yaksiboon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1886",
+            "numberInSurah": 84
+        },
+        {
+            "text": "وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ ۗ وَإِنَّ السَّاعَةَ لَآتِيَةٌ ۖ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ",
+            "bnText": "আমি নভোমন্ডল, ভুমন্ডল এবং এতদুভয়ের মধ্যবর্তী যা আছে তা তাৎপর্যহীন সৃষ্টি করিনি। কেয়ামত অবশ্যই আসবে। অতএব পরম ঔদাসীন্যের সাথে ওদের ক্রিয়াকর্ম উপক্ষো করুন।",
+            "enText": "And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness.",
+            "enTextTransliteration": "Wa maa khalaqnas samaawaati wal arda wa maa bainahumaaa illaa bilhaqq; wa innas Saa'ata la aatiyatun fasfahis safhal jameel",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1887",
+            "numberInSurah": 85
+        },
+        {
+            "text": "إِنَّ رَبَّكَ هُوَ الْخَلَّاقُ الْعَلِيمُ",
+            "bnText": "নিশ্চয় আপনার পালনকর্তাই স্রষ্টা, সর্বজ্ঞ।",
+            "enText": "Indeed, your Lord - He is the Knowing Creator.",
+            "enTextTransliteration": "Inna Rabbaka Huwal khallaaqul 'aleem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1888",
+            "numberInSurah": 86
+        },
+        {
+            "text": "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِّنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ",
+            "bnText": "আমি আপনাকে সাতটি বার বার পঠিতব্য আয়াত এবং মহান কোরআন দিয়েছি।",
+            "enText": "And We have certainly given you, [O Muhammad], seven of the often repeated [verses] and the great Qur'an.",
+            "enTextTransliteration": "Wa laqad aatainaaka sab'am mnal masaanee wal Qur-aanal 'azeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1889",
+            "numberInSurah": 87
+        },
+        {
+            "text": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+            "bnText": "আপনি চক্ষু তুলে ঐ বস্তুর প্রতি দেখবেন না, যা আমি তাদের মধ্যে কয়েক প্রকার লোককে ভোগ করার জন্যে দিয়েছি, তাদের জন্যে চিন্তিত হবেন না আর ঈমানদারদের জন্যে স্বীয় বাহু নত করুন।",
+            "enText": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of the disbelievers, and do not grieve over them. And lower your wing to the believers",
+            "enTextTransliteration": "Laa tamuddanna 'ainaika ilaa maa matta 'naa biheee azwaajam minhum wa laa tahzan 'alaihim wakhfid janaahaka lilmu 'mineen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1890",
+            "numberInSurah": 88
+        },
+        {
+            "text": "وَقُلْ إِنِّي أَنَا النَّذِيرُ الْمُبِينُ",
+            "bnText": "আর বলুনঃ আমি প্রকাশ্য ভয় প্রদর্শক।",
+            "enText": "And say, \"Indeed, I am the clear warner\" -",
+            "enTextTransliteration": "Wa qul inneee anan nazeerul mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1891",
+            "numberInSurah": 89
+        },
+        {
+            "text": "كَمَا أَنزَلْنَا عَلَى الْمُقْتَسِمِينَ",
+            "bnText": "যেমন আমি নাযিল করেছি যারা বিভিন্ন মতে বিভক্ত তাদের উপর।",
+            "enText": "Just as We had revealed [scriptures] to the separators",
+            "enTextTransliteration": "Kamaaa anzalnaa 'alal muqtasimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1892",
+            "numberInSurah": 90
+        },
+        {
+            "text": "الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ",
+            "bnText": "যারা কোরআনকে খন্ড খন্ড করেছে।",
+            "enText": "Who have made the Qur'an into portions.",
+            "enTextTransliteration": "Allazeena ja'alul Quraana'ideen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1893",
+            "numberInSurah": 91
+        },
+        {
+            "text": "فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ",
+            "bnText": "অতএব আপনার পালনকর্তার কসম, আমি অবশ্যই ওদের সবাইকে জিজ্ঞাসাবাদ করব।",
+            "enText": "So by your Lord, We will surely question them all",
+            "enTextTransliteration": "Fawa Rabbika lanas'a lannahum ajma'een",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1894",
+            "numberInSurah": 92
+        },
+        {
+            "text": "عَمَّا كَانُوا يَعْمَلُونَ",
+            "bnText": "ওদের কাজকর্ম সম্পর্কে।",
+            "enText": "About what they used to do.",
+            "enTextTransliteration": "'Ammaa kaanoo ya'maloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1895",
+            "numberInSurah": 93
+        },
+        {
+            "text": "فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ",
+            "bnText": "অতএব আপনি প্রকাশ্যে শুনিয়ে দিন যা আপনাকে আদেশ করা হয় এবং মুশরিকদের পরওয়া করবেন না।",
+            "enText": "Then declare what you are commanded and turn away from the polytheists.",
+            "enTextTransliteration": "Fasda' bimaa tu'maru wa a'rid anil mushrikeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1896",
+            "numberInSurah": 94
+        },
+        {
+            "text": "إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ",
+            "bnText": "বিদ্রুপকারীদের জন্যে আমি আপনার পক্ষ থেকে যথেষ্ট।",
+            "enText": "Indeed, We are sufficient for you against the mockers",
+            "enTextTransliteration": "Innaa kafainaakal mustahzi'een",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1897",
+            "numberInSurah": 95
+        },
+        {
+            "text": "الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۚ فَسَوْفَ يَعْلَمُونَ",
+            "bnText": "যারা আল্লাহর সাথে অন্য উপাস্য সাব্যস্ত করে। অতএব অতিসত্তর তারা জেনে নেবে।",
+            "enText": "Who make [equal] with Allah another deity. But they are going to know.",
+            "enTextTransliteration": "Allazeena yaj'aloona ma'al laahi ilaahan aakhar; fasawfa ya'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1898",
+            "numberInSurah": 96
+        },
+        {
+            "text": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+            "bnText": "আমি জানি যে আপনি তাদের কথাবর্তায় হতোদ্যম হয়ে পড়েন।",
+            "enText": "And We already know that your breast is constrained by what they say.",
+            "enTextTransliteration": "Wa laqad na'lamu annak yadeequ sadruka bimaa yaqooloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1899",
+            "numberInSurah": 97
+        },
+        {
+            "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ السَّاجِدِينَ",
+            "bnText": "অতএব আপনি পালনকর্তার সৌন্দর্য স্মরণ করুন এবং সেজদাকারীদের অন্তর্ভূক্ত হয়ে যান।",
+            "enText": "So exalt [Allah] with praise of your Lord and be of those who prostrate [to Him].",
+            "enTextTransliteration": "Fasbbih bihamdi Rabbika wa kum minas saajideen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1900",
+            "numberInSurah": 98
+        },
+        {
+            "text": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+            "bnText": "এবং পালনকর্তার এবাদত করুন, যে পর্যন্ত আপনার কাছে নিশ্চিত কথা না আসে।",
+            "enText": "And worship your Lord until there comes to you the certainty (death).",
+            "enTextTransliteration": "Wa'bud Rabbaka hattaa yaatiyakal yaqeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1901",
+            "numberInSurah": 99
+        }
+    ]
+}

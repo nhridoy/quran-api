@@ -1,0 +1,1035 @@
+{
+    "no": 16,
+    "name": "سُورَةُ النَّحۡلِ",
+    "enName": "An-Nahl",
+    "enNameTranslation": "The Bee",
+    "bnNameTranslation": "আন্ নাহ্ল",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 128,
+    "verses": [
+        {
+            "text": "أَتَىٰ أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+            "bnText": "আল্লাহর নির্দেশ এসে গেছে। অতএব এর জন্যে তাড়াহুড়া করো না। ওরা যেসব শরীক সাব্যস্ত করছে সেসব থেকে তিনি পবিত্র ও বহু উর্ধ্বে।",
+            "enText": "The command of Allah is coming, so be not impatient for it. Exalted is He and high above what they associate with Him.",
+            "enTextTransliteration": "Ataaa amrullaahi falaa tasta'jilooh; Subhaanahoo wa Ta'aalaa 'ammaa yushrikoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1902",
+            "numberInSurah": 1
+        },
+        {
+            "text": "يُنَزِّلُ الْمَلَائِكَةَ بِالرُّوحِ مِنْ أَمْرِهِ عَلَىٰ مَن يَشَاءُ مِنْ عِبَادِهِ أَنْ أَنذِرُوا أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاتَّقُونِ",
+            "bnText": "তিনি স্বীয় নির্দেশে বান্দাদের মধ্যে যার কাছে ইচ্ছা, নির্দেশসহ ফেরেশতাদেরকে এই মর্মে নাযিল করেন যে, হুশিয়ার করে দাও, আমি ছাড়া কোন উপাস্য নেই। অতএব আমাকে ভয় কর।",
+            "enText": "He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], \"Warn that there is no deity except Me; so fear Me.\"",
+            "enTextTransliteration": "Yunazzilul malaaa 'ikata birroohi min amrihee 'alaa mai yashaaa'u min 'ibaadiheee an anzirooo annahoo laaa ilaaha illaaa ana fattaqoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1903",
+            "numberInSurah": 2
+        },
+        {
+            "text": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ تَعَالَىٰ عَمَّا يُشْرِكُونَ",
+            "bnText": "যিনি যথাবিধি আকাশরাজি ও ভূ-মন্ডল সৃষ্টি করেছেন। তারা যাকে শরীক করে তিনি তার বহু উর্ধ্বে।",
+            "enText": "He created the heavens and earth in truth. High is He above what they associate with Him.",
+            "enTextTransliteration": "Khalaqas samaawaati wal arda bilhaqq; Ta'aalaa 'ammaa yushrikoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1904",
+            "numberInSurah": 3
+        },
+        {
+            "text": "خَلَقَ الْإِنسَانَ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ",
+            "bnText": "তিনি মানবকে এক ফোটা বীর্য থেকে সৃষ্টি করেছেন। এতদসত্বেও সে প্রকাশ্য বিতন্ডাকারী হয়ে গেছে।",
+            "enText": "He created man from a sperm-drop; then at once, he is a clear adversary.",
+            "enTextTransliteration": "Khalaqal insaana min nutfatin fa izaa huwa khaseemum mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1905",
+            "numberInSurah": 4
+        },
+        {
+            "text": "وَالْأَنْعَامَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ وَمِنْهَا تَأْكُلُونَ",
+            "bnText": "চতুষ্পদ জন্তুকে তিনি সৃষ্টি করেছেন। এতে তোমাদের জন্যে শীত বস্ত্রের উপকরণ আছে। আর অনেক উপকার হয়েছে এবং কিছু সংখ্যককে তোমরা আহার্যে?2474;রিণত করে থাক।",
+            "enText": "And the grazing livestock He has created for you; in them is warmth and [numerous] benefits, and from them you eat.",
+            "enTextTransliteration": "Wal an 'amaa khalaqahaa; lakum feehaa dif'unw wa manaafi'u wa minhaa taakuloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1906",
+            "numberInSurah": 5
+        },
+        {
+            "text": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+            "bnText": "এদের দ্বারা তোমাদের সম্মান হয়, যখন বিকালে চারণভূমি থেকে নিয়ে আস এবং সকালে চারণ ভূমিতে নিয়ে যাও।",
+            "enText": "And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture].",
+            "enTextTransliteration": "Wa lakum feehaa jamaalun heena tureehoona wa heena tasrahoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1907",
+            "numberInSurah": 6
+        },
+        {
+            "text": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+            "bnText": "এরা তোমাদের বোঝা এমন শহর পর্যন্ত বহন করে নিয়ে যায়, যেখানে তোমরা প্রাণান্তকর পরিশ্রۦ#2478; ব্যতীত পৌছাতে পারতে না। নিশ্চয় তোমাদের প্রভু অত্যন্ত দয়াদ্র, পরম দয়ালু।",
+            "enText": "And they carry your loads to a land you could not have reached except with difficulty to yourselves. Indeed, your Lord is Kind and Merciful.",
+            "enTextTransliteration": "Wa tahmilu asqaalakum ilaa baladil lam takoonoo baaligheehi illaa bishiqqil anfus; inna Rabbakum la Ra'oofur Raheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1908",
+            "numberInSurah": 7
+        },
+        {
+            "text": "وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ",
+            "bnText": "তোমাদের আরোহণের জন্যে এবং শোভার জন্যে তিনি ঘোড়া, খচ্চর ও গাধা সৃষ্টি করেছেন। আর তিনি এমন জিনিস সৃষ্টি করেন যা তোমরা জান না।",
+            "enText": "And [He created] the horses, mules and donkeys for you to ride and [as] adornment. And He creates that which you do not know.",
+            "enTextTransliteration": "Walkhaila wal bighaala wal hameera litarkaboohaa wa zeenah; wa yakhluqu maa laa ta'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1909",
+            "numberInSurah": 8
+        },
+        {
+            "text": "وَعَلَى اللَّهِ قَصْدُ السَّبِيلِ وَمِنْهَا جَائِرٌ ۚ وَلَوْ شَاءَ لَهَدَاكُمْ أَجْمَعِينَ",
+            "bnText": "সরল পথ আল্লাহ পর্যন্ত পৌছে এবং পথগুলোর মধ্যে কিছু বক্র পথও রয়েছে। তিনি ইচ্ছা করলে তোমাদের সবাইকে সৎপথে পরিচালিত করতে পারতেন।",
+            "enText": "And upon Allah is the direction of the [right] way, and among the various paths are those deviating. And if He willed, He could have guided you all.",
+            "enTextTransliteration": "Wa 'alal laahi qasdus sabeeli wa minhaa jaaa'ir; wa law shaaa'a lahadaakum ajma'een",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1910",
+            "numberInSurah": 9
+        },
+        {
+            "text": "هُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً ۖ لَّكُم مِّنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ",
+            "bnText": "তিনি তোমাদের জন্যে আকাশ থেকে পানি বর্ষণ করেছেন। এই পানি থেকে তোমরা পান কর এবং এ থেকেই উদ্ভিদ উৎপন্ন হয়, যাতে তোমরা পশুচারণ কর।",
+            "enText": "It is He who sends down rain from the sky; from it is drink and from it is foliage in which you pasture [animals].",
+            "enTextTransliteration": "Huwal lazeee anzala minas samaaa'i maaa'al lakum minhu sharaabunw wa minhu shajarun feehi tuseemoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1911",
+            "numberInSurah": 10
+        },
+        {
+            "text": "يُنبِتُ لَكُم بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَابَ وَمِن كُلِّ الثَّمَرَاتِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ",
+            "bnText": "এ পানি দ্বারা তোমাদের জন্যে উৎপাদন করেন ফসল, যয়তুন, খেজুর, আঙ্গুর ও সর্বপ্রকার ফল। নিশ্চয় এতে চিন্তাশীলদের জন্যে নিদর্শন রয়েছে।",
+            "enText": "He causes to grow for you thereby the crops, olives, palm trees, grapevines, and from all the fruits. Indeed in that is a sign for a people who give thought.",
+            "enTextTransliteration": "Yumbitu lakum bihiz zar'a wazzaitoona wanna kheela wal-a'naaba wa min kullis samaraat, inna fee zaalika la Aayatal liqawminy yatafakkaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1912",
+            "numberInSurah": 11
+        },
+        {
+            "text": "وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ وَالنُّجُومُ مُسَخَّرَاتٌ بِأَمْرِهِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ",
+            "bnText": "তিনিই তোমাদের কাজে নিয়োজিত করেছেন রাত্রি, দিন, সূর্য এবং চন্দ্রকে। তারকাসমূহ তাঁরই বিধানের কর্মে নিয়োজিত রয়েছে। নিশ্চয়ই এতে বোধশক্তিসম্পন্নদের জন্যে নিদর্শনাবলী রয়েছে।",
+            "enText": "And He has subjected for you the night and day and the sun and moon, and the stars are subjected by His command. Indeed in that are signs for a people who reason.",
+            "enTextTransliteration": "Wa sakkhkhara lakumul laila wannahaara wash shamsa walqamara wannujoomu musakhkharaatum bi amrih; inna fee zaalika la Aayaatil liqawminy ya'qiloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1913",
+            "numberInSurah": 12
+        },
+        {
+            "text": "وَمَا ذَرَأَ لَكُمْ فِي الْأَرْضِ مُخْتَلِفًا أَلْوَانُهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَذَّكَّرُونَ",
+            "bnText": "তোমাদের জন্যে পৃথিবীতে যেসব রং-বেরঙের বস্তু ছড়িয়ে দিয়েছেন, সেগুলোতে নিদর্শন রয়েছে তাদের জন্যে যারা চিন্তা-ভাবনা করে।",
+            "enText": "And [He has subjected] whatever He multiplied for you on the earth of varying colors. Indeed in that is a sign for a people who remember.",
+            "enTextTransliteration": "Wa maa zara a lakum fil ardi mukhtalifan alwaanuh; inna fee zaalika la Aayatal liqawminy yazakkaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1914",
+            "numberInSurah": 13
+        },
+        {
+            "text": "وَهُوَ الَّذِي سَخَّرَ الْبَحْرَ لِتَأْكُلُوا مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى الْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "bnText": "তিনিই কাজে লাগিয়ে দিয়েছেন সমুদ্রকে, যাতে তা থেকে তোমরা তাজা মাংস খেতে পার এবং তা থেকে বের করতে পার পরিধেয় অলঙ্কার। তুমি তাতে জলযান সমূহকে পানি চিরে চলতে দেখবে এবং যাতে তোমরা আল্লাহর কৃপা অন্বেষণ কর এবং যাতে তার অনুগ্রহ স্বীকার কর।",
+            "enText": "And it is He who subjected the sea for you to eat from it tender meat and to extract from it ornaments which you wear. And you see the ships plowing through it, and [He subjected it] that you may seek of His bounty; and perhaps you will be grateful.",
+            "enTextTransliteration": "Wa Huwal lazee sakhkharal bahra litaakuloo minhu lahman tariyyanw wa tastakhrijoo minhu hilyatan talbasoonahaa wa taral fulka mawaakhira feehi wa litabtaghoo min fadlihee wa la'allakum tashkuroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1915",
+            "numberInSurah": 14
+        },
+        {
+            "text": "وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَن تَمِيدَ بِكُمْ وَأَنْهَارًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ",
+            "bnText": "এবং তিনি পৃথিবীর উপর বোঝা রেখেছেন যে, কখনো যেন তা তোমাদেরকে নিয়ে হেলে-দুলে না পড়ে এবং নদী ও পথ তৈরী করেছেন, যাতে তোমরা পথ প্রদর্শিত হও।",
+            "enText": "And He has cast into the earth firmly set mountains, lest it shift with you, and [made] rivers and roads, that you may be guided,",
+            "enTextTransliteration": "Wa alqaa fil ardi rawaasiya an tameeda bikum wa anhaaranw wa sublulal la 'allakum tahtadoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1916",
+            "numberInSurah": 15
+        },
+        {
+            "text": "وَعَلَامَاتٍ ۚ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ",
+            "bnText": "এবং তিনি পথ নির্ণয়ক বহু চিহ্ন সৃষ্টি করেছেন, এবং তারকা দ্বারা ও মানুষ পথের নির্দেশ পায়।",
+            "enText": "And landmarks. And by the stars they are [also] guided.",
+            "enTextTransliteration": "Wa 'alaamaat; wa bin najmi hum yahtadoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1917",
+            "numberInSurah": 16
+        },
+        {
+            "text": "أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ",
+            "bnText": "যিনি সৃষ্টি করে, তিনি কি সে লোকের সমতুল্য যে সৃষ্টি করতে পারে না? তোমরা কি চিন্তা করবে না",
+            "enText": "Then is He who creates like one who does not create? So will you not be reminded?",
+            "enTextTransliteration": "Afamany yakhluqu kamallaa yakhluq; afalaa tazak karoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1918",
+            "numberInSurah": 17
+        },
+        {
+            "text": "وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ اللَّهَ لَغَفُورٌ رَّحِيمٌ",
+            "bnText": "যদি আল্লাহর নেয়ামত গণনা কর, শেষ করতে পারবে না। নিশ্চয় আল্লাহ ক্ষমাশীল, দয়ালু।",
+            "enText": "And if you should count the favors of Allah, you could not enumerate them. Indeed, Allah is Forgiving and Merciful.",
+            "enTextTransliteration": "Wa in ta'uddoo ni'matal laahi laa tuhsoohaa; innal laaha la Ghafoorur Raheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1919",
+            "numberInSurah": 18
+        },
+        {
+            "text": "وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ",
+            "bnText": "আল্লাহ জানেন যা তোমরা গোপন কর এবং যা তোমরা প্রকাশ কর।",
+            "enText": "And Allah knows what you conceal and what you declare.",
+            "enTextTransliteration": "Wallaahu ya'lamu maa tusirroona wa maa tu'linoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1920",
+            "numberInSurah": 19
+        },
+        {
+            "text": "وَالَّذِينَ يَدْعُونَ مِن دُونِ اللَّهِ لَا يَخْلُقُونَ شَيْئًا وَهُمْ يُخْلَقُونَ",
+            "bnText": "এবং যারা আল্লাহকে ছেড়ে অন্যদের ডাকে, ওরা তো কোন বস্তুই সৃষ্টি করে না; বরং ওরা নিজেরাই সৃজিত।",
+            "enText": "And those they invoke other than Allah create nothing, and they [themselves] are created.",
+            "enTextTransliteration": "Wallazeena yad'oona min doonil laahi laa yakhluqoona shai'anw wa hum yukhlaqoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1921",
+            "numberInSurah": 20
+        },
+        {
+            "text": "أَمْوَاتٌ غَيْرُ أَحْيَاءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+            "bnText": "তারা মৃত-প্রাণহীন এবং কবে পুনরুত্থিত হবে, জানে না।",
+            "enText": "They are, [in fact], dead, not alive, and they do not perceive when they will be resurrected.",
+            "enTextTransliteration": "Amwaatun ghairu ahyaaa'inw wa maa yash'uroona aiyaana yub'asoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1922",
+            "numberInSurah": 21
+        },
+        {
+            "text": "إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۚ فَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ قُلُوبُهُم مُّنكِرَةٌ وَهُم مُّسْتَكْبِرُونَ",
+            "bnText": "আমাদের ইলাহ একক ইলাহ। অনন্তর যারা পরজীবনে বিশ্বাস করে না, তাদের অন্তর সত্যবিমুখ এবং তারা অহংকার প্রদর্শন করেছে।",
+            "enText": "Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant.",
+            "enTextTransliteration": "Illahukum Ilaahunw Waahid; fallazeena laa yu'minoona bil Aakhirati quloobuhum munkiratunw wa hum mustakbiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1923",
+            "numberInSurah": 22
+        },
+        {
+            "text": "لَا جَرَمَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُ لَا يُحِبُّ الْمُسْتَكْبِرِينَ",
+            "bnText": "নিঃসন্দেহে আল্লাহ তাদের গোপন ও প্রকাশ্য যাবতীয় বিষয়ে অবগত। নিশ্চিতই তিনি অহংকারীদের পছন্দ করেন না।",
+            "enText": "Assuredly, Allah knows what they conceal and what they declare. Indeed, He does not like the arrogant.",
+            "enTextTransliteration": "Laa jarama annal laaha ya'lamu maa yusirrona wa ma yu'linoon; innahoo laa yuhibbul mustakbireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1924",
+            "numberInSurah": 23
+        },
+        {
+            "text": "وَإِذَا قِيلَ لَهُم مَّاذَا أَنزَلَ رَبُّكُمْ ۙ قَالُوا أَسَاطِيرُ الْأَوَّلِينَ",
+            "bnText": "যখন তাদেরকে বলা হয়ঃ তোমাদের পালনকর্তা কি নাযিল করেছেন? তারা বলেঃ পূর্ববর্তীদের কিসসা-কাহিনী।",
+            "enText": "And when it is said to them, \"What has your Lord sent down?\" They say, \"Legends of the former peoples,\"",
+            "enTextTransliteration": "Wa izaa qeela lahum maazaaa anzala Rabbukum qaaloo asaateerul awwaleen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1925",
+            "numberInSurah": 24
+        },
+        {
+            "text": "لِيَحْمِلُوا أَوْزَارَهُمْ كَامِلَةً يَوْمَ الْقِيَامَةِ ۙ وَمِنْ أَوْزَارِ الَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ أَلَا سَاءَ مَا يَزِرُونَ",
+            "bnText": "ফলে কেয়ামতের দিন ওরা পূর্ণমাত্রায় বহন করবে ওদের পাপভার এবং পাপভার তাদেরও যাদেরকে তারা তাদের অজ্ঞতাহেতু বিপথগামী করে শুনে নাও, খুবই নিকৃষ্ট বোঝা যা তারা বহন করে।",
+            "enText": "That they may bear their own burdens in full on the Day of Resurrection and some of the burdens of those whom they misguide without knowledge. Unquestionably, evil is that which they bear.",
+            "enTextTransliteration": "Liyahmilooo awzaarahum kaamilatany Yawmal Qiyaamati wa min awzaaril lazeena yudilloonahum bighairi 'ilm; alaa saaa'a maa yaziroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1926",
+            "numberInSurah": 25
+        },
+        {
+            "text": "قَدْ مَكَرَ الَّذِينَ مِن قَبْلِهِمْ فَأَتَى اللَّهُ بُنْيَانَهُم مِّنَ الْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ السَّقْفُ مِن فَوْقِهِمْ وَأَتَاهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+            "bnText": "নিশ্চয় চক্রান্ত করেছে তাদের পূর্ববর্তীরা, অতঃপর আল্লাহ তাদের চক্রান্তের ইমারতের ভিত্তিমূলে আঘাত করেছিলেন। এরপর উপর থেকে তাদের মাথায় ছাদ ধ্বসে পড়ে গেছে এবং তাদের উপর আযাব এসেছে যেখান থেকে তাদের ধারণা ছিল না।",
+            "enText": "Those before them had already plotted, but Allah came at their building from the foundations, so the roof fell upon them from above them, and the punishment came to them from where they did not perceive.",
+            "enTextTransliteration": "Qad makaral lazeena min qablihim fa atal laahu bunyaa nahum minal qawaa'idi fakharra 'alaihimus saqfu min fawqihim wa ataahumul 'azaabu min haisu laa yash'uroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1927",
+            "numberInSurah": 26
+        },
+        {
+            "text": "ثُمَّ يَوْمَ الْقِيَامَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تُشَاقُّونَ فِيهِمْ ۚ قَالَ الَّذِينَ أُوتُوا الْعِلْمَ إِنَّ الْخِزْيَ الْيَوْمَ وَالسُّوءَ عَلَى الْكَافِرِينَ",
+            "bnText": "অতঃপর কেয়ামতের দিন তিনি তাদেরকে লাঞ্ছিত করবেন এবং বলবেনঃ আমার অংশীদাররা কোথায়, যাদের ব্যাপারে তোমরা খুব হঠকারিতা করতে ? যারা জ্ঞানপ্রাপ্ত হয়েছিল তারা বলবেঃ নিশ্চয়ই আজকের দিনে লাঞ্ছনা ও দুর্গতি কাফেরদের জন্যে",
+            "enText": "Then on the Day of Resurrection He will disgrace them and say, \"Where are My 'partners' for whom you used to oppose [the believers]?\" Those who were given knowledge will say, \"Indeed disgrace, this Day, and evil are upon the disbelievers\" -",
+            "enTextTransliteration": "Summa Yawmal Qiyaamati yukhzeehim wa yaqoolu aina shurakaaa'iyal lazeena kuntum tushaaaqqoona feehim; qaalal lazeena ootul 'ilma innal khizyal Yawma wassooo'a 'alal kaafireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1928",
+            "numberInSurah": 27
+        },
+        {
+            "text": "الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنفُسِهِمْ ۖ فَأَلْقَوُا السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ ۚ بَلَىٰ إِنَّ اللَّهَ عَلِيمٌ بِمَا كُنتُمْ تَعْمَلُونَ",
+            "bnText": "ফেরেশতারা তাদের জান এমতাঅবস্থায় কবজ করে যে, তারা নিজেদের উপর যুলুম করেছে। তখন তারা অনুগত্য প্রকাশ করবে যে, আমরা তো কোন মন্দ কাজ করতাম না। হঁ্যা নিশ্চয় আল্লাহ সববিষয় অবগত আছেন, যা তোমরা করতে।",
+            "enText": "The ones whom the angels take in death [while] wronging themselves, and [who] then offer submission, [saying], \"We were not doing any evil.\" But, yes! Indeed, Allah is Knowing of what you used to do.",
+            "enTextTransliteration": "Allazeena tatawaf faahu mul malaaa'ikatu zaalimeee anfusihim fa alqawus salama maa kunnaa na'malu min sooo'; balaaa innal laaha 'aleemum bimaa kuntum ta'maloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1929",
+            "numberInSurah": 28
+        },
+        {
+            "text": "فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+            "bnText": "অতএব, জাহান্নামের দরজসমূহে প্রবেশ কর, এতেই অনন্তকাল বাস কর। আর অহংকারীদের আবাসস্থল কতই নিকৃষ্ট।",
+            "enText": "So enter the gates of Hell to abide eternally therein, and how wretched is the residence of the arrogant.",
+            "enTextTransliteration": "Fadkhulooo abwaaba jahannama khaalideena feeha falabi'sa maswal mutakab bireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1930",
+            "numberInSurah": 29
+        },
+        {
+            "text": "۞ وَقِيلَ لِلَّذِينَ اتَّقَوْا مَاذَا أَنزَلَ رَبُّكُمْ ۚ قَالُوا خَيْرًا ۗ لِّلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ ۚ وَلَدَارُ الْآخِرَةِ خَيْرٌ ۚ وَلَنِعْمَ دَارُ الْمُتَّقِينَ",
+            "bnText": "পরহেযগারদেরকে বলা হয়ঃ তোমাদের পালনকর্তা কি নাযিল করেছেন? তারা বলেঃ মহাকল্যাণ। যারা এ জগতে সৎকাজ করে, তাদের জন্যে কল্যাণ রয়েছে এবং পরকালের গৃহ আরও উত্তম। পরহেযগারদের গৃহ কি চমৎকার",
+            "enText": "And it will be said to those who feared Allah, \"What did your Lord send down?\" They will say, \"[That which is] good.\" For those who do good in this world is good; and the home of the Hereafter is better. And how excellent is the home of the righteous -",
+            "enTextTransliteration": "Wa qeela lillazeenat taqaw maazaaa anzala Rabbukum; qaaloo khairaa; lillazeena absanoo fee haazihid dunyaa hasanah; wa la Daarul Aakhirati khair; wa lani'ma daarul muttaqeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1931",
+            "numberInSurah": 30
+        },
+        {
+            "text": "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ لَهُمْ فِيهَا مَا يَشَاءُونَ ۚ كَذَٰلِكَ يَجْزِي اللَّهُ الْمُتَّقِينَ",
+            "bnText": "সর্বদা বসবাসের উদ্যান, তারা যাতে প্রবেশ করবে। এর পাদদেশে দিয়ে স্রোতস্বিনী প্রবাহিত হয় তাদের জন্যে তাতে তা-ই রয়েছে, যা তারা চায় এমনিভাবে প্রতিদান দেবেন আল্লাহর পরহেযগারদেরকে",
+            "enText": "Gardens of perpetual residence, which they will enter, beneath which rivers flow. They will have therein whatever they wish. Thus does Allah reward the righteous -",
+            "enTextTransliteration": "Jannaatu 'Adniny yadkhuloonahaa tajree min tahtihal anhaaru lahum feehaa maa yashaaa'oon; kazaalika yajzil laahul muttaqeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1932",
+            "numberInSurah": 31
+        },
+        {
+            "text": "الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَامٌ عَلَيْكُمُ ادْخُلُوا الْجَنَّةَ بِمَا كُنتُمْ تَعْمَلُونَ",
+            "bnText": "ফেরেশতা যাদের জান কবজ করেন তাদের পবিত্র থাকা অবস্থায়। ফেরেশতারা বলেঃ তোমাদের প্রতি শাস্তি বর্ষিত হোক। তোমরা যা করতে, তার প্রতিদানে জান্নাতে প্রবেশ কর।",
+            "enText": "The ones whom the angels take in death, [being] good and pure; [the angels] will say, \"Peace be upon you. Enter Paradise for what you used to do.\"",
+            "enTextTransliteration": "Allazeena tatawaf faahumul malaaa'ikatu taiyibeena yaqooloona salaamun 'alai kumud khulul Jannata bimaa kuntum ta'maloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1933",
+            "numberInSurah": 32
+        },
+        {
+            "text": "هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ أَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ",
+            "bnText": "কাফেররা কি এখন অপেক্ষা করছে যে, তাদের কাছে ফেরেশতারা আসবে কিংবা আপনার পালনকর্তার নির্দেশ পৌছবে? তাদের পূর্ববর্তীরা এমনই করেছিল। আল্লাহ তাদের প্রতি অবিচার করেননি; কিন্তু তারা স্বয়ং নিজেদের প্রতি জুলুম করেছিল।",
+            "enText": "Do the disbelievers await [anything] except that the angels should come to them or there comes the command of your Lord? Thus did those do before them. And Allah wronged them not, but they had been wronging themselves.",
+            "enTextTransliteration": "Hal yanzuroona illaaa an taatiyahumul malaaa'ikatu aw yaatiya amru Rabbik; kazaalika fa'alal lazeena min qablihim; wa maa zalamahumul laahu wa laakin kaanoo anfusahum yazlimoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1934",
+            "numberInSurah": 33
+        },
+        {
+            "text": "فَأَصَابَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+            "bnText": "সুতরাং তাদের মন্দ কাজের শাস্তি তাদেরই মাথায় আপতিত হয়েছে এবং তারা যে ঠাট্টা বিদ্রুপ করত, তাই উল্টে তাদের উপর পড়েছে।",
+            "enText": "So they were struck by the evil consequences of what they did and were enveloped by what they used to ridicule.",
+            "enTextTransliteration": "Fa asaabahum saiyi aatu maa 'amiloo wa haaqa bihim maa kaano bihee yastahzi'oon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1935",
+            "numberInSurah": 34
+        },
+        {
+            "text": "وَقَالَ الَّذِينَ أَشْرَكُوا لَوْ شَاءَ اللَّهُ مَا عَبَدْنَا مِن دُونِهِ مِن شَيْءٍ نَّحْنُ وَلَا آبَاؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِ مِن شَيْءٍ ۚ كَذَٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى الرُّسُلِ إِلَّا الْبَلَاغُ الْمُبِينُ",
+            "bnText": "মুশরিকরা বললঃ যদি আল্লাহ চাইতেন, তবে আমরা তাঁকে ছাড়া কারও এবাদত করতাম না এবং আমাদের পিতৃপুরুষেরাও করত না এবং তাঁর নির্দেশ ছাড়া কোন বস্তুই আমরা হারাম করতাম না। তাদের পূর্ববর্তীরা এমনই করেছে। রাসূলের দায়িত্ব তো শুধুমাত্র সুস্পষ্ট বাণী পৌছিয়ে দেয়া।",
+            "enText": "And those who associate others with Allah say, \"If Allah had willed, we would not have worshipped anything other than Him, neither we nor our fathers, nor would we have forbidden anything through other than Him.\" Thus did those do before them. So is there upon the messengers except [the duty of] clear notification?",
+            "enTextTransliteration": "Wa qaalal lazeena ashrakoo law shaaa'al laahu ma 'abadnaa min doonihee min shai'in nahnu wa laaa aabaaa'unaa wa laa harramnaa min doonihee min shai'; kazaalika fa'alal lazeena min qablihim fahal 'alar Rusuli illal balaaghul mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1936",
+            "numberInSurah": 35
+        },
+        {
+            "text": "وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى اللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ الضَّلَالَةُ ۚ فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+            "bnText": "আমি প্রত্যেক উম্মতের মধ্যেই রাসূল প্রেরণ করেছি এই মর্মে যে, তোমরা আল্লাহর এবাদত কর এবং তাগুত থেকে নিরাপদ থাক। অতঃপর তাদের মধ্যে কিছু সংখ্যককে আল্লাহ হেদায়েত করেছেন এবং কিছু সংখ্যকের জন্যে বিপথগামিতা অবধারিত হয়ে গেল। সুতরাং তোমরা পৃথিবীতে ভ্রমণ কর এবং দেখ মিথ্যারোপকারীদের কিরূপ পরিণতি হয়েছে।",
+            "enText": "And We certainly sent into every nation a messenger, [saying], \"Worship Allah and avoid Taghut.\" And among them were those whom Allah guided, and among them were those upon whom error was [deservedly] decreed. So proceed through the earth and observe how was the end of the deniers.",
+            "enTextTransliteration": "Wa laqad ba'asnaa fee kulli ummatir Rasoolan ani'budul laaha wajtanibut Taaghoota faminhum man hadal laahu wa minhum man haqqat 'alaihid dalaalah; faseeroo fil ardi fanzuroo kaifa kaana 'aaqibatul mukazzibeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1937",
+            "numberInSurah": 36
+        },
+        {
+            "text": "إِن تَحْرِصْ عَلَىٰ هُدَاهُمْ فَإِنَّ اللَّهَ لَا يَهْدِي مَن يُضِلُّ ۖ وَمَا لَهُم مِّن نَّاصِرِينَ",
+            "bnText": "আপনি তাদেরকে সুপথে আনতে আগ্রহী হলেও আল্লাহ যাকে বিপথগামী করেন তিনি তাকে পথ দেখান না এবং তাদের কোন সাহায্যকারী ও নেই।",
+            "enText": "[Even] if you should strive for their guidance, [O Muhammad], indeed, Allah does not guide those He sends astray, and they will have no helpers.",
+            "enTextTransliteration": "In tahris 'alaa hudaahum fa innal laaha laa yahdee mai yudillu wa maa lahum min naasireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1938",
+            "numberInSurah": 37
+        },
+        {
+            "text": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ ۙ لَا يَبْعَثُ اللَّهُ مَن يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّا وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+            "bnText": "তারা আল্লাহর নামে কঠোর শপথ করে যে, যার মৃত্যু হয় আল্লাহ তাকে পুনরুজ্জীবিত করবেন না। অবশ্যই এর পাকাপোক্ত ওয়াদা হয়ে গেছে। কিন্তু, অধিকাংশ লোক জানে না।",
+            "enText": "And they swear by Allah their strongest oaths [that] Allah will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know.",
+            "enTextTransliteration": "Wa aqsamoo billaahi jahda aimaanihim laa yab'asul laahu mai yamoot; balaa wa'dan 'alaihi haqqanw wa laakinna aksaran naasi laa ya'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1939",
+            "numberInSurah": 38
+        },
+        {
+            "text": "لِيُبَيِّنَ لَهُمُ الَّذِي يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ الَّذِينَ كَفَرُوا أَنَّهُمْ كَانُوا كَاذِبِينَ",
+            "bnText": "তিনি পুনরুজ্জীবিত করবেনই, যাতে যে বিষয়ে তাদের মধ্যে মতানৈক্য ছিল তা প্রকাশ করা যায় এবং যাতে কাফেরেরা জেনে নেয় যে, তারা মিথ্যাবাদী ছিল।",
+            "enText": "[It is] so He will make clear to them [the truth of] that wherein they differ and so those who have disbelieved may know that they were liars.",
+            "enTextTransliteration": "Liyubaiyina lahumul lazee yakhtalifoona feehi wa liya'lamal lazeena kafarooo annahum kaanoo kaazibeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1940",
+            "numberInSurah": 39
+        },
+        {
+            "text": "إِنَّمَا قَوْلُنَا لِشَيْءٍ إِذَا أَرَدْنَاهُ أَن نَّقُولَ لَهُ كُن فَيَكُونُ",
+            "bnText": "আমি যখন কোন কিছু করার ইচ্ছা করি; তখন তাকে কেবল এতটুকুই বলি যে, হয়ে যাও,। সুতরাং তা হয়ে যায়।",
+            "enText": "Indeed, Our word to a thing when We intend it is but that We say to it, \"Be,\" and it is.",
+            "enTextTransliteration": "Innamaa qawlunaa lisha y'in izaa aradnaahu an naqoola lahoo kun fa yakoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1941",
+            "numberInSurah": 40
+        },
+        {
+            "text": "وَالَّذِينَ هَاجَرُوا فِي اللَّهِ مِن بَعْدِ مَا ظُلِمُوا لَنُبَوِّئَنَّهُمْ فِي الدُّنْيَا حَسَنَةً ۖ وَلَأَجْرُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+            "bnText": "যারা নির্যাতিত হওয়ার পর আল্লাহর জন্যে গৃহত্যাগ করেছে, আমি অবশ্যই তাদেরকে দুনিয়াতে উত্তম আবাস দেব এবং পরকালের পুরস্কার তো সর্বাধিক; হায়! যদি তারা জানত।",
+            "enText": "And those who emigrated for [the cause of] Allah after they had been wronged - We will surely settle them in this world in a good place; but the reward of the Hereafter is greater, if only they could know.",
+            "enTextTransliteration": "Wallazeena haajaroo fil laahi mim ba'di maa zulimoo lanubawwi' annahum fiddunyaa hasanatanw wa la ajrul Aakhirati akbar; law kaanoo ya'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1942",
+            "numberInSurah": 41
+        },
+        {
+            "text": "الَّذِينَ صَبَرُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+            "bnText": "যারা দৃঢ়পদ রয়েছে এবং তাদের পালনকর্তার উপর ভরসা করেছে।",
+            "enText": "[They are] those who endured patiently and upon their Lord relied.",
+            "enTextTransliteration": "Allazeena sabaroo wa 'alaa Rabbihim yatawak kaloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1943",
+            "numberInSurah": 42
+        },
+        {
+            "text": "وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ ۚ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+            "bnText": "আপনার পূর্বেও আমি প্রত্যাদেশসহ মানবকেই তাদের প্রতি প্রেরণ করেছিলাম অতএব জ্ঞানীদেরকে জিজ্ঞেস কর, যদি তোমাদের জানা না থাকে",
+            "enText": "And We sent not before you except men to whom We revealed [Our message]. So ask the people of the message if you do not know.",
+            "enTextTransliteration": "Wa maaa arsalnaa min qablika illaa rijaalan nooheee ilaihim; fas'alooo ahlaz zikri in kuntum laa ta'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1944",
+            "numberInSurah": 43
+        },
+        {
+            "text": "بِالْبَيِّنَاتِ وَالزُّبُرِ ۗ وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ",
+            "bnText": "প্রেরণ করেছিলাম তাদেরকে নিꦣ2503;দশাবলী ও অবতীর্ণ গ্রন্থসহ এবং আপনার কাছে আমি স্মরণিকা অবতীর্ণ করেছি, যাতে আপনি লোকদের সামনে ঐসব বিষয় বিবৃত করেন, যে গুলো তোদের প্রতি নাযিল করা হয়েছে, যাতে তারা চিন্তা-ভাবনা করে।",
+            "enText": "[We sent them] with clear proofs and written ordinances. And We revealed to you the message that you may make clear to the people what was sent down to them and that they might give thought.",
+            "enTextTransliteration": "Bilbaiyinaati waz Zubur; wa anzalnaaa ilaikaz Zikra litubaiyina linnaasi maa nuzzila ilaihim wa la'allahum yatafakkaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1945",
+            "numberInSurah": 44
+        },
+        {
+            "text": "أَفَأَمِنَ الَّذِينَ مَكَرُوا السَّيِّئَاتِ أَن يَخْسِفَ اللَّهُ بِهِمُ الْأَرْضَ أَوْ يَأْتِيَهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+            "bnText": "যারা কুচক্র করে, তারা কি এ বিষয়ে ভয় করে না যে, আল্লাহ তাদেরকে ভূগর্ভে বিলীন করে দিবেন কিংবা তাদের কাছে এমন জায়গা থেকে আযাব আসবে যা তাদের ধারণাতীত।",
+            "enText": "Then, do those who have planned evil deeds feel secure that Allah will not cause the earth to swallow them or that the punishment will not come upon them from where they do not perceive?",
+            "enTextTransliteration": "Afa aminal lazeena makarus saiyi aati ai yakhsifal laahu bihimul arda aw yaaa tiyahumul 'azaabu min haisu laa yash'uroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1946",
+            "numberInSurah": 45
+        },
+        {
+            "text": "أَوْ يَأْخُذَهُمْ فِي تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ",
+            "bnText": "কিংবা চলাফেরার মধ্যেই তাদেরকে পাকড়াও করবে, তারা তো তা ব্যর্থ করতে পারবে না।",
+            "enText": "Or that He would not seize them during their [usual] activity, and they could not cause failure?",
+            "enTextTransliteration": "Aw yaakhuzahum fee taqallubihim famaa hum bi mu'jizeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1947",
+            "numberInSurah": 46
+        },
+        {
+            "text": "أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+            "bnText": "কিংবা ভীতি প্রদর্শনের পর তাদেরকে পাকড়াও করবেন? তোমাদের পালনকর্তা তো অত্যন্ত নম্র, দয়ালু।",
+            "enText": "Or that He would not seize them gradually [in a state of dread]? But indeed, your Lord is Kind and Merciful.",
+            "enTextTransliteration": "Aw yaakhuzahum 'alaa takhawwuf; fa inna Rabbakum la Ra'oofur Raheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1948",
+            "numberInSurah": 47
+        },
+        {
+            "text": "أَوَلَمْ يَرَوْا إِلَىٰ مَا خَلَقَ اللَّهُ مِن شَيْءٍ يَتَفَيَّأُ ظِلَالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ سُجَّدًا لِّلَّهِ وَهُمْ دَاخِرُونَ",
+            "bnText": "তারা কি আল্লাহর সৃজিত বস্তু দেখে না, যার ছায়া আল্লাহর প্রতি বিনীতভাবে সেজদাবনত থেকে ডান ও বাম দিকে ঝুঁকে পড়ে।",
+            "enText": "Have they not considered what things Allah has created? Their shadows incline to the right and to the left, prostrating to Allah, while they are humble.",
+            "enTextTransliteration": "Awa lam yaraw ilaa maa khalaqal laahu min shai'iny-yatafaiya'u zilaaluhoo 'anil yameeni washshamaaa' ili sujjadal lillaahi wa hum daakhiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1949",
+            "numberInSurah": 48
+        },
+        {
+            "text": "وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِن دَابَّةٍ وَالْمَلَائِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
+            "bnText": "আল্লাহকে সেজদা করে যা কিছু নভোমন্ডলে আছে এবং যা কিছু ভুমন্ডলে আছে এবং ফেরেশতাগণ; তারা অহংকার করে না।",
+            "enText": "And to Allah prostrates whatever is in the heavens and whatever is on the earth of creatures, and the angels [as well], and they are not arrogant.",
+            "enTextTransliteration": "Wa lillaahi yasjudu maa fis samaawaati wa maa fil ardi min daaabbatinw walma laaa'ikatu wa hum laa yastakbiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1950",
+            "numberInSurah": 49
+        },
+        {
+            "text": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩",
+            "bnText": "তারা তাদের উপর পরাক্রমশালী তাদের পালনকর্তাকে ভয় করে এবং তারা যা আদেশ পায়, তা করে",
+            "enText": "They fear their Lord above them, and they do what they are commanded.",
+            "enTextTransliteration": "yakhaafoona Rabbahum min fawqihim wa yaf'aloona maa yu'maroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1951",
+            "numberInSurah": 50
+        },
+        {
+            "text": "۞ وَقَالَ اللَّهُ لَا تَتَّخِذُوا إِلَٰهَيْنِ اثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ ۖ فَإِيَّايَ فَارْهَبُونِ",
+            "bnText": "আল্লাহ বললেনঃ তোমরা দুই উপাস্য গ্রহণ করো না উপাস্য তো মাত্র একজনই। অতএব আমাকেই ভয় কর।",
+            "enText": "And Allah has said, \"Do not take for yourselves two deities. He is but one God, so fear only Me.\"",
+            "enTextTransliteration": "Wa qaalal laahu laa tatta khizooo ilaahainis naini innamaa Huwa Ilaahunw Waahid; fa iyyaaya farhaboon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1952",
+            "numberInSurah": 51
+        },
+        {
+            "text": "وَلَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَهُ الدِّينُ وَاصِبًا ۚ أَفَغَيْرَ اللَّهِ تَتَّقُونَ",
+            "bnText": "যা কিছু নভোমন্ডল ও ভুমন্ডলে আছে তা তাঁরই এবাদত করা শাশ্বত কর্তব্য। তোমরা কি আল্লাহ ব্যতীত কাউকে ভয় করবে",
+            "enText": "And to Him belongs whatever is in the heavens and the earth, and to Him is [due] worship constantly. Then is it other than Allah that you fear?",
+            "enTextTransliteration": "Wa lahoo maa fis samaawaati wal ardi wa lahud deenu waasibaa; afaghairal laahi tattaqoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1953",
+            "numberInSurah": 52
+        },
+        {
+            "text": "وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ اللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ",
+            "bnText": "তোমাদের কাছে যে সমস্ত নেয়ামত আছে, তা আল্লাহরই পক্ষ থেকে। অতঃপর তোমরা যখন দুঃখে-কষ্টে পতিত হও তখন তাঁরই নিকট কান্নাকাটি কর।",
+            "enText": "And whatever you have of favor - it is from Allah. Then when adversity touches you, to Him you cry for help.",
+            "enTextTransliteration": "Wa maa bikum minni'matin faminal laahi summa izaa massakumud durru fa ilaihi taj'aroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1954",
+            "numberInSurah": 53
+        },
+        {
+            "text": "ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ",
+            "bnText": "এরপর যখন আল্লাহ তোমাদের কষ্ট দুরীভূত করে দেন, তখনই তোমাদের একদল স্বীয় পালনকর্তার সাথে অংশীদার সাব্যস্ত করতে থাকে।",
+            "enText": "Then when He removes the adversity from you, at once a party of you associates others with their Lord",
+            "enTextTransliteration": "Summaa izaa kashafad durra 'ankum izaa fareequm minkum bi Rabbihim yushrikoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1955",
+            "numberInSurah": 54
+        },
+        {
+            "text": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ ۚ فَتَمَتَّعُوا ۖ فَسَوْفَ تَعْلَمُونَ",
+            "bnText": "যাতে ঐ নেয়ামত অস্বীকার করে, যা আমি তাদেরকে দিয়েছি। অতএব মজা ভোগ করে নাও-সত্বরই তোমরা জানতে পারবে।",
+            "enText": "So they will deny what We have given them. Then enjoy yourselves, for you are going to know.",
+            "enTextTransliteration": "Liyakfuroo bimaa aatainaahum; fatamatta'oo, faswfa ta'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1956",
+            "numberInSurah": 55
+        },
+        {
+            "text": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَاهُمْ ۗ تَاللَّهِ لَتُسْأَلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ",
+            "bnText": "তারা আমার দেয়া জীবনোপকরণ থেকে তাদের জন্যে একটি অংশ নির্ধারিত করে, যাদের কোন খবরই তারা রাখে না। আল্লাহর কসম, তোমরা যে অপবাদ আরোপ করছ, সে সম্পর্কে অবশ্যই জিজ্ঞাসিত হবে।",
+            "enText": "And they assign to what they do not know a portion of that which We have provided them. By Allah, you will surely be questioned about what you used to invent.",
+            "enTextTransliteration": "Wa yaj'aloona limaa laa ya'lamoona naseebam mimmaa razaqnnaahum; tallaahi latus'alunaa 'ammaa kuntum taftaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1957",
+            "numberInSurah": 56
+        },
+        {
+            "text": "وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ ۙ وَلَهُم مَّا يَشْتَهُونَ",
+            "bnText": "তারা আল্লাহর জন্যে কন্যা সন্তান নির্ধারণ করে-তিনি পবিত্র মহিমান্বিত এবং নিজেদের জন্যে ওরা তাই স্থির করে যা ওরা চায়।",
+            "enText": "And they attribute to Allah daughters - exalted is He - and for them is what they desire.",
+            "enTextTransliteration": "Wa yaj'aloona lillaahil banaati Subhaanahoo wa lahum maa yashtahoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1958",
+            "numberInSurah": 57
+        },
+        {
+            "text": "وَإِذَا بُشِّرَ أَحَدُهُم بِالْأُنثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ",
+            "bnText": "যখন তাদের কাউকে কন্যা সন্তানের সুসংবাদ দেয়া হয়, তখন তারা মুখ কাল হয়ে যায় এবং অসহ্য মনস্তাপে ক্লিষ্ট হতে থাকে।",
+            "enText": "And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief.",
+            "enTextTransliteration": "Wa izaa bushshira ahaduhum bil unsaa zalla wajhuhoo muswaddanw wa huwa kazeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1959",
+            "numberInSurah": 58
+        },
+        {
+            "text": "يَتَوَارَىٰ مِنَ الْقَوْمِ مِن سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ",
+            "bnText": "তাকে শোনানো সুসংবাদের দুঃখে সে লোকদের কাছ থেকে মুখ লুকিয়ে থাকে। সে ভাবে, অপমান সহ্য করে তাকে থাকতে দেবে, না তাকে মাটির নীচে পুতে ফেলবে। শুনে রাখ, তাদের ফয়সালা খুবই নিকৃষ্ট।",
+            "enText": "He hides himself from the people because of the ill of which he has been informed. Should he keep it in humiliation or bury it in the ground? Unquestionably, evil is what they decide.",
+            "enTextTransliteration": "yatawaaraa minal qawmimin sooo'i maa bushshira bih; a-yumsikuhoo 'alaa hoonin am yadussuhoo fit turaab; alaa saaa'a maa yahkumoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1960",
+            "numberInSurah": 59
+        },
+        {
+            "text": "لِلَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ مَثَلُ السَّوْءِ ۖ وَلِلَّهِ الْمَثَلُ الْأَعْلَىٰ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+            "bnText": "যারা পরকাল বিশ্বাস করে না, তাদের উদাহরণ নিকৃষ্ট এবং আল্লাহর উদাহরণই মহান, তিনি পরাক্রমশালী, প্রজ্ঞাময়।",
+            "enText": "For those who do not believe in the Hereafter is the description of evil; and for Allah is the highest attribute. And He is Exalted in Might, the Wise.",
+            "enTextTransliteration": "Lillazeena laa yu'minoona bil Aakhirati masalus saw'i wa lillaahil masalul a'laa; wa Huwal 'Azeezul Hakeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1961",
+            "numberInSurah": 60
+        },
+        {
+            "text": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِم مَّا تَرَكَ عَلَيْهَا مِن دَابَّةٍ وَلَٰكِن يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+            "bnText": "যদি আল্লাহ লোকদেরকে তাদের অন্যায় কাজের কারণে পাকড়াও করতেন, তবে ভুপৃষ্ঠে চলমান কোন কিছুকেই ছাড়তেন না। কিন্তু তিনি প্রতিশ্রুতি সময় পর্যন্ত তাদেরকে অবকাশ দেন। অতঃপর নির্ধারিত সময়ে যখন তাদের মৃত্যু এসে যাবে, তখন এক মুহুর্তও বিলম্বিত কিংবা তরাম্বিত করতে পারবে না।",
+            "enText": "And if Allah were to impose blame on the people for their wrongdoing, He would not have left upon the earth any creature, but He defers them for a specified term. And when their term has come, they will not remain behind an hour, nor will they precede [it].",
+            "enTextTransliteration": "Wa law yu'aakhizul laahun naasa bizulminhim maa taraka 'alaihaa min daaabbatinw wa laakiny yu'akhkhiruhum ilaaa ajalim musamman fa izaa jaaa'a ajaluhum laa yastaakhiroona saa'atanw wa laa yastaqdimoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1962",
+            "numberInSurah": 61
+        },
+        {
+            "text": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ الْكَذِبَ أَنَّ لَهُمُ الْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ النَّارَ وَأَنَّهُم مُّفْرَطُونَ",
+            "bnText": "যা নিজেদের মন চায় না তারই তারা আল্লাহর জন্যে সাব্যস্ত করে এবং তাদের জিহবা মিথ্যা বর্ণনা করে যে, তাদের জন্যে রয়েছে কল্যাণ। স্বতঃসিদ্ধ কথা যে, তাদের জন্যে রয়েছে আগুন এবং তাদেরকেই সর্বাগ্রে নিক্ষেপ করা হবে।",
+            "enText": "And they attribute to Allah that which they dislike, and their tongues assert the lie that they will have the best [from Him]. Assuredly, they will have the Fire, and they will be [therein] neglected.",
+            "enTextTransliteration": "Wa yaj'aloona lillaahi maa yakrahoona wa tasifu alsinatuhumul kaziba anna lahumul husnaa laa jarama anna lahumun Naara wa annahum mufratoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1963",
+            "numberInSurah": 62
+        },
+        {
+            "text": "تَاللَّهِ لَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِّن قَبْلِكَ فَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَهُوَ وَلِيُّهُمُ الْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+            "bnText": "আল্লাহর কসম, আমি আপনার পূর্বে বিভিন্ন সম্প্রদায়ে রাসূল প্রেরণ করেছি, অতঃপর শয়তান তাদেরকে কর্ম সমূহ শোভনীয় করে দেখিয়েছে। আজ সেই তাদের অভিভাবক এবং তাদের জন্যে রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+            "enText": "By Allah, We did certainly send [messengers] to nations before you, but Satan made their deeds attractive to them. And he is the disbelievers' ally today [as well], and they will have a painful punishment.",
+            "enTextTransliteration": "Tallaahi laqad arsalnaaa ilaaa umamim min qablika fazayyana lahumush Shaitaanu a'maalahum fahuwa waliyyuhumul yawma wa lahum 'azaabun aleem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1964",
+            "numberInSurah": 63
+        },
+        {
+            "text": "وَمَا أَنزَلْنَا عَلَيْكَ الْكِتَابَ إِلَّا لِتُبَيِّنَ لَهُمُ الَّذِي اخْتَلَفُوا فِيهِ ۙ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+            "bnText": "আমি আপনার প্রতি এ জন্যেই গ্রন্থ নাযিল করেছি, যাতে আপনি সরল পথ প্রদর্শনের জন্যে তাদের কে পরিষ্কার বর্ণনা করে দেন, যে বিষয়ে তারা মতবিরোধ করছে এবং ঈমানদারকে ক্ষমা করার জন্যে।",
+            "enText": "And We have not revealed to you the Book, [O Muhammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe.",
+            "enTextTransliteration": "Wa maaa anzalnaa 'alaikal Kitaaba illaa litubaiyina lahumul lazikh talafoo feehi wa hudanw wa rahmatal liqawminy yu'minoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1965",
+            "numberInSurah": 64
+        },
+        {
+            "text": "وَاللَّهُ أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَسْمَعُونَ",
+            "bnText": "আল্লাহ আকাশ থেকে পানি বর্ষণ করেছেন, তদ্বারা যমীনকে তার মৃত্যুর পর পুনর্জীবিত করেছেন। নিশ্চয় এতে তাদের জন্যে নিদর্শন রয়েছে, যারা শ্রবণ করে।",
+            "enText": "And Allah has sent down rain from the sky and given life thereby to the earth after its lifelessness. Indeed in that is a sign for a people who listen.",
+            "enTextTransliteration": "Wallaahu anzala minas samaaa'i maaa'an fa ahyaa bihil arda ba'da mawtihaa; inna fee zaalika la aayatal liqaw miny yasma'oon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1966",
+            "numberInSurah": 65
+        },
+        {
+            "text": "وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَائِغًا لِّلشَّارِبِينَ",
+            "bnText": "তোমাদের জন্যে চতুস্পদ জন্তুদের মধ্যে চিন্তা করার অবকাশ রয়েছে। আমি তোমাদেরকে পান করাই তাদের উদরস্থিত বস্তুসমুহের মধ্যে থেকে গোবর ও রক্ত নিঃসৃত দুগ্ধ যা পানকারীদের জন্যে উপাদেয়।",
+            "enText": "And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers.",
+            "enTextTransliteration": "Wa inna lakum fil an'aami la'ibrah; nusqeekum mimmmaa fee butoonihee mim baini farsinw wa damil labanann khaalisan saaa'ighallish shaaribeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1967",
+            "numberInSurah": 66
+        },
+        {
+            "text": "وَمِن ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَعْقِلُونَ",
+            "bnText": "এবং খেজুর বৃক্ষ ও আঙ্গুর ফল থেকে তোমরা মধ্য ও উত্তম খাদ্য তৈরী করে থাক, এতে অবশ্যই বোধশক্তি সম্পন্ন সম্প্রদায়ের জন্যে নিদর্শন রয়েছে।",
+            "enText": "And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason.",
+            "enTextTransliteration": "Wa min samaraatin nakheeli wal a'nnaabi tattakhizoona minhu sakaranw wa rizqann hasanaa; inna fee zaalika la Aayatal liqawminy ya'qiloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1968",
+            "numberInSurah": 67
+        },
+        {
+            "text": "وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+            "bnText": "আপনার পালনকর্তা মধু মক্ষিকাকে আদেশ দিলেনঃ পর্বতগাহ্রে, বৃক্ষ এবং উঁচু চালে গৃহ তৈরী কর",
+            "enText": "And your Lord inspired to the bee, \"Take for yourself among the mountains, houses, and among the trees and [in] that which they construct.",
+            "enTextTransliteration": "Wa awhaa Rabbuka ilannnabli anit takhizee minal jabaali buyootanw wa minash shajari wa mimmaa ya'rishoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1969",
+            "numberInSurah": 68
+        },
+        {
+            "text": "ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِّلنَّاسِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ",
+            "bnText": "এরপর সর্বপ্রকার ফল থেকে ভক্ষণ কর এবং আপন পালনকর্তার উম্মুক্ত পথ সমূহে চলমান হও। তার পেট থেকে বিভিন্ন রঙে পানীয় নির্গত হয়। তাতে মানুষের জন্যে রয়েছে রোগের প্রতিকার। নিশ্চয় এতে চিন্তাশীল সম্প্রদায়ের জন্যে নিদর্শন রয়েছে।",
+            "enText": "Then eat from all the fruits and follow the ways of your Lord laid down [for you].\" There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.",
+            "enTextTransliteration": "Summma kulee min kullis samaraati faslukee subula Rabbiki zululaa; yakhruju mim butoonihaa sharaabum mukh talifun alwaanuhoo feehi shifaaa'ul linnaas, innna fee zaalika la Aayatal liqawminy yatafakkaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1970",
+            "numberInSurah": 69
+        },
+        {
+            "text": "وَاللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ ۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْ لَا يَعْلَمَ بَعْدَ عِلْمٍ شَيْئًا ۚ إِنَّ اللَّهَ عَلِيمٌ قَدِيرٌ",
+            "bnText": "আল্লাহ তোমাদেরকে সৃষ্টি করেছেন এরপর তোমাদের মৃত্যুদান করেন। তোমাদের মধ্যে কেউ কেউ পৌছে যায় জরাগ্রস্ত অকর্মন্য বয়সে, ফলে যা কিছু তারা জানত সে সম্পর্কে তারা সজ্ঞান থাকবে না। নিশ্চয় আল্লাহ সু-বিজ্ঞ সর্বশক্তিমান।",
+            "enText": "And Allah created you; then He will take you in death. And among you is he who is reversed to the most decrepit [old] age so that he will not know, after [having had] knowledge, a thing. Indeed, Allah is Knowing and Competent.",
+            "enTextTransliteration": "Wallaahu khalaqakum suma tatawaffaakum; wa minkum many-yuradu ilaaa arzalil 'umuri likai laa ya'lama ba'da 'ilmin shai'aa; innal laaha 'Aleemun Qadeer",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1971",
+            "numberInSurah": 70
+        },
+        {
+            "text": "وَاللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِي الرِّزْقِ ۚ فَمَا الَّذِينَ فُضِّلُوا بِرَادِّي رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَاءٌ ۚ أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ",
+            "bnText": "আল্লাহ তা’আলা জীবনোপকরণে তোমাদের একজনকে অন্যজনের চাইতে শ্রেষ্টত্ব দিয়েছেন। অতএব যাদেরকে শ্রেষ্ঠত্ব দেয়া হয়েছে, তারা তাদের অধীনস্থ দাস-দাসীদেরকে স্বীয় জীবিকা থেকে এমন কিছু দেয় না, যাতে তারা এ বিষয়ে তাদের সমান হয়ে যাবে। তবে কি তারা আল্লাহর নেয়ামত অস্বীকার করে।",
+            "enText": "And Allah has favored some of you over others in provision. But those who were favored would not hand over their provision to those whom their right hands possess so they would be equal to them therein. Then is it the favor of Allah they reject?",
+            "enTextTransliteration": "Wallaahu faddala ba'dakum 'alaa ba'din fir rizq; famal lazeena fuddiloo biraaaddee rizqihim 'alaa maa malakat aimaanuhum fahum feehi sawaaa'; afabini'matil laahi yajhadoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1972",
+            "numberInSurah": 71
+        },
+        {
+            "text": "وَاللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا وَجَعَلَ لَكُم مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ الطَّيِّبَاتِ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللَّهِ هُمْ يَكْفُرُونَ",
+            "bnText": "আল্লাহ তোমাদের জন্যে তোমাদেরই শ্রেণী থেকে জোড়া পয়দা করেছেন এবং তোমাদের যুগল থেকে তোমাদেরকে পুত্র ও পৌত্রাদি দিয়েছেন এবং তোমাদেরকে উত্তম জীবনোপকরণ দান করেছেন। অতএব তারা কি মিথ্যা বিষয়ে বিশ্বাস স্থাপন করে এবং আল্লাহর অনুগ্রহ অস্বীকার করে",
+            "enText": "And Allah has made for you from yourselves mates and has made for you from your mates sons and grandchildren and has provided for you from the good things. Then in falsehood do they believe and in the favor of Allah they disbelieve?",
+            "enTextTransliteration": "Wallaahu ja'ala lakum min anfusikum azwaajanw wa ja'ala lakum min azwaajikum baneena wa hafadatanw wa razaqakum minat yaiyibaat; afabil baatili yu'minoona wa bini'matil laahi hum yakkfuroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1973",
+            "numberInSurah": 72
+        },
+        {
+            "text": "وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًا مِّنَ السَّمَاوَاتِ وَالْأَرْضِ شَيْئًا وَلَا يَسْتَطِيعُونَ",
+            "bnText": "তারা আল্লাহ ব্যতীত এমন বস্তুর ইবাদত করে, যে তাদের জন্যে ভুমন্ডল ও নভোমন্ডল থেকে সামান্য রুযী দেওয়ার ও অধিকার রাখে না এবং মুক্তি ও রাখে না।",
+            "enText": "And they worship besides Allah that which does not possess for them [the power of] provision from the heavens and the earth at all, and [in fact], they are unable.",
+            "enTextTransliteration": "Wa ya'budoona min doonil laahi maa laa yamliku lahum rizqam minas samaawaati wal ardi shai'anw wa laa yastatee'oon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1974",
+            "numberInSurah": 73
+        },
+        {
+            "text": "فَلَا تَضْرِبُوا لِلَّهِ الْأَمْثَالَ ۚ إِنَّ اللَّهَ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+            "bnText": "অতএব, আল্লাহর কোন সদৃশ সাব্যস্ত করো না, নিশ্চয় আল্লাহ জানেন এবং তোমরা জান না।",
+            "enText": "So do not assert similarities to Allah. Indeed, Allah knows and you do not know.",
+            "enTextTransliteration": "Falaa tadriboo lillaahil amsaal; innal laaha ya'lamu wa antum laa ta'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1975",
+            "numberInSurah": 74
+        },
+        {
+            "text": "۞ ضَرَبَ اللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَيْءٍ وَمَن رَّزَقْنَاهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُونَ ۚ الْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+            "bnText": "আল্লাহ একটি দৃষ্টান্ত বর্ণনা করেছেন, অপরের মালিকানাধীন গোলামের যে, কোন কিছুর উপর শক্তি রাখে না এবং এমন একজন যাকে আমি নিজের পক্ষ থেকে চমৎকার রুযী দিয়েছি। অতএব, সে তা থেকে ব্যয় করে গোপনে ও প্রকাশ্যে উভয়ে কি সমান হয়? সব প্রশংসা আল্লাহর, কিন্তু অনেক মানুষ জানে না।",
+            "enText": "Allah presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allah! But most of them do not know.",
+            "enTextTransliteration": "Darabal laahu masalan 'abdam mammlookal laa yaqdiru 'alaa shai'inw wa marrazaqnaahu mminnaa rizqan hasanan fahuwa yunfiqu minhu sirranw wa jahra; hal yasta-woon; alhamdu lillaah; bal aksaruhum laa ya'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1976",
+            "numberInSurah": 75
+        },
+        {
+            "text": "وَضَرَبَ اللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَا أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَيْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَاهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِي هُوَ وَمَن يَأْمُرُ بِالْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+            "bnText": "আল্লাহ আরেকটি দৃষ্টান্ত বর্ণনা করেছেন, দু’ব্যক্তির, একজন বোবা কোন কাজ করতে পারে না। সে মালিকের উপর বোঝা। যেদিকে তাকে পাঠায়, কোন সঠিক কাজ করে আসে না। সে কি সমান হবে ঐ ব্যক্তির, যে ন্যায় বিচারের আদেশ করে এবং সরল পথে কায়েম রয়েছে।",
+            "enText": "And Allah presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path?",
+            "enTextTransliteration": "Wa darabal laahu masalar rajulaini ahaduhumaaa abkamu laa yaqdiru 'alaa shai'inw wa huwa kallun 'alaa mawlaahu ainamaa yuwajjihhu laa yaati bikhairin hal yastawee huwa wa many-yaamuru bil'adli wa huwa 'alaa Siraatim MMustaqeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1977",
+            "numberInSurah": 76
+        },
+        {
+            "text": "وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَمَا أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "bnText": "নভোমন্ডল ও ভূমন্ডলের গোপন রহস্য আল্লাহর কাছেই রয়েছে। কিয়ামতের ব্যাপারটি তো এমন, যেমন চোখের পলক অথবা তার চাইতেও নিকটবর্তী। নিশ্চয় আল্লাহ সব কিছুর উপর শক্তিমান।",
+            "enText": "And to Allah belongs the unseen [aspects] of the heavens and the earth. And the command for the Hour is not but as a glance of the eye or even nearer. Indeed, Allah is over all things competent.",
+            "enTextTransliteration": "Wa lillaahi ghaibus samaawaati wal ard; wa maaa amrus Saa'ati illaa kalamhil basari aw huwa aqrab; innal laaha 'alaaa kulli shai'in Qadeer",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1978",
+            "numberInSurah": 77
+        },
+        {
+            "text": "وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+            "bnText": "আল্লাহ তোমাদেরকে তোমাদের মায়ের গর্ভ থেকে বের করেছেন। তোমরা কিছুই জানতে না। তিনি তোমাদেরকে কর্ণ, চক্ষু ও অন্তর দিয়েছেন, যাতে তোমরা অনুগ্রহ স্বীকার কর।",
+            "enText": "And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and intellect that perhaps you would be grateful.",
+            "enTextTransliteration": "Wallaahu akhrajakum mim butooni ummahaatikum laa ta'lamoona shai'anw wa ja'ala lakumus sam'a wal absaara wal af'idata la'allakum tashkuroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1979",
+            "numberInSurah": 78
+        },
+        {
+            "text": "أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ مَا يُمْسِكُهُنَّ إِلَّا اللَّهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+            "bnText": "তারা কি উড়ন্ত পাখীকে দেখে না? এগুলো আকাশের অন্তরীক্ষে আজ্ঞাধীন রয়েছে। আল্লাহ ছাড়া কেউ এগুলোকে আগলে রাখে না। নিশ্চয় এতে বিশ্বাসীদের জন্যে নিদর্শনবলী রয়েছে।",
+            "enText": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allah. Indeed in that are signs for a people who believe.",
+            "enTextTransliteration": "Alam yaraw ilat tairi musakhkharaatin fee jawwis samaaa'i maa yumsikuhunna illal laah; inna fee zaalika la Aayaatil liqawminy yu'minoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1980",
+            "numberInSurah": 79
+        },
+        {
+            "text": "وَاللَّهُ جَعَلَ لَكُم مِّن بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُم مِّن جُلُودِ الْأَنْعَامِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ",
+            "bnText": "আল্লাহ করে দিয়েছেন তোমাদের গৃহকে অবস্থানের জায়গা এবং চতুস্পদ জন্তুর চামড়া দ্বারা করেছেন তোমার জন্যে তাঁবুর ব্যবস্থা। তোমরা এগুলোকে সফরকালে ও অবস্থান কালে পাও। ভেড়ার পশম, উটের বাবরি চুল ও ছাগলের লোম দ্বারা কত আসবাবপত্র ও ব্যবহারের সামগ্রী তৈরী করেছেন এক নির্দিষ্ট সময় পর্যন্ত।",
+            "enText": "And Allah has made for you from your homes a place of rest and made for you from the hides of the animals tents which you find light on your day of travel and your day of encampment; and from their wool, fur and hair is furnishing and enjoyment for a time.",
+            "enTextTransliteration": "Wallaahu ja'ala lakum min juloodil an'aami buyootan tastakhif foonahaa yawma za'nikum wa yawma iqaamatikum wa min aswaafihaa wa awbaarihaa wa ash'aarihaaa asaasanw wa mataa'an ilaa been",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1981",
+            "numberInSurah": 80
+        },
+        {
+            "text": "وَاللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَالًا وَجَعَلَ لَكُم مِّنَ الْجِبَالِ أَكْنَانًا وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ وَسَرَابِيلَ تَقِيكُم بَأْسَكُمْ ۚ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ",
+            "bnText": "আল্লাহ তোমাদের জন্যে সৃজিত বস্তু দ্বারা ছায়া করে দিয়েছেন এবং পাহাড় সমূহে তোমাদের জন্যে আত্ন গোপনের জায়গা করেছেন এবং তোমাদের জন্যে পোশাক তৈরী করে দিয়েছেন, যা তোমাদেরকে গ্রীষ্ম এবং বিপদের সময় রক্ষা করে। এমনিভাবে তিনি তোমাদের প্রতি স্বীয় অনুগ্রহের পূর্ণতা দান করেন, যাতে তোমরা আত্নসমর্পণ কর।",
+            "enText": "And Allah has made for you, from that which He has created, shadows and has made for you from the mountains, shelters and has made for you garments which protect you from the heat and garments which protect you from your [enemy in] battle. Thus does He complete His favor upon you that you might submit [to Him].",
+            "enTextTransliteration": "Wallaahu ja'ala lakum mimmaa khalaqa zilaalanw wa ja'ala lakum minal jibaali aknaananw wa ja'ala lakum saraabeela taqeekumul harra wa saraabeela taqeekum baasakum; kazaalika yutimmu ni'matahoo alaikum la'allakum tuslimoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1982",
+            "numberInSurah": 81
+        },
+        {
+            "text": "فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ الْمُبِينُ",
+            "bnText": "অতঃপর যদি তারা পৃষ্ঠ প্রদর্শন করে, তবে আপনার কাজ হল সুস্পষ্ট ভাবে পৌছে দেয়া মাত্র।",
+            "enText": "But if they turn away, [O Muhammad] - then only upon you is [responsibility for] clear notification.",
+            "enTextTransliteration": "Fa in tawallaw fa innamaa 'alaikal balaaghul mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1983",
+            "numberInSurah": 82
+        },
+        {
+            "text": "يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ الْكَافِرُونَ",
+            "bnText": "তারা আল্লাহর অনুগ্রহ চিনে, এরপর অস্বীকার করে এবং তাদের অধিকাংশই অকৃতজ্ঞ।",
+            "enText": "They recognize the favor of Allah; then they deny it. And most of them are disbelievers.",
+            "enTextTransliteration": "Ya'rifoona ni'matal laahi summa yunkiroonahaa wa aksaruhumul kaafiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1984",
+            "numberInSurah": 83
+        },
+        {
+            "text": "وَيَوْمَ نَبْعَثُ مِن كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا وَلَا هُمْ يُسْتَعْتَبُونَ",
+            "bnText": "যেদিন আমি প্রত্যেক উম্মত থেকে একজন বর্ণনাকারী দাঁড় করাব, তখন কাফেরদেরকে অনুমতি দেয়া হবে না এবং তাদের তওবা ও গ্রহণ করা হবে না।",
+            "enText": "And [mention] the Day when We will resurrect from every nation a witness. Then it will not be permitted to the disbelievers [to apologize or make excuses], nor will they be asked to appease [Allah].",
+            "enTextTransliteration": "Wa yawma nab'asu min kulli ummatin shaheedan summa laa yu'zanu lillazeena kafaroo wa laa hum yusta'taboon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1985",
+            "numberInSurah": 84
+        },
+        {
+            "text": "وَإِذَا رَأَى الَّذِينَ ظَلَمُوا الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ",
+            "bnText": "যখন জালেমরা আযাব প্রত্যক্ষ করবে, তখন তাদের থেকে তা লঘু করা হবে না এবং তাদেরকে কোন অবকাশ দেয়া হবে না।",
+            "enText": "And when those who wronged see the punishment, it will not be lightened for them, nor will they be reprieved.",
+            "enTextTransliteration": "Wa izaa ra al lazeena zalamul 'azaaba falaa yukhaf fafu 'anhum wa laa hum yunzaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1986",
+            "numberInSurah": 85
+        },
+        {
+            "text": "وَإِذَا رَأَى الَّذِينَ أَشْرَكُوا شُرَكَاءَهُمْ قَالُوا رَبَّنَا هَٰؤُلَاءِ شُرَكَاؤُنَا الَّذِينَ كُنَّا نَدْعُو مِن دُونِكَ ۖ فَأَلْقَوْا إِلَيْهِمُ الْقَوْلَ إِنَّكُمْ لَكَاذِبُونَ",
+            "bnText": "মুশরিকরা যখন ঐ সব বস্তুকে দেখবে, যেসবকে তারা আল্লাহর সাথে শরীক সাব্যস্ত করেছিল, তখন বলবেঃ হে আমাদের পালনকর্তা এরাই তারা যারা আমাদের শেরেকীর উপাদান, তোমাকে ছেড়ে আমরা যাদেরকে ডাকতাম। তখন ওরা তাদেরকে বলবেঃ তোমরা মিথ্যাবাদী।",
+            "enText": "And when those who associated others with Allah see their \"partners,\" they will say,\" Our Lord, these are our partners [to You] whom we used to invoke besides You.\" But they will throw at them the statement, \"Indeed, you are liars.\"",
+            "enTextTransliteration": "Wa izaa ra al lazeena ashrakoo shurakaaa'ahum qaaloo Rabbana haaa'ulaaa'i shurakaaa'unal lazeena kunnaa nad'oo min doonika fa alqaw ilaihimul qawla innakum lakaaziboon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1987",
+            "numberInSurah": 86
+        },
+        {
+            "text": "وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ",
+            "bnText": "সেদিন তারা আল্লাহর সামনে আত্নসমর্পন করবে এবং তারা যে মিথ্যা অপবাদ দিত তা বিস্মৃত হবে।",
+            "enText": "And they will impart to Allah that Day [their] submission, and lost from them is what they used to invent.",
+            "enTextTransliteration": "Wa alqaw ilal laahi yawma'izinis salama wa dalla 'anhum maa kaanoo yaftaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1988",
+            "numberInSurah": 87
+        },
+        {
+            "text": "الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ بِمَا كَانُوا يُفْسِدُونَ",
+            "bnText": "যারা কাফের হয়েছে এবং আল্লাহর পথে বাধা সৃষ্টি করেছে, আমি তাদেরকে আযাবের পর আযাব বাড়িয়ে দেব। কারণ, তারা অশান্তি সৃষ্টি করত।",
+            "enText": "Those who disbelieved and averted [others] from the way of Allah - We will increase them in punishment over [their] punishment for what corruption they were causing.",
+            "enTextTransliteration": "Allazeena kafaroo wa saddoo 'an sabeelil laahi zidnaahum 'azaaban fawqal 'azaabi bimaa kaanoo yufsidoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1989",
+            "numberInSurah": 88
+        },
+        {
+            "text": "وَيَوْمَ نَبْعَثُ فِي كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِم مِّنْ أَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَٰؤُلَاءِ ۚ وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِّكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+            "bnText": "সেদিন প্রত্যেক উম্মতের মধ্যে আমি একজন বর্ণনাকারী দাঁড় করাব তাদের বিপক্ষে তাদের মধ্য থেকেই এবং তাদের বিষয়ে আপনাকে সাক্ষী স্বরূপ উপস্থাপন করব। আমি আপনার প্রতি গ্রন্থ নাযিল করেছি যেটি এমন যে তা প্রত্যেক বস্তুর সুস্পষ্ট বর্ণনা, হেদায়েত, রহমত এবং মুসলমানদের জন্যে সুসংবাদ।",
+            "enText": "And [mention] the Day when We will resurrect among every nation a witness over them from themselves. And We will bring you, [O Muhammad], as a witness over your nation. And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims.",
+            "enTextTransliteration": "Wa yawma nab'asu fee kulli ummmatin shaheedan 'alaihim min anfusihim wa ji'naa bika shaheedan 'alaa haaa'ulaaa'; wa nazzalnaa 'alaikal Kitaaba tibyaanal likulli shai'inw wa hudanw wa rahmatanw wa bushraa lilmuslimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1990",
+            "numberInSurah": 89
+        },
+        {
+            "text": "۞ إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+            "bnText": "আল্লাহ ন্যায়পরায়ণতা, সদাচরণ এবং আত্নীয়-স্বজনকে দান করার আদেশ দেন এবং তিনি অশ্লীলতা, অসঙ্গত কাজ এবং অবাধ্যতা করতে বারণ করেন। তিনি তোমাদের উপদেশ দেন যাতে তোমরা স্মরণ রাখ।",
+            "enText": "Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.",
+            "enTextTransliteration": "Innal laaha yaamaru bil 'adli wal ihsaani wa eetaaa'i zil qurbaa wa yanhaa 'anil fahshaaa'i wal munkari walbagh-i' ya'izukum la'allakum tazakkkaroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1991",
+            "numberInSurah": 90
+        },
+        {
+            "text": "وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدتُّمْ وَلَا تَنقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+            "bnText": "আল্লাহর নামে অঙ্গীকার করার পর সে অঙ্গীকার পূর্ণ কর এবং পাকাপাকি কসম করার পর তা ভঙ্গ করো না, অথচ তোমরা আল্লাহকে জামিন করেছ। তোমরা যা কর আল্লাহ তা জানেন।",
+            "enText": "And fulfill the covenant of Allah when you have taken it, [O believers], and do not break oaths after their confirmation while you have made Allah, over you, a witness. Indeed, Allah knows what you do.",
+            "enTextTransliteration": "Wa awfoo bi Ahdil laahi izaa 'aahattum wa laa tanqudul aimaana ba'da tawkeedihaa wa qad ja'altumul laaha 'alaikum kafeelaa; innal laaha ya'lamu maa taf'aloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1992",
+            "numberInSurah": 91
+        },
+        {
+            "text": "وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ أَنكَاثًا تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِيَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ اللَّهُ بِهِ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+            "bnText": "তোমরা ঐ মহিলার মত হয়ো না, যে পরিশ্রমের পর কাটা সূতা টুকরো টুকরো করে ছিড়ে ফেলে, তোমরা নিজেদের কসমসমূহকে পারস্পরিক প্রবঞ্চনার বাহানা রূপে গ্রহণ কর এজন্যে যে, অন্য দল অপেক্ষা এক দল অধিক ক্ষমতাবান হয়ে যায়। এতদ্বারা তো আল্লাহ শুধু তোমাদের পরীক্ষা করেন। আল্লাহ অবশ্যই কিয়ামতের দিন প্রকাশ করে দেবেন, যে বিষয়ে তোমরা কলহ করতে।",
+            "enText": "And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allah only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ.",
+            "enTextTransliteration": "Wa laa takoonoo kallatee naqadat ghazlahaa mim ba'di quwwatin ankaasaa; tattakhizoona aimaanakum dakhlalam bainakum an takoona ummatun hiya arbaa min ummah; innnamaa yablookumul laahu bih; wa la yubaiyinanna lakum yawmal Qiyaamati maa kuntum fee takhtalifoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1993",
+            "numberInSurah": 92
+        },
+        {
+            "text": "وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِن يُضِلُّ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ ۚ وَلَتُسْأَلُنَّ عَمَّا كُنتُمْ تَعْمَلُونَ",
+            "bnText": "আল্লাহ ইচ্ছা করলে তোমাদের সবাইকে এক জাতি করে দিতে পারতেন, কিন্তু তিনি যাকে ইচ্ছা বিপথগামী করেন এবং যাকে ইচ্ছা পথ প্রদর্শন করেন। তোমরা যা কর সে বিষয়ে অবশ্যই জিজ্ঞাসিত হবে।",
+            "enText": "And if Allah had willed, He could have made you [of] one religion, but He causes to stray whom He wills and guides whom He wills. And you will surely be questioned about what you used to do.",
+            "enTextTransliteration": "Wa law shaaa'al laahu laja'alakum ummmatanw waahidatanw wa laakiny yudillu many-yashaaa'u wa yahdee many-yashaaa'; wa latus'alunna 'ammaa kuntum ta'maloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1994",
+            "numberInSurah": 93
+        },
+        {
+            "text": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا السُّوءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ اللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+            "bnText": "তোমরা স্বীয় কসমসমূহকে পারস্পরিক কলহ দ্বন্দ্বের বাহানা করো না। তা হলে দৃঢ়ভাবে প্রতিষ্ঠিত হওয়ার পর পা ফসকে যাবে এবং তোমরা শাস্তির স্বাদ আস্বাদন করবে এ কারণে যে, তোমরা আমার পথে বাধা দান করেছ এবং তোমাদের কঠোর শাস্তি হবে।",
+            "enText": "And do not take your oaths as [means of] deceit between you, lest a foot slip after it was [once] firm, and you would taste evil [in this world] for what [people] you diverted from the way of Allah, and you would have [in the Hereafter] a great punishment.",
+            "enTextTransliteration": "Wa laa tattakhizooo aimaanakum dakhalam bainakum ftazilla qadamum ba'da subootihaa wa tazooqus sooo'a bimmaa sadattum 'an sabeelil laahi wa lakum 'azaabun 'azeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1995",
+            "numberInSurah": 94
+        },
+        {
+            "text": "وَلَا تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَنًا قَلِيلًا ۚ إِنَّمَا عِندَ اللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+            "bnText": "তোমরা আল্লাহর অঙ্গীকারের বিনিময়ে সামান্য মূল্য গ্রহণ করো না। নিশ্চয় আল্লাহর কাছে যা আছে, তা উত্তম তোমাদের জন্যে, যদি তোমরা জ্ঞানী হও।",
+            "enText": "And do not exchange the covenant of Allah for a small price. Indeed, what is with Allah is best for you, if only you could know.",
+            "enTextTransliteration": "Wa laa tashtaroo bi 'ahdil laahi samanan qaleelaa; innamaa 'indal laahi huwa khairul lakum in kuntum ta'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1996",
+            "numberInSurah": 95
+        },
+        {
+            "text": "مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ اللَّهِ بَاقٍ ۗ وَلَنَجْزِيَنَّ الَّذِينَ صَبَرُوا أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ",
+            "bnText": "তোমাদের কাছে যা আছে নিঃশেষ হয়ে যাবে এবং আল্লাহর কাছে যা আছে, কখনও তা শেষ হবে না। যারা সবর করে, আমি তাদেরকে প্রাপ্য প্রতিদান দেব তাদের উত্তম কর্মের প্রতিদান স্বরূপ যা তারা করত।",
+            "enText": "Whatever you have will end, but what Allah has is lasting. And We will surely give those who were patient their reward according to the best of what they used to do.",
+            "enTextTransliteration": "maa 'indakum yanfadu wa maa 'indal laahi baaq; wa lanajziyannal lazeena sabarooo ajjrahum bi ahsani maa kaanoo ya'maloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1997",
+            "numberInSurah": 96
+        },
+        {
+            "text": "مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ",
+            "bnText": "যে সৎকর্ম সম্পাদন করে এবং সে ঈমাণদার, পুরুষ হোক কিংবা নারী আমি তাকে পবিত্র জীবন দান করব এবং প্রতিদানে তাদেরকে তাদের উত্তম কাজের কারণে প্রাপ্য পুরষ্কার দেব যা তারা করত।",
+            "enText": "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life, and We will surely give them their reward [in the Hereafter] according to the best of what they used to do.",
+            "enTextTransliteration": "Man 'amila saaliham min zakarin aw unsaa wa huwa mu'minun falanuhyiyannahoo hayaatan taiiyibatanw wa lanajzi yannnahum ajrahum bi ahsani maa kaanoo ya'maloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1998",
+            "numberInSurah": 97
+        },
+        {
+            "text": "فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+            "bnText": "অতএব, যখন আপনি কোরআন পাঠ করেন তখন বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় গ্রহণ করুন।",
+            "enText": "So when you recite the Qur'an, [first] seek refuge in Allah from Satan, the expelled [from His mercy].",
+            "enTextTransliteration": "Fa izaa qara tal Quraana fasta'iz billaahi minashh Shai taanir rajeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1999",
+            "numberInSurah": 98
+        },
+        {
+            "text": "إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+            "bnText": "তার আধিপত্য চলে না তাদের উপর যারা বিশ্বাস স্থাপন করে এবং আপন পালন কর্তার উপর ভরসা রাখে।",
+            "enText": "Indeed, there is for him no authority over those who have believed and rely upon their Lord.",
+            "enTextTransliteration": "Innahoo laisa lahoo sultaanun 'alal lazeena aamanoo wa 'alaa Rabbihim yatawakkaloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2000",
+            "numberInSurah": 99
+        },
+        {
+            "text": "إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم بِهِ مُشْرِكُونَ",
+            "bnText": "তার আধিপত্য তো তাদের উপরই চলে, যারা তাকে বন্ধু মনে করে এবং যারা তাকে অংশীদার মানে।",
+            "enText": "His authority is only over those who take him as an ally and those who through him associate others with Allah.",
+            "enTextTransliteration": "Innnamaa sultaanuhoo 'alal lazeena yatawallawnahoo wallazeena hum bihee mushrikoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2001",
+            "numberInSurah": 100
+        },
+        {
+            "text": "وَإِذَا بَدَّلْنَا آيَةً مَّكَانَ آيَةٍ ۙ وَاللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوا إِنَّمَا أَنتَ مُفْتَرٍ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+            "bnText": "এবং যখন আমি এক আয়াতের স্থলে অন্য আয়াত উপস্থিত করি এবং আল্লাহ যা অবতীর্ণ করেন তিনিই সে সম্পর্কে ভাল জানেন; তখন তারা বলেঃ আপনি তো মনগড়া উক্তি করেন; বরং তাদের অধিকাংশ লোকই জানে না।",
+            "enText": "And when We substitute a verse in place of a verse - and Allah is most knowing of what He sends down - they say, \"You, [O Muhammad], are but an inventor [of lies].\" But most of them do not know.",
+            "enTextTransliteration": "Wa izaa baddalnaaa Aayatam makaana Aayatinw wal laahu a'lamu bimaa yunazzilu qaalooo innamaa anta muftar; bal aksaruhum laa ya'lamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2002",
+            "numberInSurah": 101
+        },
+        {
+            "text": "قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِن رَّبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ آمَنُوا وَهُدًى وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+            "bnText": "বলুন, একে পবিত্র ফেরেশতা পালনকর্তার পক্ষ থেকে নিশ্চিত সত্যসহ নাযিল করেছেন, যাতে মুমিনদেরকে প্রতিষ্ঠিত করেন এবং এটা মুসলমানদের জন্যে পথ নির্দেশ ও সু-সংবাদ স্বরূপ।",
+            "enText": "Say, [O Muhammad], \"The Pure Spirit has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims.\"",
+            "enTextTransliteration": "Qul nazzalahoo Roohul Qudusi mir Rabbika bilhaqqi liyusabbital lazeena aamanoo wa hudanw wa bushraa lilmuslimeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2003",
+            "numberInSurah": 102
+        },
+        {
+            "text": "وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَرٌ ۗ لِّسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَٰذَا لِسَانٌ عَرَبِيٌّ مُّبِينٌ",
+            "bnText": "আমি তো ভালভাবেই জানি যে, তারা বলেঃ তাকে জনৈক ব্যক্তি শিক্ষা দেয়। যার দিকে তারা ইঙ্গিত করে, তার ভাষা তো আরবী নয় এবং এ কোরআন পরিষ্কার আরবী ভাষায়।",
+            "enText": "And We certainly know that they say, \"It is only a human being who teaches the Prophet.\" The tongue of the one they refer to is foreign, and this Qur'an is [in] a clear Arabic language.",
+            "enTextTransliteration": "Wa laqad na'lamu annahum yaqooloona innamaa yu'allimuhoo bashar; lisaanul lazee yulhidoona ilaihi a'ja miyyunw wa haaza lisaanun 'Arabiyyum mubeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2004",
+            "numberInSurah": 103
+        },
+        {
+            "text": "إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ لَا يَهْدِيهِمُ اللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+            "bnText": "যারা আল্লাহর কথায় বিশ্বাস করে না, তাদেরকে আল্লাহ পথ প্রদর্শন করেন না এবং তাদের জন্যে রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+            "enText": "Indeed, those who do not believe in the verses of Allah - Allah will not guide them, and for them is a painful punishment.",
+            "enTextTransliteration": "Innal lazeena laa yu'minoona bi Aayaatil laahi laa yahdehimul laahu wa lahum 'azaabun aleem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2005",
+            "numberInSurah": 104
+        },
+        {
+            "text": "إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْكَاذِبُونَ",
+            "bnText": "মিথ্যা কেবল তারা রচনা করে, যারা আল্লাহর নিদর্শনে বিশ্বাস করে না এবং তারাই মিথ্যাবাদী।",
+            "enText": "They only invent falsehood who do not believe in the verses of Allah, and it is those who are the liars.",
+            "enTextTransliteration": "Innamaa yaftaril kazibal lazeena laa yu'minoona bi Aayaatil laahi wa ulaaa'ika humul kaaziboon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2006",
+            "numberInSurah": 105
+        },
+        {
+            "text": "مَن كَفَرَ بِاللَّهِ مِن بَعْدِ إِيمَانِهِ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ وَلَٰكِن مَّن شَرَحَ بِالْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ اللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+            "bnText": "যার উপর জবরদস্তি করা হয় এবং তার অন্তর বিশ্বাসে অটল থাকে সে ব্যতীত যে কেউ বিশ্বাসী হওয়ার পর আল্লাহতে অবিশ্বাসী হয় এবং কুফরীর জন্য মন উম্মুক্ত করে দেয় তাদের উপর আপতিত হবে আল্লাহর গযব এবং তাদের জন্যে রয়েছে শাস্তি।",
+            "enText": "Whoever disbelieves in Allah after his belief... except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allah, and for them is a great punishment;",
+            "enTextTransliteration": "man kafara billaahi mim ba'di eemaanihee illaa man ukriha wa qalbuhoo mutmma'innum bil eemaani wa laakim man sharaha bilkufri sadran fa'alaihim ghadabum minal laahi wa lahum 'azaabun 'azeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2007",
+            "numberInSurah": 106
+        },
+        {
+            "text": "ذَٰلِكَ بِأَنَّهُمُ اسْتَحَبُّوا الْحَيَاةَ الدُّنْيَا عَلَى الْآخِرَةِ وَأَنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+            "bnText": "এটা এ জন্যে যে, তারা পার্থিব জীবনকে পরকালের চাইতে প্রিয় মনে করেছে এবং আল্লাহ অবিশ্বাসীদেরকে পথ প্রদর্শন করেন না।",
+            "enText": "That is because they preferred the worldly life over the Hereafter and that Allah does not guide the disbelieving people.",
+            "enTextTransliteration": "Zaalika bi annahumus tahabbul hayaatad dunyaa 'alal Aakhirati wa annal laaha laa yahdil qawmal kaafireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2008",
+            "numberInSurah": 107
+        },
+        {
+            "text": "أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَارِهِمْ ۖ وَأُولَٰئِكَ هُمُ الْغَافِلُونَ",
+            "bnText": "এরাই তারা, আল্লাহ তা’য়ালা এদেরই অন্তর, কর্ণ ও চক্ষুর উপর মোহর মেরে দিয়েছেন এবং এরাই কান্ড জ্ঞানহীন।",
+            "enText": "Those are the ones over whose hearts and hearing and vision Allah has sealed, and it is those who are the heedless.",
+            "enTextTransliteration": "Ulaaa'ikal lazeena taba'al laahu 'alaa quloobihim wa sam'ihim wa absaarihim wa ulaaa'ika humul ghaafiloon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2009",
+            "numberInSurah": 108
+        },
+        {
+            "text": "لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْخَاسِرُونَ",
+            "bnText": "বলাবাহুল্য পরকালে এরাই ক্ষতি গ্রস্ত হবে।",
+            "enText": "Assuredly, it is they, in the Hereafter, who will be the losers.",
+            "enTextTransliteration": "Laa jarama annnahum fil Aakhirati humul khassiroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2010",
+            "numberInSurah": 109
+        },
+        {
+            "text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا مِن بَعْدِ مَا فُتِنُوا ثُمَّ جَاهَدُوا وَصَبَرُوا إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+            "bnText": "যারা দুঃখ-কষ্ট ভোগের পর দেশত্যাগী হয়েছে অতঃপর জেহাদ করেছে, নিশ্চয় আপনার পালনকর্তা এসব বিষয়ের পরে অবশ্যই ক্ষমাশীল, পরম দয়ালু।",
+            "enText": "Then, indeed your Lord, to those who emigrated after they had been compelled [to renounce their religion] and thereafter fought [for the cause of Allah] and were patient - indeed, your Lord, after that, is Forgiving and Merciful",
+            "enTextTransliteration": "Summa inna Rabbaka lillazeena haajaroo mim ba'dimaa futinoo summma jaahadoo wa sabaroo inna Rabbaka mim ba'dihaa la Ghafoorur Raheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2011",
+            "numberInSurah": 110
+        },
+        {
+            "text": "۞ يَوْمَ تَأْتِي كُلُّ نَفْسٍ تُجَادِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+            "bnText": "যেদিন প্রত্যেক ব্যক্তি আত্ন-সমর্থনে সওয়াল জওয়াব করতে করতে আসবে এবং প্রত্যেক ব্যক্তি তাদের কৃতকর্মের পূর্ণ ফল পাবে এবং তাদের উপর জুলুম করা হবে না।",
+            "enText": "On the Day when every soul will come disputing for itself, and every soul will be fully compensated for what it did, and they will not be wronged.",
+            "enTextTransliteration": "Yawma taatee kullu nafsin tujaadilu 'an nafsihaa wa tuwaffaa kullu nafsim maa 'amilat wa hum laa yuzlamoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2012",
+            "numberInSurah": 111
+        },
+        {
+            "text": "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا كَانُوا يَصْنَعُونَ",
+            "bnText": "আল্লাহ দৃষ্টান্ত বর্ণনা করেছেন একটি জনপদের, যা ছিল নিরাপদ ও নিশ্চিন্ত, তথায় প্রত্যেক জায়গা থেকে আসত প্রচুর জীবনোপকরণ। অতঃপর তারা আল্লাহর নেয়ামতের প্রতি অকৃতজ্ঞতা প্রকাশ করল। তখন আল্লাহ তাদেরকে তাদের কৃতকর্মের কারণে স্বাদ আস্বাদন করালেন, ক্ষুধা ও ভীতির।",
+            "enText": "And Allah presents an example: a city which was safe and secure, its provision coming to it in abundance from every location, but it denied the favors of Allah. So Allah made it taste the envelopment of hunger and fear for what they had been doing.",
+            "enTextTransliteration": "Wa darabal laahu masalan qaryatan kaanat aaminatam mutma'innatany yaaateehaa rizquhaa rghadam min kulli makaanin fakafarat bi an'umil laahi fa azaaqahal laahu libaasal joo'i walkhawfi bimaa kaanoo yasna'oon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2013",
+            "numberInSurah": 112
+        },
+        {
+            "text": "وَلَقَدْ جَاءَهُمْ رَسُولٌ مِّنْهُمْ فَكَذَّبُوهُ فَأَخَذَهُمُ الْعَذَابُ وَهُمْ ظَالِمُونَ",
+            "bnText": "তাদের কাছে তাদের মধ্য থেকেই একজন রাসূল আগমন করেছিলেন। অনন্তর ওরা তাঁর প্রতি মিথ্যারোপ করল। তখন আযাব এসে তাদরকে পাকড়াও করল এবং নিশ্চিতই ওরা ছিল পাপাচারী।",
+            "enText": "And there had certainly come to them a Messenger from among themselves, but they denied him; so punishment overtook them while they were wrongdoers.",
+            "enTextTransliteration": "Wa laqad jaaa'ahum Rasoolum minhum fakazzaboohu fa akhazahumul 'azaabu wa hum zaalimoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2014",
+            "numberInSurah": 113
+        },
+        {
+            "text": "فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+            "bnText": "অতএব, আল্লাহ তোমাদেরকে যেসব হালাল ও পবিত্র বস্তু দিয়েছেন, তা তোমরা আহার কর এবং আল্লাহর অনুগ্রহের জন্যে কৃতজ্ঞতা প্রকাশ কর যদি তোমরা তাঁরই এবাদতকারী হয়ে থাক।",
+            "enText": "Then eat of what Allah has provided for you [which is] lawful and good. And be grateful for the favor of Allah, if it is [indeed] Him that you worship.",
+            "enTextTransliteration": "Fakuloo mimmaa razaqa kumul laahu halaalan taiyibanw washkuroo ni'matal laahi in kuntum iyyaahu ta'budoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2015",
+            "numberInSurah": 114
+        },
+        {
+            "text": "إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ ۖ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+            "bnText": "অবশ্যই আল্লাহ তোমাদের জন্যে হারাম করেছেন রক্ত, শুকরের মাংস এবং যা জবাই কালে আল্লাহ ছাড়া অন্যের নাম উচ্চারণ করা হয়েছে। অতঃপর কেউ সীমালঙ্ঘন কারী না হয়ে নিরুপায় হয়ে পড়লে তবে, আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+            "enText": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit] - then indeed, Allah is Forgiving and Merciful.",
+            "enTextTransliteration": "Innamaa harrma 'alai kumul maitata waddama wa lahmal khinzeeri wa maaa uhilla lighairil laahi bihee famanid turra ghaira baaghinw wa laa 'aadin fa innal laaha Ghafoorur Raheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2016",
+            "numberInSurah": 115
+        },
+        {
+            "text": "وَلَا تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَٰذَا حَلَالٌ وَهَٰذَا حَرَامٌ لِّتَفْتَرُوا عَلَى اللَّهِ الْكَذِبَ ۚ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ",
+            "bnText": "তোমাদের মুখ থেকে সাধারনতঃ যেসব মিথ্যা বের হয়ে আসে তেমনি করে তোমরা আল্লাহর বিরুদ্ধে মিথ্যা অপবাদ আরোপ করে বল না যে, এটা হালাল এবং ওটা হারাম। নিশ্চয় যারা আল্লাহর বিরুদ্ধে মিথ্যা আরোপ করে, তাদের মঙ্গল হবে না।",
+            "enText": "And do not say about what your tongues assert of untruth, \"This is lawful and this is unlawful,\" to invent falsehood about Allah. Indeed, those who invent falsehood about Allah will not succeed.",
+            "enTextTransliteration": "Wa laa taqooloo limaa tasifu alsinatukumul kaziba haaza halaalunw wa haazaa haraamul litaftaroo 'alal laahil kazib; innal lazeena yaftaroona 'alal laahil kaziba laa yuflihoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2017",
+            "numberInSurah": 116
+        },
+        {
+            "text": "مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+            "bnText": "যৎসামান্য সুখ-সম্ভোগ ভোগ করে নিক। তাদের জন্যে যন্ত্রনাদায়ক শাস্তি রয়েছে।",
+            "enText": "[It is but] a brief enjoyment, and they will have a painful punishment.",
+            "enTextTransliteration": "Mata'un qaleelunw wa lahum 'azaabun aleem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2018",
+            "numberInSurah": 117
+        },
+        {
+            "text": "وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ ۖ وَمَا ظَلَمْنَاهُمْ وَلَٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ",
+            "bnText": "ইহুদীদের জন্যে আমি তো কেবল তাই হারাম করেছিলাম যা ইতিপূর্বে আপনার নিকট উল্লেখ করেছি। আমি তাদের প্রতি কোন জুলুম করিনি, কিন্তু তারাই নিজেদের উপর জুলুম করত।",
+            "enText": "And to those who are Jews We have prohibited that which We related to you before. And We did not wrong them [thereby], but they were wronging themselves.",
+            "enTextTransliteration": "Wa 'alal lazeena haadoo harramnaa ma qasasnaa 'alaika min qablu wa maa zalamanaahum wa laakin kaanoo anfusahum wa laakin kaanoo anfusahum yazlimoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2019",
+            "numberInSurah": 118
+        },
+        {
+            "text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ ثُمَّ تَابُوا مِن بَعْدِ ذَٰلِكَ وَأَصْلَحُوا إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+            "bnText": "অনন্তর যারা অজ্ঞতাবশতঃ মন্দ কাজ করে, অতঃপর তওবা করে এবং নিজেকে সংশোধন করে নেয়, আপনার পালনকর্তা এসবের পরে তাদের জন্যে অবশ্যই ক্ষমাশীল, দয়ালু।",
+            "enText": "Then, indeed your Lord, to those who have done wrong out of ignorance and then repent after that and correct themselves - indeed, your Lord, thereafter, is Forgiving and Merciful.",
+            "enTextTransliteration": "Summma inna Rabbaka lillazeena 'amilus sooo'a bijahaalatin summa taaboo mim ba'di zaaalika wa aslahoo inna Rabbaka mim ba'dihaa la Ghafoorur Raheem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2020",
+            "numberInSurah": 119
+        },
+        {
+            "text": "إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ الْمُشْرِكِينَ",
+            "bnText": "নিশ্চয় ইব্রাহীম ছিলেন এক সম্প্রদায়ের প্রতীক, সবকিছু থেকে মুখ ফিরিয়ে এক আল্লাহরই অনুগত এবং তিনি শেরককারীদের অন্তর্ভুক্ত ছিলেন না।",
+            "enText": "Indeed, Abraham was a [comprehensive] leader, devoutly obedient to Allah, inclining toward truth, and he was not of those who associate others with Allah.",
+            "enTextTransliteration": "Inna Ibraaheema kaana ummatan qaanital lillaahi Haneefanw wa lam yakuminal mushrikeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2021",
+            "numberInSurah": 120
+        },
+        {
+            "text": "شَاكِرًا لِّأَنْعُمِهِ ۚ اجْتَبَاهُ وَهَدَاهُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+            "bnText": "তিনি তাঁর অনুগ্রহের প্রতি কৃতজ্ঞতা প্রকাশকারী ছিলেন। আল্লাহ তাঁকে মনোনীত করেছিলেন এবং সরল পথে পরিচালিত করেছিলেন।",
+            "enText": "[He was] grateful for His favors. Allah chose him and guided him to a straight path.",
+            "enTextTransliteration": "Shaakiral li an'umih; ijtabaahu wa hadaahu ilaa Siraatim Muustaqeem",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2022",
+            "numberInSurah": 121
+        },
+        {
+            "text": "وَآتَيْنَاهُ فِي الدُّنْيَا حَسَنَةً ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
+            "bnText": "আমি তাঁকে দুনিয়াতে দান করেছি কল্যাণ এবং তিনি পরকালেও সৎকর্মশীলদের অন্তর্ভূক্ত।",
+            "enText": "And We gave him good in this world, and indeed, in the Hereafter he will be among the righteous.",
+            "enTextTransliteration": "Wa aatainaahu fid dunyaa hasanah; wa innahoo fil Aakhirati laminas saaliheen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2023",
+            "numberInSurah": 122
+        },
+        {
+            "text": "ثُمَّ أَوْحَيْنَا إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+            "bnText": "অতঃপর আপনার প্রতি প্রত্যাদেশ প্রেরণ করেছি যে, ইব্রাহীমের দ্বীন অনুসরণ করুন, যিনি একনিষ্ঠ ছিলেন এবং শিরককারীদের অন্তর্ভূক্ত ছিলেন না।",
+            "enText": "Then We revealed to you, [O Muhammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allah.",
+            "enTextTransliteration": "Summma awhainaa ilaika anit tabi' Millata Ibraaheema haneefaa; wa maa kaana minal mushrikeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2024",
+            "numberInSurah": 123
+        },
+        {
+            "text": "إِنَّمَا جُعِلَ السَّبْتُ عَلَى الَّذِينَ اخْتَلَفُوا فِيهِ ۚ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+            "bnText": "শনিবার দিন পালন যে, নির্ধারণ করা হয়েছিল, তা তাদের জন্যেই যারা এতে মতবিরোধ করেছিল। আপনার পালনকর্তা কিয়ামতের দিন তাদের মধ্যে ফয়সালা করবেন যে বিষয়ে তারা মতবিরোধ করত।",
+            "enText": "The sabbath was only appointed for those who differed over it. And indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
+            "enTextTransliteration": "Innnamaa ju'ilas Sabtu 'alal lazeenakhtalafoo feeh; wa inna Rabbaka la yahkumu bainahum Yawmal Qiyaamati feemaa kaanoo feehi yakhtalifoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2025",
+            "numberInSurah": 124
+        },
+        {
+            "text": "ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+            "bnText": "আপন পালনকর্তার পথের প্রতি আহবান করুন জ্ঞানের কথা বুঝিয়ে ও উপদেশ শুনিয়ে উত্তমরূপে এবং তাদের সাথে বিতর্ক করুন পছন্দ যুক্ত পন্থায়। নিশ্চয় আপনার পালনকর্তাই ঐ ব্যক্তি সম্পর্কে বিশেষ ভাবে জ্ঞাত রয়েছেন, যে তাঁর পথ থেকে বিচ্যুত হয়ে পড়েছে এবং তিনিই ভাল জানেন তাদেরকে, যারা সঠিক পথে আছে।",
+            "enText": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided.",
+            "enTextTransliteration": "Ud'u ilaa sabeeli Rabbika bilhikmati walmaw 'izatil hasanati wa jaadilhum billatee hiya ahsan; inna Rabbaka huwa a'almu biman dalla 'an sabeelihee wa Huwa a'lamu bilmuhtadeen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2026",
+            "numberInSurah": 125
+        },
+        {
+            "text": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُم بِهِ ۖ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرِينَ",
+            "bnText": "আর যদি তোমরা প্রতিশোধ গ্রহণ কর, তবে ঐ পরিমাণ প্রতিশোধ গ্রহণ করবে, যে পরিমাণ তোমাদেরকে কষ্ট দেয়া হয়। যদি সবর কর, তবে তা সবরকারীদের জন্যে উত্তম।",
+            "enText": "And if you punish [an enemy, O believers], punish with an equivalent of that with which you were harmed. But if you are patient - it is better for those who are patient.",
+            "enTextTransliteration": "Wa in 'aaqabtum fa'aaqiboo bimisli maa 'ooqibtum bihee wa la'in sabartum lahuwa khairul lissaabireen",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2027",
+            "numberInSurah": 126
+        },
+        {
+            "text": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+            "bnText": "আপনি সবর করবেন। আপনার সবর আল্লাহর জন্য ব্যতীত নয়, তাদের জন্যে দুঃখ করবেন না এবং তাদের চক্রান্তের কারণে মন ছোট করবেন না।",
+            "enText": "And be patient, [O Muhammad], and your patience is not but through Allah. And do not grieve over them and do not be in distress over what they conspire.",
+            "enTextTransliteration": "Wasbir wa maa sabruka illaa billaah; wa laa tahzan 'alaihim wa laa taku fee daiqim mimmaa yamkuroon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2028",
+            "numberInSurah": 127
+        },
+        {
+            "text": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+            "bnText": "নিশ্চয় আল্লাহ তাদের সঙ্গে আছেন, যারা পরহেযগার এবং যারা সৎকর্ম করে।",
+            "enText": "Indeed, Allah is with those who fear Him and those who are doers of good.",
+            "enTextTransliteration": "Innal laaha ma'al lazeenat taqaw wal lazeena hum muhsinoon",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/2029",
+            "numberInSurah": 128
+        }
+    ]
+}

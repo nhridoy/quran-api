@@ -1,0 +1,43 @@
+{
+    "no": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "enName": "Al-Ikhlaas",
+    "enNameTranslation": "Sincerity",
+    "bnNameTranslation": "আল ইখলাস",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "verses": [
+        {
+            "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+            "bnText": "বলুন, তিনি আল্লাহ, এক",
+            "enText": "Say, \"He is Allah, [who is] One,",
+            "enTextTransliteration": "Qul huwal laahu ahad",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6222",
+            "numberInSurah": 1
+        },
+        {
+            "text": "اللَّهُ الصَّمَدُ",
+            "bnText": "আল্লাহ অমুখাপেক্ষী",
+            "enText": "Allah, the Eternal Refuge.",
+            "enTextTransliteration": "Allah hus-samad",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6223",
+            "numberInSurah": 2
+        },
+        {
+            "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "bnText": "তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি",
+            "enText": "He neither begets nor is born,",
+            "enTextTransliteration": "Lam yalid wa lam yoolad",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6224",
+            "numberInSurah": 3
+        },
+        {
+            "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+            "bnText": "এবং তার সমতুল্য কেউ নেই।",
+            "enText": "Nor is there to Him any equivalent.\"",
+            "enTextTransliteration": "Wa lam yakul-lahu kufuwan ahad",
+            "audioPrimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6225",
+            "numberInSurah": 4
+        }
+    ]
+}
