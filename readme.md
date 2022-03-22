@@ -6,7 +6,10 @@ The API I found on the internet has these but the requirements are in different 
 So with the help of those APIs, I have made my Own **Al Quran API**.
 Hope you like it.
 
-**EndPoints:**
+## **EndPoints:**
+
+### **Version 1**
+
 **_Full Quran_**
 
 ```url
@@ -65,6 +68,92 @@ _Minified:_
 
 ```url
 https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v1/singleSurahAudioList.min.json
+```
+
+**_Single Surah_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v1/surah/1.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v1/surah/1.min.json
+```
+
+### **Version 2**
+
+**_Full Quran_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/quran.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/quran.min.json
+```
+
+**_All Surah List_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/allSurahList.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/allSurahList.min.json
+```
+
+**_All Surah Audio List_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/allSurahAudioList.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/allSurahAudioList.min.json
+```
+
+**_Single Surah List_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/singleSurah.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/singleSurah.min.json
+```
+
+**_Single Surah Audio List_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/singleSurahAudioList.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/singleSurahAudioList.min.json
+```
+
+**_Single Surah_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/surah/1.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/surah/1.min.json
 ```
 
 _Note: Because each endpoints contains huge ammount of data. That is why I recommend using minified version. Still It takes time to load each endpoints_
