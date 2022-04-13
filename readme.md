@@ -168,7 +168,7 @@ _Minified:_
 https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/para/1.min.json
 ```
 
-_Note: Because each endpoints contains huge ammount of data. That is why I recommend using minified version. Still It takes time to load each endpoints_
+_Note: Because each endpoints contains huge amount of data. That is why I recommend using minified version. Still It takes time to load each endpoints_
 
 **Honorable Mentions:**
 
