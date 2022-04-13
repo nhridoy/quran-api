@@ -156,6 +156,18 @@ _Minified:_
 https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/surah/1.min.json
 ```
 
+**_Single Para_**
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/para/1.json
+```
+
+_Minified:_
+
+```url
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v2/para/1.min.json
+```
+
 _Note: Because each endpoints contains huge ammount of data. That is why I recommend using minified version. Still It takes time to load each endpoints_
 
 **Honorable Mentions:**
