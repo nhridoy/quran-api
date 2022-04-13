@@ -95,6 +95,10 @@ def minify(filename):
 def main():
     cwd = os.getcwd()  # Get the current working directory (cwd)
     files = os.listdir(cwd)  # Get all the files in that directory
+    dirName = 'compressed'
+    if not os.path.exists(dirName):
+        os.mkdir(dirName)
+        print("Directory ", dirName,  " Created ")  # Output directory created
     print("Files in %r: %s" % (cwd, files))
     for f in files:
         if f.endswith('.json'):
