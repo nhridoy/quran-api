@@ -72,13 +72,13 @@ def minify(filename):
     new_file_location = os.path.join(
         './compressed/', newname)  # Output file location
     with open(filename, encoding="utf8") as fp:
-        print("Compressing file: " + filename)
+        print(f"Compressing file: {filename}")
         print('Compressing...')
 
         jload = json.load(fp)
         newfile = json.dumps(jload, indent=None, separators=(
             ',', ':'), ensure_ascii=False)
-        # newfile = str.encode(newfile) # remove this
+            # newfile = str.encode(newfile) # remove this
     with open(new_file_location, 'w',  encoding="utf8") as f:  # add encoding="utf8"
         f.write(newfile)
 

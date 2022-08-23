@@ -16,9 +16,8 @@ for key in data['singleSurah']:
     # break
     newname = f'{key}.min.json'
     new_file_location = os.path.join('./divide/', newname)
-    write_file = open(new_file_location, 'w',  encoding="utf8")
-    # write_file.write(dumping.encode('cp1252', errors='ignore'))
+    with open(new_file_location, 'w',  encoding="utf8") as write_file:
+        # write_file.write(dumping.encode('cp1252', errors='ignore'))
 
-    # newfile = str.encode(str(surah)).decode('unicode_escape')
-    write_file.write(dumping)
-    write_file.close()
+        # newfile = str.encode(str(surah)).decode('unicode_escape')
+        write_file.write(dumping)
