@@ -89,10 +89,6 @@ function fetchJSON(url) {
   });
 }
 
-function stripHtml(html) {
-  return (html || '').replace(/<[^>]*>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim();
-}
-
 function safeUnlink(p) {
   try { fs.unlinkSync(p); } catch (_) {}
 }
@@ -223,26 +219,19 @@ function buildRevelationOrderMap(chapters) {
 // =========================================================================
 
 async function fetchTafsir(surahNumber) {
-  const url = `${ISLAMIC_APP_BASE}/verses/by_chapter/${surahNumber}?per_page=500&tafsirs=en-tafsir-maarif-ul-quran,bn-tafsir-abu-bakr-zakaria`;
-  const data = await fetchJSON(url);
-  const verses = data.data.verses;
+  const json = await fetchJSON(
+    `${ISLAMIC_APP_BASE}/verses/by_chapter/${surahNumber}?tafsirs=en-tafsir-maarif-ul-quran,bn-tafsir-abu-bakr-zakaria`
+  );
   const tafsirMap = {};
-
-  for (const v of verses) {
-    const verseNum = v.verse_number;
-    const tafsirs = v.tafsirs || [];
-    let en = '';
-    let bn = '';
-    for (const t of tafsirs) {
-      if (t.slug === 'en-tafsir-maarif-ul-quran') {
-        en = stripHtml(t.text);
-      } else if (t.slug === 'bn-tafsir-abu-bakr-zakaria') {
-        bn = stripHtml(t.text);
-      }
+  for (const v of json.data.verses) {
+    const vn = v.verse_number;
+    let en = '', bn = '';
+    for (const t of (v.tafsirs || [])) {
+      if (t.slug === 'en-tafsir-maarif-ul-quran') en = t.text;
+      else if (t.slug === 'bn-tafsir-abu-bakr-zakaria') bn = t.text;
     }
-    tafsirMap[verseNum] = { en, bn };
+    tafsirMap[vn] = { en, bn };
   }
-
   return tafsirMap;
 }
 
