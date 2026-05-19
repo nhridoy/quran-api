@@ -1,0 +1,1662 @@
+{
+  "no": 58,
+  "name_arabic": "المجادلة",
+  "translated_name": "The Pleading Woman",
+  "translated_name_literation": "Al-Mujadila",
+  "en_name": "Al-Mujadila",
+  "revelation_place": "madinah",
+  "revelation_order": 105,
+  "number_of_verses": 22,
+  "verses": [
+    {
+      "id": 5105,
+      "verse_number": 5105,
+      "verse_key": "58:1",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 478,
+      "manzil": 7,
+      "page": 542,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": " قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "text_uthmani_simple": "قد سمع الله قول التى تجدلك فى زوجها وتشتكى الى الله والله يسمع تحاوركما ان الله سميعۢ بصير",
+      "text_imlaei": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+      "text_imlaei_simple": "قد سمع الله قول التي تجادلك في زوجها وتشتكي الى الله والله يسمع تحاوركما ان الله سميع بصير",
+      "text_indopak": "قَدۡ سَمِعَ اللّٰهُ قَوۡلَ الَّتِىۡ تُجَادِلُكَ فِىۡ زَوۡجِهَا وَ تَشۡتَكِىۡۤ اِلَى اللّٰهِ ​ۖ وَاللّٰهُ يَسۡمَعُ تَحَاوُرَكُمَا​ ؕ اِنَّ اللّٰهَ سَمِيۡعٌ ۢ بَصِيۡرٌ‏",
+      "text_uthmani_tajweed": "قَ<tajweed class=qalaqah>دْ</tajweed> سَمِعَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ قَوْلَ <tajweed class=ham_wasl>ٱ</tajweed>لَّتِى تُجَ<tajweed class=madda_normal>ـٰ</tajweed>دِلُكَ فِى زَوْجِهَا وَتَشْتَك<tajweed class=madda_obligatory>ِىٓ</tajweed> إِلَى <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ وَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهُ يَسْمَعُ تَحَاوُرَكُم<tajweed class=madda_obligatory>َآ‌ۚ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ سَمِي<tajweed class=iqlab>عُۢ ب</tajweed>َص<tajweed class=madda_permissible>ِي</tajweed>رٌ <span class=end>١</span>",
+      "text_literation": "Qad samiAAa Allahu qawla allatee tujadilukafee zawjiha watashtakee ila Allahi wallahuyasmaAAu tahawurakuma inna Allaha sameeAAunbaseer",
+      "translated_text": "Allah je čuo riječi one koja se s tobom o mužu svome raspravljala i Allahu se jadala – a Allah čuje razgovor vaš međusobni, jer Allah, uistinu, sve čuje i sve vidi.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058001.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058001.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058001.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058001.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058001.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058001.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058001.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058001.mp3"
+        }
+      ],
+      "number_in_surah": 1
+    },
+    {
+      "id": 5106,
+      "verse_number": 5106,
+      "verse_key": "58:2",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 478,
+      "manzil": 7,
+      "page": 542,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "text_uthmani_simple": "الذين يظهرون منكم من نسائهم ما هن امهتهم ان امهتهم الا الـى ولدنهم وانهم ليقولون منكرا من القول وزورا وان الله لعفو غفور",
+      "text_imlaei": "الَّذِينَ يُظَاهِرُونَ مِنكُم مِّن نِّسَائِهِم مَّا هُنَّ أُمَّهَاتِهِمْ ۖ إِنْ أُمَّهَاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا ۚ وَإِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "text_imlaei_simple": "الذين يظاهرون منكم من نسائهم ما هن امهاتهم ان امهاتهم الا اللائي ولدنهم وانهم ليقولون منكرا من القول وزورا وان الله لعفو غفور",
+      "text_indopak": "اَلَّذِيۡنَ يُظٰهِرُوۡنَ مِنۡكُمۡ مِّنۡ نِّسَآٮِٕهِمۡ مَّا هُنَّ اُمَّهٰتِهِمۡ​ؕ اِنۡ اُمَّهٰتُهُمۡ اِلَّا الّٰٓـىِٔۡ وَلَدۡنَهُمۡ​ؕ وَاِنَّهُمۡ لَيَقُوۡلُوۡنَ مُنۡكَرًا مِّنَ الۡقَوۡلِ وَزُوۡرًا​ؕ وَ اِنَّ اللّٰهَ لَعَفُوٌّ غَفُوۡرٌ‏",
+      "text_uthmani_tajweed": "ٱلَّذِينَ يُظَ<tajweed class=madda_normal>ـٰ</tajweed>هِرُونَ مِ<tajweed class=ikhafa>نك</tajweed><tajweed class=idgham_shafawi>ُم م</tajweed>ّ<tajweed class=idgham_ghunnah>ِن ن</tajweed>ِّس<tajweed class=madda_obligatory>َا</tajweed>ٓئِه<tajweed class=idgham_shafawi>ِم م</tajweed>َّا هُ<tajweed class=ghunnah>نّ</tajweed>َ أُ<tajweed class=ghunnah>مّ</tajweed>َهَ<tajweed class=madda_normal>ـٰ</tajweed>تِهِمْ‌ۖ إِنْ أُ<tajweed class=ghunnah>مّ</tajweed>َهَ<tajweed class=madda_normal>ـٰ</tajweed>تُهُمْ إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لَّ<tajweed class=madda_obligatory>ــٰٓ</tajweed>ــِٔى وَلَ<tajweed class=qalaqah>دْ</tajweed>نَهُمْ‌ۚ وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ لَيَقُولُونَ مُ<tajweed class=ikhafa>نك</tajweed>َ<tajweed class=idgham_ghunnah>رًا م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed>لْقَوْلِ وَزُو<tajweed class=idgham_ghunnah>رًا‌ۚ و</tajweed>َإِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ لَعَفُوٌّ غَف<tajweed class=madda_permissible>ُو</tajweed>رٌ <span class=end>٢</span>",
+      "text_literation": "Allatheena yuthahiroonaminkum min nisa-ihim ma hunna ommahatihim inommahatuhum illa alla-ee waladnahumwa-innahum layaqooloona munkaran mina alqawli wazooran wa-innaAllaha laAAafuwwun ghafoor",
+      "translated_text": "Oni od vas koji ženama svojim reknu da im nisu više dopuštene, kao što im nisu dopuštene majke njihove – a one nisu majke njihove, majke njihove su samo one koje su ih rodile – oni, zaista, govore ružne riječi i neistinu – a Allah, sigurno, briše grijehe i prašta.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058002.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058002.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058002.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058002.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058002.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058002.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058002.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058002.mp3"
+        }
+      ],
+      "number_in_surah": 2
+    },
+    {
+      "id": 5107,
+      "verse_number": 5107,
+      "verse_key": "58:3",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 478,
+      "manzil": 7,
+      "page": 542,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "وَٱلَّذِينَ يُظَـٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا۟ فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِۦ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "text_uthmani_simple": "والذين يظهرون من نسائهم ثم يعودون لما قالوا۟ فتحرير رقبة من قبل ان يتماسا ذلكم توعظون به والله بما تعملون خبير",
+      "text_imlaei": "وَالَّذِينَ يُظَاهِرُونَ مِن نِّسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَاسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "text_imlaei_simple": "والذين يظاهرون من نسائهم ثم يعودون لما قالوا فتحرير رقبة من قبل ان يتماسا ذلكم توعظون به والله بما تعملون خبير",
+      "text_indopak": "وَالَّذِيۡنَ يُظٰهِرُوۡنَ مِنۡ نِّسَآٮِٕهِمۡ ثُمَّ يَعُوۡدُوۡنَ لِمَا قَالُوۡا فَتَحۡرِيۡرُ رَقَبَةٍ مِّنۡ قَبۡلِ اَنۡ يَّتَمَآسَّا​ ؕ ذٰ لِكُمۡ تُوۡعَظُوۡنَ بِهٖ​ ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏",
+      "text_uthmani_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ يُظَ<tajweed class=madda_normal>ـٰ</tajweed>هِرُونَ م<tajweed class=idgham_ghunnah>ِن ن</tajweed>ِّس<tajweed class=madda_obligatory>َا</tajweed>ٓئِهِمْ ثُ<tajweed class=ghunnah>مّ</tajweed>َ يَعُودُونَ لِمَا قَالُو<tajweed class=slnt>اْ</tajweed> فَتَحْرِيرُ رَقَبَ<tajweed class=idgham_ghunnah>ةٍ م</tajweed>ِّ<tajweed class=ikhafa>ن ق</tajweed>َ<tajweed class=qalaqah>بْ</tajweed>لِ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َتَم<tajweed class=madda_necessary>َا</tajweed>ٓسَّا‌ۚ ذ<tajweed class=madda_normal>َٲ</tajweed>لِكُمْ تُوعَظُونَ بِه<tajweed class=madda_normal>ِۦ</tajweed>‌ۚ وَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهُ بِمَا تَعْمَلُونَ خَب<tajweed class=madda_permissible>ِي</tajweed>رٌ <span class=end>٣</span>",
+      "text_literation": "Wallatheena yuthahiroonamin nisa-ihim thumma yaAAoodoona lima qaloofatahreeru raqabatin min qabli an yatamassa thalikumtooAAathoona bihi wallahu bimataAAmaloona khabeer",
+      "translated_text": "Oni koji ženama svojim reknu da im nisu dopuštene, kao što im nisu dopuštene majke njihove, a onda odluče da s njima nastave živjeti, dužni su, prije nego što jedno drugo dodirnu, da jednog roba ropstva oslobode. To vam se naređuje – a Allah dobro zna ono što vi radite.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058003.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058003.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058003.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058003.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058003.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058003.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058003.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058003.mp3"
+        }
+      ],
+      "number_in_surah": 3
+    },
+    {
+      "id": 5108,
+      "verse_number": 5108,
+      "verse_key": "58:4",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 478,
+      "manzil": 7,
+      "page": 542,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا ۖ فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ۚ ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ أَلِيمٌ",
+      "text_uthmani_simple": "فمن لم يجد فصيام شهرين متتابعين من قبل ان يتماسا فمن لم يستطع فاطعام ستين مسكينا ذلك لتؤمنوا۟ بالله ورسوله وتلك حدود الله وللكفرين عذاب اليم",
+      "text_imlaei": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَاسَّا ۖ فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ۚ ذَٰلِكَ لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+      "text_imlaei_simple": "فمن لم يجد فصيام شهرين متتابعين من قبل ان يتماسا فمن لم يستطع فاطعام ستين مسكينا ذلك لتؤمنوا بالله ورسوله وتلك حدود الله وللكافرين عذاب اليم",
+      "text_indopak": "فَمَنۡ لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ مِنۡ قَبۡلِ اَنۡ يَّتَمَآسَّاؕ فَمَنۡ لَّمۡ يَسۡتَطِعۡ فَاِطۡعَامُ سِتِّيۡنَ مِسۡكِيۡنًا​ؕ ذٰلِكَ لِتُؤۡمِنُوۡا بِاللّٰهِ وَرَسُوۡلِهٖ​ؕ وَتِلۡكَ حُدُوۡدُ اللّٰهِ​ؕ وَلِلۡكٰفِرِيۡنَ عَذَابٌ اَلِیْمٌ‏",
+      "text_uthmani_tajweed": "فَم<tajweed class=idgham_wo_ghunnah>َن ل</tajweed>َّمْ يَجِ<tajweed class=qalaqah>دْ</tajweed> فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِ<tajweed class=ikhafa>ن ق</tajweed>َ<tajweed class=qalaqah>بْ</tajweed>لِ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َتَم<tajweed class=madda_necessary>َا</tajweed>ٓسَّا‌ۖ فَم<tajweed class=idgham_wo_ghunnah>َن ل</tajweed>َّمْ يَسْتَطِعْ فَإِ<tajweed class=qalaqah>طْ</tajweed>عَامُ سِتِّينَ مِسْكِي<tajweed class=ikhafa>نًا‌ۚ ذ</tajweed><tajweed class=madda_normal>َٲ</tajweed>لِكَ لِتُؤْمِنُو<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed>للَّهِ وَرَسُولِه<tajweed class=madda_normal>ِۦ</tajweed>‌ۚ وَتِلْكَ حُدُودُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ‌ۗ وَلِلْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِرِينَ عَذَابٌ أَل<tajweed class=madda_permissible>ِي</tajweed>مٌ <span class=end>٤</span>",
+      "text_literation": "Faman lam yajid fasiyamushahrayni mutatabiAAayni min qabli an yatamassafaman lam yastatiAA fa-itAAamu sitteenamiskeenan thalika litu/minoo billahiwarasoolihi watilka hudoodu Allahi walilkafireenaAAathabun aleem",
+      "translated_text": "Onaj koji ne nađe, dužan je da dva mjeseca posti uzastopce prije nego jedno drugo dodirne. A onaj ko ne može, dužan je da šezdeset siromaha nahrani, zato da biste potvrdili da u Allaha i Poslanika Njegova vjerujete – to su vam Allahovi propisi. A nevjernike čeka patnja nesnosna.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058004.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058004.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058004.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058004.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058004.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058004.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058004.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058004.mp3"
+        }
+      ],
+      "number_in_surah": 4
+    },
+    {
+      "id": 5109,
+      "verse_number": 5109,
+      "verse_key": "58:5",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 478,
+      "manzil": 7,
+      "page": 542,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُوا۟ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَقَدْ أَنزَلْنَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌ مُّهِينٌ",
+      "text_uthmani_simple": "ان الذين يحادون الله ورسوله كبتوا۟ كما كبت الذين من قبلهم وقد انزلنا ءايتۭ بينت وللكفرين عذاب مهين",
+      "text_imlaei": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِن قَبْلِهِمْ ۚ وَقَدْ أَنزَلْنَا آيَاتٍ بَيِّنَاتٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُّهِينٌ",
+      "text_imlaei_simple": "ان الذين يحادون الله ورسوله كبتوا كما كبت الذين من قبلهم وقد انزلنا ايات بينات وللكافرين عذاب مهين",
+      "text_indopak": "اِنَّ الَّذِيۡنَ يُحَآدُّوۡنَ اللّٰهَ وَرَسُوۡلَهٗ كُبِتُوۡا كَمَا كُبِتَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ​ وَقَدۡ اَنۡزَلۡنَاۤ اٰيٰتٍۢ بَيِّنٰتٍ​ ؕ وَ لِلۡكٰفِرِيۡنَ عَذَابٌ مُّهِيۡنٌ​ ۚ‏",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ يُح<tajweed class=madda_necessary>َا</tajweed>ٓدُّونَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَرَسُولَهُ<tajweed class=madda_normal>ۥ</tajweed> كُبِتُو<tajweed class=slnt>اْ</tajweed> كَمَا كُبِتَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ مِ<tajweed class=ikhafa>ن ق</tajweed>َ<tajweed class=qalaqah>بْ</tajweed>لِهِمْ‌ۚ وَقَ<tajweed class=qalaqah>دْ</tajweed> أَ<tajweed class=ikhafa>نز</tajweed>َلْن<tajweed class=madda_obligatory>َآ</tajweed> ءَايَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=iqlab>تِۭ ب</tajweed>َيِّنَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ‌ۚ و</tajweed>َلِلْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِرِينَ عَذَا<tajweed class=idgham_ghunnah>بٌ م</tajweed>ُّه<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>٥</span>",
+      "text_literation": "Inna allatheena yuhaddoona Allahawarasoolahu kubitoo kama kubita allatheena minqablihim waqad anzalna ayatin bayyinatinwalilkafireena AAathabun muheen",
+      "translated_text": "Oni koji su neposlušni Allahu i Poslaniku Njegovu biće osramoćeni, kao što su bili osramoćeni i oni prije njih. Mi objavljujemo jasne dokaze, a nevjernike čeka sramna patnja",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058005.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058005.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058005.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058005.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058005.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058005.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058005.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058005.mp3"
+        }
+      ],
+      "number_in_surah": 5
+    },
+    {
+      "id": 5110,
+      "verse_number": 5110,
+      "verse_key": "58:6",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 478,
+      "manzil": 7,
+      "page": 542,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "text_uthmani_simple": "يوم يبعثهم الله جميعا فينبئهم بما عملوا۟ احصىه الله ونسوه والله على كل شىء شهيد",
+      "text_imlaei": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوا ۚ أَحْصَاهُ اللَّهُ وَنَسُوهُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+      "text_imlaei_simple": "يوم يبعثهم الله جميعا فينبئهم بما عملوا احصاه الله ونسوه والله على كل شيء شهيد",
+      "text_indopak": "يَوۡمَ يَبۡعَثُهُمُ اللّٰهُ جَمِيۡعًا فَيُنَبِّئُهُمۡ بِمَا عَمِلُوۡا​ ؕ اَحۡصٰٮهُ اللّٰهُ وَنَسُوۡهُ​ ؕ وَاللّٰهُ عَلٰى كُلِّ شَىۡءٍ شَهِيۡدٌ​‏",
+      "text_uthmani_tajweed": "يَوْمَ يَ<tajweed class=qalaqah>بْ</tajweed>عَثُهُمُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ جَمِي<tajweed class=ikhafa>عًا ف</tajweed>َيُنَبِّئُه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِمَا عَمِل<tajweed class=madda_obligatory>ُوٓ<tajweed class=slnt>اْ</tajweed>‌ۚ</tajweed> أَحْصَ<tajweed class=madda_normal>ـٰ</tajweed>هُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ وَنَسُوهُ‌ۚ وَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهُ عَلَىٰ كُلِّ ش<tajweed class=ikhafa>َىْءٍ ش</tajweed>َه<tajweed class=madda_permissible>ِي</tajweed><tajweed class=qalaqah>د</tajweed>ٌ <span class=end>٦</span>",
+      "text_literation": "Yawma yabAAathuhumu Allahu jameeAAanfayunabbi-ohum bima AAamiloo ahsahu Allahuwanasoohu wallahu AAala kulli shay-inshaheed",
+      "translated_text": "na Dan kada ih Allah sve oživi, pa ih obavijesti o onome šta su radili; Allah je o tome račun sveo, a oni su to zaboravili – Allah je svemu svjedok.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058006.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058006.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058006.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058006.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058006.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058006.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058006.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058006.mp3"
+        }
+      ],
+      "number_in_surah": 6
+    },
+    {
+      "id": 5111,
+      "verse_number": 5111,
+      "verse_key": "58:7",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 479,
+      "manzil": 7,
+      "page": 543,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "text_uthmani_simple": "الم تر ان الله يعلم ما فى السموت وما فى الارض ما يكون من نجوى ثلثة الا هو رابعهم ولا خمسة الا هو سادسهم ولا ادنى من ذلك ولا اكثر الا هو معهم اين ما كانوا۟ ثم ينبئهم بما عملوا۟ يوم القيمة ان الله بكل شىء عليم",
+      "text_imlaei": "أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَىٰ مِن ذَٰلِكَ وَلَا أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "text_imlaei_simple": "الم تر ان الله يعلم ما في السماوات وما في الارض ما يكون من نجوى ثلاثة الا هو رابعهم ولا خمسة الا هو سادسهم ولا ادنى من ذلك ولا اكثر الا هو معهم اين ما كانوا ثم ينبئهم بما عملوا يوم القيامة ان الله بكل شيء عليم",
+      "text_indopak": "اَلَمۡ تَرَ اَنَّ اللّٰهَ يَعۡلَمُ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ مَا يَكُوۡنُ مِنۡ نَّجۡوٰى ثَلٰثَةٍ اِلَّا هُوَ رَابِعُهُمۡ وَلَا خَمۡسَةٍ اِلَّا هُوَ سَادِسُهُمۡ وَلَاۤ اَدۡنٰى مِنۡ ذٰ لِكَ وَلَاۤ اَكۡثَرَ اِلَّا هُوَ مَعَهُمۡ اَيۡنَ مَا كَانُوۡا​ۚ ثُمَّ يُنَبِّئُهُمۡ بِمَا عَمِلُوۡا يَوۡمَ الۡقِيٰمَةِ​ ؕ اِنَّ اللّٰهَ بِكُلِّ شَىۡءٍ عَلِيۡمٌ‏",
+      "text_uthmani_tajweed": "أَلَمْ تَرَ أَ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ يَعْلَمُ مَا فِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمَ<tajweed class=madda_normal>ـٰ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>تِ وَمَا فِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ‌ۖ مَا يَكُونُ م<tajweed class=idgham_ghunnah>ِن ن</tajweed>َّ<tajweed class=qalaqah>جْ</tajweed>وَىٰ ثَلَ<tajweed class=madda_normal>ـٰ</tajweed>ثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=qalaqah>دْ</tajweed>نَىٰ مِ<tajweed class=ikhafa>ن ذ</tajweed><tajweed class=madda_normal>َٲ</tajweed>لِكَ وَل<tajweed class=madda_obligatory>َآ</tajweed> أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُو<tajweed class=slnt>اْ‌ۖ</tajweed> ثُ<tajweed class=ghunnah>مّ</tajweed>َ يُنَبِّئُه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِمَا عَمِلُو<tajweed class=slnt>اْ</tajweed> يَوْمَ <tajweed class=ham_wasl>ٱ</tajweed>لْقِيَ<tajweed class=madda_normal>ـٰ</tajweed>مَةِ‌ۚ إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ بِكُلِّ شَىْءٍ عَل<tajweed class=madda_permissible>ِي</tajweed>مٌ <span class=end>٧</span>",
+      "text_literation": "Alam tara anna Allaha yaAAlamu mafee assamawati wama fee al-ardima yakoonu min najwa thalathatin illahuwa rabiAAuhum wala khamsatin illa huwa sadisuhumwala adna min thalika wala aktharailla huwa maAAahum ayna ma kanoo thummayunabbi-ohum bima AAamiloo yawma alqiyamati innaAllaha bikulli shay-in AAaleem",
+      "translated_text": "Zar ne znaš da Allah zna što je na nebesima i što je na Zemlji? Nema tajnih razgovora među trojicom, a da On nije četvrti, niti među petericom a da On nije šesti, ni kad ih je manje ni kad ih je više, a da On nije s njima gdje god oni bili; On će ih na Sudnjem danu obavijestiti o onome što su radili, jer Allah sve dobro zna.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058007.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058007.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058007.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058007.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058007.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058007.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058007.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058007.mp3"
+        }
+      ],
+      "number_in_surah": 7
+    },
+    {
+      "id": 5112,
+      "verse_number": 5112,
+      "verse_key": "58:8",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 479,
+      "manzil": 7,
+      "page": 543,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَـٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ ٱلْمَصِيرُ",
+      "text_uthmani_simple": "الم تر الى الذين نهوا۟ عن النجوى ثم يعودون لما نهوا۟ عنه ويتنجون بالاثم والعدون ومعصيت الرسول واذا جاءوك حيوك بما لم يحيك به الله ويقولون فى انفسهم لولا يعذبنا الله بما نقول حسبهم جهنم يصلونها فبئس المصير",
+      "text_imlaei": "أَلَمْ تَرَ إِلَى الَّذِينَ نُهُوا عَنِ النَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا عَنْهُ وَيَتَنَاجَوْنَ بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَإِذَا جَاءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللَّهُ وَيَقُولُونَ فِي أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ",
+      "text_imlaei_simple": "الم تر الى الذين نهوا عن النجوى ثم يعودون لما نهوا عنه ويتناجون بالاثم والعدوان ومعصيت الرسول واذا جاءوك حيوك بما لم يحيك به الله ويقولون في انفسهم لولا يعذبنا الله بما نقول حسبهم جهنم يصلونها فبئس المصير",
+      "text_indopak": "اَلَمۡ تَرَ اِلَى الَّذِيۡنَ نُهُوۡا عَنِ النَّجۡوٰى ثُمَّ يَعُوۡدُوۡنَ لِمَا نُهُوۡا عَنۡهُ وَيَتَنٰجَوۡنَ بِالۡاِثۡمِ وَالۡعُدۡوَانِ وَمَعۡصِيَتِ الرَّسُوۡلِ وَاِذَا جَآءُوۡكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ اللّٰهُۙ وَيَقُوۡلُوۡنَ فِىۡۤ اَنۡفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا اللّٰهُ بِمَا نَقُوۡلُ​ؕ حَسۡبُهُمۡ جَهَنَّمُ​ۚ يَصۡلَوۡنَهَا​ۚ فَبِئۡسَ الۡمَصِيۡرُ‏",
+      "text_uthmani_tajweed": "أَلَمْ تَرَ إِلَى <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ نُهُو<tajweed class=slnt>اْ</tajweed> عَنِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=qalaqah>جْ</tajweed>وَىٰ ثُ<tajweed class=ghunnah>مّ</tajweed>َ يَعُودُونَ لِمَا نُهُو<tajweed class=slnt>اْ</tajweed> عَنْهُ وَيَتَنَ<tajweed class=madda_normal>ـٰ</tajweed>جَوْنَ بِ<tajweed class=ham_wasl>ٱ</tajweed>لْإِثْمِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْعُ<tajweed class=qalaqah>دْ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>نِ وَمَعْصِيَتِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّسُولِ وَإِذَا ج<tajweed class=madda_obligatory>َا</tajweed>ٓءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ وَيَقُولُونَ ف<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=ikhafa>نف</tajweed>ُسِهِمْ لَوْلَا يُعَذِّبُنَا <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ بِمَا نَقُولُ‌ۚ حَسْبُهُمْ جَهَ<tajweed class=ghunnah>نّ</tajweed>َمُ يَصْلَوْنَهَا‌ۖ فَبِئْسَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَص<tajweed class=madda_permissible>ِي</tajweed>رُ <span class=end>٨</span>",
+      "text_literation": "Alam tara ila allatheena nuhooAAani annajwa thumma yaAAoodoona lima nuhooAAanhu wayatanajawna bil-ithmi walAAudwaniwamaAAsiyati arrasooli wa-itha jaookahayyawka bima lam yuhayyika bihi Allahuwayaqooloona fee anfusihim lawla yuAAaththibunaAllahu bima naqoolu hasbuhum jahannamu yaslawnahafabi/sa almaseer",
+      "translated_text": "Zar ne vidiš one kojima je zabranjeno da se sašaptavaju kako se vraćaju onome što im je zabranjeno i sašaptavaju se o grijehu i neprijateljstvu i neposlušnosti prema Poslaniku. A kad ti dolaze, pozdravljaju te onako kako te Allah nikad nije pozdravio, i među sobom govore: \"Trebalo bi da nas Allah već jednom kazni za ono što govorimo!\" – Dovoljan će im biti Džehennem! U njemu će gorjeti, a grozno je on prebivalište!",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058008.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058008.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058008.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058008.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058008.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058008.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058008.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058008.mp3"
+        }
+      ],
+      "number_in_surah": 8
+    },
+    {
+      "id": 5113,
+      "verse_number": 5113,
+      "verse_key": "58:9",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 479,
+      "manzil": 7,
+      "page": 543,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَـٰجَيْتُمْ فَلَا تَتَنَـٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَـٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "text_uthmani_simple": "يايها الذين ءامنوا۟ اذا تنجيتم فلا تتنجوا۟ بالاثم والعدون ومعصيت الرسول وتنجوا۟ بالبر والتقوى واتقوا۟ الله الذى اليه تحشرون",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَاجَوْا بِالْبِرِّ وَالتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+      "text_imlaei_simple": "يا ايها الذين امنوا اذا تناجيتم فلا تتناجوا بالاثم والعدوان ومعصيت الرسول وتناجوا بالبر والتقوى واتقوا الله الذي اليه تحشرون",
+      "text_indopak": "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا تَنَاجَيۡتُمۡ فَلَا تَـتَـنَاجَوۡا بِالۡاِثۡمِ وَالۡعُدۡوَانِ وَمَعۡصِيَتِ الرَّسُوۡلِ وَتَنَاجَوۡا بِالۡبِرِّ وَالتَّقۡوٰى​ؕ وَاتَّقُوا اللّٰهَ الَّذِىۡۤ اِلَيۡهِ تُحۡشَرُوۡنَ‏",
+      "text_uthmani_tajweed": "يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَن<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> إِذَا تَنَ<tajweed class=madda_normal>ـٰ</tajweed>جَيْتُمْ فَلَا تَتَنَ<tajweed class=madda_normal>ـٰ</tajweed>جَوْ<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed>لْإِثْمِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْعُ<tajweed class=qalaqah>دْ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>نِ وَمَعْصِيَتِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّسُولِ وَتَنَ<tajweed class=madda_normal>ـٰ</tajweed>جَوْ<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed>لْبِرِّ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>تَّ<tajweed class=qalaqah>قْ</tajweed>وَىٰ‌ۖ وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> إِلَيْهِ تُحْشَر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩</span>",
+      "text_literation": "Ya ayyuha allatheena amanooitha tanajaytum fala tatanajaw bil-ithmiwalAAudwani wamaAAsiyati arrasooliwatanajaw bilbirri wattaqwa wattaqooAllaha allathee ilayhi tuhsharoon",
+      "translated_text": "O vjernici, kada među sobom tajno razgovarate, ne razgovarajte o grijehu i neprijateljstvu i neposlušnosti prema Poslaniku, već razgovarajte o dobročinstvu i čestitosti, i bojte se Allaha, pred kojim ćete sakupljeni biti.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058009.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058009.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058009.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058009.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058009.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058009.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058009.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058009.mp3"
+        }
+      ],
+      "number_in_surah": 9
+    },
+    {
+      "id": 5114,
+      "verse_number": 5114,
+      "verse_key": "58:10",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 479,
+      "manzil": 7,
+      "page": 543,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَـٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ بِضَآرِّهِمْ شَيْـًٔا إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "text_uthmani_simple": "انما النجوى من الشيطن ليحزن الذين ءامنوا۟ وليس بضارهم شيـا الا باذن الله وعلى الله فليتوكل المؤمنون",
+      "text_imlaei": "إِنَّمَا النَّجْوَىٰ مِنَ الشَّيْطَانِ لِيَحْزُنَ الَّذِينَ آمَنُوا وَلَيْسَ بِضَارِّهِمْ شَيْئًا إِلَّا بِإِذْنِ اللَّهِ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+      "text_imlaei_simple": "انما النجوى من الشيطان ليحزن الذين امنوا وليس بضارهم شيئا الا باذن الله وعلى الله فليتوكل المؤمنون",
+      "text_indopak": "اِنَّمَا النَّجۡوٰى مِنَ الشَّيۡطٰنِ لِيَحۡزُنَ الَّذِيۡنَ اٰمَنُوۡا وَلَيۡسَ بِضَآرِّهِمۡ شَيۡـًٔـا اِلَّا بِاِذۡنِ اللّٰهِ​ؕ وَعَلَى اللّٰهِ فَلۡيَتَوَكَّلِ الۡمُؤۡمِنُوۡنَ‏",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َمَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=qalaqah>جْ</tajweed>وَىٰ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيْطَ<tajweed class=madda_normal>ـٰ</tajweed>نِ لِيَحْزُنَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=slnt>اْ</tajweed> وَلَيْسَ بِض<tajweed class=madda_necessary>َا</tajweed>ٓرِّهِمْ شَيْــًٔا إِلَّا بِإِذْنِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ‌ۚ وَعَلَى <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ فَلْيَتَوَكَّلِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٠</span>",
+      "text_literation": "Innama annajwa mina ashshaytaniliyahzuna allatheena amanoo walaysa bidarrihimshay-an illa bi-ithni Allahi waAAalaAllahi falyatawakkali almu/minoon",
+      "translated_text": "Sašaptavanje je posao šejtanski, da bi u brigu bacio vjernike, mada to ne može njima nimalo nauditi, osim ako to Allah dopusti. A vjernici neka se samo u Allaha pouzdaju!",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058010.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058010.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058010.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058010.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058010.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058010.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058010.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058010.mp3"
+        }
+      ],
+      "number_in_surah": 10
+    },
+    {
+      "id": 5115,
+      "verse_number": 5115,
+      "verse_key": "58:11",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 479,
+      "manzil": 7,
+      "page": 543,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَـٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَـٰتٍ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "text_uthmani_simple": "يايها الذين ءامنوا۟ اذا قيل لكم تفسحوا۟ فى المجلس فافسحوا۟ يفسح الله لكم واذا قيل انشزوا۟ فانشزوا۟ يرفع الله الذين ءامنوا۟ منكم والذين اوتوا۟ العلم درجت والله بما تعملون خبير",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انشُزُوا فَانشُزُوا يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "text_imlaei_simple": "يا ايها الذين امنوا اذا قيل لكم تفسحوا في المجالس فافسحوا يفسح الله لكم واذا قيل انشزوا فانشزوا يرفع الله الذين امنوا منكم والذين اوتوا العلم درجات والله بما تعملون خبير",
+      "text_indopak": "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا قِيۡلَ لَـكُمۡ تَفَسَّحُوۡا فِى الۡمَجٰلِسِ فَافۡسَحُوۡا يَفۡسَحِ اللّٰهُ لَـكُمۡ​ ۚ وَاِذَا قِيۡلَ انْشُزُوۡا فَانْشُزُوۡا يَرۡفَعِ اللّٰهُ الَّذِيۡنَ اٰمَنُوۡا مِنۡكُمۡ ۙ وَالَّذِيۡنَ اُوۡتُوا الۡعِلۡمَ دَرَجٰتٍ ​ؕ وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ خَبِيۡرٌ‏",
+      "text_uthmani_tajweed": "يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَن<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> إِذَا قِيلَ لَكُمْ تَفَسَّحُو<tajweed class=slnt>اْ</tajweed> فِى <tajweed class=ham_wasl>ٱ</tajweed>لْمَجَ<tajweed class=madda_normal>ـٰ</tajweed>لِسِ فَ<tajweed class=ham_wasl>ٱ</tajweed>فْسَحُو<tajweed class=slnt>اْ</tajweed> يَفْسَحِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ لَكُمْ‌ۖ وَإِذَا قِيلَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نش</tajweed>ُزُو<tajweed class=slnt>اْ</tajweed> فَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نش</tajweed>ُزُو<tajweed class=slnt>اْ</tajweed> يَرْفَعِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=slnt>اْ</tajweed> مِ<tajweed class=ikhafa>نك</tajweed>ُمْ وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ أُوتُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لْعِلْمَ دَرَجَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ‌ۚ و</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed>للَّهُ بِمَا تَعْمَلُونَ خَب<tajweed class=madda_permissible>ِي</tajweed>رٌ <span class=end>١١</span>",
+      "text_literation": "Ya ayyuha allatheena amanooitha qeela lakum tafassahoo fee almajalisifafsahoo yafsahi Allahu lakum wa-ithaqeela onshuzoo fanshuzoo yarfaAAi Allahu allatheenaamanoo minkum wallatheena ootoo alAAilmadarajatin wallahu bima taAAmaloonakhabeer",
+      "translated_text": "O vjernici, kad vam se kaže: \"Načinite mjesta drugima tamo gdje se sjedi\" – vi načinite, pa i vama će Allah mjesto načiniti; a kad vam se rekne: \"Dignite se\" – vi se dignite – Allah će na visoke stepene uzdignuti one među vama koji vjeruju i kojima je dato znanje. – A Allah dobro zna ono što radite.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058011.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058011.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058011.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058011.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058011.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058011.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058011.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058011.mp3"
+        }
+      ],
+      "number_in_surah": 11
+    },
+    {
+      "id": 5116,
+      "verse_number": 5116,
+      "verse_key": "58:12",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 479,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَـٰجَيْتُمُ ٱلرَّسُولَ فَقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةً ۚ ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ ۚ فَإِن لَّمْ تَجِدُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "text_uthmani_simple": "يايها الذين ءامنوا۟ اذا نجيتم الرسول فقدموا۟ بين يدى نجوىكم صدقة ذلك خير لكم واطهر فان لم تجدوا۟ فان الله غفور رحيم",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّسُولَ فَقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَةً ۚ ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ ۚ فَإِن لَّمْ تَجِدُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+      "text_imlaei_simple": "يا ايها الذين امنوا اذا ناجيتم الرسول فقدموا بين يدي نجواكم صدقة ذلك خير لكم واطهر فان لم تجدوا فان الله غفور رحيم",
+      "text_indopak": "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡۤا اِذَا نَاجَيۡتُمُ الرَّسُوۡلَ فَقَدِّمُوۡا بَيۡنَ يَدَىۡ نَجۡوٰٮكُمۡ صَدَقَةً  ​ؕ ذٰ لِكَ خَيۡرٌ لَّكُمۡ وَاَطۡهَرُ ​ؕ فَاِنۡ لَّمۡ تَجِدُوۡا فَاِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏",
+      "text_uthmani_tajweed": "يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَن<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> إِذَا نَ<tajweed class=madda_normal>ـٰ</tajweed>جَيْتُمُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّسُولَ فَقَدِّمُو<tajweed class=slnt>اْ</tajweed> بَيْنَ يَدَىْ نَ<tajweed class=qalaqah>جْ</tajweed>وَ<tajweed class=madda_normal>ٮٰ</tajweed>كُمْ صَدَقَ<tajweed class=ikhafa>ةً‌ۚ ذ</tajweed><tajweed class=madda_normal>َٲ</tajweed>لِكَ خَيْ<tajweed class=idgham_wo_ghunnah>رٌ ل</tajweed>َّكُمْ وَأَ<tajweed class=qalaqah>طْ</tajweed>هَرُ‌ۚ فَإ<tajweed class=idgham_wo_ghunnah>ِن ل</tajweed>َّمْ تَجِدُو<tajweed class=slnt>اْ</tajweed> فَإِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ غَفُو<tajweed class=idgham_wo_ghunnah>رٌ ر</tajweed>َّح<tajweed class=madda_permissible>ِي</tajweed>مٌ <span class=end>١٢</span>",
+      "text_literation": "Ya ayyuha allatheena amanooitha najaytumu arrasoola faqaddimoo baynayaday najwakum sadaqatan thalika khayrunlakum waatharu fa-in lam tajidoo fa-inna Allahaghafoorun raheem",
+      "translated_text": "O vjernici, kada hoćete da se s Poslanikom posavjetujete, prije savjetovanja milostinju udijelite. To je za vas bolje i čistije. A ako nemate – pa, Allah, zaista, prašta i samilostan je.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058012.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058012.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058012.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058012.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058012.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058012.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058012.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058012.mp3"
+        }
+      ],
+      "number_in_surah": 12
+    },
+    {
+      "id": 5117,
+      "verse_number": 5117,
+      "verse_key": "58:13",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 217,
+      "ruku": 479,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَـٰتٍ ۚ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "text_uthmani_simple": "ءاشفقتم ان تقدموا۟ بين يدى نجوىكم صدقت فاذ لم تفعلوا۟ وتاب الله عليكم فاقيموا۟ الصلوة وءاتوا۟ الزكوة واطيعوا۟ الله ورسوله والله خبيرۢ بما تعملون",
+      "text_imlaei": "أَأَشْفَقْتُمْ أَن تُقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَاتٍ ۚ فَإِذْ لَمْ تَفْعَلُوا وَتَابَ اللَّهُ عَلَيْكُمْ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "text_imlaei_simple": "ااشفقتم ان تقدموا بين يدي نجواكم صدقات فاذ لم تفعلوا وتاب الله عليكم فاقيموا الصلاة واتوا الزكاة واطيعوا الله ورسوله والله خبير بما تعملون",
+      "text_indopak": "ءَاَشۡفَقۡتُمۡ اَنۡ تُقَدِّمُوۡا بَيۡنَ يَدَىۡ نَجۡوٰٮكُمۡ صَدَقٰتٍ​ ؕ فَاِذۡ لَمۡ تَفۡعَلُوۡا وَتَابَ اللّٰهُ عَلَيۡكُمۡ فَاَقِيۡمُوا الصَّلٰوةَ وَ اٰتُوا الزَّكٰوةَ وَاَطِيۡعُوا اللّٰهَ وَرَسُوۡلَهٗ​ ؕ وَاللّٰهُ خَبِيۡرٌۢ بِمَا تَعۡمَلُوۡنَ‏",
+      "text_uthmani_tajweed": "ءَأَشْفَ<tajweed class=qalaqah>قْ</tajweed>تُمْ أَ<tajweed class=ikhafa>ن ت</tajweed>ُقَدِّمُو<tajweed class=slnt>اْ</tajweed> بَيْنَ يَدَىْ نَ<tajweed class=qalaqah>جْ</tajweed>وَ<tajweed class=madda_normal>ٮٰ</tajweed>كُمْ صَدَقَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=ikhafa>تٍ‌ۚ ف</tajweed>َإِذْ لَمْ تَفْعَلُو<tajweed class=slnt>اْ</tajweed> وَتَابَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ عَلَيْكُمْ فَأَقِيمُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّلَ<tajweed class=slnt>و</tajweed><tajweed class=madda_normal>ٲ</tajweed>ةَ وَءَاتُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>زَّكَ<tajweed class=slnt>و</tajweed><tajweed class=madda_normal>ٲ</tajweed>ةَ وَأَطِيعُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَرَسُولَهُ<tajweed class=madda_normal>ۥ</tajweed>‌ۚ وَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهُ خَبِي<tajweed class=iqlab>رُۢ ب</tajweed>ِمَا تَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٣</span>",
+      "text_literation": "Aashfaqtum an tuqaddimoo bayna yaday najwakumsadaqatin fa-ith lam tafAAaloo watabaAllahu AAalaykum faaqeemoo assalatawaatoo azzakata waateeAAoo Allahawarasoolahu wallahu khabeerun bimataAAmaloon",
+      "translated_text": "Zar vas je strah da prije savjetovanja svoga milostinju udijelite? A ako ne udijelite i Allah vam oprosti, onda molitvu obavljajte i zekat dajite i Allaha i Poslanika Njegova slušajte! Allah dobro zna ono što vi radite.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058013.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058013.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058013.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058013.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058013.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058013.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058013.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058013.mp3"
+        }
+      ],
+      "number_in_surah": 13
+    },
+    {
+      "id": 5118,
+      "verse_number": 5118,
+      "verse_key": "58:14",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ تَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى ٱلْكَذِبِ وَهُمْ يَعْلَمُونَ",
+      "text_uthmani_simple": "الم تر الى الذين تولوا۟ قوما غضب الله عليهم ما هم منكم ولا منهم ويحلفون على الكذب وهم يعلمون",
+      "text_imlaei": "أَلَمْ تَرَ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
+      "text_imlaei_simple": "الم تر الى الذين تولوا قوما غضب الله عليهم ما هم منكم ولا منهم ويحلفون على الكذب وهم يعلمون",
+      "text_indopak": "اَلَمۡ تَرَ اِلَى الَّذِيۡنَ تَوَلَّوۡا قَوۡمًا غَضِبَ اللّٰهُ عَلَيۡهِمؕۡ مَّا هُمۡ مِّنۡكُمۡ وَلَا مِنۡهُمۡۙ وَيَحۡلِفُوۡنَ عَلَى الۡكَذِبِ وَهُمۡ يَعۡلَمُوۡنَ‏ ﻿﻿",
+      "text_uthmani_tajweed": "۞ أَلَمْ تَرَ إِلَى <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ تَوَلَّوْ<tajweed class=slnt>اْ</tajweed> قَوْمًا غَضِبَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ عَلَيْه<tajweed class=idgham_shafawi>ِم م</tajweed>َّا ه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّ<tajweed class=ikhafa>نك</tajweed>ُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى <tajweed class=ham_wasl>ٱ</tajweed>لْكَذِبِ وَهُمْ يَعْلَم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٤</span>",
+      "text_literation": "Alam tara ila allatheenatawallaw qawman ghadiba Allahu AAalayhim mahum minkum wala minhum wayahlifoona AAalaalkathibi wahum yaAAlamoon",
+      "translated_text": "Zar ne vidiš one koji prijateljuju s ljudima na koje se Allah rasrdio? Oni nisu ni vaši ni njihovi, a još se svjesno krivo zaklinju.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058014.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058014.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058014.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058014.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058014.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058014.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058014.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058014.mp3"
+        }
+      ],
+      "number_in_surah": 14
+    },
+    {
+      "id": 5119,
+      "verse_number": 5119,
+      "verse_key": "58:15",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "text_uthmani_simple": "اعد الله لهم عذابا شديدا انهم ساء ما كانوا۟ يعملون",
+      "text_imlaei": "أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+      "text_imlaei_simple": "اعد الله لهم عذابا شديدا انهم ساء ما كانوا يعملون",
+      "text_indopak": "اَعَدَّ اللّٰهُ لَهُمۡ عَذَابًا شَدِيۡدًا​ ؕ اِنَّهُمۡ سَآءَ مَا كَانُوۡا يَعۡمَلُوۡنَ‏",
+      "text_uthmani_tajweed": "أَعَدَّ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ لَهُمْ عَذَا<tajweed class=ikhafa>بًا ش</tajweed>َدِيدًا‌ۖ إِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ س<tajweed class=madda_obligatory>َا</tajweed>ٓءَ مَا كَانُو<tajweed class=slnt>اْ</tajweed> يَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٥</span>",
+      "text_literation": "aAAadda Allahu lahum AAathabanshadeedan innahum saa ma kanoo yaAAmaloon",
+      "translated_text": "Allah je njima pripremio tešku patnju, jer je, zaista, ružno ono što rade:",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058015.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058015.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058015.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058015.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058015.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058015.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058015.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058015.mp3"
+        }
+      ],
+      "number_in_surah": 15
+    },
+    {
+      "id": 5120,
+      "verse_number": 5120,
+      "verse_key": "58:16",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ فَلَهُمْ عَذَابٌ مُّهِينٌ",
+      "text_uthmani_simple": "اتخذوا۟ ايمنهم جنة فصدوا۟ عن سبيل الله فلهم عذاب مهين",
+      "text_imlaei": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ فَلَهُمْ عَذَابٌ مُّهِينٌ",
+      "text_imlaei_simple": "اتخذوا ايمانهم جنة فصدوا عن سبيل الله فلهم عذاب مهين",
+      "text_indopak": "اِتَّخَذُوۡۤا اَيۡمَانَهُمۡ جُنَّةً فَصَدُّوۡا عَنۡ سَبِيۡلِ اللّٰهِ فَلَهُمۡ عَذَابٌ مُّهِيۡنٌ‏",
+      "text_uthmani_tajweed": "ٱتَّخَذ<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَيْمَ<tajweed class=madda_normal>ـٰ</tajweed>نَهُمْ جُ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=ikhafa>ةً ف</tajweed>َصَدُّو<tajweed class=slnt>اْ</tajweed> عَ<tajweed class=ikhafa>ن س</tajweed>َبِيلِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ فَلَهُمْ عَذَا<tajweed class=idgham_ghunnah>بٌ م</tajweed>ُّه<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٦</span>",
+      "text_literation": "Ittakhathoo aymanahum junnatanfasaddoo AAan sabeeli Allahi falahum AAathabunmuheen",
+      "translated_text": "zaklanjaju se iza zakletvi svojih, pa odvraćaju od Allahova puta; njih čeka sramna kazna.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058016.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058016.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058016.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058016.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058016.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058016.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058016.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058016.mp3"
+        }
+      ],
+      "number_in_surah": 16
+    },
+    {
+      "id": 5121,
+      "verse_number": 5121,
+      "verse_key": "58:17",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "لَّن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+      "text_uthmani_simple": "لن تغنى عنهم امولهم ولا اولدهم من الله شيـا او۟لئك اصحب النار هم فيها خلدون",
+      "text_imlaei": "لَّن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "text_imlaei_simple": "لن تغني عنهم اموالهم ولا اولادهم من الله شيئا اولئك اصحاب النار هم فيها خالدون",
+      "text_indopak": "لَنۡ تُغۡنِىَ عَنۡهُمۡ اَمۡوَالُهُمۡ وَلَاۤ اَوۡلَادُهُمۡ مِّنَ اللّٰهِ شَيۡــًٔـا​ ؕ اُولٰٓٮِٕكَ اَصۡحٰبُ النَّارِ​ ؕ هُمۡ فِيۡهَا خٰلِدُوۡنَ‏",
+      "text_uthmani_tajweed": "لَّ<tajweed class=ikhafa>ن ت</tajweed>ُغْنِىَ عَنْهُمْ أَمْو<tajweed class=madda_normal>َٲ</tajweed>لُهُمْ وَل<tajweed class=madda_obligatory>َآ</tajweed> أَوْلَ<tajweed class=madda_normal>ـٰ</tajweed>دُه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ شَيْــًٔا‌ۚ أُ<tajweed class=slnt>وْ</tajweed>لَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكَ أَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َارِ‌ۖ هُمْ فِيهَا خَ<tajweed class=madda_normal>ـٰ</tajweed>لِد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٧</span>",
+      "text_literation": "Lan tughniya AAanhum amwaluhum walaawladuhum mina Allahi shay-an ola-ika as-habuannari hum feeha khalidoon",
+      "translated_text": "Ni bogatstva njihova ni djeca njihova im nimalo neće pomoći kod Allaha, oni će biti stanovnici u vatri, u njoj će vječno boraviti.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058017.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058017.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058017.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058017.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058017.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058017.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058017.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058017.mp3"
+        }
+      ],
+      "number_in_surah": 17
+    },
+    {
+      "id": 5122,
+      "verse_number": 5122,
+      "verse_key": "58:18",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُۥ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَىْءٍ ۚ أَلَآ إِنَّهُمْ هُمُ ٱلْكَـٰذِبُونَ",
+      "text_uthmani_simple": "يوم يبعثهم الله جميعا فيحلفون له كما يحلفون لكم ويحسبون انهم على شىء الا انهم هم الكذبون",
+      "text_imlaei": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَيْءٍ ۚ أَلَا إِنَّهُمْ هُمُ الْكَاذِبُونَ",
+      "text_imlaei_simple": "يوم يبعثهم الله جميعا فيحلفون له كما يحلفون لكم ويحسبون انهم على شيء الا انهم هم الكاذبون",
+      "text_indopak": "يَوۡمَ يَبۡعَثُهُمُ اللّٰهُ جَمِيۡعًا فَيَحۡلِفُوۡنَ لَهٗ كَمَا يَحۡلِفُوۡنَ لَـكُمۡ​ وَيَحۡسَبُوۡنَ اَنَّهُمۡ عَلٰى شَىۡءٍ​ ؕ اَلَاۤ اِنَّهُمۡ هُمُ الۡكٰذِبُوۡنَ‏ ﻿﻿",
+      "text_uthmani_tajweed": "يَوْمَ يَ<tajweed class=qalaqah>بْ</tajweed>عَثُهُمُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ جَمِي<tajweed class=ikhafa>عًا ف</tajweed>َيَحْلِفُونَ لَهُ<tajweed class=madda_normal>ۥ</tajweed> كَمَا يَحْلِفُونَ لَكُمْ‌ۖ وَيَحْسَبُونَ أَ<tajweed class=ghunnah>نّ</tajweed>َهُمْ عَلَىٰ شَىْءٍ‌ۚ أَل<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ هُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>ذِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٨</span>",
+      "text_literation": "Yawma yabAAathuhumu Allahu jameeAAanfayahlifoona lahu kama yahlifoona lakum wayahsaboonaannahum AAala shay-in ala innahum humu alkathiboon",
+      "translated_text": "Na Dan kada ih Allah sve oživi oni će se Njemu zaklinjati, kao što se vama zaklinju, misleći da će im to nešto koristiti. Oni su, doista, pravi lažljivci!",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058018.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058018.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058018.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058018.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058018.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058018.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058018.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058018.mp3"
+        }
+      ],
+      "number_in_surah": 18
+    },
+    {
+      "id": 5123,
+      "verse_number": 5123,
+      "verse_key": "58:19",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَـٰنُ فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ حِزْبُ ٱلشَّيْطَـٰنِ ۚ أَلَآ إِنَّ حِزْبَ ٱلشَّيْطَـٰنِ هُمُ ٱلْخَـٰسِرُونَ",
+      "text_uthmani_simple": "استحوذ عليهم الشيطن فانسىهم ذكر الله او۟لئك حزب الشيطن الا ان حزب الشيطن هم الخسرون",
+      "text_imlaei": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ ۚ أُولَٰئِكَ حِزْبُ الشَّيْطَانِ ۚ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ",
+      "text_imlaei_simple": "استحوذ عليهم الشيطان فانساهم ذكر الله اولئك حزب الشيطان الا ان حزب الشيطان هم الخاسرون",
+      "text_indopak": "اِسۡتَحۡوَذَ عَلَيۡهِمُ الشَّيۡطٰنُ فَاَنۡسٰٮهُمۡ ذِكۡرَ اللّٰهِ​ؕ اُولٰٓٮِٕكَ حِزۡبُ الشَّيۡطٰنِ​ؕ اَلَاۤ اِنَّ حِزۡبَ الشَّيۡطٰنِ هُمُ الۡخٰسِرُوۡنَ‏",
+      "text_uthmani_tajweed": "ٱسْتَحْوَذَ عَلَيْهِمُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيْطَ<tajweed class=madda_normal>ـٰ</tajweed>نُ فَأَ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>هُمْ ذِكْرَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ‌ۚ أُ<tajweed class=slnt>وْ</tajweed>لَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكَ حِزْبُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيْطَ<tajweed class=madda_normal>ـٰ</tajweed>نِ‌ۚ أَل<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ حِزْبَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيْطَ<tajweed class=madda_normal>ـٰ</tajweed>نِ هُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْخَ<tajweed class=madda_normal>ـٰ</tajweed>سِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٩</span>",
+      "text_literation": "Istahwatha AAalayhimu ashshaytanufaansahum thikra Allahi ola-ika hizbuashshaytani ala inna hizba ashshaytanihumu alkhasiroon",
+      "translated_text": "Njima je ovladao šejtan i učinio da zaborave na Allaha. Oni su na šejtanovoj strani, a onī na šejtanovoj strani će, sigurno, nastradati.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058019.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058019.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058019.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058019.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058019.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058019.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058019.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058019.mp3"
+        }
+      ],
+      "number_in_surah": 19
+    },
+    {
+      "id": 5124,
+      "verse_number": 5124,
+      "verse_key": "58:20",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَـٰٓئِكَ فِى ٱلْأَذَلِّينَ",
+      "text_uthmani_simple": "ان الذين يحادون الله ورسوله او۟لئك فى الاذلين",
+      "text_imlaei": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَٰئِكَ فِي الْأَذَلِّينَ",
+      "text_imlaei_simple": "ان الذين يحادون الله ورسوله اولئك في الاذلين",
+      "text_indopak": "اِنَّ الَّذِيۡنَ يُحَآدُّوۡنَ اللّٰهَ وَرَسُوۡلَهٗۤ اُولٰٓٮِٕكَ فِى الۡاَذَلِّيۡنَ‏ ﻿﻿",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ يُح<tajweed class=madda_necessary>َا</tajweed>ٓدُّونَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَرَسُولَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أُ<tajweed class=slnt>وْ</tajweed>لَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكَ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَذَلّ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠</span>",
+      "text_literation": "Inna allatheena yuhaddoona Allahawarasoolahu ola-ika fee al-athalleen",
+      "translated_text": "Oni koji se suprotstavljaju Allahu i Poslaniku Njegovu biće, sigurno, najgore poniženi.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058020.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058020.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058020.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058020.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058020.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058020.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058020.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058020.mp3"
+        }
+      ],
+      "number_in_surah": 20
+    },
+    {
+      "id": 5125,
+      "verse_number": 5125,
+      "verse_key": "58:21",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 544,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ",
+      "text_uthmani_simple": "كتب الله لاغلبن انا۠ ورسلى ان الله قوى عزيز",
+      "text_imlaei": "كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+      "text_imlaei_simple": "كتب الله لاغلبن انا ورسلي ان الله قوي عزيز",
+      "text_indopak": "كَتَبَ اللّٰهُ لَاَغۡلِبَنَّ اَنَا وَرُسُلِىۡ​ؕ اِنَّ اللّٰهَ قَوِىٌّ عَزِيۡزٌ‏ ﻿﻿",
+      "text_uthmani_tajweed": "كَتَبَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ لَأَغْلِبَ<tajweed class=ghunnah>نّ</tajweed>َ أَنَا۟ وَرُسُل<tajweed class=madda_obligatory>ِىٓ‌ۚ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ قَوِىٌّ عَز<tajweed class=madda_permissible>ِي</tajweed>زٌ <span class=end>٢١</span>",
+      "text_literation": "Kataba Allahu laaghlibanna anawarusulee inna Allaha qawiyyun AAazeez",
+      "translated_text": "Allah je zapisao: \"Ja i poslanici Moji sigurno ćemo pobijediti!\" – Allah je, zaista, moćan i silan.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058021.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058021.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058021.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058021.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058021.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058021.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058021.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058021.mp3"
+        }
+      ],
+      "number_in_surah": 21
+    },
+    {
+      "id": 5126,
+      "verse_number": 5126,
+      "verse_key": "58:22",
+      "chapter_id": 58,
+      "juz": 28,
+      "hizb": 55,
+      "rub": 218,
+      "ruku": 480,
+      "manzil": 7,
+      "page": 545,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُو۟لَـٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَـٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ ۖ وَيُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ أُو۟لَـٰٓئِكَ حِزْبُ ٱللَّهِ ۚ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ",
+      "text_uthmani_simple": "لا تجد قوما يؤمنون بالله واليوم الءاخر يوادون من حاد الله ورسوله ولو كانوا۟ ءاباءهم او ابناءهم او اخونهم او عشيرتهم او۟لئك كتب فى قلوبهم الايمن وايدهم بروح منه ويدخلهم جنت تجرى من تحتها الانهر خلدين فيها رضى الله عنهم ورضوا۟ عنه او۟لئك حزب الله الا ان حزب الله هم المفلحون",
+      "text_imlaei": "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ ۖ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ",
+      "text_imlaei_simple": "لا تجد قوما يؤمنون بالله واليوم الاخر يوادون من حاد الله ورسوله ولو كانوا اباءهم او ابناءهم او اخوانهم او عشيرتهم اولئك كتب في قلوبهم الايمان وايدهم بروح منه ويدخلهم جنات تجري من تحتها الانهار خالدين فيها رضي الله عنهم ورضوا عنه اولئك حزب الله الا ان حزب الله هم المفلحون",
+      "text_indopak": "لَا تَجِدُ قَوۡمًا يُّؤۡمِنُوۡنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ يُوَآدُّوۡنَ مَنۡ حَآدَّ اللّٰهَ وَرَسُوۡلَهٗ وَلَوۡ كَانُوۡۤا اٰبَآءَهُمۡ اَوۡ اَبۡنَآءَهُمۡ اَوۡ اِخۡوَانَهُمۡ اَوۡ عَشِيۡرَتَهُمۡ​ؕ اُولٰٓٮِٕكَ كَتَبَ فِىۡ قُلُوۡبِهِمُ الۡاِيۡمَانَ وَاَيَّدَهُمۡ بِرُوۡحٍ مِّنۡهُ​ ؕ وَيُدۡخِلُهُمۡ جَنّٰتٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​ ؕ رَضِىَ اللّٰهُ عَنۡهُمۡ وَرَضُوۡا عَنۡهُ​ ؕ اُولٰٓٮِٕكَ حِزۡبُ اللّٰهِ​ ؕ اَلَاۤ اِنَّ حِزۡبَ اللّٰهِ هُمُ الۡمُفۡلِحُوۡنَ‏",
+      "text_uthmani_tajweed": "لَّا تَجِدُ قَوْ<tajweed class=idgham_ghunnah>مًا ي</tajweed>ُؤْمِنُونَ بِ<tajweed class=ham_wasl>ٱ</tajweed>للَّهِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْيَوْمِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَخِرِ يُو<tajweed class=madda_necessary>َا</tajweed>ٓدُّونَ مَنْ ح<tajweed class=madda_necessary>َا</tajweed>ٓدَّ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَرَسُولَهُ<tajweed class=madda_normal>ۥ</tajweed> وَلَوْ كَان<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> ءَاب<tajweed class=madda_obligatory>َا</tajweed>ٓءَهُمْ أَوْ أَ<tajweed class=qalaqah>بْ</tajweed>ن<tajweed class=madda_obligatory>َا</tajweed>ٓءَهُمْ أَوْ إِخْو<tajweed class=madda_normal>َٲ</tajweed>نَهُمْ أَوْ عَشِيرَتَهُمْ‌ۚ أُ<tajweed class=slnt>وْ</tajweed>لَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكَ كَتَبَ فِى قُلُوبِهِمُ <tajweed class=ham_wasl>ٱ</tajweed>لْإِيمَ<tajweed class=madda_normal>ـٰ</tajweed>نَ وَأَيَّدَه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِرُو<tajweed class=idgham_ghunnah>حٍ م</tajweed>ِّنْهُ‌ۖ وَيُ<tajweed class=qalaqah>دْ</tajweed>خِلُهُمْ جَ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=ikhafa>تٍ ت</tajweed>َ<tajweed class=qalaqah>جْ</tajweed>رِى مِ<tajweed class=ikhafa>ن ت</tajweed>َحْتِهَا <tajweed class=ham_wasl>ٱ</tajweed>لْأَنْهَ<tajweed class=madda_normal>ـٰ</tajweed>رُ خَ<tajweed class=madda_normal>ـٰ</tajweed>لِدِينَ فِيهَا‌ۚ رَضِىَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ عَنْهُمْ وَرَضُو<tajweed class=slnt>اْ</tajweed> عَنْهُ‌ۚ أُ<tajweed class=slnt>وْ</tajweed>لَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكَ حِزْبُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ‌ۚ أَل<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ حِزْبَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ هُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْمُفْلِح<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢</span>",
+      "text_literation": "La tajidu qawman yu/minoona billahiwalyawmi al-akhiri yuwaddoona man haddaAllaha warasoolahu walaw kanoo abaahumaw abnaahum aw ikhwanahum aw AAasheeratahum ola-ikakataba fee quloobihimu al-eemana waayyadahum biroohinminhu wayudkhiluhum jannatin tajree min tahtihaal-anharu khalideena feeha radiya AllahuAAanhum waradoo AAanhu ola-ika hizbu Allahiala inna hizba Allahi humu almuflihoon",
+      "translated_text": "Ne treba da ljudi koji u Allaha i u onaj svijet vjeruju budu u ljubavi sa onima koji se Allahu i Poslaniku Njegovu suprotstavljaju, makar im oni bili očevi njihovi, ili sinovi njihovi, ili braća njihova, ili rođaci njihovi. Njima je On u srca njihova vjerovanje usadio i svjetlom Svojim ih osnažio, i On će ih uvesti u džennetske bašče kroz koje rijeke teku, da u njima vječno ostanu. Allah je njima zadovoljan, a i oni će biti zadovoljni Njime. Oni su na Allahovoj strani, a onī na Allahovoj strani će, sigurno, uspjeti.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/058022.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/058022.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/058022.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/058022.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/058022.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/058022.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/058022.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058022.mp3"
+        }
+      ],
+      "number_in_surah": 22
+    }
+  ]
+}

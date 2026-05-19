@@ -1,0 +1,537 @@
+{
+  "no": 1,
+  "name_arabic": "الفاتحة",
+  "translated_name": "The Opening",
+  "translated_name_literation": "Al-Fatihah",
+  "en_name": "Al-Fatihah",
+  "revelation_place": "makkah",
+  "revelation_order": 5,
+  "number_of_verses": 7,
+  "verses": [
+    {
+      "id": 1,
+      "verse_number": 1,
+      "verse_key": "1:1",
+      "chapter_id": 1,
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "ruku": 1,
+      "manzil": 1,
+      "page": 1,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "text_uthmani_simple": "بسم الله الرحمن الرحيم",
+      "text_imlaei": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "text_imlaei_simple": "بسم الله الرحمن الرحيم",
+      "text_indopak": "بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ",
+      "text_uthmani_tajweed": "بِسْمِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّحْمَ<tajweed class=madda_normal>ـٰ</tajweed>نِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>١</span>",
+      "text_literation": "Bismi Allahi arrahmani arraheem",
+      "translated_text": "﻿W Imię Boga Miłosiernego i Litościwego!",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/001001.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/001001.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/001001.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/001001.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/001001.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/001001.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/001001.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/001001.mp3"
+        }
+      ],
+      "number_in_surah": 1
+    },
+    {
+      "id": 2,
+      "verse_number": 2,
+      "verse_key": "1:2",
+      "chapter_id": 1,
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "ruku": 1,
+      "manzil": 1,
+      "page": 1,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_uthmani_simple": "الحمد لله رب العلمين",
+      "text_imlaei": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "text_imlaei_simple": "الحمد لله رب العالمين",
+      "text_indopak": "اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَۙ‏",
+      "text_uthmani_tajweed": "ٱلْحَمْدُ لِلَّهِ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢</span>",
+      "text_literation": "Alhamdu lillahi rabbi alAAalameen",
+      "translated_text": "Chwała Bogu, Panu światów,",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/001002.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/001002.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/001002.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/001002.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/001002.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/001002.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/001002.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/001002.mp3"
+        }
+      ],
+      "number_in_surah": 2
+    },
+    {
+      "id": 3,
+      "verse_number": 3,
+      "verse_key": "1:3",
+      "chapter_id": 1,
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "ruku": 1,
+      "manzil": 1,
+      "page": 1,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "text_uthmani_simple": "الرحمن الرحيم",
+      "text_imlaei": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "text_imlaei_simple": "الرحمن الرحيم",
+      "text_indopak": "الرَّحۡمٰنِ الرَّحِيۡمِۙ‏",
+      "text_uthmani_tajweed": "ٱ<tajweed class=laam_shamsiyah>ل</tajweed>رَّحْمَ<tajweed class=madda_normal>ـٰ</tajweed>نِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>٣</span>",
+      "text_literation": "Arrahmani arraheem",
+      "translated_text": "Miłosiernemu i Litościwemu,",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/001003.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/001003.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/001003.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/001003.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/001003.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/001003.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/001003.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/001003.mp3"
+        }
+      ],
+      "number_in_surah": 3
+    },
+    {
+      "id": 4,
+      "verse_number": 4,
+      "verse_key": "1:4",
+      "chapter_id": 1,
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "ruku": 1,
+      "manzil": 1,
+      "page": 1,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+      "text_uthmani_simple": "ملك يوم الدين",
+      "text_imlaei": "مَالِكِ يَوْمِ الدِّينِ",
+      "text_imlaei_simple": "مالك يوم الدين",
+      "text_indopak": "مٰلِكِ يَوۡمِ الدِّيۡنِؕ‏",
+      "text_uthmani_tajweed": "مَ<tajweed class=madda_normal>ـٰ</tajweed>لِكِ يَوْمِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دّ<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٤</span>",
+      "text_literation": "Maliki yawmi addeen",
+      "translated_text": "Królowi Dnia Sądu.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/001004.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/001004.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/001004.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/001004.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/001004.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/001004.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/001004.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/001004.mp3"
+        }
+      ],
+      "number_in_surah": 4
+    },
+    {
+      "id": 5,
+      "verse_number": 5,
+      "verse_key": "1:5",
+      "chapter_id": 1,
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "ruku": 1,
+      "manzil": 1,
+      "page": 1,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "text_uthmani_simple": "اياك نعبد واياك نستعين",
+      "text_imlaei": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "text_imlaei_simple": "اياك نعبد واياك نستعين",
+      "text_indopak": "اِيَّاكَ نَعۡبُدُ وَاِيَّاكَ نَسۡتَعِيۡنُؕ‏",
+      "text_uthmani_tajweed": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَع<tajweed class=madda_permissible>ِي</tajweed>نُ <span class=end>٥</span>",
+      "text_literation": "Iyyaka naAAbudu wa-iyyaka nastaAAeen",
+      "translated_text": "Oto Ciebie czcimy i Ciebie prosimy o pomoc.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/001005.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/001005.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/001005.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/001005.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/001005.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/001005.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/001005.mp3"
+        }
+      ],
+      "number_in_surah": 5
+    },
+    {
+      "id": 6,
+      "verse_number": 6,
+      "verse_key": "1:6",
+      "chapter_id": 1,
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "ruku": 1,
+      "manzil": 1,
+      "page": 1,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "text_uthmani_simple": "اهدنا الصرط المستقيم",
+      "text_imlaei": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "text_imlaei_simple": "اهدنا الصراط المستقيم",
+      "text_indopak": "اِهۡدِنَا الصِّرَاطَ الۡمُسۡتَقِيۡمَۙ‏",
+      "text_uthmani_tajweed": "ٱهْدِنَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صِّر<tajweed class=madda_normal>َٲ</tajweed>طَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسْتَق<tajweed class=madda_permissible>ِي</tajweed>مَ <span class=end>٦</span>",
+      "text_literation": "Ihdina assirata almustaqeem",
+      "translated_text": "Prowadź nas drogą prostą",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/001006.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/001006.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/001006.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/001006.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/001006.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/001006.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/001006.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/001006.mp3"
+        }
+      ],
+      "number_in_surah": 6
+    },
+    {
+      "id": 7,
+      "verse_number": 7,
+      "verse_key": "1:7",
+      "chapter_id": 1,
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "ruku": 1,
+      "manzil": 1,
+      "page": 1,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text_uthmani": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "text_uthmani_simple": "صرط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين",
+      "text_imlaei": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "text_imlaei_simple": "صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين",
+      "text_indopak": "صِرَاطَ الَّذِيۡنَ اَنۡعَمۡتَ عَلَيۡهِمۡ ۙ‏ غَيۡرِ الۡمَغۡضُوۡبِ عَلَيۡهِمۡ وَلَا الضَّآلِّيۡنَ‏",
+      "text_uthmani_tajweed": "صِر<tajweed class=madda_normal>َٲ</tajweed>طَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَغْضُوبِ عَلَيْهِمْ وَلَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضّ<tajweed class=madda_necessary>َا</tajweed>ٓلّ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٧</span>",
+      "text_literation": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala addalleen",
+      "translated_text": "Drogą tych, których obdarzyłeś dobrodziejstwami; nie zaś tych, na których jesteś zagniewany, i nie tych, którzy błądzą.",
+      "audio": [
+        {
+          "reciter_id": 1,
+          "reciter_name": "Mishary Rashid Alafasy",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Alafasy_128kbps/001007.mp3"
+        },
+        {
+          "reciter_id": 2,
+          "reciter_name": "Abdul Rahman Al-Sudais",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/001007.mp3"
+        },
+        {
+          "reciter_id": 3,
+          "reciter_name": "Abdul Basit Abdul Samad",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/001007.mp3"
+        },
+        {
+          "reciter_id": 4,
+          "reciter_name": "Abdul Basit Abdul Samad (Mujawwad)",
+          "style": "Mujawwad",
+          "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/001007.mp3"
+        },
+        {
+          "reciter_id": 5,
+          "reciter_name": "Maher Al Muaiqly",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/MauroAuad-AlMuaiqly_128kbps/001007.mp3"
+        },
+        {
+          "reciter_id": 6,
+          "reciter_name": "Saad Al-Ghamdi",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Saad_Al-Ghamdi_64kbps/001007.mp3"
+        },
+        {
+          "reciter_id": 7,
+          "reciter_name": "Hani Ar-Rifai",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Hani_Rifai_192kbps/001007.mp3"
+        },
+        {
+          "reciter_id": 8,
+          "reciter_name": "Abu Bakr Al Shatri",
+          "style": "Murattal",
+          "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/001007.mp3"
+        }
+      ],
+      "number_in_surah": 7
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# AGENTS.md
+
+## What this is
+
+Static Quran JSON dataset (Arabic, English, Bangla, audio URLs) served via **jsDelivr CDN** from the `main` branch. No servers, no runtime, no package manager.
+
+## Directory layout
+
+| Path | Purpose |
+|---|---|
+| `v1/` | Published API v1 endpoints (allSurahList, singleSurah, surah/{id}) |
+| `v2/` | Published API v2 endpoints (+ `juz`/`sajda` fields per verse, `para/{id}`) |
+| `src/` | **v1 build script** (`script.js` + `index.html`) — browser-based scraper |
+| `src-v2/` | **v2 build script** (`script.js` + `index.html`) — browser-based scraper |
+| `Compressor/` | `json-minify.py` — Python 3 JSON minifier |
+| `quran.min.json` | root-level minified full Quran (API output) |
+
+## How to regenerate data (v1 or v2)
+
+1. Open `src/index.html` (v1) or `src-v2/index.html` (v2) in a browser
+2. Press **"Click One"** then **"Click Two"** (buttons on the page)
+3. Press **"Click"** — outputs assembled JSON in the console
+4. Copy the `api` object from browser console, save as JSON files in `v1/` or `v2/`
+
+## How to minify
+
+```bash
+cd Compressor
+python json-minify.py
+```
+
+Output goes to `Compressor/compressed/`. Copy `.min.json` files to the corresponding version directory.
+
+## v1 → v2 differences
+
+- v2 verse objects add `juz` (int) and `sajda` (`{recommended, obligatory}`) fields
+- v2 adds `para/{id}.json` endpoints
+- v2 `singleSurahAudioList` and `allSurahAudioList` include the same additional fields
+
+## Delivery
+
+All endpoints served via:
+```
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/{v1|v2}/{endpoint}
+```
+Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
+
+## Conventions
+
+- **Single branch** (`main`) — no PR flow, no releases
+- **No package.json**, no dependencies, no build tools
+- **No tests**, no linter, no formatter, no CI
+- JSON files are committed directly (not gitignored)
+- Arabic text uses `ensure_ascii=False` in Python minifier (critical to preserve Arabic characters)
+- `.gitignore` does not exist
