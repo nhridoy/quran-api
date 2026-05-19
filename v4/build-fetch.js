@@ -144,12 +144,12 @@ function parseSurahSpec(spec) {
     const trimmed = part.trim();
     if (trimmed.includes('-')) {
       const [rawStart, rawEnd] = trimmed.split('-').map(s => parseInt(s, 10));
-      if (isNaN(rawStart) || isNaN(rawEnd)) return null;
+      if (Number.isNaN(rawStart) || Number.isNaN(rawEnd)) return null;
       if (rawStart < 1 || rawEnd > TOTAL_SURAHS || rawStart > rawEnd) return null;
       for (let i = rawStart; i <= rawEnd; i++) nums.add(i);
     } else {
-      const n = parseInt(trimmed, 10);
-      if (isNaN(n) || n < 1 || n > TOTAL_SURAHS) return null;
+      const n = Number.parseInt(trimmed, 10);
+      if (Number.isNaN(n) || n < 1 || n > TOTAL_SURAHS) return null;
       nums.add(n);
     }
   }
@@ -188,14 +188,14 @@ function parseArgs() {
 
   // Parse surahs
   let surahs;
-  if (!surahArg) {
-    surahs = Array.from({ length: TOTAL_SURAHS }, (_, i) => i + 1);
-  } else {
+  if (surahArg) {
     surahs = parseSurahSpec(surahArg);
     if (!surahs || surahs.length === 0) {
       console.error('Invalid -s value. Use numbers 1-114, ranges (1-10), or comma-separated.');
       process.exit(1);
     }
+  } else {
+    surahs = Array.from({ length: TOTAL_SURAHS }, (_, i) => i + 1);
   }
 
   return { surahs, downloadMode, minifyMode };
@@ -256,11 +256,12 @@ async function fetchTafsir(surahNumber) {
   );
   const map = {};
   for (const v of json.data.verses) {
-    const vn = v.verse_number;
+    const vk = v.verse_key; // "114:1" (surah_number:verse_number)
+    const vn = Number.parseInt(vk.split(':')[1], 10); // verse_number
     let en = '', bn = '';
     for (const t of (v.tafsirs||[])) {
-      if (t.slug === 'en-tafsir-maarif-ul-quran') en = t.text;
-      else if (t.slug === 'bn-tafsir-abu-bakr-zakaria') bn = t.text;
+      if (t.slug === 'en-tafsir-maarif-ul-quran') en = t.text ?? "";
+      else if (t.slug === 'bn-tafsir-abu-bakr-zakaria') bn = t.text ?? "";
     }
     map[vn] = { en, bn };
   }
@@ -277,7 +278,7 @@ function buildEnhancedVerses(srcData, surahNumber, reciters, tafsirMap) {
   const enhanced = [];
   for (const v of verses) {
     const vn = v.numberInSurah;
-    const t = (tafsirMap && tafsirMap[vn]) || { en: '', bn: '' };
+    const t = (tafsirMap?.[vn]) || { en: '', bn: '' };
 
     const audio = {};
     for (const r of reciters) {
@@ -435,7 +436,7 @@ async function main() {
   const total = `${surahs.length} surah${surahs.length > 1 ? 's' : ''}`;
   const range = surahs.length === 114 ? 'all' :
     surahs.length === 1 ? `${surahs[0]}` :
-    `${surahs[0]}–${surahs[surahs.length-1]} (${surahs.length})`;
+    `${surahs[0]}–${surahs.at(-1)} (${surahs.length})`;
 
   console.log(`\n  ╔══════════════════════════════════════════╗`);
   console.log(`  ║        v4 Quran API — Build Script       ║`);
