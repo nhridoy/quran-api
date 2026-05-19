@@ -1,0 +1,2463 @@
+{
+  "no": 82,
+  "name": "سُورَةُ الانفِطَارِ",
+  "enName": "Al-Infitaar",
+  "enNameTranslation": "The Cleaving",
+  "bnNameTranslation": "আল ইনফিতার",
+  "revelationType": "Meccan",
+  "revelationOrder": 82,
+  "numberOfAyahs": 19,
+  "verses": [
+    {
+      "totalNumber": 5830,
+      "numberInSurah": 1,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "إِذَا السَّمَاءُ انفَطَرَتْ",
+        "enText": "When the sky breaks apart",
+        "enTextTransliteration": "Izas samaaa'un fatarat",
+        "bnText": "যখন আকাশ বিদীর্ণ হবে",
+        "bntextLatin": "Yakhana akasa bidirna habe"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/1.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/1.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/1.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/1.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/1.mp3",
+          "local": "data/audio/82/ar.abdulsamad/1.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/1.mp3",
+          "local": "data/audio/82/ar.shaatree/1.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/1.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/1.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/1.mp3",
+          "local": "data/audio/82/ar.alafasy/1.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/1.mp3",
+          "local": "data/audio/82/ar.hanirifai/1.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/1.mp3",
+          "local": "data/audio/82/ar.husary/1.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/1.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/1.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/1.mp3",
+          "local": "data/audio/82/ar.hudhaify/1.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/1.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/1.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/1.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/1.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/1.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/1.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/1.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/1.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/1.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/1.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/1.mp3",
+          "local": "data/audio/82/ar.parhizgar/1.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/1.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/1.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/1.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/1.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_1.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_1.png",
+        "local": "data/images/82/1.png"
+      }
+    },
+    {
+      "totalNumber": 5831,
+      "numberInSurah": 2,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ",
+        "enText": "And when the stars fall, scattering,",
+        "enTextTransliteration": "Wa izal kawaakibun tasarat",
+        "bnText": "যখন নক্ষত্রসমূহ ঝরে পড়বে",
+        "bntextLatin": "yakhana naksatrasamuha jhare parabe"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/2.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/2.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/2.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/2.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/2.mp3",
+          "local": "data/audio/82/ar.abdulsamad/2.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/2.mp3",
+          "local": "data/audio/82/ar.shaatree/2.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/2.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/2.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/2.mp3",
+          "local": "data/audio/82/ar.alafasy/2.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/2.mp3",
+          "local": "data/audio/82/ar.hanirifai/2.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/2.mp3",
+          "local": "data/audio/82/ar.husary/2.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/2.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/2.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/2.mp3",
+          "local": "data/audio/82/ar.hudhaify/2.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/2.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/2.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/2.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/2.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/2.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/2.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/2.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/2.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/2.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/2.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/2.mp3",
+          "local": "data/audio/82/ar.parhizgar/2.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/2.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/2.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/2.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/2.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_2.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_2.png",
+        "local": "data/images/82/2.png"
+      }
+    },
+    {
+      "totalNumber": 5832,
+      "numberInSurah": 3,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+        "enText": "And when the seas are erupted",
+        "enTextTransliteration": "Wa izal bihaaru fujjirat",
+        "bnText": "যখন সমুদ্রকে উত্তাল করে তোলা হবে",
+        "bntextLatin": "yakhana samudrake uttala kare tola habe"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/3.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/3.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/3.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/3.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/3.mp3",
+          "local": "data/audio/82/ar.abdulsamad/3.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/3.mp3",
+          "local": "data/audio/82/ar.shaatree/3.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/3.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/3.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/3.mp3",
+          "local": "data/audio/82/ar.alafasy/3.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/3.mp3",
+          "local": "data/audio/82/ar.hanirifai/3.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/3.mp3",
+          "local": "data/audio/82/ar.husary/3.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/3.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/3.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/3.mp3",
+          "local": "data/audio/82/ar.hudhaify/3.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/3.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/3.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/3.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/3.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/3.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/3.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/3.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/3.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/3.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/3.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/3.mp3",
+          "local": "data/audio/82/ar.parhizgar/3.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/3.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/3.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/3.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/3.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_3.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_3.png",
+        "local": "data/images/82/3.png"
+      }
+    },
+    {
+      "totalNumber": 5833,
+      "numberInSurah": 4,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+        "enText": "And when the [contents of] graves are scattered,",
+        "enTextTransliteration": "Wa izal qubooru bu'sirat",
+        "bnText": "এবং যখন কবরসমূহ উম্মোচিত হবে",
+        "bntextLatin": "ebam yakhana kabarasamuha um'mocita habe"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/4.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/4.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/4.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/4.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/4.mp3",
+          "local": "data/audio/82/ar.abdulsamad/4.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/4.mp3",
+          "local": "data/audio/82/ar.shaatree/4.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/4.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/4.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/4.mp3",
+          "local": "data/audio/82/ar.alafasy/4.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/4.mp3",
+          "local": "data/audio/82/ar.hanirifai/4.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/4.mp3",
+          "local": "data/audio/82/ar.husary/4.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/4.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/4.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/4.mp3",
+          "local": "data/audio/82/ar.hudhaify/4.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/4.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/4.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/4.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/4.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/4.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/4.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/4.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/4.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/4.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/4.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/4.mp3",
+          "local": "data/audio/82/ar.parhizgar/4.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/4.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/4.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/4.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/4.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_4.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_4.png",
+        "local": "data/images/82/4.png"
+      }
+    },
+    {
+      "totalNumber": 5834,
+      "numberInSurah": 5,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+        "enText": "A soul will [then] know what it has put forth and kept back.",
+        "enTextTransliteration": "'Alimat nafsum maa qaddamat wa akhkharat",
+        "bnText": "তখন প্রত্যেকে জেনে নিবে সে কি অগ্রে প্রেরণ করেছে এবং কি পশ্চাতে ছেড়ে এসেছে।",
+        "bntextLatin": "takhana pratyeke jene nibe se ki agre prerana kareche ebam ki pascate chere eseche."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/5.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/5.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/5.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/5.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/5.mp3",
+          "local": "data/audio/82/ar.abdulsamad/5.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/5.mp3",
+          "local": "data/audio/82/ar.shaatree/5.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/5.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/5.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/5.mp3",
+          "local": "data/audio/82/ar.alafasy/5.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/5.mp3",
+          "local": "data/audio/82/ar.hanirifai/5.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/5.mp3",
+          "local": "data/audio/82/ar.husary/5.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/5.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/5.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/5.mp3",
+          "local": "data/audio/82/ar.hudhaify/5.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/5.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/5.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/5.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/5.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/5.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/5.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/5.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/5.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/5.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/5.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/5.mp3",
+          "local": "data/audio/82/ar.parhizgar/5.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/5.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/5.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/5.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/5.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_5.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_5.png",
+        "local": "data/images/82/5.png"
+      }
+    },
+    {
+      "totalNumber": 5835,
+      "numberInSurah": 6,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+        "enText": "O mankind, what has deceived you concerning your Lord, the Generous,",
+        "enTextTransliteration": "Yaaa ayyuhal insaaanu maa gharraka bi Rabbikal kareem",
+        "bnText": "হে মানুষ, কিসে তোমাকে তোমার মহামহিম পালনকর্তা সম্পর্কে বিভ্রান্ত করল",
+        "bntextLatin": "He manusa, kise tomake tomara mahamahima palanakarta samparke bibhranta karala"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/6.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/6.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/6.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/6.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/6.mp3",
+          "local": "data/audio/82/ar.abdulsamad/6.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/6.mp3",
+          "local": "data/audio/82/ar.shaatree/6.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/6.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/6.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/6.mp3",
+          "local": "data/audio/82/ar.alafasy/6.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/6.mp3",
+          "local": "data/audio/82/ar.hanirifai/6.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/6.mp3",
+          "local": "data/audio/82/ar.husary/6.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/6.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/6.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/6.mp3",
+          "local": "data/audio/82/ar.hudhaify/6.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/6.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/6.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/6.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/6.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/6.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/6.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/6.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/6.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/6.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/6.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/6.mp3",
+          "local": "data/audio/82/ar.parhizgar/6.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/6.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/6.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/6.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/6.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_6.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_6.png",
+        "local": "data/images/82/6.png"
+      }
+    },
+    {
+      "totalNumber": 5836,
+      "numberInSurah": 7,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+        "enText": "Who created you, proportioned you, and balanced you?",
+        "enTextTransliteration": "Allazee khalaqaka fasaw waaka fa'adalak",
+        "bnText": "যিনি তোমাকে সৃষ্টি করেছেন, অতঃপর তোমাকে সুবিন্যস্ত করেছেন এবং সুষম করেছেন।",
+        "bntextLatin": "yini tomake srsti karechena, atahpara tomake subin'yasta karechena ebam susama karechena."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/7.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/7.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/7.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/7.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/7.mp3",
+          "local": "data/audio/82/ar.abdulsamad/7.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/7.mp3",
+          "local": "data/audio/82/ar.shaatree/7.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/7.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/7.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/7.mp3",
+          "local": "data/audio/82/ar.alafasy/7.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/7.mp3",
+          "local": "data/audio/82/ar.hanirifai/7.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/7.mp3",
+          "local": "data/audio/82/ar.husary/7.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/7.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/7.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/7.mp3",
+          "local": "data/audio/82/ar.hudhaify/7.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/7.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/7.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/7.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/7.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/7.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/7.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/7.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/7.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/7.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/7.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/7.mp3",
+          "local": "data/audio/82/ar.parhizgar/7.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/7.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/7.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/7.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/7.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_7.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_7.png",
+        "local": "data/images/82/7.png"
+      }
+    },
+    {
+      "totalNumber": 5837,
+      "numberInSurah": 8,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ",
+        "enText": "In whatever form He willed has He assembled you.",
+        "enTextTransliteration": "Feee ayye sooratim maa shaaa'a rakkabak",
+        "bnText": "যিনি তোমাকে তাঁর ইচ্ছামত আকৃতিতে গঠন করেছেন।",
+        "bntextLatin": "Yini tomake tamra icchamata akrtite gathana karechena."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/8.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/8.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/8.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/8.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/8.mp3",
+          "local": "data/audio/82/ar.abdulsamad/8.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/8.mp3",
+          "local": "data/audio/82/ar.shaatree/8.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/8.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/8.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/8.mp3",
+          "local": "data/audio/82/ar.alafasy/8.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/8.mp3",
+          "local": "data/audio/82/ar.hanirifai/8.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/8.mp3",
+          "local": "data/audio/82/ar.husary/8.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/8.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/8.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/8.mp3",
+          "local": "data/audio/82/ar.hudhaify/8.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/8.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/8.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/8.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/8.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/8.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/8.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/8.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/8.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/8.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/8.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/8.mp3",
+          "local": "data/audio/82/ar.parhizgar/8.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/8.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/8.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/8.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/8.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_8.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_8.png",
+        "local": "data/images/82/8.png"
+      }
+    },
+    {
+      "totalNumber": 5838,
+      "numberInSurah": 9,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+        "enText": "No! But you deny the Recompense.",
+        "enTextTransliteration": "Kalla bal tukazziboona bid deen",
+        "bnText": "কখনও বিভ্রান্ত হয়ো না; বরং তোমরা দান-প্রতিদানকে মিথ্যা মনে কর।",
+        "bntextLatin": "Kakhana'o bibhranta hayo na; baram tomara dana-pratidanake mithya mane kara."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/9.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/9.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/9.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/9.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/9.mp3",
+          "local": "data/audio/82/ar.abdulsamad/9.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/9.mp3",
+          "local": "data/audio/82/ar.shaatree/9.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/9.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/9.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/9.mp3",
+          "local": "data/audio/82/ar.alafasy/9.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/9.mp3",
+          "local": "data/audio/82/ar.hanirifai/9.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/9.mp3",
+          "local": "data/audio/82/ar.husary/9.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/9.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/9.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/9.mp3",
+          "local": "data/audio/82/ar.hudhaify/9.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/9.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/9.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/9.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/9.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/9.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/9.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/9.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/9.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/9.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/9.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/9.mp3",
+          "local": "data/audio/82/ar.parhizgar/9.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/9.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/9.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/9.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/9.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_9.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_9.png",
+        "local": "data/images/82/9.png"
+      }
+    },
+    {
+      "totalNumber": 5839,
+      "numberInSurah": 10,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+        "enText": "And indeed, [appointed] over you are keepers,",
+        "enTextTransliteration": "Wa inna 'alaikum lahaa fizeen",
+        "bnText": "অবশ্যই তোমাদের উপর তত্ত্বাবধায়ক নিযুক্ত আছে।",
+        "bntextLatin": "Abasya'i tomadera upara tattbabadhayaka niyukta ache."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/10.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/10.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/10.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/10.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/10.mp3",
+          "local": "data/audio/82/ar.abdulsamad/10.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/10.mp3",
+          "local": "data/audio/82/ar.shaatree/10.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/10.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/10.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/10.mp3",
+          "local": "data/audio/82/ar.alafasy/10.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/10.mp3",
+          "local": "data/audio/82/ar.hanirifai/10.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/10.mp3",
+          "local": "data/audio/82/ar.husary/10.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/10.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/10.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/10.mp3",
+          "local": "data/audio/82/ar.hudhaify/10.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/10.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/10.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/10.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/10.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/10.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/10.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/10.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/10.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/10.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/10.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/10.mp3",
+          "local": "data/audio/82/ar.parhizgar/10.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/10.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/10.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/10.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/10.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_10.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_10.png",
+        "local": "data/images/82/10.png"
+      }
+    },
+    {
+      "totalNumber": 5840,
+      "numberInSurah": 11,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "كِرَامًا كَاتِبِينَ",
+        "enText": "Noble and recording;",
+        "enTextTransliteration": "Kiraaman kaatibeen",
+        "bnText": "সম্মানিত আমল লেখকবৃন্দ।",
+        "bntextLatin": "Sam'manita amala lekhakabrnda."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/11.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/11.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/11.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/11.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/11.mp3",
+          "local": "data/audio/82/ar.abdulsamad/11.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/11.mp3",
+          "local": "data/audio/82/ar.shaatree/11.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/11.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/11.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/11.mp3",
+          "local": "data/audio/82/ar.alafasy/11.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/11.mp3",
+          "local": "data/audio/82/ar.hanirifai/11.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/11.mp3",
+          "local": "data/audio/82/ar.husary/11.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/11.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/11.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/11.mp3",
+          "local": "data/audio/82/ar.hudhaify/11.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/11.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/11.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/11.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/11.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/11.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/11.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/11.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/11.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/11.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/11.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/11.mp3",
+          "local": "data/audio/82/ar.parhizgar/11.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/11.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/11.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/11.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/11.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_11.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_11.png",
+        "local": "data/images/82/11.png"
+      }
+    },
+    {
+      "totalNumber": 5841,
+      "numberInSurah": 12,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+        "enText": "They know whatever you do.",
+        "enTextTransliteration": "Ya'lamoona ma taf'aloon",
+        "bnText": "তারা জানে যা তোমরা কর।",
+        "bntextLatin": "Tara jane ya tomara kara."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/12.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/12.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/12.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/12.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/12.mp3",
+          "local": "data/audio/82/ar.abdulsamad/12.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/12.mp3",
+          "local": "data/audio/82/ar.shaatree/12.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/12.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/12.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/12.mp3",
+          "local": "data/audio/82/ar.alafasy/12.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/12.mp3",
+          "local": "data/audio/82/ar.hanirifai/12.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/12.mp3",
+          "local": "data/audio/82/ar.husary/12.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/12.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/12.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/12.mp3",
+          "local": "data/audio/82/ar.hudhaify/12.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/12.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/12.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/12.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/12.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/12.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/12.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/12.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/12.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/12.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/12.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/12.mp3",
+          "local": "data/audio/82/ar.parhizgar/12.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/12.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/12.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/12.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/12.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_12.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_12.png",
+        "local": "data/images/82/12.png"
+      }
+    },
+    {
+      "totalNumber": 5842,
+      "numberInSurah": 13,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+        "enText": "Indeed, the righteous will be in pleasure,",
+        "enTextTransliteration": "Innal abraara lafee na'eem",
+        "bnText": "সৎকর্মশীলগণ থাকবে জান্নাতে।",
+        "bntextLatin": "Satkarmasilagana thakabe jannate."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/13.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/13.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/13.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/13.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/13.mp3",
+          "local": "data/audio/82/ar.abdulsamad/13.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/13.mp3",
+          "local": "data/audio/82/ar.shaatree/13.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/13.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/13.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/13.mp3",
+          "local": "data/audio/82/ar.alafasy/13.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/13.mp3",
+          "local": "data/audio/82/ar.hanirifai/13.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/13.mp3",
+          "local": "data/audio/82/ar.husary/13.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/13.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/13.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/13.mp3",
+          "local": "data/audio/82/ar.hudhaify/13.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/13.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/13.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/13.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/13.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/13.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/13.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/13.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/13.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/13.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/13.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/13.mp3",
+          "local": "data/audio/82/ar.parhizgar/13.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/13.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/13.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/13.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/13.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_13.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_13.png",
+        "local": "data/images/82/13.png"
+      }
+    },
+    {
+      "totalNumber": 5843,
+      "numberInSurah": 14,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+        "enText": "And indeed, the wicked will be in Hellfire.",
+        "enTextTransliteration": "Wa innal fujjaara lafee jaheem",
+        "bnText": "এবং দুষ্কর্মীরা থাকবে জাহান্নামে",
+        "bntextLatin": "Ebam duskarmira thakabe jahanname"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/14.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/14.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/14.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/14.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/14.mp3",
+          "local": "data/audio/82/ar.abdulsamad/14.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/14.mp3",
+          "local": "data/audio/82/ar.shaatree/14.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/14.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/14.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/14.mp3",
+          "local": "data/audio/82/ar.alafasy/14.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/14.mp3",
+          "local": "data/audio/82/ar.hanirifai/14.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/14.mp3",
+          "local": "data/audio/82/ar.husary/14.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/14.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/14.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/14.mp3",
+          "local": "data/audio/82/ar.hudhaify/14.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/14.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/14.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/14.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/14.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/14.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/14.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/14.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/14.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/14.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/14.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/14.mp3",
+          "local": "data/audio/82/ar.parhizgar/14.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/14.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/14.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/14.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/14.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_14.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_14.png",
+        "local": "data/images/82/14.png"
+      }
+    },
+    {
+      "totalNumber": 5844,
+      "numberInSurah": 15,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+        "enText": "They will [enter to] burn therein on the Day of Recompense,",
+        "enTextTransliteration": "Yaslawnahaa Yawmad Deen",
+        "bnText": "তারা বিচার দিবসে তথায় প্রবেশ করবে।",
+        "bntextLatin": "tara bicara dibase tathaya prabesa karabe."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/15.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/15.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/15.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/15.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/15.mp3",
+          "local": "data/audio/82/ar.abdulsamad/15.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/15.mp3",
+          "local": "data/audio/82/ar.shaatree/15.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/15.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/15.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/15.mp3",
+          "local": "data/audio/82/ar.alafasy/15.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/15.mp3",
+          "local": "data/audio/82/ar.hanirifai/15.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/15.mp3",
+          "local": "data/audio/82/ar.husary/15.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/15.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/15.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/15.mp3",
+          "local": "data/audio/82/ar.hudhaify/15.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/15.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/15.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/15.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/15.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/15.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/15.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/15.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/15.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/15.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/15.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/15.mp3",
+          "local": "data/audio/82/ar.parhizgar/15.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/15.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/15.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/15.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/15.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_15.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_15.png",
+        "local": "data/images/82/15.png"
+      }
+    },
+    {
+      "totalNumber": 5845,
+      "numberInSurah": 16,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+        "enText": "And never therefrom will they be absent.",
+        "enTextTransliteration": "Wa maa hum 'anhaa bighaaa 'ibeen",
+        "bnText": "তারা সেখান থেকে পৃথক হবে না।",
+        "bntextLatin": "Tara sekhana theke prthaka habe na."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/16.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/16.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/16.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/16.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/16.mp3",
+          "local": "data/audio/82/ar.abdulsamad/16.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/16.mp3",
+          "local": "data/audio/82/ar.shaatree/16.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/16.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/16.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/16.mp3",
+          "local": "data/audio/82/ar.alafasy/16.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/16.mp3",
+          "local": "data/audio/82/ar.hanirifai/16.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/16.mp3",
+          "local": "data/audio/82/ar.husary/16.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/16.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/16.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/16.mp3",
+          "local": "data/audio/82/ar.hudhaify/16.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/16.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/16.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/16.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/16.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/16.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/16.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/16.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/16.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/16.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/16.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/16.mp3",
+          "local": "data/audio/82/ar.parhizgar/16.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/16.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/16.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/16.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/16.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_16.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_16.png",
+        "local": "data/images/82/16.png"
+      }
+    },
+    {
+      "totalNumber": 5846,
+      "numberInSurah": 17,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+        "enText": "And what can make you know what is the Day of Recompense?",
+        "enTextTransliteration": "Wa maaa adraaka maa Yawmud Deen",
+        "bnText": "আপনি জানেন, বিচার দিবস কি",
+        "bntextLatin": "Apani janena, bicara dibasa ki"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/17.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/17.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/17.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/17.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/17.mp3",
+          "local": "data/audio/82/ar.abdulsamad/17.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/17.mp3",
+          "local": "data/audio/82/ar.shaatree/17.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/17.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/17.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/17.mp3",
+          "local": "data/audio/82/ar.alafasy/17.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/17.mp3",
+          "local": "data/audio/82/ar.hanirifai/17.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/17.mp3",
+          "local": "data/audio/82/ar.husary/17.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/17.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/17.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/17.mp3",
+          "local": "data/audio/82/ar.hudhaify/17.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/17.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/17.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/17.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/17.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/17.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/17.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/17.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/17.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/17.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/17.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/17.mp3",
+          "local": "data/audio/82/ar.parhizgar/17.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/17.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/17.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/17.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/17.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_17.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_17.png",
+        "local": "data/images/82/17.png"
+      }
+    },
+    {
+      "totalNumber": 5847,
+      "numberInSurah": 18,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+        "enText": "Then, what can make you know what is the Day of Recompense?",
+        "enTextTransliteration": "Summa maaa adraaka maa Yawmud Deen",
+        "bnText": "অতঃপর আপনি জানেন, বিচার দিবস কি",
+        "bntextLatin": "atahpara apani janena, bicara dibasa ki"
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/18.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/18.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/18.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/18.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/18.mp3",
+          "local": "data/audio/82/ar.abdulsamad/18.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/18.mp3",
+          "local": "data/audio/82/ar.shaatree/18.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/18.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/18.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/18.mp3",
+          "local": "data/audio/82/ar.alafasy/18.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/18.mp3",
+          "local": "data/audio/82/ar.hanirifai/18.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/18.mp3",
+          "local": "data/audio/82/ar.husary/18.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/18.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/18.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/18.mp3",
+          "local": "data/audio/82/ar.hudhaify/18.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/18.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/18.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/18.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/18.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/18.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/18.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/18.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/18.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/18.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/18.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/18.mp3",
+          "local": "data/audio/82/ar.parhizgar/18.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/18.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/18.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/18.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/18.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_18.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_18.png",
+        "local": "data/images/82/18.png"
+      }
+    },
+    {
+      "totalNumber": 5848,
+      "numberInSurah": 19,
+      "juz": 30,
+      "sajda": {
+        "recommended": false,
+        "obligatory": false
+      },
+      "text": {
+        "arText": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+        "enText": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah.",
+        "enTextTransliteration": "Yawma laa tamliku nafsul linafsin shai'anw walamru yawma'izil lillaah",
+        "bnText": "যেদিন কেউ কারও কোন উপকার করতে পারবে না এবং সেদিন সব কতৃꦣ2468;্ব হবে আল্লাহর।",
+        "bntextLatin": "yedina ke'u kara'o kona upakara karate parabe na ebam sedina saba katrꦣ2468;ba habe allahara."
+      },
+      "tafsir": {
+        "en": "",
+        "bn": ""
+      },
+      "audio": {
+        "ar.abdullahbasfar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdullahbasfar/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdullahbasfar/19.mp3",
+          "local": "data/audio/82/ar.abdullahbasfar/19.mp3"
+        },
+        "ar.abdurrahmaansudais": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/19.mp3",
+          "local": "data/audio/82/ar.abdurrahmaansudais/19.mp3"
+        },
+        "ar.abdulsamad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/19.mp3",
+          "local": "data/audio/82/ar.abdulsamad/19.mp3"
+        },
+        "ar.shaatree": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/19.mp3",
+          "local": "data/audio/82/ar.shaatree/19.mp3"
+        },
+        "ar.ahmedajamy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ahmedajamy/19.mp3",
+          "local": "data/audio/82/ar.ahmedajamy/19.mp3"
+        },
+        "ar.alafasy": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/19.mp3",
+          "local": "data/audio/82/ar.alafasy/19.mp3"
+        },
+        "ar.hanirifai": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hanirifai/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hanirifai/19.mp3",
+          "local": "data/audio/82/ar.hanirifai/19.mp3"
+        },
+        "ar.husary": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husary/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husary/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husary/19.mp3",
+          "local": "data/audio/82/ar.husary/19.mp3"
+        },
+        "ar.husarymujawwad": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.husarymujawwad/19.mp3",
+          "local": "data/audio/82/ar.husarymujawwad/19.mp3"
+        },
+        "ar.hudhaify": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.hudhaify/19.mp3",
+          "local": "data/audio/82/ar.hudhaify/19.mp3"
+        },
+        "ar.ibrahimakhbar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.ibrahimakhbar/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.ibrahimakhbar/19.mp3",
+          "local": "data/audio/82/ar.ibrahimakhbar/19.mp3"
+        },
+        "ar.mahermuaiqly": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/19.mp3",
+          "local": "data/audio/82/ar.mahermuaiqly/19.mp3"
+        },
+        "ar.muhammadayyoub": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadayyoub/19.mp3",
+          "local": "data/audio/82/ar.muhammadayyoub/19.mp3"
+        },
+        "ar.muhammadjibreel": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/19.mp3",
+          "local": "data/audio/82/ar.muhammadjibreel/19.mp3"
+        },
+        "ar.saoodshuraym": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.saoodshuraym/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.saoodshuraym/19.mp3",
+          "local": "data/audio/82/ar.saoodshuraym/19.mp3"
+        },
+        "ar.parhizgar": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.parhizgar/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.parhizgar/19.mp3",
+          "local": "data/audio/82/ar.parhizgar/19.mp3"
+        },
+        "ar.aymanswoaid": {
+          "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/19.mp3",
+          "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/19.mp3",
+          "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/19.mp3",
+          "local": "data/audio/82/ar.aymanswoaid/19.mp3"
+        }
+      },
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/82_19.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/82_19.png",
+        "local": "data/images/82/19.png"
+      }
+    }
+  ]
+}
