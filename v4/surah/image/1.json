@@ -1,0 +1,89 @@
+{
+  "no": 1,
+  "name": "سُورَةُ ٱلْفَاتِحَةِ",
+  "enName": "Al-Faatiha",
+  "enNameTranslation": "The Opening",
+  "bnNameTranslation": "আল ফাতিহা ",
+  "revelationType": "Meccan",
+  "revelationOrder": 5,
+  "numberOfAyahs": 7,
+  "verses": [
+    {
+      "totalNumber": 1,
+      "numberInSurah": 1,
+      "juz": 1,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/1_1.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/1_1.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/1/1.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/1/1.png"
+      }
+    },
+    {
+      "totalNumber": 2,
+      "numberInSurah": 2,
+      "juz": 1,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/1_2.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/1_2.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/1/2.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/1/2.png"
+      }
+    },
+    {
+      "totalNumber": 3,
+      "numberInSurah": 3,
+      "juz": 1,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/1_3.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/1_3.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/1/3.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/1/3.png"
+      }
+    },
+    {
+      "totalNumber": 4,
+      "numberInSurah": 4,
+      "juz": 1,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/1_4.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/1_4.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/1/4.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/1/4.png"
+      }
+    },
+    {
+      "totalNumber": 5,
+      "numberInSurah": 5,
+      "juz": 1,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/1_5.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/1_5.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/1/5.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/1/5.png"
+      }
+    },
+    {
+      "totalNumber": 6,
+      "numberInSurah": 6,
+      "juz": 1,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/1_6.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/1_6.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/1/6.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/1/6.png"
+      }
+    },
+    {
+      "totalNumber": 7,
+      "numberInSurah": 7,
+      "juz": 1,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/1_7.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/1_7.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/1/7.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/1/7.png"
+      }
+    }
+  ]
+}

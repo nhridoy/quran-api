@@ -1,0 +1,903 @@
+{
+  "no": 15,
+  "name": "سُورَةُ الحِجۡرِ",
+  "enName": "Al-Hijr",
+  "enNameTranslation": "The Rock",
+  "bnNameTranslation": "আল হিজর",
+  "revelationType": "Meccan",
+  "revelationOrder": 54,
+  "numberOfAyahs": 99,
+  "verses": [
+    {
+      "totalNumber": 1803,
+      "numberInSurah": 1,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"green\">(الر)</span> سبق الكلام على الحروف المقطَّعة في أول سورة البقرة. تلك الآيات العظيمة هي آيات الكتاب العزيز المنزل على محمد صلى الله عليه وسلم، وهي آيات قرآن موضِّح للحقائق بأحسن لفظ وأوضحه وأدلِّه على المقصود. فالكتاب هو القرآن جمع الله له بين الاسمين."
+    },
+    {
+      "totalNumber": 1804,
+      "numberInSurah": 2,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "سيتمنى الكفار حين يرون خروج عصاة المؤمنين من النار أن لو كانوا موحدين؛ ليخرجوا كما خرجوا."
+    },
+    {
+      "totalNumber": 1805,
+      "numberInSurah": 3,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "اترك -أيها الرسول- الكفار يأكلوا، ويستمتعوا بدنياهم، ويشغلهم الطمع فيها عن طاعة الله، فسوف يعلمون عاقبة أمرهم الخاسرة في الدنيا والآخرة."
+    },
+    {
+      "totalNumber": 1806,
+      "numberInSurah": 4,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وإذا طلبوا نزول العذاب بهم تكذيبًا لك -أيها الرسول- فإنا لا نُهْلك قرية إلا ولإهلاكها أجل مقدَّر، لا نُهْلكهم حتى يبلغوه، مثل مَن سبقهم."
+    },
+    {
+      "totalNumber": 1807,
+      "numberInSurah": 5,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "لا تتجاوز أمة أجلها فتزيد عليه، ولا تتقدم عليه، فتنقص منه."
+    },
+    {
+      "totalNumber": 1808,
+      "numberInSurah": 6,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">وقال المكذبون لمحمد صلى الله عليه وسلم استهزاءً:</span> يا أيها الذي نُزِّل عليه القرآن إنك لذاهب العقل، هلا تأتينا بالملائكة -إن كنت صادقًا-; لتشهد أن الله أرسلك."
+    },
+    {
+      "totalNumber": 1809,
+      "numberInSurah": 7,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">وقال المكذبون لمحمد صلى الله عليه وسلم استهزاءً:</span> يا أيها الذي نُزِّل عليه القرآن إنك لذاهب العقل، هلا تأتينا بالملائكة -إن كنت صادقًا-؛ لتشهد أن الله أرسلك."
+    },
+    {
+      "totalNumber": 1810,
+      "numberInSurah": 8,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">وردَّ الله عليهم:</span> إننا لا ننزل الملائكة إلا بالعذاب الذي لا إمهال فيه لمن لم يؤمن، وما كانوا حين تنزل الملائكة بالعذاب بِمُمْهلين."
+    },
+    {
+      "totalNumber": 1811,
+      "numberInSurah": 9,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "إنَّا نحن نزَّلنا القرآن على النبي محمد صلى الله عليه وسلم، وإنَّا نتعهد بحفظه مِن أن يُزاد فيه أو يُنْقَص منه، أو يضيع منه شيء."
+    },
+    {
+      "totalNumber": 1812,
+      "numberInSurah": 10,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولقد أرسلنا من قبلك -أيها الرسول- رسلا في فِرَق الأولين، فما من رسولٍ جاءهم إلا كانوا منه يسخرون. وفي هذا تسلية للرسول صلى الله عليه وسلم. فكما فَعَل بك هؤلاء المشركون فكذلك فُعِلَ بمن قبلك من الرسل."
+    },
+    {
+      "totalNumber": 1813,
+      "numberInSurah": 11,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1814,
+      "numberInSurah": 12,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "كما أدخلنا الكفر في قلوب الأمم السابقة بالاستهزاء بالرسل وتكذيبهم، كذلك نفعل ذلك في قلوب مشركي قومك الذين أجرموا بالكفر بالله وتكذيب رسوله، لا يُصَدِّقون بالذكر الذي أُنزل إليك، وقد مضت سنَّة الأولين بإهلاك الكفار، وهؤلاء مِثْلهم، سَيُهْلك المستمرون منهم على الكفر والتكذيب."
+    },
+    {
+      "totalNumber": 1815,
+      "numberInSurah": 13,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1816,
+      "numberInSurah": 14,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولو فتحنا على كفار <span class=\"brown\">«مكة»</span> بابًا من السماء فاستمروا صاعدين فيه حتى يشاهدوا ما في السماء من عجائب ملكوت الله، لما صدَّقوا،<span class=\"blue\"> ولقالوا:</span> سُحِرَتْ أبصارنا، حتى رأينا ما لم نرَ، وما نحن إلا مسحورون في عقولنا من محمد."
+    },
+    {
+      "totalNumber": 1817,
+      "numberInSurah": 15,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولو فتحنا على كفار <span class=\"red\">\"مكة\"</span> بابًا من السماء فاستمروا صاعدين فيه حتى يشاهدوا ما في السماء من عجائب ملكوت الله، لما صدَّقوا،<span class=\"blue\"> ولقالوا:</span> سُحِرَتْ أبصارنا، حتى رأينا ما لم نرَ، وما نحن إلا مسحورون في عقولنا من محمد."
+    },
+    {
+      "totalNumber": 1818,
+      "numberInSurah": 16,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">ومن أدلة قدرتنا:</span> أنا جعلنا في السماء الدنيا منازل للكواكب تنزل فيها، ويستدل بذلك على الطرقات والأوقات والخِصْب والجَدْب، وزَيَّنَّا هذه السماء بالنجوم لمن ينظرون إليها، ويتأملون فيعتبرون."
+    },
+    {
+      "totalNumber": 1819,
+      "numberInSurah": 17,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وحفظنا السماء من كل شيطان مرجوم مطرود من رحمة الله; كي لا يصل إليها."
+    },
+    {
+      "totalNumber": 1820,
+      "numberInSurah": 18,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "إلا من اختلس السمع مِن كلام أهل الملأ الأعلى في بعض الأوقات، فأدركه ولحقه كوكب مضيء يحرقه. وقد يُلْقي الشيطان إلى وليه بعض ما استرقَه قبل أن يحرقه الشهاب."
+    },
+    {
+      "totalNumber": 1821,
+      "numberInSurah": 19,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "والأرض مددناها متسعة، وألقينا فيها جبالا تثبتها، وأنبتنا فيها من كل أنواع النبات ما هو مقدَّر معلوم مما يحتاج إليه العباد."
+    },
+    {
+      "totalNumber": 1822,
+      "numberInSurah": 20,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وجعلنا لكم فيها ما به تعيشون من الحَرْث، ومن الماشية، ومن أنواع المكاسب وغيرها، وخلقنا لكم من الذرية والخدم والدوابِّ ما تنتفعون به، وليس رزقهم عليكم، وإنما هو على الله رب العالمين تفضلا منه وتكرمًا."
+    },
+    {
+      "totalNumber": 1823,
+      "numberInSurah": 21,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وما من شيء من منافع العباد إلا عندنا خزائنه من جميع الصنوف، وما ننزله إلا بمقدار محدد كما نشاء وكما نريد، فالخزائن بيد الله يعطي من يشاء ويمنع من يشاء، بحسب رحمته الواسعة، وحكمته البالغة."
+    },
+    {
+      "totalNumber": 1824,
+      "numberInSurah": 22,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وأرسلنا الرياح وسخرناها تُلَقِّح السحاب، فيدر بالماء ويمطر، وتلقح الشجر فيتفتح عن أوراقه وأكمامه، وتحمل المطر والخير والنفع، فأنزلنا من السحاب ماء أعددناه لشرابكم وأرضكم ومواشيكم، وما أنتم بقادرين على خزنه وادِّخاره، ولكن نحفظه لكم رحمة بكم، وإحسانًا إليكم."
+    },
+    {
+      "totalNumber": 1825,
+      "numberInSurah": 23,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وإنَّا لنحن نحيي مَن كان ميتًا بخلقه من العدم، ونميت من كان حيًا بعد انقضاء أجله، ونحن الوارثون الأرض ومَن عليها."
+    },
+    {
+      "totalNumber": 1826,
+      "numberInSurah": 24,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولقد علمنا مَن هلك منكم مِن لدن آدم، ومَن هو حيٌّ، ومَن سيأتي إلى يوم القيامة."
+    },
+    {
+      "totalNumber": 1827,
+      "numberInSurah": 25,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وإن ربك هو يحشرهم للحساب والجزاء، إنه حكيم في تدبيره، عليم لا يخفى عليه شيء."
+    },
+    {
+      "totalNumber": 1828,
+      "numberInSurah": 26,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولقد خلقنا آدم مِن طين يابس إذا نُقِر عليه سُمع له صوت، وهذا الطين اليابس من طين أسود متغيِّر لونه وريحه; مِن طول مكثه."
+    },
+    {
+      "totalNumber": 1829,
+      "numberInSurah": 27,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وخلقنا أبا الجن، وهو إبليس مِن قَبْل خلق آدم من نار شديدة الحرارة لا دخان لها."
+    },
+    {
+      "totalNumber": 1830,
+      "numberInSurah": 28,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "واذكر -أيها الرسول-<span class=\"blue\"> حين قال ربك للملائكة:</span> إني خالق إنسانًا من طين يابس، وهذا الطين اليابس من طين أسود متغيِّر اللون."
+    },
+    {
+      "totalNumber": 1831,
+      "numberInSurah": 29,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فإذا سوَّيته وأكملت صورته ونفخت فيه الروح، فخُرُّوا له ساجدين سجود تحية وتكريم، لا سجود عبادة."
+    },
+    {
+      "totalNumber": 1832,
+      "numberInSurah": 30,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فسجد الملائكة كلهم أجمعون كما أمرهم ربهم لم يمتنع منهم أحد، لكن إبليس امتنع أن يسجد لآدم مع الملائكة الساجدين."
+    },
+    {
+      "totalNumber": 1833,
+      "numberInSurah": 31,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1834,
+      "numberInSurah": 32,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال الله لإبليس:</span> ما لك ألا تسجد مع الملائكة؟"
+    },
+    {
+      "totalNumber": 1835,
+      "numberInSurah": 33,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال إبليس مظهرًا كبره وحسده:</span> لا يليق بي أن أسجد لإنسان أَوجدْتَهُ من طين يابس كان طينًا أسود متغيرًا."
+    },
+    {
+      "totalNumber": 1836,
+      "numberInSurah": 34,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال الله تعالى له:</span> فاخرج من الجنة، فإنك مطرود من كل خير، وإن عليك اللعنة والبعد من رحمتي إلى يوم يُبْعَث الناس للحساب والجزاء."
+    },
+    {
+      "totalNumber": 1837,
+      "numberInSurah": 35,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1838,
+      "numberInSurah": 36,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال إبليس:</span> رب أخِّرني في الدنيا إلى اليوم الذي تَبْعَث فيه عبادك، وهو يوم القيامة."
+    },
+    {
+      "totalNumber": 1839,
+      "numberInSurah": 37,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال الله له:</span> فإنك ممن أخَّرْتُ هلاكهم إلى اليوم الذي يموت فيه كل الخلق بعد النفخة الأولى، لا إلى يوم البعث، وإنما أُجيبَ إلى ذلك استدراجًا له وإمهالا وفتنة للثقلين."
+    },
+    {
+      "totalNumber": 1840,
+      "numberInSurah": 38,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1841,
+      "numberInSurah": 39,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال إبليس:</span> ربِّ بسبب ما أغويتني وأضللتني لأحسِّنَنَّ لذرية آدم معاصيك في الأرض، ولأضلنهم أجمعين عن طريق الهدى، إلا عبادك الذين هديتهم فأخلصوا لك العبادة وحدك دون سائر خلقك."
+    },
+    {
+      "totalNumber": 1842,
+      "numberInSurah": 40,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1843,
+      "numberInSurah": 41,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال الله:</span> هذا طريق مستقيم معتدل موصل إليَّ وإلى دار كرامتي. إن عبادي الذين أخلصوا لي لا أجعل لك سلطانًا على قلوبهم تضلُّهم به عن الصراط المستقيم، لكن سلطانك على مَنِ اتبعك مِنَ الضالين المشركين الذين رضوا بولايتك وطاعتك بدلا من طاعتي."
+    },
+    {
+      "totalNumber": 1844,
+      "numberInSurah": 42,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1845,
+      "numberInSurah": 43,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وإن النار الشديدة لَموعدُ إبليس وأتباعه أجمعين، لها سبعة أبواب كل باب أسفل من الآخر، لكل بابٍ مِن أتباع إبليس قسم ونصيب بحسب أعمالهم."
+    },
+    {
+      "totalNumber": 1846,
+      "numberInSurah": 44,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1847,
+      "numberInSurah": 45,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"ar blue\" lang=\"ar\">إن الذين اتقوا الله بامتثال ما أمر واجتناب ما نهى في بساتين وأنهار جارية يقال لهم:</span> ادخلوا هذه الجنات سالمين من كل سوء آمنين من كل عذاب. ونزعنا ما في قلوبهم من حقد وعداوة، يعيشون في الجنة إخوانًا متحابين، يجلسون على أسرَّة عظيمة، تتقابل وجوههم تواصلا وتحاببًا، لا يصيبهم فيها تعب ولا إعياء، وهم باقون فيها أبدًا."
+    },
+    {
+      "totalNumber": 1848,
+      "numberInSurah": 46,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1849,
+      "numberInSurah": 47,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1850,
+      "numberInSurah": 48,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1851,
+      "numberInSurah": 49,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "أخبر -أيها الرسول- عبادي أني أنا الغفور للمؤمنين التائبين، الرحيم بهم، وأن عذابي هو العذاب المؤلم الموجع لغير التائبين."
+    },
+    {
+      "totalNumber": 1852,
+      "numberInSurah": 50,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1853,
+      "numberInSurah": 51,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وأخبرهم -أيها الرسول- عن ضيوف إبراهيم من الملائكة الذين بشَّروه بالولد، وبهلاك قوم لوط."
+    },
+    {
+      "totalNumber": 1854,
+      "numberInSurah": 52,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">حين دخلوا عليه فقالوا:</span> سلامًا; فرد عليهم السلام، ثم قدَّم لهم الطعام فلم يأكلوا،<span class=\"blue\"> قال:</span> إنا منكم فزعون."
+    },
+    {
+      "totalNumber": 1855,
+      "numberInSurah": 53,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قالت الملائكة له:</span> لا تفزع إنَّا جئنا نبشرك بولد كثير العلم بالدين، هو إسحاق."
+    },
+    {
+      "totalNumber": 1856,
+      "numberInSurah": 54,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال إبراهيم متعجبًا:</span> أبشَّرتموني بالولد، وأنا كبير وزوجتي كذلك، فبأي أعجوبة تبشِّرونني؟"
+    },
+    {
+      "totalNumber": 1857,
+      "numberInSurah": 55,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قالوا:</span> بشَّرناك بالحق الذي أعلمَنا به الله، فلا تكن من اليائسين أن يولد لك."
+    },
+    {
+      "totalNumber": 1858,
+      "numberInSurah": 56,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال:</span> لا ييئس من رحمة ربه إلا الخاطئون المنصرفون عن طريق الحق.<span class=\"blue\"> قال:</span> فما الأمر الخطير الذي جئتم من أجله -أيها المرسلون- من عند الله؟"
+    },
+    {
+      "totalNumber": 1859,
+      "numberInSurah": 57,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1860,
+      "numberInSurah": 58,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قالوا:</span> إن الله أرسلنا لإهلاك قوم لوط المشركين الضالين إلا لوطًا وأهله المؤمنين به، فلن نهلكهم وسننجيهم أجمعين، لكن زوجته الكافرة قضينا بأمر الله بإهلاكها مع الباقين في العذاب."
+    },
+    {
+      "totalNumber": 1861,
+      "numberInSurah": 59,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1862,
+      "numberInSurah": 60,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1863,
+      "numberInSurah": 61,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فلما وصل الملائكة المرسلون إلى لوط،<span class=\"blue\"> قال لهم:</span> إنكم قوم غير معروفين لي."
+    },
+    {
+      "totalNumber": 1864,
+      "numberInSurah": 62,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1865,
+      "numberInSurah": 63,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قالوا:</span> لا تَخَفْ، فإنَّا جئنا بالعذاب الذي كان يشك فيه قومك ولا يُصَدِّقون، وجئناك بالحق من عند الله، وإنا لصادقون، فاخرج مِن بينهم ومعك أهلك المؤمنون، بعد مرور جزء من الليل، وسر أنت وراءهم; لئلا يتخلف منهم أحد فيناله العذاب، واحذروا أن يلتفت منكم أحد وراءه؛ لئلا يرى العذاب فيصيبه كذلك، وأسرعوا إلى حيث أمركم الله; لتكونوا في مكان أمين."
+    },
+    {
+      "totalNumber": 1866,
+      "numberInSurah": 64,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قالوا:</span> لا تَخَفْ، فإنَّا جئنا بالعذاب الذي كان يشك فيه قومك ولا يُصَدِّقون، وجئناك بالحق من عند الله، وإنا لصادقون، فاخرج مِن بينهم ومعك أهلك المؤمنون، بعد مرور جزء من الليل، وسر أنت وراءهم؛ لئلا يتخلف منهم أحد فيناله العذاب، واحذروا أن يلتفت منكم أحد، وأسرعوا إلى حيث أمركم الله؛ لتكونوا في مكان أمين."
+    },
+    {
+      "totalNumber": 1867,
+      "numberInSurah": 65,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1868,
+      "numberInSurah": 66,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وأوحينا إلى لوط أن قومك مستأصَلون بالهلاك عن آخرهم عند طلوع الصبح."
+    },
+    {
+      "totalNumber": 1869,
+      "numberInSurah": 67,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وجاء أهل مدينة لوط إلى لوط حين علموا بمن عنده من الضيوف، وهم فرحون يستبشرون بضيوفه; ليأخذوهم ويفعلوا بهم الفاحشة."
+    },
+    {
+      "totalNumber": 1870,
+      "numberInSurah": 68,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال لهم لوط:</span> إن هؤلاء ضيفي وهم في حمايتي فلا تفضحوني، وخافوا عقاب الله، ولا تتعرضوا لهم، فتوقعوني في الذل والهوان بإيذائكم لضيوفي."
+    },
+    {
+      "totalNumber": 1871,
+      "numberInSurah": 69,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1872,
+      "numberInSurah": 70,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال قومه:</span> أو لم نَنْهَكَ أن تضيِّف أحدا من العالمين <span class=\"green\">(وكانوا يقطعون السبيل على المسافرين)</span> ; لأنَّا نريد فعل الفاحشة بهم؟"
+    },
+    {
+      "totalNumber": 1873,
+      "numberInSurah": 71,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">قال لوط لهم:</span> هؤلاء نساؤكم بناتي فتزوَّجوهن إن كنتم تريدون قضاء وطركم، وسماهن بناته؛ لأن نبي الأمة بمنزلة الأب لهم، ولا تفعلوا ما حرَّم الله عليكم من إتيان الرجال."
+    },
+    {
+      "totalNumber": 1874,
+      "numberInSurah": 72,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "يقسم الخالق بمن يشاء وبما يشاء، أما المخلوق فلا يجوز له القسم إلا بالله، وقد أقسم الله تعالى بحياة محمد صلى الله عليه وسلم تشريفًا له. إن قوم لوط في غفلة شديدة يترددون ويتمادون، حتى حلَّتْ بهم صاعقة العذاب وقت شروق الشمس."
+    },
+    {
+      "totalNumber": 1875,
+      "numberInSurah": 73,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1876,
+      "numberInSurah": 74,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فقلبنا قُراهم فجعلنا عاليها سافلها، وأمطرنا عليهم حجارة من طين متصلب متين."
+    },
+    {
+      "totalNumber": 1877,
+      "numberInSurah": 75,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "إن فيما أصابهم لَعظاتٍ للناظرين المعتبرين، وإن قراهم لفي طريق ثابت يراها المسافرون المارُّون بها. إن في إهلاكنا لهم لَدلالةً بيِّنةً للمصدقين العاملين بشرع الله."
+    },
+    {
+      "totalNumber": 1878,
+      "numberInSurah": 76,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1879,
+      "numberInSurah": 77,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1880,
+      "numberInSurah": 78,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وقد كان أصحاب المدينة الملتفة الشجر -وهم قوم شعيب- ظالمين لأنفسهم لكفرهم بالله ورسولهم الكريم، فانتقمنا منهم بالرجفة وعذاب يوم الظلة، وإن مساكن قوم لوط وشعيب لفي طريق واضح يمرُّ بهما الناس في سفرهم فيعتبرون."
+    },
+    {
+      "totalNumber": 1881,
+      "numberInSurah": 79,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1882,
+      "numberInSurah": 80,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولقد كذَّب سكان <span class=\"brown\">«وادي الحِجْر»</span> صالحًا عليه السلام، وهم ثمود فكانوا بذلك مكذبين لكل المرسلين; لأن من كذَّب نبيًا فقد كذَّب الأنبياء كلهم; لأنهم على دين واحد."
+    },
+    {
+      "totalNumber": 1883,
+      "numberInSurah": 81,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وآتينا قوم صالح آياتنا الدالة على صحة ما جاءهم به صالح من الحق، ومن جملتها الناقة، فلم يعتبروا بها، وكانوا عنها مبتعدين معرضين."
+    },
+    {
+      "totalNumber": 1884,
+      "numberInSurah": 82,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وكانوا ينحتون الجبال، فيتخذون منها بيوتًا، وهم آمنون من أن تسقط عليهم أو تخرب."
+    },
+    {
+      "totalNumber": 1885,
+      "numberInSurah": 83,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فأخذتهم صاعقة العذاب وقت الصباح مبكرين، فما دفع عنهم عذابَ الله الأموالُ والحصونُ في الجبال، ولا ما أُعطوه من قوة وجاه."
+    },
+    {
+      "totalNumber": 1886,
+      "numberInSurah": 84,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1887,
+      "numberInSurah": 85,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وما خلَقْنا السموات والأرض وما بينهما إلا بالحق دالتين على كمال خالقهما واقتداره، وأنه الذي لا تنبغي العبادة إلا له وحده لا شريك له. وإن الساعة التي تقوم فيها القيامة لآتية لا محالة; لتوفَّى كل نفس بما عملت، فاعف -أيها الرسول- عن المشركين، واصفح عنهم وتجاوز عما يفعلونه."
+    },
+    {
+      "totalNumber": 1888,
+      "numberInSurah": 86,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "إنَّ ربك هو الخلاَّق لكل شيء، العليم به، فلا يعجزه شيء في الأرض ولا في السماء، ولا يخفى عليه."
+    },
+    {
+      "totalNumber": 1889,
+      "numberInSurah": 87,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولقد آتيناك -أيها النبي- فاتحة القرآن، وهي سبع آيات تكرر في كل صلاة، وآتيناك القرآن العظيم."
+    },
+    {
+      "totalNumber": 1890,
+      "numberInSurah": 88,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "لا تنظر بعينيك وتتمنَّ ما مَتَّعْنا به أصنافًا من الكفار مِن مُتَع الدنيا، ولا تحزن على كفرهم، وتواضَعْ للمؤمنين بالله ورسوله.<span class=\"blue\"> وقل:</span> إني أنا المنذر الموضِّح لما يهتدي به الناس إلى الإيمان بالله رب العالمين، ومنذركم أن يصيبكم العذاب، كما أنزله الله على الذين قسَّموا القرآن، فآمنوا ببعضه، وكفروا ببعضه الآخر من اليهود والنصارى وكفار قريش."
+    },
+    {
+      "totalNumber": 1891,
+      "numberInSurah": 89,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "<span class=\"blue\">وقل:</span> إني أنا المنذر الموضِّح لما يهتدي به الناس إلى الإيمان بالله رب العالمين، ومنذركم أن يصيبكم العذاب، كما أنزله الله على الذين قسَّموا القرآن، فآمنوا ببعضه، وكفروا ببعضه الآخر من اليهود والنصارى وغيرهم."
+    },
+    {
+      "totalNumber": 1892,
+      "numberInSurah": 90,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1893,
+      "numberInSurah": 91,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "وهم الذين جعلوا القرآن أقسامًا وأجزاء،<span class=\"blue\"> فمنهم من يقول:</span> سحر، ومنهم من يقول كَهَانة، ومنهم من يقول غير ذلك، يصرِّفونه بحسب أهوائهم; ليصدوا الناس عن الهدى."
+    },
+    {
+      "totalNumber": 1894,
+      "numberInSurah": 92,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فوربك لنحاسبنَّهم يوم القيامة ولنجزينهم أجمعين، عن تقسيمهم للقرآن بافتراءاتهم، وتحريفه وتبديله، وغير ذلك مما كانوا يعملونه من عبادة الأوثان، ومن المعاصي والآثام. وفي هذا ترهيب وزجر لهم من الإقامة على هذه الأفعال القبيحة."
+    },
+    {
+      "totalNumber": 1895,
+      "numberInSurah": 93,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1896,
+      "numberInSurah": 94,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فاجهر بدعوة الحق التي أمرك الله بها، ولا تبال بالمشركين، فقد برَّأك الله ممَّا يقولون."
+    },
+    {
+      "totalNumber": 1897,
+      "numberInSurah": 95,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "إنَّا كَفَيْناك المستهزئين الساخرين من زعماء قريش، الذين اتخذوا شريكًا مع الله من الأوثان وغيرها، فسوف يعلمون عاقبة عملهم في الدنيا والآخرة."
+    },
+    {
+      "totalNumber": 1898,
+      "numberInSurah": 96,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": ""
+    },
+    {
+      "totalNumber": 1899,
+      "numberInSurah": 97,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "ولقد نعلم بانقباض صدرك -أيها الرسول-; بسبب ما يقوله المشركون فيك وفي دعوتك."
+    },
+    {
+      "totalNumber": 1900,
+      "numberInSurah": 98,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "فافزع إلى ربك عند ضيق صدرك، وسَبِّح بحمده شاكرًا له مثنيا عليه، وكن من المصلِّين لله العابدين له، فإن ذلك يكفيك ما أهمَّك."
+    },
+    {
+      "totalNumber": 1901,
+      "numberInSurah": 99,
+      "juz": 14,
+      "lang": "Arabic",
+      "authorName": "Group of scholars",
+      "tafsirName": "Al-Tafsir al-Muyassar",
+      "tafsir": "واستمِرَّ في عبادة ربك مدة حياتك حتى يأتيك اليقين، وهو الموت. وامتثل رسول الله صلى الله عليه وسلم أمر ربه، فلم يزل دائبًا في عبادة الله، حتى أتاه اليقين من ربه."
+    }
+  ]
+}

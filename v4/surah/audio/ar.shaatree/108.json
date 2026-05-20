@@ -1,0 +1,45 @@
+{
+  "no": 108,
+  "name": "سُورَةُ الكَوۡثَرِ",
+  "enName": "Al-Kawthar",
+  "enNameTranslation": "Abundance",
+  "bnNameTranslation": "আল কাউসার",
+  "revelationType": "Meccan",
+  "revelationOrder": 15,
+  "numberOfAyahs": 3,
+  "verses": [
+    {
+      "totalNumber": 6205,
+      "numberInSurah": 1,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6205.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6205.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/6205.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/108/ar.shaatree/1.mp3"
+      }
+    },
+    {
+      "totalNumber": 6206,
+      "numberInSurah": 2,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6206.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6206.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/6206.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/108/ar.shaatree/2.mp3"
+      }
+    },
+    {
+      "totalNumber": 6207,
+      "numberInSurah": 3,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6207.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6207.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.shaatree/6207.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/108/ar.shaatree/3.mp3"
+      }
+    }
+  ]
+}

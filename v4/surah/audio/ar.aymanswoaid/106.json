@@ -1,0 +1,56 @@
+{
+  "no": 106,
+  "name": "سُورَةُ قُرَيۡشٍ",
+  "enName": "Quraish",
+  "enNameTranslation": "Quraysh",
+  "bnNameTranslation": "কুরাইশ",
+  "revelationType": "Meccan",
+  "revelationOrder": 29,
+  "numberOfAyahs": 4,
+  "verses": [
+    {
+      "totalNumber": 6194,
+      "numberInSurah": 1,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/6194.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/6194.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/6194.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/106/ar.aymanswoaid/1.mp3"
+      }
+    },
+    {
+      "totalNumber": 6195,
+      "numberInSurah": 2,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/6195.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/6195.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/6195.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/106/ar.aymanswoaid/2.mp3"
+      }
+    },
+    {
+      "totalNumber": 6196,
+      "numberInSurah": 3,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/6196.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/6196.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/6196.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/106/ar.aymanswoaid/3.mp3"
+      }
+    },
+    {
+      "totalNumber": 6197,
+      "numberInSurah": 4,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.aymanswoaid/6197.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/6197.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.aymanswoaid/6197.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/106/ar.aymanswoaid/4.mp3"
+      }
+    }
+  ]
+}

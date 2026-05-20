@@ -1,0 +1,56 @@
+{
+  "no": 112,
+  "name": "سُورَةُ الإِخۡلَاصِ",
+  "enName": "Al-Ikhlaas",
+  "enNameTranslation": "Sincerity",
+  "bnNameTranslation": "আল ইখলাস",
+  "revelationType": "Meccan",
+  "revelationOrder": 22,
+  "numberOfAyahs": 4,
+  "verses": [
+    {
+      "totalNumber": 6222,
+      "numberInSurah": 1,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6222.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/6222.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/6222.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/112/ar.mahermuaiqly/1.mp3"
+      }
+    },
+    {
+      "totalNumber": 6223,
+      "numberInSurah": 2,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6223.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/6223.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/6223.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/112/ar.mahermuaiqly/2.mp3"
+      }
+    },
+    {
+      "totalNumber": 6224,
+      "numberInSurah": 3,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6224.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/6224.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/6224.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/112/ar.mahermuaiqly/3.mp3"
+      }
+    },
+    {
+      "totalNumber": 6225,
+      "numberInSurah": 4,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6225.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/6225.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.mahermuaiqly/6225.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/112/ar.mahermuaiqly/4.mp3"
+      }
+    }
+  ]
+}

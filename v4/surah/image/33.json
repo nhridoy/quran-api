@@ -1,0 +1,815 @@
+{
+  "no": 33,
+  "name": "سُورَةُ الأَحۡزَابِ",
+  "enName": "Al-Ahzaab",
+  "enNameTranslation": "The Clans",
+  "bnNameTranslation": "আল আহযাব",
+  "revelationType": "Medinan",
+  "revelationOrder": 90,
+  "numberOfAyahs": 73,
+  "verses": [
+    {
+      "totalNumber": 3534,
+      "numberInSurah": 1,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_1.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_1.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/1.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/1.png"
+      }
+    },
+    {
+      "totalNumber": 3535,
+      "numberInSurah": 2,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_2.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_2.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/2.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/2.png"
+      }
+    },
+    {
+      "totalNumber": 3536,
+      "numberInSurah": 3,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_3.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_3.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/3.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/3.png"
+      }
+    },
+    {
+      "totalNumber": 3537,
+      "numberInSurah": 4,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_4.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_4.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/4.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/4.png"
+      }
+    },
+    {
+      "totalNumber": 3538,
+      "numberInSurah": 5,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_5.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_5.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/5.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/5.png"
+      }
+    },
+    {
+      "totalNumber": 3539,
+      "numberInSurah": 6,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_6.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_6.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/6.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/6.png"
+      }
+    },
+    {
+      "totalNumber": 3540,
+      "numberInSurah": 7,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_7.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_7.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/7.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/7.png"
+      }
+    },
+    {
+      "totalNumber": 3541,
+      "numberInSurah": 8,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_8.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_8.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/8.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/8.png"
+      }
+    },
+    {
+      "totalNumber": 3542,
+      "numberInSurah": 9,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_9.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_9.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/9.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/9.png"
+      }
+    },
+    {
+      "totalNumber": 3543,
+      "numberInSurah": 10,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_10.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_10.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/10.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/10.png"
+      }
+    },
+    {
+      "totalNumber": 3544,
+      "numberInSurah": 11,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_11.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_11.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/11.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/11.png"
+      }
+    },
+    {
+      "totalNumber": 3545,
+      "numberInSurah": 12,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_12.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_12.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/12.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/12.png"
+      }
+    },
+    {
+      "totalNumber": 3546,
+      "numberInSurah": 13,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_13.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_13.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/13.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/13.png"
+      }
+    },
+    {
+      "totalNumber": 3547,
+      "numberInSurah": 14,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_14.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_14.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/14.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/14.png"
+      }
+    },
+    {
+      "totalNumber": 3548,
+      "numberInSurah": 15,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_15.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_15.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/15.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/15.png"
+      }
+    },
+    {
+      "totalNumber": 3549,
+      "numberInSurah": 16,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_16.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_16.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/16.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/16.png"
+      }
+    },
+    {
+      "totalNumber": 3550,
+      "numberInSurah": 17,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_17.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_17.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/17.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/17.png"
+      }
+    },
+    {
+      "totalNumber": 3551,
+      "numberInSurah": 18,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_18.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_18.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/18.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/18.png"
+      }
+    },
+    {
+      "totalNumber": 3552,
+      "numberInSurah": 19,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_19.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_19.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/19.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/19.png"
+      }
+    },
+    {
+      "totalNumber": 3553,
+      "numberInSurah": 20,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_20.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_20.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/20.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/20.png"
+      }
+    },
+    {
+      "totalNumber": 3554,
+      "numberInSurah": 21,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_21.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_21.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/21.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/21.png"
+      }
+    },
+    {
+      "totalNumber": 3555,
+      "numberInSurah": 22,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_22.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_22.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/22.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/22.png"
+      }
+    },
+    {
+      "totalNumber": 3556,
+      "numberInSurah": 23,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_23.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_23.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/23.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/23.png"
+      }
+    },
+    {
+      "totalNumber": 3557,
+      "numberInSurah": 24,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_24.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_24.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/24.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/24.png"
+      }
+    },
+    {
+      "totalNumber": 3558,
+      "numberInSurah": 25,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_25.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_25.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/25.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/25.png"
+      }
+    },
+    {
+      "totalNumber": 3559,
+      "numberInSurah": 26,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_26.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_26.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/26.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/26.png"
+      }
+    },
+    {
+      "totalNumber": 3560,
+      "numberInSurah": 27,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_27.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_27.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/27.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/27.png"
+      }
+    },
+    {
+      "totalNumber": 3561,
+      "numberInSurah": 28,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_28.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_28.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/28.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/28.png"
+      }
+    },
+    {
+      "totalNumber": 3562,
+      "numberInSurah": 29,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_29.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_29.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/29.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/29.png"
+      }
+    },
+    {
+      "totalNumber": 3563,
+      "numberInSurah": 30,
+      "juz": 21,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_30.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_30.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/30.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/30.png"
+      }
+    },
+    {
+      "totalNumber": 3564,
+      "numberInSurah": 31,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_31.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_31.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/31.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/31.png"
+      }
+    },
+    {
+      "totalNumber": 3565,
+      "numberInSurah": 32,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_32.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_32.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/32.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/32.png"
+      }
+    },
+    {
+      "totalNumber": 3566,
+      "numberInSurah": 33,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_33.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_33.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/33.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/33.png"
+      }
+    },
+    {
+      "totalNumber": 3567,
+      "numberInSurah": 34,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_34.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_34.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/34.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/34.png"
+      }
+    },
+    {
+      "totalNumber": 3568,
+      "numberInSurah": 35,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_35.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_35.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/35.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/35.png"
+      }
+    },
+    {
+      "totalNumber": 3569,
+      "numberInSurah": 36,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_36.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_36.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/36.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/36.png"
+      }
+    },
+    {
+      "totalNumber": 3570,
+      "numberInSurah": 37,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_37.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_37.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/37.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/37.png"
+      }
+    },
+    {
+      "totalNumber": 3571,
+      "numberInSurah": 38,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_38.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_38.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/38.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/38.png"
+      }
+    },
+    {
+      "totalNumber": 3572,
+      "numberInSurah": 39,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_39.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_39.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/39.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/39.png"
+      }
+    },
+    {
+      "totalNumber": 3573,
+      "numberInSurah": 40,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_40.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_40.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/40.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/40.png"
+      }
+    },
+    {
+      "totalNumber": 3574,
+      "numberInSurah": 41,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_41.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_41.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/41.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/41.png"
+      }
+    },
+    {
+      "totalNumber": 3575,
+      "numberInSurah": 42,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_42.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_42.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/42.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/42.png"
+      }
+    },
+    {
+      "totalNumber": 3576,
+      "numberInSurah": 43,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_43.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_43.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/43.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/43.png"
+      }
+    },
+    {
+      "totalNumber": 3577,
+      "numberInSurah": 44,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_44.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_44.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/44.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/44.png"
+      }
+    },
+    {
+      "totalNumber": 3578,
+      "numberInSurah": 45,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_45.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_45.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/45.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/45.png"
+      }
+    },
+    {
+      "totalNumber": 3579,
+      "numberInSurah": 46,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_46.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_46.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/46.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/46.png"
+      }
+    },
+    {
+      "totalNumber": 3580,
+      "numberInSurah": 47,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_47.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_47.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/47.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/47.png"
+      }
+    },
+    {
+      "totalNumber": 3581,
+      "numberInSurah": 48,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_48.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_48.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/48.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/48.png"
+      }
+    },
+    {
+      "totalNumber": 3582,
+      "numberInSurah": 49,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_49.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_49.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/49.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/49.png"
+      }
+    },
+    {
+      "totalNumber": 3583,
+      "numberInSurah": 50,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_50.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_50.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/50.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/50.png"
+      }
+    },
+    {
+      "totalNumber": 3584,
+      "numberInSurah": 51,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_51.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_51.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/51.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/51.png"
+      }
+    },
+    {
+      "totalNumber": 3585,
+      "numberInSurah": 52,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_52.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_52.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/52.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/52.png"
+      }
+    },
+    {
+      "totalNumber": 3586,
+      "numberInSurah": 53,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_53.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_53.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/53.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/53.png"
+      }
+    },
+    {
+      "totalNumber": 3587,
+      "numberInSurah": 54,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_54.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_54.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/54.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/54.png"
+      }
+    },
+    {
+      "totalNumber": 3588,
+      "numberInSurah": 55,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_55.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_55.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/55.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/55.png"
+      }
+    },
+    {
+      "totalNumber": 3589,
+      "numberInSurah": 56,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_56.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_56.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/56.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/56.png"
+      }
+    },
+    {
+      "totalNumber": 3590,
+      "numberInSurah": 57,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_57.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_57.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/57.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/57.png"
+      }
+    },
+    {
+      "totalNumber": 3591,
+      "numberInSurah": 58,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_58.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_58.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/58.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/58.png"
+      }
+    },
+    {
+      "totalNumber": 3592,
+      "numberInSurah": 59,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_59.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_59.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/59.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/59.png"
+      }
+    },
+    {
+      "totalNumber": 3593,
+      "numberInSurah": 60,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_60.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_60.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/60.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/60.png"
+      }
+    },
+    {
+      "totalNumber": 3594,
+      "numberInSurah": 61,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_61.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_61.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/61.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/61.png"
+      }
+    },
+    {
+      "totalNumber": 3595,
+      "numberInSurah": 62,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_62.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_62.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/62.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/62.png"
+      }
+    },
+    {
+      "totalNumber": 3596,
+      "numberInSurah": 63,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_63.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_63.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/63.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/63.png"
+      }
+    },
+    {
+      "totalNumber": 3597,
+      "numberInSurah": 64,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_64.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_64.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/64.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/64.png"
+      }
+    },
+    {
+      "totalNumber": 3598,
+      "numberInSurah": 65,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_65.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_65.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/65.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/65.png"
+      }
+    },
+    {
+      "totalNumber": 3599,
+      "numberInSurah": 66,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_66.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_66.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/66.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/66.png"
+      }
+    },
+    {
+      "totalNumber": 3600,
+      "numberInSurah": 67,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_67.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_67.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/67.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/67.png"
+      }
+    },
+    {
+      "totalNumber": 3601,
+      "numberInSurah": 68,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_68.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_68.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/68.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/68.png"
+      }
+    },
+    {
+      "totalNumber": 3602,
+      "numberInSurah": 69,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_69.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_69.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/69.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/69.png"
+      }
+    },
+    {
+      "totalNumber": 3603,
+      "numberInSurah": 70,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_70.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_70.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/70.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/70.png"
+      }
+    },
+    {
+      "totalNumber": 3604,
+      "numberInSurah": 71,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_71.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_71.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/71.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/71.png"
+      }
+    },
+    {
+      "totalNumber": 3605,
+      "numberInSurah": 72,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_72.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_72.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/72.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/72.png"
+      }
+    },
+    {
+      "totalNumber": 3606,
+      "numberInSurah": 73,
+      "juz": 22,
+      "image": {
+        "primary": "http://cdn.islamic.network/quran/images/33_73.png",
+        "secondary": "http://cdn.islamic.network/quran/images/high-resolution/33_73.png",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/low-resolution/33/73.png",
+        "alternative-high": "https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses/high-resolution/33/73.png"
+      }
+    }
+  ]
+}

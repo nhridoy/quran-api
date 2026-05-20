@@ -1,0 +1,67 @@
+{
+  "no": 97,
+  "name": "سُورَةُ القَدۡرِ",
+  "enName": "Al-Qadr",
+  "enNameTranslation": "The Power, Fate",
+  "bnNameTranslation": "আল কাদ্‌র",
+  "revelationType": "Meccan",
+  "revelationOrder": 25,
+  "numberOfAyahs": 5,
+  "verses": [
+    {
+      "totalNumber": 6126,
+      "numberInSurah": 1,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/6126.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6126.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/6126.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/97/ar.abdulsamad/1.mp3"
+      }
+    },
+    {
+      "totalNumber": 6127,
+      "numberInSurah": 2,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/6127.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6127.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/6127.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/97/ar.abdulsamad/2.mp3"
+      }
+    },
+    {
+      "totalNumber": 6128,
+      "numberInSurah": 3,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/6128.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6128.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/6128.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/97/ar.abdulsamad/3.mp3"
+      }
+    },
+    {
+      "totalNumber": 6129,
+      "numberInSurah": 4,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/6129.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6129.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/6129.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/97/ar.abdulsamad/4.mp3"
+      }
+    },
+    {
+      "totalNumber": 6130,
+      "numberInSurah": 5,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdulsamad/6130.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6130.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdulsamad/6130.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/97/ar.abdulsamad/5.mp3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "no": 105,
+  "name": "سُورَةُ الفِيلِ",
+  "enName": "Al-Fil",
+  "enNameTranslation": "The Elephant",
+  "bnNameTranslation": "আল ফীল",
+  "revelationType": "Meccan",
+  "revelationOrder": 19,
+  "numberOfAyahs": 5,
+  "verses": [
+    {
+      "totalNumber": 6189,
+      "numberInSurah": 1,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6189.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/6189.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/6189.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/105/ar.muhammadjibreel/1.mp3"
+      }
+    },
+    {
+      "totalNumber": 6190,
+      "numberInSurah": 2,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6190.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/6190.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/6190.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/105/ar.muhammadjibreel/2.mp3"
+      }
+    },
+    {
+      "totalNumber": 6191,
+      "numberInSurah": 3,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6191.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/6191.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/6191.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/105/ar.muhammadjibreel/3.mp3"
+      }
+    },
+    {
+      "totalNumber": 6192,
+      "numberInSurah": 4,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6192.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/6192.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/6192.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/105/ar.muhammadjibreel/4.mp3"
+      }
+    },
+    {
+      "totalNumber": 6193,
+      "numberInSurah": 5,
+      "juz": 30,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6193.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/6193.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.muhammadjibreel/6193.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/81-114@main/105/ar.muhammadjibreel/5.mp3"
+      }
+    }
+  ]
+}

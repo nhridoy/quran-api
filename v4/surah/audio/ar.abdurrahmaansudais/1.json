@@ -1,0 +1,89 @@
+{
+  "no": 1,
+  "name": "سُورَةُ ٱلْفَاتِحَةِ",
+  "enName": "Al-Faatiha",
+  "enNameTranslation": "The Opening",
+  "bnNameTranslation": "আল ফাতিহা ",
+  "revelationType": "Meccan",
+  "revelationOrder": 5,
+  "numberOfAyahs": 7,
+  "verses": [
+    {
+      "totalNumber": 1,
+      "numberInSurah": 1,
+      "juz": 1,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/1.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/1.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/1.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.abdurrahmaansudais/1.mp3"
+      }
+    },
+    {
+      "totalNumber": 2,
+      "numberInSurah": 2,
+      "juz": 1,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/2.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/2.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/2.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.abdurrahmaansudais/2.mp3"
+      }
+    },
+    {
+      "totalNumber": 3,
+      "numberInSurah": 3,
+      "juz": 1,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/3.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/3.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/3.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.abdurrahmaansudais/3.mp3"
+      }
+    },
+    {
+      "totalNumber": 4,
+      "numberInSurah": 4,
+      "juz": 1,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/4.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/4.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/4.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.abdurrahmaansudais/4.mp3"
+      }
+    },
+    {
+      "totalNumber": 5,
+      "numberInSurah": 5,
+      "juz": 1,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/5.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/5.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/5.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.abdurrahmaansudais/5.mp3"
+      }
+    },
+    {
+      "totalNumber": 6,
+      "numberInSurah": 6,
+      "juz": 1,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/6.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/6.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/6.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.abdurrahmaansudais/6.mp3"
+      }
+    },
+    {
+      "totalNumber": 7,
+      "numberInSurah": 7,
+      "juz": 1,
+      "audio": {
+        "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/7.mp3",
+        "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/7.mp3",
+        "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/7.mp3",
+        "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.abdurrahmaansudais/7.mp3"
+      }
+    }
+  ]
+}
