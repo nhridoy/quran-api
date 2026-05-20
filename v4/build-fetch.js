@@ -3,21 +3,19 @@
 /**
  * v4/build-fetch.js
  *
- * Builds the v4 Quran API dataset by enhancing source/surah data with:
- *   - revelation_order (from islamic.app)
- *   - tafsir (from islamic.app, English + Bengali)
- *   - Multi-reciter audio URLs (islamic.network + islamic.app)
- *   - Verse image URLs (islamic.network)
+ * Builds v4 Quran API dataset split into 4 categories:
+ *   verse/ — text + metadata per surah
+ *   image/ — image URLs per surah
+ *   audio/{reciter}/ — audio URLs per reciter per surah
+ *   tafsir/{lang}/{tafsir}/ — tafsir text per language/tafsir per surah
  *
  * Usage:
  *   node build-fetch.js
  *   node build-fetch.js -s 1
  *   node build-fetch.js -s 1-10
  *   node build-fetch.js -s 1,3-5,10
- *   node build-fetch.js -d download
- *   node build-fetch.js -d only-download -s 1
  *   node build-fetch.js -m min
- *   node build-fetch.js -m with-min -d download
+ *   node build-fetch.js -m with-min
  *   node build-fetch.js -h
  */
 
@@ -30,13 +28,15 @@ const path = require('path');
 // Configuration
 // =========================================================================
 
-const SOURCE_DIR     = path.resolve(__dirname, '..', 'source', 'surah');
-const OUTPUT_DIR     = path.resolve(__dirname, 'surah');
+const SOURCE_DIR             = path.resolve(__dirname, '..', 'source', 'surah');
+const OUTPUT_DIR             = path.resolve(__dirname, 'surah');
 
 const ISLAMIC_APP_BASE       = 'https://api.islamic.app/v1';
 const ISLAMIC_NETWORK_AUDIO  = 'https://cdn.islamic.network/quran/audio';
 const ISLAMIC_APP_AUDIO      = 'https://cdn.islamic.app/quran/audio';
 const ISLAMIC_NETWORK_IMAGE  = 'http://cdn.islamic.network/quran/images';
+const NHRIDOY_IMAGES         = 'https://cdn.jsdelivr.net/gh/nhridoy/quran-images@latest/by-verses';
+const NHRIDOY_AUDIO_BASE     = 'https://cdn.jsdelivr.net/gh/nhridoy';
 
 const TOTAL_SURAHS   = 114;
 const REQUEST_DELAY  = 150;
@@ -44,6 +44,57 @@ const DOWNLOAD_TIMEOUT = 30000;
 
 const ALQURAN_CLOUD_EDITIONS =
   'https://api.alquran.cloud/v1/edition?format=audio&language=ar&type=versebyverse';
+
+// =========================================================================
+// Tafsir configuration
+// =========================================================================
+
+const LANG_NAMES = {
+  ar: 'Arabic',
+  en: 'English',
+  ur: 'Urdu',
+  bn: 'Bengali',
+  ru: 'Russian',
+  ku: 'Kurdish',
+};
+
+const TAFSIRS = [
+  { id: 'ar-tafsir-ibn-kathir',        lang: 'ar', authorName: 'Hafiz Ibn Kathir',           tafsirName: 'Tafsir Ibn Kathir (full Arabic)' },
+  { id: 'ar-tafsir-al-tabari',          lang: 'ar', authorName: 'Al-Tabari',                  tafsirName: 'Jāmiʿ al-Bayān (Tafsir al-Tabari)' },
+  { id: 'ar-tafseer-al-qurtubi',        lang: 'ar', authorName: 'Al-Qurtubi',                 tafsirName: 'Al-Jāmiʿ li-Aḥkām al-Qur\'ān' },
+  { id: 'ar-tafseer-al-saddi',          lang: 'ar', authorName: 'As-Sa\'di',                  tafsirName: 'Taysīr al-Karīm al-Raḥmān' },
+  { id: 'ar-tafsir-al-baghawi',         lang: 'ar', authorName: 'Al-Baghawi',                 tafsirName: 'Maʿālim al-Tanzīl' },
+  { id: 'ar-tafsir-al-wasit',           lang: 'ar', authorName: 'M. S. Tantawi',              tafsirName: 'Al-Tafsir al-Wasit' },
+  { id: 'ar-tafsir-muyassar',           lang: 'ar', authorName: 'Group of scholars',          tafsirName: 'Al-Tafsir al-Muyassar' },
+  { id: 'en-tafisr-ibn-kathir',         lang: 'en', authorName: 'Hafiz Ibn Kathir',           tafsirName: 'Ibn Kathir (abridged English)' },
+  { id: 'en-tafsir-maarif-ul-quran',    lang: 'en', authorName: 'Mufti Muhammad Shafi',       tafsirName: 'Ma\'arif al-Qur\'an' },
+  { id: 'tafseer-ibn-e-kaseer-urdu',    lang: 'ur', authorName: 'Hafiz Ibn Kathir',           tafsirName: 'تفسیر ابن کثیر (Urdu)' },
+  { id: 'tafsir-bayan-ul-quran',        lang: 'ur', authorName: 'Dr. Israr Ahmad',            tafsirName: 'Bayan ul Quran' },
+  { id: 'tafsir-fe-zalul-quran-syed-qatab', lang: 'ur', authorName: 'Sayyid Qutb',            tafsirName: 'Fi Zilal al-Quran (Urdu)' },
+  { id: 'bn-tafsir-ahsanul-bayaan',     lang: 'bn', authorName: 'Bayaan Foundation',          tafsirName: 'Tafsir Ahsanul Bayaan' },
+  { id: 'bn-tafsir-abu-bakr-zakaria',   lang: 'bn', authorName: 'Dr. Abu Bakr Zakaria',       tafsirName: 'Tafsir (KFQPC)' },
+  { id: 'bn-tafseer-ibn-e-kaseer',      lang: 'bn', authorName: 'Tawheed Publication',        tafsirName: 'Ibn Kathir (Bengali)' },
+  { id: 'tafisr-fathul-majid-bn',       lang: 'bn', authorName: 'AbdulRahman Al-Alshaikh',    tafsirName: 'Tafsir Fathul Majid' },
+  { id: 'ru-tafseer-al-saddi',          lang: 'ru', authorName: 'As-Sa\'di',                  tafsirName: 'As-Sa\'di' },
+  { id: 'kurd-tafsir-rebar',            lang: 'ku', authorName: 'As-Sa\'di',                  tafsirName: 'Rebar Kurdish Tafsir' },
+];
+
+// =========================================================================
+// Surah → range mapping for alternative audio URLs
+// =========================================================================
+
+const SURAH_RANGES = [
+  [1, 2], [3, 4], [5, 6], [7, 8], [9, 10], [11, 12], [13, 16], [17, 19],
+  [20, 22], [23, 25], [26, 27], [28, 33], [34, 37], [38, 42], [43, 50],
+  [51, 55], [56, 70], [71, 80], [81, 114],
+];
+
+function getAudioRange(surahNo) {
+  for (const [start, end] of SURAH_RANGES) {
+    if (surahNo >= start && surahNo <= end) return `${start}-${end}`;
+  }
+  return null;
+}
 
 // =========================================================================
 // Helpers
@@ -80,6 +131,8 @@ async function downloadFile(url, destPath) {
 function safeUnlink(p) { try { fs.unlinkSync(p); } catch {} }
 
 function writeJSON(filePath, data, minify) {
+  const dir = path.dirname(filePath);
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
   const json = minify ? JSON.stringify(data) : JSON.stringify(data, null, 2);
   fs.writeFileSync(filePath, json, 'utf-8');
 }
@@ -128,13 +181,24 @@ ${B('FLAGS')}
         ${Y('with-min')}        Write both pretty and minified JSON
         ${Y('(flag absent)')}   Write pretty JSON only (${B('1.json')})
 
+${B('OUTPUT STRUCTURE')}
+  ${Y('v4/surah/verse/{n}.json')}        — verse text + metadata
+  ${Y('v4/surah/image/{n}.json')}        — verse image URLs
+  ${Y('v4/surah/audio/{reciter}/{n}.json')}  — verse audio URLs per reciter
+  ${Y('v4/surah/tafsir/{lang}/{id}/{n}.json')} — tafsir text per tafsir
+
+${B('DOWNLOAD PATHS')}
+  Audio files are saved to: ${Y('v4/data/audio/{surah}/{reciter}/{verseNumber}.mp3')}
+  Image files are saved to: ${Y('v4/data/images/{surah}/{verseNumber}.png')}
+  Verse number in download paths is the number-in-surah.
+
 ${B('EXAMPLES')}
   ${G('node build-fetch.js')}                              Build all 114 surahs (pretty JSON)
   ${G('node build-fetch.js')} ${C('-s')} ${Y('1')}                         Build surah 1 only
   ${G('node build-fetch.js')} ${C('-s')} ${Y('1-10')}                      Build surahs 1 through 10
-  ${G('node build-fetch.js')} ${C('-s')} ${Y('1,3-5,10')} ${C('-d')} ${Y('download')}      Build + download for selected surahs
-  ${G('node build-fetch.js')} ${C('-m')} ${Y('with-min')} ${C('-d')} ${Y('download')}       Build all with both formats + media
-  ${G('node build-fetch.js')} ${C('-d')} ${Y('only-download')} ${C('-s')} ${Y('1-5')}        Download media for surahs 1–5 only
+  ${G('node build-fetch.js')} ${C('-d')} ${Y('download')}                 Build all + download media
+  ${G('node build-fetch.js')} ${C('-m')} ${Y('with-min')} ${C('-d')} ${Y('download')}  All, both formats + media
+  ${G('node build-fetch.js')} ${C('-d')} ${Y('only-download')} ${C('-s')} ${Y('1-5')}     Download media for 1–5 only
 `);
   process.exit(0);
 }
@@ -188,7 +252,6 @@ function parseArgs() {
     }
   }
 
-  // Parse surahs
   let surahs;
   if (surahArg) {
     surahs = parseSurahSpec(surahArg);
@@ -248,96 +311,70 @@ function buildRevelationOrderMap(chapters) {
 }
 
 // =========================================================================
-// Fetch: tafsir for a single surah
+// Fetch: tafsirs one by one for a single surah
 // =========================================================================
 
-async function fetchTafsir(surahNumber) {
+async function fetchAllTafsirs(surahNumber) {
   const t0 = Date.now();
-  const json = await fetchJSON(
-    `${ISLAMIC_APP_BASE}/verses/by_chapter/${surahNumber}?tafsirs=en-tafsir-maarif-ul-quran,bn-tafsir-abu-bakr-zakaria`
-  );
-  const map = {};
-  for (const v of json.data.verses) {
-    const vk = v.verse_key; // "114:1" (surah_number:verse_number)
-    const vn = Number.parseInt(vk.split(':')[1], 10); // verse_number
-    let en = '', bn = '';
-    for (const t of (v.tafsirs||[])) {
-      if (t.slug === 'en-tafsir-maarif-ul-quran') en = t.text ?? "";
-      else if (t.slug === 'bn-tafsir-abu-bakr-zakaria') bn = t.text ?? "";
+  const slugMap = {};
+  for (const t of TAFSIRS) slugMap[t.id] = {};
+
+  for (let ti = 0; ti < TAFSIRS.length; ti++) {
+    const t = TAFSIRS[ti];
+    try {
+      const json = await fetchJSON(
+        `${ISLAMIC_APP_BASE}/verses/by_chapter/${surahNumber}?tafsirs=${t.id}`
+      );
+      for (const v of json.data.verses) {
+        const vn = Number.parseInt(v.verse_key.split(':')[1], 10);
+        for (const tv of (v.tafsirs || [])) {
+          if (tv.slug === t.id) {
+            slugMap[t.id][vn] = tv.text ?? '';
+          }
+        }
+      }
+      if (ti < TAFSIRS.length - 1) await sleep(REQUEST_DELAY);
+    } catch (e) {
+      console.warn(`[${now()}]     ⚠ Tafsir ${t.id} failed: ${e.message}`);
     }
-    map[vn] = { en, bn };
   }
-  console.log(`[${now()}]     → ${Object.keys(map).length} verses tafsir fetched (${elapsed(Date.now()-t0)})`);
-  return map;
+
+  let totalVerses = 0;
+  for (const sid of Object.keys(slugMap)) {
+    totalVerses = Math.max(totalVerses, Object.keys(slugMap[sid]).length);
+  }
+  console.log(`[${now()}]     → ~${totalVerses} verses across ${TAFSIRS.length} tafsirs fetched (${elapsed(Date.now()-t0)})`);
+  return slugMap;
 }
 
 // =========================================================================
-// Build enhanced verse data (shared between build & download-only)
+// Download media for a surah (uses numberInSurah for local file names)
 // =========================================================================
 
-function buildEnhancedVerses(srcData, surahNumber, reciters, tafsirMap) {
-  const verses = srcData.verses || [];
-  const enhanced = [];
-  for (const v of verses) {
-    const vn = v.numberInSurah;
-    const t = (tafsirMap?.[vn]) || { en: '', bn: '' };
-
-    const audio = {};
-    for (const r of reciters) {
-      audio[r] = {
-        primary:   `${ISLAMIC_NETWORK_AUDIO}/128/${r}/${vn}.mp3`,
-        secondary: `${ISLAMIC_NETWORK_AUDIO}/64/${r}/${vn}.mp3`,
-        tertiary:  `${ISLAMIC_APP_AUDIO}/${r}/${vn}.mp3`,
-        local:     `data/audio/${surahNumber}/${r}/${vn}.mp3`,
-      };
-    }
-
-    enhanced.push({
-      totalNumber: v.totalNumber,
-      numberInSurah: vn,
-      juz: v.juz,
-      sajda: { recommended: v.sajda.recommended, obligatory: v.sajda.obligatory },
-      text: {
-        arText: v.text,
-        enText: v.enText,
-        enTextTransliteration: v.enTextTransliteration,
-        bnText: v.bnText,
-        bntextLatin: v.bntextLatin,
-      },
-      tafsir: { en: t.en, bn: t.bn },
-      audio,
-      image: {
-        primary:   `${ISLAMIC_NETWORK_IMAGE}/${surahNumber}_${vn}.png`,
-        secondary: `${ISLAMIC_NETWORK_IMAGE}/high-resolution/${surahNumber}_${vn}.png`,
-        local:     `data/images/${surahNumber}/${vn}.png`,
-      },
-    });
-  }
-  return { enhanced, verses };
-}
-
-// =========================================================================
-// Download media for a surah
-// =========================================================================
-
-async function downloadSurahMedia(enhancedVerses, surahNumber, reciters, mediaFilter) {
+async function downloadSurahMedia(verses, surahNumber, reciters, mediaFilter) {
   const tDl = Date.now();
-  const totalAudio = mediaFilter === 'only-image' ? 0 : enhancedVerses.length * reciters.length;
-  const totalImages = mediaFilter === 'only-audio' ? 0 : enhancedVerses.length;
+  const totalAudio = mediaFilter === 'only-image' ? 0 : verses.length * reciters.length;
+  const totalImages = mediaFilter === 'only-audio' ? 0 : verses.length;
   let dlA = 0, dlI = 0;
-  const root = path.resolve(__dirname, '..');
 
-  for (const v of enhancedVerses) {
+  for (const v of verses) {
     if (mediaFilter !== 'only-image') {
       for (const r of reciters) {
-        const dest = path.join(root, v.audio[r].local);
-        const srcs = [v.audio[r].primary, v.audio[r].secondary, v.audio[r].tertiary];
+        const dest = path.join(OUTPUT_DIR, '..', 'data', 'audio', `${surahNumber}`, r, `${v.numberInSurah}.mp3`);
+        const srcs = [
+          `${ISLAMIC_NETWORK_AUDIO}/128/${r}/${v.totalNumber}.mp3`,
+          `${ISLAMIC_NETWORK_AUDIO}/64/${r}/${v.totalNumber}.mp3`,
+          `${ISLAMIC_APP_AUDIO}/${r}/${v.totalNumber}.mp3`,
+        ];
         for (const s of srcs) { if (await downloadFile(s, dest)) { dlA++; break; } }
       }
     }
     if (mediaFilter !== 'only-audio') {
-      const destImg = path.join(root, v.image.local);
-      if (await downloadFile(v.image.primary.replace('http://','https://'), destImg)) dlI++;
+      const dest = path.join(OUTPUT_DIR, '..', 'data', 'images', `${surahNumber}`, `${v.numberInSurah}.png`);
+      if (await downloadFile(
+        `${ISLAMIC_NETWORK_IMAGE}/${surahNumber}_${v.numberInSurah}.png`.replace('http://', 'https://'),
+        dest
+      )) dlI++;
     }
   }
 
@@ -347,27 +384,11 @@ async function downloadSurahMedia(enhancedVerses, surahNumber, reciters, mediaFi
 }
 
 // =========================================================================
-// Build: single surah (JSON only)
+// Build surah header (shared across all 4 output types)
 // =========================================================================
 
-async function buildSurahJSON(surahNumber, revelationOrder, reciters, minifyMode) {
-  const srcPath = path.join(SOURCE_DIR, `${surahNumber}.min.json`);
-  if (!fs.existsSync(srcPath)) { console.error(`[${now()}]     ✗ Source not found`); return false; }
-  const srcData = JSON.parse(fs.readFileSync(srcPath, 'utf-8'));
-  const label = srcData.enName;
-
-  console.log(`[${now()}]     Fetching tafsir...`);
-  let tafsirMap = {};
-  try {
-    tafsirMap = await fetchTafsir(surahNumber);
-  } catch (e) {
-    console.warn(`[${now()}]     ⚠ Tafsir failed: ${e.message}`);
-  }
-  await sleep(REQUEST_DELAY);
-
-  const { enhanced } = buildEnhancedVerses(srcData, surahNumber, reciters, tafsirMap);
-
-  const surahOutput = {
+function surahHeader(srcData, revelationOrder) {
+  return {
     no: srcData.no,
     name: srcData.name,
     enName: srcData.enName,
@@ -376,53 +397,218 @@ async function buildSurahJSON(surahNumber, revelationOrder, reciters, minifyMode
     revelationType: srcData.revelationType,
     revelationOrder,
     numberOfAyahs: srcData.numberOfAyahs,
-    verses: enhanced,
   };
-
-  if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-
-  if (minifyMode !== 'min') {
-    writeJSON(path.join(OUTPUT_DIR, `${surahNumber}.json`), surahOutput, false);
-    console.log(`[${now()}]     → Wrote ${surahNumber}.json`);
-  }
-  if (minifyMode !== null) {
-    writeJSON(path.join(OUTPUT_DIR, `${surahNumber}.min.json`), surahOutput, true);
-    console.log(`[${now()}]     → Wrote ${surahNumber}.min.json`);
-  }
-
-  console.log(`[${now()}]     ✓ ${label} complete`);
-  return { enhanced, versesCount: enhanced.length };
 }
 
 // =========================================================================
-// Build: single surah (download only)
+// Build & write: verse file
 // =========================================================================
 
-async function downloadOnlySurahMedia(surahNumber, reciters, mediaFilter) {
-  const jsonPath = path.join(OUTPUT_DIR, `${surahNumber}.json`);
-  const minJsonPath = path.join(OUTPUT_DIR, `${surahNumber}.min.json`);
-  const foundPath = fs.existsSync(jsonPath) ? jsonPath : fs.existsSync(minJsonPath) ? minJsonPath : null;
+function buildVerseData(srcData, revelationOrder) {
+  const header = surahHeader(srcData, revelationOrder);
+  header.verses = (srcData.verses || []).map(v => ({
+    totalNumber: v.totalNumber,
+    numberInSurah: v.numberInSurah,
+    juz: v.juz,
+    sajda: { recommended: v.sajda.recommended, obligatory: v.sajda.obligatory },
+    text: {
+      arText: v.text,
+      enText: v.enText,
+      enTextTransliteration: v.enTextTransliteration,
+      bnText: v.bnText,
+      bntextLatin: v.bntextLatin,
+    },
+  }));
+  return header;
+}
+
+// =========================================================================
+// Build & write: image file
+// =========================================================================
+
+function buildImageData(srcData, revelationOrder, surahNumber) {
+  const header = surahHeader(srcData, revelationOrder);
+  header.verses = (srcData.verses || []).map(v => ({
+    totalNumber: v.totalNumber,
+    numberInSurah: v.numberInSurah,
+    juz: v.juz,
+    image: {
+      primary:          `${ISLAMIC_NETWORK_IMAGE}/${surahNumber}_${v.numberInSurah}.png`,
+      secondary:        `${ISLAMIC_NETWORK_IMAGE}/high-resolution/${surahNumber}_${v.numberInSurah}.png`,
+      alternative:      `${NHRIDOY_IMAGES}/low-resolution/${surahNumber}/${v.numberInSurah}.png`,
+      'alternative-high': `${NHRIDOY_IMAGES}/high-resolution/${surahNumber}/${v.numberInSurah}.png`,
+    },
+  }));
+  return header;
+}
+
+// =========================================================================
+// Build & write: audio file (single reciter)
+// =========================================================================
+
+function buildAudioData(srcData, revelationOrder, surahNumber, reciter) {
+  const range = getAudioRange(surahNumber);
+  const header = surahHeader(srcData, revelationOrder);
+  header.verses = (srcData.verses || []).map(v => {
+    const audio = {
+      primary:   `${ISLAMIC_NETWORK_AUDIO}/128/${reciter}/${v.totalNumber}.mp3`,
+      secondary: `${ISLAMIC_NETWORK_AUDIO}/64/${reciter}/${v.totalNumber}.mp3`,
+      tertiary:  `${ISLAMIC_APP_AUDIO}/${reciter}/${v.totalNumber}.mp3`,
+    };
+    if (range) {
+      audio.alternative = `${NHRIDOY_AUDIO_BASE}/${range}@main/${surahNumber}/${reciter}/${v.numberInSurah}.mp3`;
+    }
+    return {
+      totalNumber: v.totalNumber,
+      numberInSurah: v.numberInSurah,
+      juz: v.juz,
+      audio,
+    };
+  });
+  return header;
+}
+
+// =========================================================================
+// Build & write: tafsir file (single tafsir)
+// =========================================================================
+
+function buildTafsirData(srcData, revelationOrder, tafsirConfig, verseTafsirMap) {
+  const header = surahHeader(srcData, revelationOrder);
+  const langName = LANG_NAMES[tafsirConfig.lang] || tafsirConfig.lang;
+  header.verses = (srcData.verses || []).map(v => ({
+    totalNumber: v.totalNumber,
+    numberInSurah: v.numberInSurah,
+    juz: v.juz,
+    lang: langName,
+    authorName: tafsirConfig.authorName,
+    tafsirName: tafsirConfig.tafsirName,
+    tafsir: verseTafsirMap[v.numberInSurah] || '',
+  }));
+  return header;
+}
+
+// =========================================================================
+// Write output files for all 4 categories
+// =========================================================================
+
+function writeSurahOutputs(surahNumber, verseData, imageData, audioDataList, tafsirDataList, minifyMode) {
+  const baseDir = OUTPUT_DIR;
+
+  // verse
+  const verseDir = path.join(baseDir, 'verse');
+  if (minifyMode !== 'min') {
+    writeJSON(path.join(verseDir, `${surahNumber}.json`), verseData, false);
+  }
+  if (minifyMode !== null) {
+    writeJSON(path.join(verseDir, `${surahNumber}.min.json`), verseData, true);
+  }
+
+  // image
+  const imageDir = path.join(baseDir, 'image');
+  if (minifyMode !== 'min') {
+    writeJSON(path.join(imageDir, `${surahNumber}.json`), imageData, false);
+  }
+  if (minifyMode !== null) {
+    writeJSON(path.join(imageDir, `${surahNumber}.min.json`), imageData, true);
+  }
+
+  // audio (one dir per reciter)
+  let audioCount = 0;
+  for (const [reciter, data] of audioDataList) {
+    const audioDir = path.join(baseDir, 'audio', reciter);
+    if (minifyMode !== 'min') {
+      writeJSON(path.join(audioDir, `${surahNumber}.json`), data, false);
+      audioCount++;
+    }
+    if (minifyMode !== null) {
+      writeJSON(path.join(audioDir, `${surahNumber}.min.json`), data, true);
+    }
+  }
+
+  // tafsir (one dir per lang/tafsir)
+  let tafsirCount = 0;
+  for (const [tafsirId, data] of tafsirDataList) {
+    const tc = TAFSIRS.find(t => t.id === tafsirId);
+    const tafsirDir = path.join(baseDir, 'tafsir', tc.lang, tafsirId);
+    if (minifyMode !== 'min') {
+      writeJSON(path.join(tafsirDir, `${surahNumber}.json`), data, false);
+      tafsirCount++;
+    }
+    if (minifyMode !== null) {
+      writeJSON(path.join(tafsirDir, `${surahNumber}.min.json`), data, true);
+    }
+  }
+
+  console.log(`[${now()}]     → verse, image, ${audioCount} audio, ${tafsirCount} tafsir files written`);
+}
+
+// =========================================================================
+// Download-only: read existing JSON and download media
+// =========================================================================
+
+async function downloadOnlySurah(surahNumber, reciters, mediaFilter) {
+  const verseDir = path.join(OUTPUT_DIR, 'verse');
+  const jsonPath = path.join(verseDir, `${surahNumber}.json`);
+  const minPath = path.join(verseDir, `${surahNumber}.min.json`);
+  const foundPath = fs.existsSync(jsonPath) ? jsonPath : fs.existsSync(minPath) ? minPath : null;
   if (!foundPath) {
-    console.log(`[${now()}]     ⚠ v4/surah/${surahNumber}.json not found — build it first with -d download`);
+    console.log(`[${now()}]     ⚠ verse/${surahNumber}.json not found — build it first`);
     return false;
   }
   const data = JSON.parse(fs.readFileSync(foundPath, 'utf-8'));
   const verses = data.verses || [];
   const enName = data.enName || '';
-  console.log(`[${now()}]     Downloading media for ${verses.length} verses (from ${path.basename(foundPath)})...`);
+  console.log(`[${now()}]     Downloading media for ${verses.length} verses...`);
   await downloadSurahMedia(verses, surahNumber, reciters, mediaFilter);
   console.log(`[${now()}]     ✓ ${enName} media complete`);
   return true;
 }
 
 // =========================================================================
-// Build: single surah (JSON + download)
+// Build: single surah (all categories)
 // =========================================================================
 
-async function buildAndDownloadSurah(surahNumber, revelationOrder, reciters, minifyMode) {
-  const result = await buildSurahJSON(surahNumber, revelationOrder, reciters, minifyMode);
-  if (result) await downloadSurahMedia(result.enhanced, surahNumber, reciters, null);
-  return !!result;
+async function buildSurah(surahNumber, revelationOrder, reciters, minifyMode, downloadMode) {
+  const srcPath = path.join(SOURCE_DIR, `${surahNumber}.min.json`);
+  if (!fs.existsSync(srcPath)) { console.error(`[${now()}]     ✗ Source not found`); return false; }
+  const srcData = JSON.parse(fs.readFileSync(srcPath, 'utf-8'));
+  const label = srcData.enName;
+
+  // Fetch all tafsirs one by one
+  console.log(`[${now()}]     Fetching tafsirs (${TAFSIRS.length} total)...`);
+  let tafsirSlugMap = {};
+  try {
+    tafsirSlugMap = await fetchAllTafsirs(surahNumber);
+  } catch (e) {
+    console.warn(`[${now()}]     ⚠ Tafsir fetch failed: ${e.message}`);
+  }
+
+  // Build verse data
+  const verseData = buildVerseData(srcData, revelationOrder);
+
+  // Build image data
+  const imageData = buildImageData(srcData, revelationOrder, surahNumber);
+
+  // Build audio data (one per reciter)
+  const audioDataList = reciters.map(r => [r, buildAudioData(srcData, revelationOrder, surahNumber, r)]);
+
+  // Build tafsir data (one per tafsir)
+  const tafsirDataList = TAFSIRS.map(tc => {
+    const verseMap = tafsirSlugMap[tc.id] || {};
+    return [tc.id, buildTafsirData(srcData, revelationOrder, tc, verseMap)];
+  });
+
+  // Write all outputs
+  writeSurahOutputs(surahNumber, verseData, imageData, audioDataList, tafsirDataList, minifyMode);
+
+  // Download media if requested
+  if (downloadMode === 'download') {
+    console.log(`[${now()}]     Downloading media...`);
+    await downloadSurahMedia(verseData.verses, surahNumber, reciters, null);
+  }
+
+  console.log(`[${now()}]     ✓ ${label} complete`);
+  return true;
 }
 
 // =========================================================================
@@ -453,6 +639,11 @@ async function main() {
   console.log(`  Surahs:  ${total} (${range})`);
   console.log(`  Mode:    ${modeLabel}`);
   console.log(`  Format:  ${minLabel}\n`);
+  console.log(`  Output categories:`);
+  console.log(`    verse/     – text + metadata`);
+  console.log(`    image/     – image URLs`);
+  console.log(`    audio/     – audio URLs per reciter (${TAFSIRS.length} tafsirs × reciters)`);
+  console.log(`    tafsir/    – tafsir text (${TAFSIRS.length} tafsirs across 6 languages)\n`);
 
   // Pre-fetch phase
   const chapters = await getChapters();
@@ -475,11 +666,9 @@ async function main() {
       const tSurah = Date.now();
 
       if (downloadMode === 'only-download' || downloadMode === 'only-audio' || downloadMode === 'only-image') {
-        result = await downloadOnlySurahMedia(sn, reciters, downloadMode);
-      } else if (downloadMode === 'download') {
-        result = await buildAndDownloadSurah(sn, ro, reciters, minifyMode);
+        result = await downloadOnlySurah(sn, reciters, downloadMode);
       } else {
-        result = await buildSurahJSON(sn, ro, reciters, minifyMode);
+        result = await buildSurah(sn, ro, reciters, minifyMode, downloadMode);
       }
 
       if (result) ok++; else fail++;
