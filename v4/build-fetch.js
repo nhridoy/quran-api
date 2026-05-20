@@ -116,8 +116,10 @@ ${B('FLAGS')}
 
   ${C('-d')} ${Y('<mode>')}
       Media download mode:
-        ${Y('download')}        Build JSON + download audio/images
-        ${Y('only-download')}   Download audio/images only (skip JSON build)
+        ${Y('download')}        Build JSON + download audio + images
+        ${Y('only-download')}   Download audio + images only (JSON must exist)
+        ${Y('only-audio')}      Download audio only (JSON must exist)
+        ${Y('only-image')}      Download images only (JSON must exist)
         ${Y('(flag absent)')}   Build JSON only, no downloads
 
   ${C('-m')} ${Y('<mode>')}
@@ -174,8 +176,8 @@ function parseArgs() {
     } else if (a === '-d') {
       downloadMode = raw[++i];
       if (!downloadMode) { console.error('-d requires a value'); process.exit(1); }
-      if (!['download', 'only-download'].includes(downloadMode)) {
-        console.error("-d must be 'download' or 'only-download'"); process.exit(1);
+      if (!['download', 'only-download', 'only-audio', 'only-image'].includes(downloadMode)) {
+        console.error("-d must be 'download', 'only-download', 'only-audio', or 'only-image'"); process.exit(1);
       }
     } else if (a === '-m') {
       minifyMode = raw[++i];
@@ -318,25 +320,30 @@ function buildEnhancedVerses(srcData, surahNumber, reciters, tafsirMap) {
 // Download media for a surah
 // =========================================================================
 
-async function downloadSurahMedia(enhancedVerses, surahNumber, reciters) {
+async function downloadSurahMedia(enhancedVerses, surahNumber, reciters, mediaFilter) {
   const tDl = Date.now();
-  const totalAudio = enhancedVerses.length * reciters.length;
+  const totalAudio = mediaFilter === 'only-image' ? 0 : enhancedVerses.length * reciters.length;
+  const totalImages = mediaFilter === 'only-audio' ? 0 : enhancedVerses.length;
   let dlA = 0, dlI = 0;
   const root = path.resolve(__dirname, '..');
 
   for (const v of enhancedVerses) {
-    for (const r of reciters) {
-      const dest = path.join(root, v.audio[r].local);
-      const srcs = [v.audio[r].primary, v.audio[r].secondary, v.audio[r].tertiary];
-      for (const s of srcs) { if (await downloadFile(s, dest)) { dlA++; break; } }
+    if (mediaFilter !== 'only-image') {
+      for (const r of reciters) {
+        const dest = path.join(root, v.audio[r].local);
+        const srcs = [v.audio[r].primary, v.audio[r].secondary, v.audio[r].tertiary];
+        for (const s of srcs) { if (await downloadFile(s, dest)) { dlA++; break; } }
+      }
     }
-    const destImg = path.join(root, v.image.local);
-    if (await downloadFile(v.image.primary.replace('http://','https://'), destImg)) dlI++;
+    if (mediaFilter !== 'only-audio') {
+      const destImg = path.join(root, v.image.local);
+      if (await downloadFile(v.image.primary.replace('http://','https://'), destImg)) dlI++;
+    }
   }
 
   const audioPct = totalAudio > 0 ? ` (${(dlA/totalAudio*100).toFixed(0)}%)` : '';
-  const imgPct = enhancedVerses.length > 0 ? ` (${(dlI/enhancedVerses.length*100).toFixed(0)}%)` : '';
-  console.log(`[${now()}]     → Audio: ${dlA}/${totalAudio}${audioPct} | Images: ${dlI}/${enhancedVerses.length}${imgPct} (${elapsed(Date.now()-tDl)})`);
+  const imgPct = totalImages > 0 ? ` (${(dlI/totalImages*100).toFixed(0)}%)` : '';
+  console.log(`[${now()}]     → Audio: ${dlA}/${totalAudio}${audioPct} | Images: ${dlI}/${totalImages}${imgPct} (${elapsed(Date.now()-tDl)})`);
 }
 
 // =========================================================================
@@ -391,7 +398,7 @@ async function buildSurahJSON(surahNumber, revelationOrder, reciters, minifyMode
 // Build: single surah (download only)
 // =========================================================================
 
-async function downloadOnlySurahMedia(surahNumber, reciters) {
+async function downloadOnlySurahMedia(surahNumber, reciters, mediaFilter) {
   const jsonPath = path.join(OUTPUT_DIR, `${surahNumber}.json`);
   const minJsonPath = path.join(OUTPUT_DIR, `${surahNumber}.min.json`);
   const foundPath = fs.existsSync(jsonPath) ? jsonPath : fs.existsSync(minJsonPath) ? minJsonPath : null;
@@ -403,7 +410,7 @@ async function downloadOnlySurahMedia(surahNumber, reciters) {
   const verses = data.verses || [];
   const enName = data.enName || '';
   console.log(`[${now()}]     Downloading media for ${verses.length} verses (from ${path.basename(foundPath)})...`);
-  await downloadSurahMedia(verses, surahNumber, reciters);
+  await downloadSurahMedia(verses, surahNumber, reciters, mediaFilter);
   console.log(`[${now()}]     ✓ ${enName} media complete`);
   return true;
 }
@@ -414,7 +421,7 @@ async function downloadOnlySurahMedia(surahNumber, reciters) {
 
 async function buildAndDownloadSurah(surahNumber, revelationOrder, reciters, minifyMode) {
   const result = await buildSurahJSON(surahNumber, revelationOrder, reciters, minifyMode);
-  if (result) await downloadSurahMedia(result.enhanced, surahNumber, reciters);
+  if (result) await downloadSurahMedia(result.enhanced, surahNumber, reciters, null);
   return !!result;
 }
 
@@ -426,7 +433,9 @@ async function main() {
   const scriptStart = Date.now();
   const { surahs, downloadMode, minifyMode } = parseArgs();
 
-  const modeLabel = downloadMode === 'only-download' ? 'Download only (skip JSON)' :
+  const modeLabel = downloadMode === 'only-download' ? 'Download audio + images (JSON must exist)' :
+    downloadMode === 'only-audio' ? 'Download audio only (JSON must exist)' :
+    downloadMode === 'only-image' ? 'Download images only (JSON must exist)' :
     downloadMode === 'download' ? 'Build JSON + download media' :
     'Build JSON only';
   const minLabel = minifyMode === null ? 'Pretty JSON' :
@@ -465,8 +474,8 @@ async function main() {
       let result = false;
       const tSurah = Date.now();
 
-      if (downloadMode === 'only-download') {
-        result = await downloadOnlySurahMedia(sn, reciters);
+      if (downloadMode === 'only-download' || downloadMode === 'only-audio' || downloadMode === 'only-image') {
+        result = await downloadOnlySurahMedia(sn, reciters, downloadMode);
       } else if (downloadMode === 'download') {
         result = await buildAndDownloadSurah(sn, ro, reciters, minifyMode);
       } else {
