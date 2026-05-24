@@ -1,0 +1,66 @@
+# Quran API v4
+
+> Static Quran JSON dataset (Arabic, English, Bengali, audio, images, tafsir) served via jsDelivr CDN. No authentication required.
+
+## Base URL
+
+```
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4
+```
+
+Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
+
+## Supporting Files
+
+| File | CDN URL |
+|------|---------|
+| Reciter list | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/reciters.json` |
+| TypeScript types | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/quran.d.ts` |
+| Full docs | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/README.md` |
+
+## Endpoints
+
+### Verse Text (Arabic + translations)
+
+`/v4/surah/verse/{id}.json` (id: 1–114)
+
+- **Surah header**: `no`, `name`, `enName`, `enNameTranslation`, `bnNameTranslation`, `revelationType`, `revelationOrder`, `numberOfAyahs`
+- **Per verse**: `totalNumber`, `numberInSurah`, `juz`, `sajda {recommended, obligatory}`, `text {arText, enText, enTextTransliteration, bnText, bntextLatin}`
+
+### Verse Images
+
+`/v4/surah/image/{id}.json`
+
+- **Per verse**: `image {primary, secondary, alternative, alternative-high}`
+
+### Audio by Reciter
+
+`/v4/surah/audio/{reciter}/{id}.json`
+
+- **Per verse**: `audio {primary (128k), secondary (64k), tertiary, alternative}`
+- **Reciters**: `ar.abdullahbasfar`, `ar.abdurrahmaansudais`, `ar.abdulsamad`, `ar.ahmedajamy`, `ar.alafasy`, `ar.aymanswoaid`, `ar.hanirifai`, `ar.hudhaify`, `ar.husary`, `ar.husarymujawwad`, `ar.ibrahimakhbar`, `ar.mahermuaiqly`, `ar.muhammadayyoub`, `ar.muhammadjibreel`, `ar.parhizgar`, `ar.saoodshuraym`, `ar.shaatree`
+- **Full reciter data**: `reciters.json`
+
+### Tafsir (18 works across 6 languages)
+
+`/v4/surah/tafsir/{lang}/{tafsir-id}/{id}.json`
+
+- **Languages**: `ar` (7), `bn` (4), `en` (2), `ku` (1), `ru` (1), `ur` (3)
+- **Per verse**: `lang`, `authorName`, `tafsirName`, `tafsir` (HTML)
+
+## TypeScript Types
+
+`quran.d.ts` — `SurahHeader`, `SurahVerseText`, `SurahImage`, `SurahAudio`, `SurahTafsir`, `ReciterKey`, `ReciterInfo`, `RecitersList`, `TafsirId`, `TafsirLanguage`
+
+## Key Differences from v2
+
+- Text fields grouped under `text` object (not flat)
+- Added `revelationOrder` at surah level
+- 18 tafsir works across 6 languages
+- 17 reciters with 4 audio quality tiers each
+- Verse images with 4 quality tiers
+- Data split into 4 independent category endpoints
+
+## Build Scripts
+
+`/v4/build-fetch.js`
