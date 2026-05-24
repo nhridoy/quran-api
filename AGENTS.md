@@ -46,7 +46,7 @@ Output goes to `Compressor/compressed/`. Copy `.min.json` files to the correspon
 - v4 adds 18 tafsir works across 6 languages (ar, bn, en, ku, ru, ur)
 - v4 adds 17 reciters with 4 audio sources each (primary, secondary, tertiary, alternative)
 - v4 adds verse images with 4 quality tiers
-- v4 has no `para/` endpoints yet
+- v4 adds `juz/` endpoints (same 4 categories: verse, image, audio, tafsir)
 - v4 ships its own TypeScript types in `v4/quran.d.ts`
 
 ## Delivery

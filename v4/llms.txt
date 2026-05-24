@@ -41,6 +41,15 @@ Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
 - **Reciters**: `ar.abdullahbasfar`, `ar.abdurrahmaansudais`, `ar.abdulsamad`, `ar.ahmedajamy`, `ar.alafasy`, `ar.aymanswoaid`, `ar.hanirifai`, `ar.hudhaify`, `ar.husary`, `ar.husarymujawwad`, `ar.ibrahimakhbar`, `ar.mahermuaiqly`, `ar.muhammadayyoub`, `ar.muhammadjibreel`, `ar.parhizgar`, `ar.saoodshuraym`, `ar.shaatree`
 - **Full reciter data**: `reciters.json`
 
+### Juz/Para (grouped by juz/part, all 4 categories)
+
+`/v4/juz/{category}/{id}.json` (id: 1–30)
+
+Same 4 categories as surah endpoints (`verse`, `image`, `audio/{reciter}`, `tafsir/{lang}/{id}`). Each juz groups verses across multiple surahs.
+
+- **Wrapper**: `juzNumber`, `verseMapping` (surah → verse range), `totalVerse`, `surah` (array)
+- **Per-verse schemas**: identical to surah endpoints
+
 ### Tafsir (18 works across 6 languages)
 
 `/v4/surah/tafsir/{lang}/{tafsir-id}/{id}.json`
@@ -63,4 +72,5 @@ Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
 
 ## Build Scripts
 
-`/v4/build-fetch.js`
+`/v4/build-fetch.js` — builds surah data (verse, image, audio, tafsir)
+`/v4/build-para.js` — builds juz/para data from existing surah data

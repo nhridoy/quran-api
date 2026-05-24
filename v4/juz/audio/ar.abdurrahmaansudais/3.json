@@ -1,0 +1,1420 @@
+{
+  "juzNumber": 3,
+  "verseMapping": {
+    "2": "253-286",
+    "3": "1-92"
+  },
+  "totalVerse": 126,
+  "surah": [
+    {
+      "no": 2,
+      "name": "سُورَةُ البَقَرَةِ",
+      "enName": "Al-Baqara",
+      "enNameTranslation": "The Cow",
+      "bnNameTranslation": "আল বাকারাহ ",
+      "revelationType": "Medinan",
+      "revelationOrder": 87,
+      "numberOfAyahs": 286,
+      "verses": [
+        {
+          "totalNumber": 260,
+          "numberInSurah": 253,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/260.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/260.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/260.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/253.mp3"
+          }
+        },
+        {
+          "totalNumber": 261,
+          "numberInSurah": 254,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/261.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/261.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/261.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/254.mp3"
+          }
+        },
+        {
+          "totalNumber": 262,
+          "numberInSurah": 255,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/262.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/262.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/262.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/255.mp3"
+          }
+        },
+        {
+          "totalNumber": 263,
+          "numberInSurah": 256,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/263.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/263.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/263.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/256.mp3"
+          }
+        },
+        {
+          "totalNumber": 264,
+          "numberInSurah": 257,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/264.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/264.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/264.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/257.mp3"
+          }
+        },
+        {
+          "totalNumber": 265,
+          "numberInSurah": 258,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/265.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/265.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/265.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/258.mp3"
+          }
+        },
+        {
+          "totalNumber": 266,
+          "numberInSurah": 259,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/266.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/266.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/266.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/259.mp3"
+          }
+        },
+        {
+          "totalNumber": 267,
+          "numberInSurah": 260,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/267.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/267.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/267.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/260.mp3"
+          }
+        },
+        {
+          "totalNumber": 268,
+          "numberInSurah": 261,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/268.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/268.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/268.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/261.mp3"
+          }
+        },
+        {
+          "totalNumber": 269,
+          "numberInSurah": 262,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/269.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/269.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/269.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/262.mp3"
+          }
+        },
+        {
+          "totalNumber": 270,
+          "numberInSurah": 263,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/270.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/270.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/270.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/263.mp3"
+          }
+        },
+        {
+          "totalNumber": 271,
+          "numberInSurah": 264,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/271.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/271.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/271.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/264.mp3"
+          }
+        },
+        {
+          "totalNumber": 272,
+          "numberInSurah": 265,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/272.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/272.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/272.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/265.mp3"
+          }
+        },
+        {
+          "totalNumber": 273,
+          "numberInSurah": 266,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/273.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/273.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/273.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/266.mp3"
+          }
+        },
+        {
+          "totalNumber": 274,
+          "numberInSurah": 267,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/274.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/274.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/274.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/267.mp3"
+          }
+        },
+        {
+          "totalNumber": 275,
+          "numberInSurah": 268,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/275.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/275.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/275.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/268.mp3"
+          }
+        },
+        {
+          "totalNumber": 276,
+          "numberInSurah": 269,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/276.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/276.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/276.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/269.mp3"
+          }
+        },
+        {
+          "totalNumber": 277,
+          "numberInSurah": 270,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/277.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/277.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/277.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/270.mp3"
+          }
+        },
+        {
+          "totalNumber": 278,
+          "numberInSurah": 271,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/278.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/278.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/278.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/271.mp3"
+          }
+        },
+        {
+          "totalNumber": 279,
+          "numberInSurah": 272,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/279.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/279.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/279.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/272.mp3"
+          }
+        },
+        {
+          "totalNumber": 280,
+          "numberInSurah": 273,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/280.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/280.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/280.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/273.mp3"
+          }
+        },
+        {
+          "totalNumber": 281,
+          "numberInSurah": 274,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/281.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/281.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/281.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/274.mp3"
+          }
+        },
+        {
+          "totalNumber": 282,
+          "numberInSurah": 275,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/282.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/282.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/282.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/275.mp3"
+          }
+        },
+        {
+          "totalNumber": 283,
+          "numberInSurah": 276,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/283.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/283.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/283.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/276.mp3"
+          }
+        },
+        {
+          "totalNumber": 284,
+          "numberInSurah": 277,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/284.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/284.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/284.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/277.mp3"
+          }
+        },
+        {
+          "totalNumber": 285,
+          "numberInSurah": 278,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/285.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/285.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/285.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/278.mp3"
+          }
+        },
+        {
+          "totalNumber": 286,
+          "numberInSurah": 279,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/286.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/286.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/286.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/279.mp3"
+          }
+        },
+        {
+          "totalNumber": 287,
+          "numberInSurah": 280,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/287.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/287.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/287.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/280.mp3"
+          }
+        },
+        {
+          "totalNumber": 288,
+          "numberInSurah": 281,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/288.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/288.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/288.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/281.mp3"
+          }
+        },
+        {
+          "totalNumber": 289,
+          "numberInSurah": 282,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/289.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/289.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/289.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/282.mp3"
+          }
+        },
+        {
+          "totalNumber": 290,
+          "numberInSurah": 283,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/290.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/290.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/290.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/283.mp3"
+          }
+        },
+        {
+          "totalNumber": 291,
+          "numberInSurah": 284,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/291.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/291.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/291.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/284.mp3"
+          }
+        },
+        {
+          "totalNumber": 292,
+          "numberInSurah": 285,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/292.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/292.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/292.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/285.mp3"
+          }
+        },
+        {
+          "totalNumber": 293,
+          "numberInSurah": 286,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/293.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/293.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/293.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/2/ar.abdurrahmaansudais/286.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "name": "سُورَةُ آلِ عِمۡرَانَ",
+      "enName": "Aal-i-Imraan",
+      "enNameTranslation": "The Family of Imraan",
+      "bnNameTranslation": "আলে ইমরান",
+      "revelationType": "Medinan",
+      "revelationOrder": 89,
+      "numberOfAyahs": 200,
+      "verses": [
+        {
+          "totalNumber": 294,
+          "numberInSurah": 1,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/294.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/294.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/294.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/1.mp3"
+          }
+        },
+        {
+          "totalNumber": 295,
+          "numberInSurah": 2,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/295.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/295.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/295.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/2.mp3"
+          }
+        },
+        {
+          "totalNumber": 296,
+          "numberInSurah": 3,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/296.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/296.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/296.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/3.mp3"
+          }
+        },
+        {
+          "totalNumber": 297,
+          "numberInSurah": 4,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/297.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/297.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/297.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/4.mp3"
+          }
+        },
+        {
+          "totalNumber": 298,
+          "numberInSurah": 5,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/298.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/298.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/298.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/5.mp3"
+          }
+        },
+        {
+          "totalNumber": 299,
+          "numberInSurah": 6,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/299.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/299.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/299.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/6.mp3"
+          }
+        },
+        {
+          "totalNumber": 300,
+          "numberInSurah": 7,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/300.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/300.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/300.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/7.mp3"
+          }
+        },
+        {
+          "totalNumber": 301,
+          "numberInSurah": 8,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/301.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/301.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/301.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/8.mp3"
+          }
+        },
+        {
+          "totalNumber": 302,
+          "numberInSurah": 9,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/302.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/302.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/302.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/9.mp3"
+          }
+        },
+        {
+          "totalNumber": 303,
+          "numberInSurah": 10,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/303.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/303.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/303.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/10.mp3"
+          }
+        },
+        {
+          "totalNumber": 304,
+          "numberInSurah": 11,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/304.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/304.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/304.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/11.mp3"
+          }
+        },
+        {
+          "totalNumber": 305,
+          "numberInSurah": 12,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/305.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/305.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/305.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/12.mp3"
+          }
+        },
+        {
+          "totalNumber": 306,
+          "numberInSurah": 13,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/306.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/306.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/306.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/13.mp3"
+          }
+        },
+        {
+          "totalNumber": 307,
+          "numberInSurah": 14,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/307.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/307.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/307.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/14.mp3"
+          }
+        },
+        {
+          "totalNumber": 308,
+          "numberInSurah": 15,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/308.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/308.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/308.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/15.mp3"
+          }
+        },
+        {
+          "totalNumber": 309,
+          "numberInSurah": 16,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/309.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/309.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/309.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/16.mp3"
+          }
+        },
+        {
+          "totalNumber": 310,
+          "numberInSurah": 17,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/310.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/310.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/310.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/17.mp3"
+          }
+        },
+        {
+          "totalNumber": 311,
+          "numberInSurah": 18,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/311.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/311.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/311.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/18.mp3"
+          }
+        },
+        {
+          "totalNumber": 312,
+          "numberInSurah": 19,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/312.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/312.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/312.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/19.mp3"
+          }
+        },
+        {
+          "totalNumber": 313,
+          "numberInSurah": 20,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/313.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/313.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/313.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/20.mp3"
+          }
+        },
+        {
+          "totalNumber": 314,
+          "numberInSurah": 21,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/314.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/314.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/314.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/21.mp3"
+          }
+        },
+        {
+          "totalNumber": 315,
+          "numberInSurah": 22,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/315.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/315.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/315.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/22.mp3"
+          }
+        },
+        {
+          "totalNumber": 316,
+          "numberInSurah": 23,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/316.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/316.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/316.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/23.mp3"
+          }
+        },
+        {
+          "totalNumber": 317,
+          "numberInSurah": 24,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/317.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/317.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/317.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/24.mp3"
+          }
+        },
+        {
+          "totalNumber": 318,
+          "numberInSurah": 25,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/318.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/318.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/318.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/25.mp3"
+          }
+        },
+        {
+          "totalNumber": 319,
+          "numberInSurah": 26,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/319.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/319.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/319.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/26.mp3"
+          }
+        },
+        {
+          "totalNumber": 320,
+          "numberInSurah": 27,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/320.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/320.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/320.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/27.mp3"
+          }
+        },
+        {
+          "totalNumber": 321,
+          "numberInSurah": 28,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/321.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/321.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/321.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/28.mp3"
+          }
+        },
+        {
+          "totalNumber": 322,
+          "numberInSurah": 29,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/322.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/322.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/322.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/29.mp3"
+          }
+        },
+        {
+          "totalNumber": 323,
+          "numberInSurah": 30,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/323.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/323.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/323.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/30.mp3"
+          }
+        },
+        {
+          "totalNumber": 324,
+          "numberInSurah": 31,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/324.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/324.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/324.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/31.mp3"
+          }
+        },
+        {
+          "totalNumber": 325,
+          "numberInSurah": 32,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/325.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/325.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/325.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/32.mp3"
+          }
+        },
+        {
+          "totalNumber": 326,
+          "numberInSurah": 33,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/326.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/326.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/326.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/33.mp3"
+          }
+        },
+        {
+          "totalNumber": 327,
+          "numberInSurah": 34,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/327.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/327.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/327.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/34.mp3"
+          }
+        },
+        {
+          "totalNumber": 328,
+          "numberInSurah": 35,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/328.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/328.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/328.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/35.mp3"
+          }
+        },
+        {
+          "totalNumber": 329,
+          "numberInSurah": 36,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/329.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/329.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/329.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/36.mp3"
+          }
+        },
+        {
+          "totalNumber": 330,
+          "numberInSurah": 37,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/330.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/330.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/330.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/37.mp3"
+          }
+        },
+        {
+          "totalNumber": 331,
+          "numberInSurah": 38,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/331.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/331.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/331.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/38.mp3"
+          }
+        },
+        {
+          "totalNumber": 332,
+          "numberInSurah": 39,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/332.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/332.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/332.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/39.mp3"
+          }
+        },
+        {
+          "totalNumber": 333,
+          "numberInSurah": 40,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/333.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/333.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/333.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/40.mp3"
+          }
+        },
+        {
+          "totalNumber": 334,
+          "numberInSurah": 41,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/334.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/334.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/334.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/41.mp3"
+          }
+        },
+        {
+          "totalNumber": 335,
+          "numberInSurah": 42,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/335.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/335.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/335.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/42.mp3"
+          }
+        },
+        {
+          "totalNumber": 336,
+          "numberInSurah": 43,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/336.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/336.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/336.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/43.mp3"
+          }
+        },
+        {
+          "totalNumber": 337,
+          "numberInSurah": 44,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/337.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/337.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/337.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/44.mp3"
+          }
+        },
+        {
+          "totalNumber": 338,
+          "numberInSurah": 45,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/338.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/338.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/338.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/45.mp3"
+          }
+        },
+        {
+          "totalNumber": 339,
+          "numberInSurah": 46,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/339.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/339.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/339.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/46.mp3"
+          }
+        },
+        {
+          "totalNumber": 340,
+          "numberInSurah": 47,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/340.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/340.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/340.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/47.mp3"
+          }
+        },
+        {
+          "totalNumber": 341,
+          "numberInSurah": 48,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/341.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/341.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/341.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/48.mp3"
+          }
+        },
+        {
+          "totalNumber": 342,
+          "numberInSurah": 49,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/342.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/342.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/342.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/49.mp3"
+          }
+        },
+        {
+          "totalNumber": 343,
+          "numberInSurah": 50,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/343.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/343.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/343.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/50.mp3"
+          }
+        },
+        {
+          "totalNumber": 344,
+          "numberInSurah": 51,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/344.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/344.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/344.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/51.mp3"
+          }
+        },
+        {
+          "totalNumber": 345,
+          "numberInSurah": 52,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/345.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/345.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/345.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/52.mp3"
+          }
+        },
+        {
+          "totalNumber": 346,
+          "numberInSurah": 53,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/346.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/346.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/346.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/53.mp3"
+          }
+        },
+        {
+          "totalNumber": 347,
+          "numberInSurah": 54,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/347.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/347.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/347.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/54.mp3"
+          }
+        },
+        {
+          "totalNumber": 348,
+          "numberInSurah": 55,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/348.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/348.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/348.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/55.mp3"
+          }
+        },
+        {
+          "totalNumber": 349,
+          "numberInSurah": 56,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/349.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/349.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/349.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/56.mp3"
+          }
+        },
+        {
+          "totalNumber": 350,
+          "numberInSurah": 57,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/350.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/350.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/350.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/57.mp3"
+          }
+        },
+        {
+          "totalNumber": 351,
+          "numberInSurah": 58,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/351.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/351.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/351.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/58.mp3"
+          }
+        },
+        {
+          "totalNumber": 352,
+          "numberInSurah": 59,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/352.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/352.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/352.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/59.mp3"
+          }
+        },
+        {
+          "totalNumber": 353,
+          "numberInSurah": 60,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/353.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/353.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/353.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/60.mp3"
+          }
+        },
+        {
+          "totalNumber": 354,
+          "numberInSurah": 61,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/354.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/354.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/354.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/61.mp3"
+          }
+        },
+        {
+          "totalNumber": 355,
+          "numberInSurah": 62,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/355.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/355.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/355.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/62.mp3"
+          }
+        },
+        {
+          "totalNumber": 356,
+          "numberInSurah": 63,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/356.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/356.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/356.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/63.mp3"
+          }
+        },
+        {
+          "totalNumber": 357,
+          "numberInSurah": 64,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/357.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/357.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/357.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/64.mp3"
+          }
+        },
+        {
+          "totalNumber": 358,
+          "numberInSurah": 65,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/358.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/358.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/358.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/65.mp3"
+          }
+        },
+        {
+          "totalNumber": 359,
+          "numberInSurah": 66,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/359.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/359.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/359.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/66.mp3"
+          }
+        },
+        {
+          "totalNumber": 360,
+          "numberInSurah": 67,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/360.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/360.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/360.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/67.mp3"
+          }
+        },
+        {
+          "totalNumber": 361,
+          "numberInSurah": 68,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/361.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/361.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/361.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/68.mp3"
+          }
+        },
+        {
+          "totalNumber": 362,
+          "numberInSurah": 69,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/362.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/362.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/362.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/69.mp3"
+          }
+        },
+        {
+          "totalNumber": 363,
+          "numberInSurah": 70,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/363.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/363.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/363.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/70.mp3"
+          }
+        },
+        {
+          "totalNumber": 364,
+          "numberInSurah": 71,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/364.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/364.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/364.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/71.mp3"
+          }
+        },
+        {
+          "totalNumber": 365,
+          "numberInSurah": 72,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/365.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/365.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/365.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/72.mp3"
+          }
+        },
+        {
+          "totalNumber": 366,
+          "numberInSurah": 73,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/366.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/366.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/366.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/73.mp3"
+          }
+        },
+        {
+          "totalNumber": 367,
+          "numberInSurah": 74,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/367.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/367.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/367.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/74.mp3"
+          }
+        },
+        {
+          "totalNumber": 368,
+          "numberInSurah": 75,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/368.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/368.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/368.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/75.mp3"
+          }
+        },
+        {
+          "totalNumber": 369,
+          "numberInSurah": 76,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/369.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/369.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/369.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/76.mp3"
+          }
+        },
+        {
+          "totalNumber": 370,
+          "numberInSurah": 77,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/370.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/370.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/370.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/77.mp3"
+          }
+        },
+        {
+          "totalNumber": 371,
+          "numberInSurah": 78,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/371.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/371.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/371.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/78.mp3"
+          }
+        },
+        {
+          "totalNumber": 372,
+          "numberInSurah": 79,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/372.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/372.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/372.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/79.mp3"
+          }
+        },
+        {
+          "totalNumber": 373,
+          "numberInSurah": 80,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/373.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/373.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/373.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/80.mp3"
+          }
+        },
+        {
+          "totalNumber": 374,
+          "numberInSurah": 81,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/374.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/374.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/374.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/81.mp3"
+          }
+        },
+        {
+          "totalNumber": 375,
+          "numberInSurah": 82,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/375.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/375.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/375.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/82.mp3"
+          }
+        },
+        {
+          "totalNumber": 376,
+          "numberInSurah": 83,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/376.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/376.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/376.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/83.mp3"
+          }
+        },
+        {
+          "totalNumber": 377,
+          "numberInSurah": 84,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/377.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/377.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/377.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/84.mp3"
+          }
+        },
+        {
+          "totalNumber": 378,
+          "numberInSurah": 85,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/378.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/378.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/378.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/85.mp3"
+          }
+        },
+        {
+          "totalNumber": 379,
+          "numberInSurah": 86,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/379.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/379.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/379.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/86.mp3"
+          }
+        },
+        {
+          "totalNumber": 380,
+          "numberInSurah": 87,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/380.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/380.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/380.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/87.mp3"
+          }
+        },
+        {
+          "totalNumber": 381,
+          "numberInSurah": 88,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/381.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/381.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/381.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/88.mp3"
+          }
+        },
+        {
+          "totalNumber": 382,
+          "numberInSurah": 89,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/382.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/382.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/382.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/89.mp3"
+          }
+        },
+        {
+          "totalNumber": 383,
+          "numberInSurah": 90,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/383.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/383.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/383.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/90.mp3"
+          }
+        },
+        {
+          "totalNumber": 384,
+          "numberInSurah": 91,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/384.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/384.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/384.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/91.mp3"
+          }
+        },
+        {
+          "totalNumber": 385,
+          "numberInSurah": 92,
+          "juz": 3,
+          "audio": {
+            "primary": "https://cdn.islamic.network/quran/audio/128/ar.abdurrahmaansudais/385.mp3",
+            "secondary": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/385.mp3",
+            "tertiary": "https://cdn.islamic.app/quran/audio/ar.abdurrahmaansudais/385.mp3",
+            "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/3-4@main/3/ar.abdurrahmaansudais/92.mp3"
+          }
+        }
+      ]
+    }
+  ]
+}

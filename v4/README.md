@@ -20,12 +20,16 @@ Every endpoint has two variants: `{file}.json` (pretty-printed, 2-space indent) 
 | Verse images | `/v4/surah/image/{id}.json` | [image/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/image/1.json) |
 | Audio by reciter | `/v4/surah/audio/{reciter}/{id}.json` | [audio/ar.alafasy/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/audio/ar.alafasy/1.json) |
 | Tafsir | `/v4/surah/tafsir/{lang}/{tafsir-id}/{id}.json` | [tafsir/en/en-tafsir-maarif-ul-quran/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/tafsir/en/en-tafsir-maarif-ul-quran/1.json) |
+| Juz/para (verse) | `/v4/juz/verse/{id}.json` | [juz/verse/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/juz/verse/1.json) |
+| Juz/para (image) | `/v4/juz/image/{id}.json` | [juz/image/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/juz/image/1.json) |
+| Juz/para (audio) | `/v4/juz/audio/{reciter}/{id}.json` | [juz/audio/ar.alafasy/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/juz/audio/ar.alafasy/1.json) |
+| Juz/para (tafsir) | `/v4/juz/tafsir/{lang}/{tafsir-id}/{id}.json` | [juz/tafsir/en/en-tafsir-maarif-ul-quran/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/juz/tafsir/en/en-tafsir-maarif-ul-quran/1.json) |
 
 ## Supporting Files
 
 | File | CDN URL |
 |------|---------|
-| Reciter list | [reciters.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json) |
+| Reciter list | [reciters.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json) / [reciters.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.min.json) |
 | TypeScript types | [quran.d.ts](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts) |
 | API docs | [README.md](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/README.md) |
 | AI context | [llms.txt](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/llms.txt) |
@@ -182,6 +186,44 @@ curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts
 
 ---
 
+### Juz/para endpoints (`/v4/juz/{category}/{id}`)
+
+Each juz can span multiple surahs. Responses are wrapped in a metadata object with the surah data in a `surah` array.
+
+```json
+{
+  "juzNumber": 1,
+  "verseMapping": {
+    "1": "1-7",
+    "2": "1-141"
+  },
+  "totalVerse": 148,
+  "surah": [
+    {
+      "no": 1,
+      "enName": "Al-Faatiha",
+      "verses": [...]
+    },
+    {
+      "no": 2,
+      "enName": "Al-Baqara",
+      "verses": [...]
+    }
+  ]
+}
+```
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `juzNumber` | int | Juz number (1–30) |
+| `verseMapping` | object | Maps each surah number to its verse range within this juz |
+| `totalVerse` | int | Total verses in this juz |
+| `surah` | array | Array of surah objects (same per-verse schema as surah endpoints) |
+
+The per-verse objects inside `surah[].verses` have the same fields as the corresponding surah category (verse, image, audio, or tafsir).
+
+---
+
 ## Reciters
 
 17 reciters available. Each reciter endpoint returns audio for all verses of a surah. Full data (Arabic names, English names) is in [`reciters.json`](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json).
@@ -316,7 +358,7 @@ console.log(data.verses[0].tafsir); // HTML exegesis
 | Audio | Single reciter, flat fields | 17 reciters, keyed by identifier, 4 sources each |
 | Images | — | 4 quality tiers per verse |
 | Data structure | Combined surah JSON | 4 separate category endpoints (verse, image, audio, tafsir) |
-| Para/juz endpoints | Yes | Not yet |
+| Para/juz endpoints | Yes | Yes (`/v4/juz/`) |
 
 ---
 

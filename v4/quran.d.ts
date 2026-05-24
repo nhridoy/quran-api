@@ -172,3 +172,29 @@ export type SurahResponse =
   | SurahImage
   | SurahAudio
   | SurahTafsir;
+
+// ===== Juz/Para (grouped by juz number) =====
+
+export type VerseRange = `${number}-${number}` | `${number}`;
+
+export interface VerseMapping {
+  [surahNumber: string]: VerseRange;
+}
+
+export interface JuzPara<SurahType> {
+  juzNumber: number;
+  verseMapping: VerseMapping;
+  totalVerse: number;
+  surah: SurahType[];
+}
+
+export type JuzVerseText = JuzPara<SurahVerseText>;
+export type JuzImage = JuzPara<SurahImage>;
+export type JuzAudio = JuzPara<SurahAudio>;
+export type JuzTafsir = JuzPara<SurahTafsir>;
+
+export type JuzResponse =
+  | JuzVerseText
+  | JuzImage
+  | JuzAudio
+  | JuzTafsir;
