@@ -5,7 +5,7 @@
 ## Base URL
 
 ```
-https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4
 ```
 
 Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
@@ -14,9 +14,9 @@ Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
 
 | File | CDN URL |
 |------|---------|
-| Reciter list | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/reciters.json` |
-| TypeScript types | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/quran.d.ts` |
-| Full docs | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/README.md` |
+| Reciter list | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json` |
+| TypeScript types | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts` |
+| Full docs | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/README.md` |
 
 ## Endpoints
 

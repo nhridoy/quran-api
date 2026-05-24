@@ -5,7 +5,7 @@ Enhanced Quran API with verse text, verse images, multi-reciter audio, and multi
 ## Base URL
 
 ```
-https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4
+https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4
 ```
 
 Every endpoint has two variants: `{file}.json` (pretty-printed, 2-space indent) and `{file}.min.json` (minified).
@@ -16,24 +16,24 @@ Every endpoint has two variants: `{file}.json` (pretty-printed, 2-space indent) 
 
 | Category | Path | Example |
 |----------|------|---------|
-| Verse text | `/v4/surah/verse/{id}.json` | [verse/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/surah/verse/1.json) |
-| Verse images | `/v4/surah/image/{id}.json` | [image/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/surah/image/1.json) |
-| Audio by reciter | `/v4/surah/audio/{reciter}/{id}.json` | [audio/ar.alafasy/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/surah/audio/ar.alafasy/1.json) |
-| Tafsir | `/v4/surah/tafsir/{lang}/{tafsir-id}/{id}.json` | [tafsir/en/en-tafsir-maarif-ul-quran/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/surah/tafsir/en/en-tafsir-maarif-ul-quran/1.json) |
+| Verse text | `/v4/surah/verse/{id}.json` | [verse/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/verse/1.json) |
+| Verse images | `/v4/surah/image/{id}.json` | [image/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/image/1.json) |
+| Audio by reciter | `/v4/surah/audio/{reciter}/{id}.json` | [audio/ar.alafasy/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/audio/ar.alafasy/1.json) |
+| Tafsir | `/v4/surah/tafsir/{lang}/{tafsir-id}/{id}.json` | [tafsir/en/en-tafsir-maarif-ul-quran/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/tafsir/en/en-tafsir-maarif-ul-quran/1.json) |
 
 ## Supporting Files
 
 | File | CDN URL |
 |------|---------|
-| Reciter list | [reciters.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/reciters.json) |
-| TypeScript types | [quran.d.ts](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/quran.d.ts) |
-| API docs | [README.md](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/README.md) |
-| AI context | [llms.txt](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/llms.txt) |
+| Reciter list | [reciters.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json) |
+| TypeScript types | [quran.d.ts](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts) |
+| API docs | [README.md](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/README.md) |
+| AI context | [llms.txt](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/llms.txt) |
 
 Using TypeScript? Download `quran.d.ts` via jsDelivr and reference it in your project:
 
 ```bash
-curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/quran.d.ts
+curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts
 ```
 
 ---
@@ -145,7 +145,7 @@ curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/quran.d.ts
     "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
     "secondary": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3",
     "tertiary": "https://cdn.islamic.app/quran/audio/ar.alafasy/1.mp3",
-    "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@main/1/ar.alafasy/1.mp3"
+    "alternative": "https://cdn.jsdelivr.net/gh/nhridoy/1-2@latest/1/ar.alafasy/1.mp3"
   }
 }
 ```
@@ -184,7 +184,7 @@ curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/quran.d.ts
 
 ## Reciters
 
-17 reciters available. Each reciter endpoint returns audio for all verses of a surah. Full data (Arabic names, English names) is in [`reciters.json`](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/reciters.json).
+17 reciters available. Each reciter endpoint returns audio for all verses of a surah. Full data (Arabic names, English names) is in [`reciters.json`](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json).
 
 | Key | Reciter Name |
 |-----|-------------|
@@ -267,7 +267,7 @@ curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4/quran.d.ts
 ### Fetch verse text
 
 ```js
-const BASE = 'https://cdn.jsdelivr.net/gh/nhridoy/quran-api@main/v4';
+const BASE = 'https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4';
 
 const res = await fetch(`${BASE}/surah/verse/1.json`);
 const { verses, ...surah } = await res.json();
