@@ -1,0 +1,38 @@
+{
+  "total": 102,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6bf5add1a4c9c86f04639",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 9,
+      "hadithIndex": 426,
+      "bookHadithIndex": 101,
+      "text": "Yahya related to me from Malik from his paternal uncle Abu Suhayl ibn Malik that his father heard Talha ibn Ubaydullah say, \"Once one of the people of Najd came to the Messenger of Allah, may Allah bless him and grant him peace. He had dishevelled hair and although his voice could be heard we could not make out what he was saying until he drew nearer and then we found he was asking about Islam. The Messenger of Allah, may Allah bless him and grant him peace, said to him, 'There are five prayers during the day and the night.' He said, 'Do I have to do anything else besides that?' The Messenger of Allah, may Allah bless him and grant him peace, added, 'And fasting the month of Ramadan.' He said, 'Is there anything else I have to do?' He said, 'No, except what you do of your own accord.' The Messenger of Allah, may Allah bless him and grant him peace, mentioned zakat. The man said, 'Is there anything else that I have to do?' He said, 'No, except what you do of your own accord.' He continued, \"The man went away saying, 'By Allah, I won't do any more than this, nor will I do any less.' The Messenger of Allah, may Allah bless him and grant him peace, said, 'That man will be successful, if he is telling the truth",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-9-426-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6bf5add1a4c9c86f0463a",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 9,
+      "hadithIndex": 427,
+      "bookHadithIndex": 102,
+      "text": "Yahya related to me from Malik from Abu'z-Zinad from al-Araj from Abu Hurayra that the Messenger of Allah, may Allah bless him and grant him peace, said, \"Shaytan ties three knots at the back of your head when you sleep, and he seals the place of each knot with 'You have a long night ahead, so sleep.' If you wake up and remember Allah, a knot is untied. If you do wudu, a knot is untied. If you pray, a knot is untied, and morning finds you lively and in good spirits, and if not, morning finds you in bad spirits and lazy",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-9-427-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

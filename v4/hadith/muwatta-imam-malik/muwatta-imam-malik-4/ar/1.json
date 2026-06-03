@@ -1,0 +1,53 @@
+{
+  "total": 3,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6bf5add1a4c9c86f0456d",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 4,
+      "hadithIndex": 222,
+      "bookHadithIndex": 1,
+      "text": "حدثني يحيى، عن مالك، عن ابن شهاب، عن ابي سلمة بن عبد الرحمن بن عوف، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" ان احدكم اذا قام يصلي جاءه الشيطان فلبس عليه حتى لا يدري كم صلى فاذا وجد ذلك احدكم فليسجد سجدتين وهو جالس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-4-222-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6bf5add1a4c9c86f0456e",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 4,
+      "hadithIndex": 223,
+      "bookHadithIndex": 2,
+      "text": "وحدثني عن مالك، انه بلغه ان رسول الله صلى الله عليه وسلم قال \" اني لانسى او انسى لاسن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-4-223-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6bf5add1a4c9c86f0456f",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 4,
+      "hadithIndex": 224,
+      "bookHadithIndex": 3,
+      "text": "وحدثني عن مالك، انه بلغه ان رجلا، سال القاسم بن محمد فقال اني اهم في صلاتي فيكثر ذلك على . فقال القاسم بن محمد امض في صلاتك فانه لن يذهب عنك حتى تنصرف وانت تقول ما اتممت صلاتي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-4-224-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Daif"
+        }
+      ]
+    }
+  ]
+}

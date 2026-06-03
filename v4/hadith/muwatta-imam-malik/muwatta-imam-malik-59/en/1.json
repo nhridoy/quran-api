@@ -1,0 +1,23 @@
+{
+  "total": 1,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6bf7add1a4c9c86f04bcf",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 59,
+      "hadithIndex": 1856,
+      "bookHadithIndex": 1,
+      "text": "Yahya related to me from Malik that he heard that Luqman al-Hakim made his will and counselled his son, saying, \"My son! Sit with the learned men and keep close to them. Allah gives life to the hearts with the light of wisdom as Allah gives life to the dead earth with the abundant rain of the sky",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-59-1856-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Daif"
+        }
+      ]
+    }
+  ]
+}

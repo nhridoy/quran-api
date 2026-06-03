@@ -57,6 +57,10 @@ const OR_MODEL      = process.env.OPENROUTER_MODEL || 'openai/gpt-4o-mini';
 const OR_REFERER    = process.env.OPENROUTER_REFERER || 'https://github.com/nhridoy/quran-api';
 const OR_APP_TITLE  = process.env.OPENROUTER_APP_TITLE || 'Quran-Hadith API';
 
+console.log({
+  OR_API_KEY, OR_MODEL
+})
+
 const TRANS_CACHE_PATH = path.join(OUTPUT_DIR, 'translations.json');
 
 function loadTransCache() {
@@ -90,7 +94,8 @@ async function translateBatch(names, targetLang, context, cache) {
   if (todo.length === 0) return results;
 
   const numberedList = todo.map((t, i) => `${i + 1}. ${t}`).join('\n');
-  const langName = new Intl.DisplayNames(['en'], { type: 'language' }).of(targetLang) || targetLang;
+  let langName = targetLang;
+  try { langName = new Intl.DisplayNames(['en'], { type: 'language' }).of(targetLang) || targetLang; } catch {}
 
   const systemMsg = `You are a translator specializing in Islamic hadith terminology. Translate the following ${context} from English to ${langName} (language code: ${targetLang}). Use accurate Islamic/religious terminology. Return ONLY a valid JSON array of strings in the same order as the input — no markdown, no commentary.`;
   const userMsg = numberedList;
@@ -114,6 +119,8 @@ async function translateBatch(names, targetLang, context, cache) {
         max_tokens: 4096,
       }),
     });
+
+    console.log(res.ok)
 
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
@@ -151,7 +158,14 @@ async function translateBatch(names, targetLang, context, cache) {
  */
 async function enrichNames(nameObjs, langsPerObj, context, cache) {
   const allLangs = new Set();
-  for (const langs of langsPerObj) for (const l of langs) if (l !== 'en') allLangs.add(l);
+  const variantLangs = new Set();
+  for (const langs of langsPerObj) {
+    for (const l of langs) {
+      if (l === 'en') continue;
+      if (l.includes('-')) { variantLangs.add(l); continue; }
+      allLangs.add(l);
+    }
+  }
 
   for (const lang of allLangs) {
     const todo = [];
@@ -166,6 +180,14 @@ async function enrichNames(nameObjs, langsPerObj, context, cache) {
     const translations = await translateBatch(todo, lang, context, cache);
     for (let j = 0; j < todo.length; j++) {
       nameObjs[todoIdx[j]][lang] = translations[j] || nameObjs[todoIdx[j]].en || '';
+    }
+  }
+
+  // Fill variant codes (e.g. ar-diacritics) from their base language (e.g. ar)
+  for (const v of variantLangs) {
+    const base = v.split('-')[0];
+    for (const obj of nameObjs) {
+      if (!obj[v] && obj[base]) obj[v] = obj[base];
     }
   }
 }

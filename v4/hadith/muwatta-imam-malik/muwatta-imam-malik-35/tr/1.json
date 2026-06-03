@@ -1,0 +1,68 @@
+{
+  "total": 4,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6bf7add1a4c9c86f04a02",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 35,
+      "hadithIndex": 1395,
+      "bookHadithIndex": 1,
+      "text": "Abdurrahman b. Avfın oğlu Ebu Seleme'den: Resulullah Sallallahu Aleyhi ve Sellem ortaklar arasında taksim edilebilen müşterek mallarda şuf'a olduğuna hükmetti. Ortaklar arasında sınırın bulunduğu yerlerde şufa hakkı yoktur. İbn Abdilber der ki: Çoğu Muvatta ravileri Malik'ten ve başkaları mürsel olarak rivayet etmişlerdir. İmam Malik der ki: Bizde amel ittifakla böyledir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-35-1395-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6bf7add1a4c9c86f04a03",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 35,
+      "hadithIndex": 1396,
+      "bookHadithIndex": 2,
+      "text": "Said b. el-Müseyyeb'e soruldu: «— Şuf'a da bir prensip var mı?» Said: «— Evet, Şuf'a evlerde, arazide ve yalnız ortaklar arasında olur» dedi",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-35-1396-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6bf7add1a4c9c86f04a04",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 35,
+      "hadithIndex": 1397,
+      "bookHadithIndex": 3,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-35-1397-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6bf7add1a4c9c86f04a05",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 35,
+      "hadithIndex": 1398,
+      "bookHadithIndex": 4,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-35-1398-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ]
+    }
+  ]
+}

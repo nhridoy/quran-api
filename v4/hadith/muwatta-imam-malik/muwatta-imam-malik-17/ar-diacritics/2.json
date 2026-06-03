@@ -1,0 +1,38 @@
+{
+  "total": 52,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6bf5add1a4c9c86f04703",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 17,
+      "hadithIndex": 628,
+      "bookHadithIndex": 51,
+      "text": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ لاَ يُخْرِجُ فِي زَكَاةِ الْفِطْرِ إِلاَّ التَّمْرَ إِلاَّ مَرَّةً وَاحِدَةً فَإِنَّهُ أَخْرَجَ شَعِيرًا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-17-628-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6bf5add1a4c9c86f04704",
+      "editionId": "69b55e8d6f42ba7ccb2a131d",
+      "bookIndex": 17,
+      "hadithIndex": 629,
+      "bookHadithIndex": 52,
+      "text": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَبْعَثُ بِزَكَاةِ الْفِطْرِ إِلَى الَّذِي تُجْمَعُ عِنْدَهُ قَبْلَ الْفِطْرِ بِيَوْمَيْنِ أَوْ ثَلاَثَةٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a131d-17-629-salimalhilali",
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ]
+    }
+  ]
+}
