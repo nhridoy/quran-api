@@ -24,6 +24,153 @@ const now     = () => { const d = new Date(); return d.toLocaleTimeString('en-US
 const elapsed = ms => ms < 1000 ? `${ms}ms` : ms < 60000 ? `${(ms/1000).toFixed(1)}s` : `${Math.floor(ms/60000)}m ${((ms%60000)/1000).toFixed(0)}s`;
 
 // =========================================================================
+// Environment (.env loader)
+// =========================================================================
+
+(function loadEnv() {
+  const candidates = [
+    path.resolve(__dirname, '..', '.env'),
+    path.resolve(__dirname, '.env'),
+  ];
+  for (const envPath of candidates) {
+    try {
+      const text = fs.readFileSync(envPath, 'utf-8');
+      for (const line of text.split('\n')) {
+        const t = line.trim();
+        if (!t || t.startsWith('#')) continue;
+        const eq = t.indexOf('=');
+        if (eq === -1) continue;
+        const k = t.slice(0, eq).trim();
+        const v = t.slice(eq + 1).trim();
+        if (!process.env[k]) process.env[k] = v;
+      }
+    } catch {}
+  }
+})();
+
+// =========================================================================
+// OpenRouter AI translation
+// =========================================================================
+
+const OR_API_KEY    = process.env.OPENROUTER_API_KEY || '';
+const OR_MODEL      = process.env.OPENROUTER_MODEL || 'openai/gpt-4o-mini';
+const OR_REFERER    = process.env.OPENROUTER_REFERER || 'https://github.com/nhridoy/quran-api';
+const OR_APP_TITLE  = process.env.OPENROUTER_APP_TITLE || 'Quran-Hadith API';
+
+const TRANS_CACHE_PATH = path.join(OUTPUT_DIR, 'translations.json');
+
+function loadTransCache() {
+  try { if (fs.existsSync(TRANS_CACHE_PATH)) return JSON.parse(fs.readFileSync(TRANS_CACHE_PATH, 'utf-8')); } catch {}
+  return {};
+}
+
+function saveTransCache(cache) {
+  if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  fs.writeFileSync(TRANS_CACHE_PATH, JSON.stringify(cache, null, 2), 'utf-8');
+}
+
+/**
+ * Translate a batch of English names to a target language via OpenRouter.
+ * Checks the persistent translation cache first.
+ * Returns array of translated strings (empty string on failure).
+ */
+async function translateBatch(names, targetLang, context, cache) {
+  if (!OR_API_KEY || names.length === 0) return names.map(() => '');
+
+  const results = [];
+  const todo = [];
+  const todoIdx = [];
+
+  for (let i = 0; i < names.length; i++) {
+    const key = `${targetLang}:${names[i]}`;
+    if (cache[key]) { results[i] = cache[key]; }
+    else { results[i] = null; todo.push(names[i]); todoIdx.push(i); }
+  }
+
+  if (todo.length === 0) return results;
+
+  const numberedList = todo.map((t, i) => `${i + 1}. ${t}`).join('\n');
+  const langName = new Intl.DisplayNames(['en'], { type: 'language' }).of(targetLang) || targetLang;
+
+  const systemMsg = `You are a translator specializing in Islamic hadith terminology. Translate the following ${context} from English to ${langName} (language code: ${targetLang}). Use accurate Islamic/religious terminology. Return ONLY a valid JSON array of strings in the same order as the input — no markdown, no commentary.`;
+  const userMsg = numberedList;
+
+  try {
+    const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${OR_API_KEY}`,
+        'Content-Type': 'application/json',
+        'HTTP-Referer': OR_REFERER,
+        'X-OpenRouter-Title': OR_APP_TITLE,
+      },
+      body: JSON.stringify({
+        model: OR_MODEL,
+        messages: [
+          { role: 'system', content: systemMsg },
+          { role: 'user', content: userMsg },
+        ],
+        temperature: 0.1,
+        max_tokens: 4096,
+      }),
+    });
+
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+    const data = await res.json();
+    const content = data.choices?.[0]?.message?.content || '';
+    let parsed;
+    try { parsed = JSON.parse(content); } catch { throw new Error('Could not parse response as JSON'); }
+
+    if (!Array.isArray(parsed) || parsed.length !== todo.length) {
+      throw new Error(`Expected array of ${todo.length}, got ${Array.isArray(parsed) ? parsed.length : typeof parsed}`);
+    }
+
+    for (let i = 0; i < todo.length; i++) {
+      const val = (parsed[i] || '').trim();
+      const key = `${targetLang}:${todo[i]}`;
+      cache[key] = val;
+      results[todoIdx[i]] = val;
+    }
+    saveTransCache(cache);
+    console.log(`  ✎ translated ${todo.length} names → ${targetLang}`);
+  } catch (e) {
+    console.warn(`  ⚠ translation (${targetLang}) failed: ${e.message}`);
+    for (const i of todoIdx) results[i] = '';
+  }
+
+  return results;
+}
+
+/**
+ * Fill missing language entries in name objects using AI translation.
+ * Each nameObj has shape { en: "English Name" }.
+ * langsPerObj[i] = array of language codes allowed for nameObjs[i].
+ * After this call, nameObj[lang] will contain the translated name (or English fallback)
+ * for every language in its allowed list.
+ */
+async function enrichNames(nameObjs, langsPerObj, context, cache) {
+  const allLangs = new Set();
+  for (const langs of langsPerObj) for (const l of langs) if (l !== 'en') allLangs.add(l);
+
+  for (const lang of allLangs) {
+    const todo = [];
+    const todoIdx = [];
+    for (let i = 0; i < nameObjs.length; i++) {
+      if (langsPerObj[i].includes(lang) && !nameObjs[i][lang]) {
+        todo.push(nameObjs[i].en);
+        todoIdx.push(i);
+      }
+    }
+    if (todo.length === 0) continue;
+    const translations = await translateBatch(todo, lang, context, cache);
+    for (let j = 0; j < todo.length; j++) {
+      nameObjs[todoIdx[j]][lang] = translations[j] || nameObjs[todoIdx[j]].en || '';
+    }
+  }
+}
+
+// =========================================================================
 // Rate-limiter (sliding window, 6 req/min)
 // =========================================================================
 
@@ -88,7 +235,7 @@ function writeJSON(filePath, data, minify) {
 
 function fillName(srcName, langs) {
   const out = {};
-  for (const l of langs) out[l] = srcName.en || '';
+  for (const l of langs) out[l] = l === 'en' ? (srcName.en || '') : '';
   return out;
 }
 
@@ -361,7 +508,7 @@ async function buildBookLang(editionSlug, bookIndex, availableLanguages, minifyM
   console.log(`  ✓ all langs done ${elapsed(Date.now() - t0)}`);
 }
 
-async function buildEditionBooks(editionSlug, availableLanguages, bookIndices, minifyMode, progress) {
+async function buildEditionBooks(editionSlug, availableLanguages, bookIndices, minifyMode, progress, transCache) {
   // fetch and write books.json
   if (!fs.existsSync(path.join(OUTPUT_DIR, editionSlug, 'books.json'))) {
     console.log(`\n  Fetching books for ${editionSlug}...`);
@@ -371,6 +518,10 @@ async function buildEditionBooks(editionSlug, availableLanguages, bookIndices, m
       hadithCount: b.hadithCount, hadithIndexStart: b.hadithIndexStart,
       name: fillName(b.name, availableLanguages),
     }));
+    const cache = transCache || loadTransCache();
+    const langsPer = items.map(() => availableLanguages);
+    await enrichNames(items.map(b => b.name), langsPer, `book names for ${editionSlug}`, cache);
+    if (!transCache) saveTransCache(cache);
     if (minifyMode !== 'min') writeJSON(path.join(OUTPUT_DIR, editionSlug, 'books.json'), items, false);
     if (minifyMode !== null)  writeJSON(path.join(OUTPUT_DIR, editionSlug, 'books.min.json'), items, true);
     console.log(`  → ${books.length} books`);
@@ -380,12 +531,12 @@ async function buildEditionBooks(editionSlug, availableLanguages, bookIndices, m
   return JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, editionSlug, 'books.json'), 'utf-8'));
 }
 
-async function buildEdition(edition, bookIndices, minifyMode, progress) {
+async function buildEdition(edition, bookIndices, minifyMode, progress, transCache) {
   const { slug, availableLanguages } = edition;
   markEditionStarted(progress, slug);
   saveProgress(progress);
 
-  const books = await buildEditionBooks(slug, availableLanguages, bookIndices, minifyMode, progress);
+  const books = await buildEditionBooks(slug, availableLanguages, bookIndices, minifyMode, progress, transCache);
   const filtered = books.filter(b => bookIndices.includes(b.bookIndex));
 
   console.log(`\n  Fetching ${filtered.length} selected books for ${slug}:\n`);
@@ -435,6 +586,9 @@ async function getEditions() {
     hadithCount: e.hadithCount, availableLanguages: e.availableLanguages,
     name: fillName(e.name, e.availableLanguages),
   }));
+  const cache = loadTransCache();
+  await enrichNames(items.map(e => e.name), items.map(e => e.availableLanguages), 'edition names', cache);
+  saveTransCache(cache);
   if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   writeJSON(CACHE_PATH, items, false);
   writeJSON(CACHE_PATH.replace('.json', '.min.json'), items, true);
@@ -449,6 +603,7 @@ async function getEditions() {
 async function runInteractive(minifyMode) {
   const progress = loadProgress();
   const editions = await getEditions();
+  const transCache = loadTransCache();
 
   while (true) {
     // --- Edition picker ---
@@ -485,6 +640,9 @@ async function runInteractive(minifyMode) {
           hadithCount: b.hadithCount, hadithIndexStart: b.hadithIndexStart,
           name: fillName(b.name, availableLanguages),
         }));
+        const langsPer = books.map(() => availableLanguages);
+        await enrichNames(books.map(b => b.name), langsPer, `book names for ${slug}`, transCache);
+        saveTransCache(transCache);
         const dir = path.join(OUTPUT_DIR, slug);
         if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
         if (minifyMode !== 'min') writeJSON(path.join(dir, 'books.json'), books, false);
@@ -513,7 +671,7 @@ async function runInteractive(minifyMode) {
       }
 
       const selectedBooks = selectedIndices.map(i => bookItems[i].bookIndex);
-      await buildEdition(ed, selectedBooks, minifyMode, progress);
+      await buildEdition(ed, selectedBooks, minifyMode, progress, transCache);
 
       console.log(`\n  ─────────────────────────────────`);
     }
