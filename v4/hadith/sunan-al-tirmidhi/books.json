@@ -9,7 +9,7 @@
       "en": "Purification",
       "ar-diacritics": "الطهارة",
       "ur": "تطہیر",
-      "bn": "Purification",
+      "bn": "পবিত্রতা",
       "ar": "الطهارة",
       "id": "Pembersihan",
       "tr": "Temizlik"
@@ -24,8 +24,8 @@
     "name": {
       "en": "Salat (Prayer)",
       "ar-diacritics": "الصلاة",
-      "ur": "Salat (Prayer)",
-      "bn": "Salat (Prayer)",
+      "ur": "نماز",
+      "bn": "সালাত",
       "ar": "الصلاة",
       "id": "Salat",
       "tr": "Salat"
@@ -40,8 +40,8 @@
     "name": {
       "en": "The Witr Prayer",
       "ar-diacritics": "الوتر",
-      "ur": "The Witr Prayer",
-      "bn": "The Witr Prayer",
+      "ur": "نماز: وتر کی تفصیلی احکام",
+      "bn": "সালাত: বিতরের বিস্তারিত বিধান",
       "ar": "الوتر",
       "id": "Salat Witr",
       "tr": "Vitr Namazı"
@@ -56,8 +56,8 @@
     "name": {
       "en": "The Day of Friday",
       "ar-diacritics": "يوم الجمعة",
-      "ur": "The Day of Friday",
-      "bn": "The Day of Friday",
+      "ur": "جمعہ کا دن",
+      "bn": "জুমুআর দিন",
       "ar": "يوم الجمعة",
       "id": "Hari Jumat",
       "tr": "Cuma Günü"
@@ -72,8 +72,8 @@
     "name": {
       "en": "The Two Eids",
       "ar-diacritics": "العيدان",
-      "ur": "The Two Eids",
-      "bn": "The Two Eids",
+      "ur": "عیدین",
+      "bn": "দুই ঈদ",
       "ar": "العيدان",
       "id": "Dua Hari Raya",
       "tr": "İki Bayram"
@@ -88,8 +88,8 @@
     "name": {
       "en": "Traveling",
       "ar-diacritics": "السفر",
-      "ur": "Traveling",
-      "bn": "Traveling",
+      "ur": "سفر",
+      "bn": "সফর",
       "ar": "السفر",
       "id": "Perjalanan",
       "tr": "Seyahat"
@@ -105,7 +105,7 @@
       "en": "Zakat",
       "ar-diacritics": "الزكاة",
       "ur": "زکاة",
-      "bn": "Zakat",
+      "bn": "যাকাত",
       "ar": "الزكاة",
       "id": "Zakat",
       "tr": "Zekât"
@@ -121,7 +121,7 @@
       "en": "Fasting",
       "ar-diacritics": "الصوم",
       "ur": "روزہ",
-      "bn": "Fasting",
+      "bn": "সিয়াম",
       "ar": "الصوم",
       "id": "Puasa",
       "tr": "Oruç"
@@ -136,8 +136,8 @@
     "name": {
       "en": "Hajj",
       "ar-diacritics": "الحج",
-      "ur": "Hajj",
-      "bn": "Hajj",
+      "ur": "حج",
+      "bn": "হজ্জ",
       "ar": "الحج",
       "id": "Haji",
       "tr": "Hac"
@@ -153,7 +153,7 @@
       "en": "Funerals",
       "ar-diacritics": "الجنائز",
       "ur": "جنازہ",
-      "bn": "Funerals",
+      "bn": "জানাজা",
       "ar": "الجنائز",
       "id": "Pemakaman",
       "tr": "Cenazeler"
@@ -169,7 +169,7 @@
       "en": "Marriage",
       "ar-diacritics": "النكاح",
       "ur": "نکاح",
-      "bn": "Marriage",
+      "bn": "বিবাহ",
       "ar": "النكاح",
       "id": "Perkawinan",
       "tr": "Nikah"
@@ -184,8 +184,8 @@
     "name": {
       "en": "Suckling",
       "ar-diacritics": "الرضاع",
-      "ur": "Suckling",
-      "bn": "Suckling",
+      "ur": "رضاعت",
+      "bn": "স্তন্যদান",
       "ar": "الرضاع",
       "id": "Menyusui",
       "tr": "Emzirme"
@@ -200,8 +200,8 @@
     "name": {
       "en": "Divorce and Mutual Imprecation",
       "ar-diacritics": "الطلاق واللعان",
-      "ur": "Divorce and Mutual Imprecation",
-      "bn": "Divorce and Mutual Imprecation",
+      "ur": "طلاق اور لعان",
+      "bn": "তালাক ও লিয়ান",
       "ar": "الطلاق واللعان",
       "id": "Talak dan Mubahalah",
       "tr": "Boşanma ve Karşılıklı Lanet"
@@ -216,8 +216,8 @@
     "name": {
       "en": "Business",
       "ar-diacritics": "البيع والشراء",
-      "ur": "Business",
-      "bn": "Business",
+      "ur": "تجارتی معاملات",
+      "bn": "বাণিজ্যিক লেনদেন",
       "ar": "البيع والشراء",
       "id": "Perdagangan",
       "tr": "Ticaret"
@@ -232,8 +232,8 @@
     "name": {
       "en": "Judgements",
       "ar-diacritics": "القضاء",
-      "ur": "Judgements",
-      "bn": "Judgements",
+      "ur": "قاضی کا دفتر",
+      "bn": "বিচার",
       "ar": "القضاء",
       "id": "Hukum",
       "tr": "Hükümler"
@@ -248,8 +248,8 @@
     "name": {
       "en": "Blood Money",
       "ar-diacritics": "الديات",
-      "ur": "Blood Money",
-      "bn": "Blood Money",
+      "ur": "دیہ",
+      "bn": "দিয়া",
       "ar": "الديات",
       "id": "Diyat",
       "tr": "Diye"
@@ -264,8 +264,8 @@
     "name": {
       "en": "Legal Punishments",
       "ar-diacritics": "الحدود",
-      "ur": "Legal Punishments",
-      "bn": "Legal Punishments",
+      "ur": "سزائیں",
+      "bn": "শারীরিক শাস্তি",
       "ar": "الحدود",
       "id": "Hudud",
       "tr": "Ceza Hukuku"
@@ -280,8 +280,8 @@
     "name": {
       "en": "Hunting",
       "ar-diacritics": "الصيد",
-      "ur": "Hunting",
-      "bn": "Hunting",
+      "ur": "شکار",
+      "bn": "শিকার",
       "ar": "الصيد",
       "id": "Berburu",
       "tr": "Av"
@@ -296,8 +296,8 @@
     "name": {
       "en": "Sacrifices",
       "ar-diacritics": "الذبائح",
-      "ur": "Sacrifices",
-      "bn": "Sacrifices",
+      "ur": "قربانیاں",
+      "bn": "কুরবানি",
       "ar": "الذبائح",
       "id": "Qurban",
       "tr": "Kurbanlar"
@@ -312,8 +312,8 @@
     "name": {
       "en": "Vows and Oaths",
       "ar-diacritics": "النذور والأيمان",
-      "ur": "Vows and Oaths",
-      "bn": "Vows and Oaths",
+      "ur": "نذریں اور قسمیں",
+      "bn": "মান্নত ও শপথ",
       "ar": "النذور والأيمان",
       "id": "Nazar dan Sumpah",
       "tr": "Adaklar ve Yeminler"
@@ -328,8 +328,8 @@
     "name": {
       "en": "Military Expeditions",
       "ar-diacritics": "الغزوات",
-      "ur": "Military Expeditions",
-      "bn": "Military Expeditions",
+      "ur": "غزوات",
+      "bn": "সামরিক অভিযান",
       "ar": "الغزوات",
       "id": "Ghuraz",
       "tr": "Askeri Seferler"
@@ -344,8 +344,8 @@
     "name": {
       "en": "Virtues of Jihad",
       "ar-diacritics": "فضائل الجهاد",
-      "ur": "Virtues of Jihad",
-      "bn": "Virtues of Jihad",
+      "ur": "جہاد کی فضیلت",
+      "bn": "জিহাদের ফজিলত",
       "ar": "فضائل الجهاد",
       "id": "Fadilah Jihad",
       "tr": "Cihadın Faziletleri"
@@ -361,7 +361,7 @@
       "en": "Jihad",
       "ar-diacritics": "الجهاد",
       "ur": "جihad",
-      "bn": "Jihad",
+      "bn": "জিহাদ",
       "ar": "الجهاد",
       "id": "Jihad",
       "tr": "Cihad"
@@ -377,7 +377,7 @@
       "en": "Clothing",
       "ar-diacritics": "اللباس",
       "ur": "لباس",
-      "bn": "Clothing",
+      "bn": "পোশাক",
       "ar": "اللباس",
       "id": "Pakaian",
       "tr": "Giysiler"
@@ -392,8 +392,8 @@
     "name": {
       "en": "Food",
       "ar-diacritics": "الأطعمة",
-      "ur": "Food",
-      "bn": "Food",
+      "ur": "کھانے",
+      "bn": "খাদ্য",
       "ar": "الأطعمة",
       "id": "Makanan",
       "tr": "Yemek"
@@ -409,7 +409,7 @@
       "en": "Drinks",
       "ar-diacritics": "المشاربات",
       "ur": "مشروبات",
-      "bn": "Drinks",
+      "bn": "পানীয়",
       "ar": "المشاربات",
       "id": "Minuman",
       "tr": "İçecekler"
@@ -424,8 +424,8 @@
     "name": {
       "en": "Righteousness and Maintaining Family Ties",
       "ar-diacritics": "بر الوالدين",
-      "ur": "Righteousness and Maintaining Family Ties",
-      "bn": "Righteousness and Maintaining Family Ties",
+      "ur": "نیکی اور صلہ رحمی",
+      "bn": "সৎকর্ম ও আত্মীয়তার সম্পর্ক রক্ষা",
       "ar": "بر الوالدين",
       "id": "Birr wal Walidain",
       "tr": "İhsan ve Akraba Bağlarını Koruma"
@@ -441,7 +441,7 @@
       "en": "Medicine",
       "ar-diacritics": "الطب",
       "ur": "دوا",
-      "bn": "Medicine",
+      "bn": "ওষুধ",
       "ar": "الطب",
       "id": "Kedokteran",
       "tr": "Tıbb"
@@ -456,8 +456,8 @@
     "name": {
       "en": "Inheritance",
       "ar-diacritics": "الفرائض",
-      "ur": "Inheritance",
-      "bn": "Inheritance",
+      "ur": "وارثوں کے حصے",
+      "bn": "মিরাসের হিসাব",
       "ar": "الفرائض",
       "id": "Waris",
       "tr": "Miras"
@@ -472,8 +472,8 @@
     "name": {
       "en": "Wasaya (Wills and Testament)",
       "ar-diacritics": "الوصايا",
-      "ur": "Wasaya (Wills and Testament)",
-      "bn": "Wasaya (Wills and Testament)",
+      "ur": "وصیت",
+      "bn": "ওসিয়াত",
       "ar": "الوصايا",
       "id": "Wasiat",
       "tr": "Vasiyetname"
@@ -488,8 +488,8 @@
     "name": {
       "en": "Wala' And Gifts",
       "ar-diacritics": "الولاية والهبات",
-      "ur": "Wala' And Gifts",
-      "bn": "Wala' And Gifts",
+      "ur": "ولاء اور ہبہ",
+      "bn": "ওয়ালা ও উপহার",
       "ar": "الولاية والهبات",
       "id": "Wala' dan Hadiah",
       "tr": "Vela ve Hediye"
@@ -504,8 +504,8 @@
     "name": {
       "en": "Destiny",
       "ar-diacritics": "القدر",
-      "ur": "Destiny",
-      "bn": "Destiny",
+      "ur": "تقدیر",
+      "bn": "তাকদীর",
       "ar": "القدر",
       "id": "Qada dan Qadar",
       "tr": "Kader"
@@ -520,8 +520,8 @@
     "name": {
       "en": "Trials and Tribulations",
       "ar-diacritics": "الفتن",
-      "ur": "Trials and Tribulations",
-      "bn": "Trials and Tribulations",
+      "ur": "آزمائشیں",
+      "bn": "ফিতনা",
       "ar": "الفتن",
       "id": "Fitnah",
       "tr": "İmtihanlar ve Musibetler"
@@ -536,8 +536,8 @@
     "name": {
       "en": "Dreams",
       "ar-diacritics": "الأحلام",
-      "ur": "Dreams",
-      "bn": "Dreams",
+      "ur": "خواب",
+      "bn": "স্বপ্ন",
       "ar": "الأحلام",
       "id": "Mimpi",
       "tr": "Rüyalar"
@@ -552,8 +552,8 @@
     "name": {
       "en": "Witnesses",
       "ar-diacritics": "الشهادات",
-      "ur": "Witnesses",
-      "bn": "Witnesses",
+      "ur": "گواہ",
+      "bn": "সাক্ষী",
       "ar": "الشهادات",
       "id": "Saksi",
       "tr": "Şahitler"
@@ -568,8 +568,8 @@
     "name": {
       "en": "Asceticism",
       "ar-diacritics": "الزهد",
-      "ur": "Asceticism",
-      "bn": "Asceticism",
+      "ur": "زہد",
+      "bn": "জুহদ",
       "ar": "الزهد",
       "id": "Zuhud",
       "tr": "Zühd"
@@ -584,8 +584,8 @@
     "name": {
       "en": "The description of the Day of Judgement, Softening of Hearts (Riqāq), and Scrupulousness (Waraʿ)",
       "ar-diacritics": "صفة القيامة والرقائق والورع",
-      "ur": "The description of the Day of Judgement, Softening of Hearts (Riqāq), and Scrupulousness (Waraʿ)",
-      "bn": "The description of the Day of Judgement, Softening of Hearts (Riqāq), and Scrupulousness (Waraʿ)",
+      "ur": "قیامت کا بیان، رقاق اور ورع",
+      "bn": "কিয়ামতের বিবরণ, হৃদয়দ্রাবক বর্ণনা ও ওয়ারাআ",
       "ar": "صفة القيامة والرقائق والورع",
       "id": "Kiamat, Riqāq, dan Wara'",
       "tr": "Kıyamet Günü, Kalpleri Yumuşatma (Rika) ve Dikkatli Olma (Vera')"
@@ -600,8 +600,8 @@
     "name": {
       "en": "The description of Paradise",
       "ar-diacritics": "صفة الجنة",
-      "ur": "The description of Paradise",
-      "bn": "The description of Paradise",
+      "ur": "جنت کا بیان",
+      "bn": "জান্নাতের বিবরণ",
       "ar": "صفة الجنة",
       "id": "Deskripsi Surga",
       "tr": "Cennetin Tasviri"
@@ -616,8 +616,8 @@
     "name": {
       "en": "The Description of Hellfire",
       "ar-diacritics": "صفة النار",
-      "ur": "The Description of Hellfire",
-      "bn": "The Description of Hellfire",
+      "ur": "دوزخ کا بیان",
+      "bn": "জাহান্নামের বিবরণ",
       "ar": "صفة النار",
       "id": "Deskripsi Neraka",
       "tr": "Cehennem Ateşi'nin Tasviri"
@@ -632,8 +632,8 @@
     "name": {
       "en": "Faith",
       "ar-diacritics": "الإيمان",
-      "ur": "Faith",
-      "bn": "Faith",
+      "ur": "ایمان",
+      "bn": "ঈমান",
       "ar": "الإيمان",
       "id": "Iman",
       "tr": "İman"
@@ -649,7 +649,7 @@
       "en": "Knowledge",
       "ar-diacritics": "العلم",
       "ur": "علم",
-      "bn": "Knowledge",
+      "bn": "জ্ঞান",
       "ar": "العلم",
       "id": "Pengetahuan",
       "tr": "Bilgi"
@@ -664,8 +664,8 @@
     "name": {
       "en": "Seeking Permission",
       "ar-diacritics": "استئذان",
-      "ur": "Seeking Permission",
-      "bn": "Seeking Permission",
+      "ur": "اجازت طلب کرنا",
+      "bn": "অনুমতি প্রার্থনা",
       "ar": "استئذان",
       "id": "Meminta Izin",
       "tr": "İzin İste"
@@ -680,8 +680,8 @@
     "name": {
       "en": "Manners",
       "ar-diacritics": "الآداب",
-      "ur": "Manners",
-      "bn": "Manners",
+      "ur": "عام اخلاق",
+      "bn": "সাধারণ আচরণ",
       "ar": "الآداب",
       "id": "Adab",
       "tr": "Ahlak"
@@ -696,8 +696,8 @@
     "name": {
       "en": "Parables",
       "ar-diacritics": "الأمثال",
-      "ur": "Parables",
-      "bn": "Parables",
+      "ur": "امثال",
+      "bn": "উপমা",
       "ar": "الأمثال",
       "id": "Perumpamaan",
       "tr": "Öğütler"
@@ -712,8 +712,8 @@
     "name": {
       "en": "Virtues of the Qur'an",
       "ar-diacritics": "فضائل القرآن",
-      "ur": "Virtues of the Qur'an",
-      "bn": "Virtues of the Qur'an",
+      "ur": "فضائل قرآن",
+      "bn": "কুরআনের ফজিলত",
       "ar": "فضائل القرآن",
       "id": "Fadilah Qur'an",
       "tr": "Kur'an'ın Fazileti"
@@ -728,8 +728,8 @@
     "name": {
       "en": "Recitation",
       "ar-diacritics": "التلاوة",
-      "ur": "Recitation",
-      "bn": "Recitation",
+      "ur": "تلاوت",
+      "bn": "তিলাওয়াত",
       "ar": "التلاوة",
       "id": "Tilawah",
       "tr": "Tilavet"
@@ -744,8 +744,8 @@
     "name": {
       "en": "Exegesis",
       "ar-diacritics": "التفسير",
-      "ur": "Exegesis",
-      "bn": "Exegesis",
+      "ur": "تفسیر نبوی",
+      "bn": "তাফসীর",
       "ar": "التفسير",
       "id": "Tafsir",
       "tr": "Tefsir"
@@ -760,8 +760,8 @@
     "name": {
       "en": "Supplication",
       "ar-diacritics": "الدعاء",
-      "ur": "Supplication",
-      "bn": "Supplication",
+      "ur": "دعا",
+      "bn": "দোয়া",
       "ar": "الدعاء",
       "id": "Doa",
       "tr": "Dua"
@@ -776,8 +776,8 @@
     "name": {
       "en": "Merits and Virtues",
       "ar-diacritics": "الفضائل",
-      "ur": "Merits and Virtues",
-      "bn": "Merits and Virtues",
+      "ur": "فضائل و مناقب",
+      "bn": "ফজিলত",
       "ar": "الفضائل",
       "id": "Fadilah",
       "tr": "Faziletler ve Erdemler"

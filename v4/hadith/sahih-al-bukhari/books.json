@@ -8,13 +8,13 @@
     "name": {
       "tr": "Vahiy",
       "en": "Revelation",
-      "bn": "Revelation",
-      "ar-diacritics": "Revelation",
-      "ta": "Revelation",
-      "ur": "Revelation",
-      "id": "Revelation",
-      "fr": "Revelation",
-      "ar": "Revelation"
+      "bn": "ওহী",
+      "ar-diacritics": "الْوَحْيُ",
+      "ta": "வஹீ",
+      "ur": "وحی",
+      "id": "Wahyu",
+      "fr": "La Révélation",
+      "ar": "الوحي"
     }
   },
   {
@@ -26,13 +26,13 @@
     "name": {
       "tr": "İman",
       "en": "Belief",
-      "bn": "Belief",
-      "ar-diacritics": "Belief",
-      "ta": "Belief",
-      "ur": "Belief",
-      "id": "Belief",
-      "fr": "Belief",
-      "ar": "Belief"
+      "bn": "ঈমান",
+      "ar-diacritics": "الْإِيمَانُ",
+      "ta": "ஈமான்",
+      "ur": "ایمان",
+      "id": "Iman",
+      "fr": "La Foi",
+      "ar": "الإيمان"
     }
   },
   {
@@ -44,12 +44,12 @@
     "name": {
       "tr": "Bilgi",
       "en": "Knowledge",
-      "bn": "Knowledge",
+      "bn": "জ্ঞান",
       "ar-diacritics": "العلم",
-      "ta": "Knowledge",
-      "ur": "Knowledge",
-      "id": "Knowledge",
-      "fr": "Knowledge",
+      "ta": "ஞானம்",
+      "ur": "علم",
+      "id": "Pengetahuan",
+      "fr": "La Connaissance",
       "ar": "العلم"
     }
   },
@@ -62,13 +62,13 @@
     "name": {
       "tr": "Abdest",
       "en": "Ablutions (Wudu')",
-      "bn": "Ablutions (Wudu')",
-      "ar-diacritics": "Ablutions (Wudu')",
-      "ta": "Ablutions (Wudu')",
-      "ur": "Ablutions (Wudu')",
-      "id": "Ablutions (Wudu')",
-      "fr": "Ablutions (Wudu')",
-      "ar": "Ablutions (Wudu')"
+      "bn": "ওযু",
+      "ar-diacritics": "الْوُضُوءُ",
+      "ta": "உளூ",
+      "ur": "وضو",
+      "id": "Wudhu",
+      "fr": "Les Ablutions",
+      "ar": "الوضوء"
     }
   },
   {
@@ -80,13 +80,13 @@
     "name": {
       "tr": "Gusül",
       "en": "Bathing (Ghusl)",
-      "bn": "Bathing (Ghusl)",
-      "ar-diacritics": "Bathing (Ghusl)",
-      "ta": "Bathing (Ghusl)",
-      "ur": "Bathing (Ghusl)",
-      "id": "Bathing (Ghusl)",
-      "fr": "Bathing (Ghusl)",
-      "ar": "Bathing (Ghusl)"
+      "bn": "গোসল",
+      "ar-diacritics": "الْغُسْلُ",
+      "ta": "குஸ்ல்",
+      "ur": "غسل",
+      "id": "Mandi Junub",
+      "fr": "Le Ghousl",
+      "ar": "الغسل"
     }
   },
   {
@@ -98,13 +98,13 @@
     "name": {
       "tr": "Hâiz",
       "en": "Menstrual Periods",
-      "bn": "Menstrual Periods",
-      "ar-diacritics": "Menstrual Periods",
-      "ta": "Menstrual Periods",
-      "ur": "Menstrual Periods",
-      "id": "Menstrual Periods",
-      "fr": "Menstrual Periods",
-      "ar": "Menstrual Periods"
+      "bn": "হায়েজ",
+      "ar-diacritics": "الْحَيْضُ",
+      "ta": "மாதவிடாய்",
+      "ur": "حیض",
+      "id": "Haid",
+      "fr": "Les Règles",
+      "ar": "الحيض"
     }
   },
   {
@@ -116,13 +116,13 @@
     "name": {
       "tr": "Tayammum",
       "en": "Rubbing hands and feet with dust (Tayammum)",
-      "bn": "Rubbing hands and feet with dust (Tayammum)",
-      "ar-diacritics": "Rubbing hands and feet with dust (Tayammum)",
-      "ta": "Rubbing hands and feet with dust (Tayammum)",
-      "ur": "Rubbing hands and feet with dust (Tayammum)",
-      "id": "Rubbing hands and feet with dust (Tayammum)",
-      "fr": "Rubbing hands and feet with dust (Tayammum)",
-      "ar": "Rubbing hands and feet with dust (Tayammum)"
+      "bn": "তায়াম্মুম",
+      "ar-diacritics": "التَّيَمُّمُ",
+      "ta": "தயம்மும்",
+      "ur": "تیمم",
+      "id": "Tayammum",
+      "fr": "Le Tayammoum",
+      "ar": "التيمم"
     }
   },
   {
@@ -134,13 +134,13 @@
     "name": {
       "tr": "Namaz",
       "en": "Prayers (Salat)",
-      "bn": "Prayers (Salat)",
-      "ar-diacritics": "Prayers (Salat)",
-      "ta": "Prayers (Salat)",
-      "ur": "Prayers (Salat)",
-      "id": "Prayers (Salat)",
-      "fr": "Prayers (Salat)",
-      "ar": "Prayers (Salat)"
+      "bn": "সালাত",
+      "ar-diacritics": "الصَّلَاةُ",
+      "ta": "தொழுகை",
+      "ur": "نماز",
+      "id": "Salat",
+      "fr": "La Prière",
+      "ar": "الصلاة"
     }
   },
   {
@@ -152,13 +152,13 @@
     "name": {
       "tr": "Namaz Vakitleri",
       "en": "Times of the Prayers",
-      "bn": "Times of the Prayers",
-      "ar-diacritics": "Times of the Prayers",
-      "ta": "Times of the Prayers",
-      "ur": "Times of the Prayers",
-      "id": "Times of the Prayers",
-      "fr": "Times of the Prayers",
-      "ar": "Times of the Prayers"
+      "bn": "সালাতের সময়সমূহ",
+      "ar-diacritics": "مَوَاقِيتُ الصَّلَاةِ",
+      "ta": "தொழுகை நேரங்கள்",
+      "ur": "اوقات نماز",
+      "id": "Waktu-waktu Salat",
+      "fr": "Les Temps des Prières",
+      "ar": "مواقيت الصلاة"
     }
   },
   {
@@ -170,13 +170,13 @@
     "name": {
       "tr": "Ezan",
       "en": "Call to Prayers (Adhaan)",
-      "bn": "Call to Prayers (Adhaan)",
-      "ar-diacritics": "Call to Prayers (Adhaan)",
-      "ta": "Call to Prayers (Adhaan)",
-      "ur": "Call to Prayers (Adhaan)",
-      "id": "Call to Prayers (Adhaan)",
-      "fr": "Call to Prayers (Adhaan)",
-      "ar": "Call to Prayers (Adhaan)"
+      "bn": "আযান",
+      "ar-diacritics": "الْأَذَانُ",
+      "ta": "பாங்கு",
+      "ur": "اذان",
+      "id": "Adzan",
+      "fr": "L'Appel à la Prière",
+      "ar": "الأذان"
     }
   },
   {
@@ -188,13 +188,13 @@
     "name": {
       "tr": "Cuma Namazı",
       "en": "Friday Prayer",
-      "bn": "Friday Prayer",
-      "ar-diacritics": "Friday Prayer",
-      "ta": "Friday Prayer",
-      "ur": "Friday Prayer",
-      "id": "Friday Prayer",
-      "fr": "Friday Prayer",
-      "ar": "Friday Prayer"
+      "bn": "জুমুআর সালাত",
+      "ar-diacritics": "صَلَاةُ الْجُمُعَةِ",
+      "ta": "வெள்ளிக்கிழமை தொழுகை",
+      "ur": "جمعہ کی نماز",
+      "id": "Salat Jumat",
+      "fr": "La prière du vendredi",
+      "ar": "صلاة الجمعة"
     }
   },
   {
@@ -206,13 +206,13 @@
     "name": {
       "tr": "Hürre Namazı",
       "en": "Fear Prayer",
-      "bn": "Fear Prayer",
-      "ar-diacritics": "Fear Prayer",
-      "ta": "Fear Prayer",
-      "ur": "Fear Prayer",
-      "id": "Fear Prayer",
-      "fr": "Fear Prayer",
-      "ar": "Fear Prayer"
+      "bn": "ভয়ের সালাত",
+      "ar-diacritics": "صَلَاةُ الْخَوْفِ",
+      "ta": "அச்சத் தொழுகை",
+      "ur": "نماز خوف",
+      "id": "Salat Khauf",
+      "fr": "La Prière de la Peur",
+      "ar": "صلاة الخوف"
     }
   },
   {
@@ -224,13 +224,13 @@
     "name": {
       "tr": "İki Bayram",
       "en": "The Two Festivals (Eids)",
-      "bn": "The Two Festivals (Eids)",
-      "ar-diacritics": "The Two Festivals (Eids)",
-      "ta": "The Two Festivals (Eids)",
-      "ur": "The Two Festivals (Eids)",
-      "id": "The Two Festivals (Eids)",
-      "fr": "The Two Festivals (Eids)",
-      "ar": "The Two Festivals (Eids)"
+      "bn": "দুই ঈদ",
+      "ar-diacritics": "الْعِيدَانِ",
+      "ta": "இரண்டு பெருநாட்கள்",
+      "ur": "عیدین",
+      "id": "Dua Hari Raya",
+      "fr": "Les Deux Fêtes",
+      "ar": "العيدان"
     }
   },
   {
@@ -242,13 +242,13 @@
     "name": {
       "tr": "Vitr Namazı",
       "en": "Witr Prayer",
-      "bn": "Witr Prayer",
-      "ar-diacritics": "Witr Prayer",
-      "ta": "Witr Prayer",
-      "ur": "Witr Prayer",
-      "id": "Witr Prayer",
-      "fr": "Witr Prayer",
-      "ar": "Witr Prayer"
+      "bn": "বিতরের নামাজ",
+      "ar-diacritics": "الْوِتْرُ",
+      "ta": "வித்ர் தொழுகை",
+      "ur": "نماز وتر",
+      "id": "Salat Witir",
+      "fr": "La Prière du Witr",
+      "ar": "الوتر"
     }
   },
   {
@@ -260,13 +260,13 @@
     "name": {
       "tr": "Yağmur Duası",
       "en": "Invoking Allah for Rain (Istisqaa)",
-      "bn": "Invoking Allah for Rain (Istisqaa)",
-      "ar-diacritics": "Invoking Allah for Rain (Istisqaa)",
-      "ta": "Invoking Allah for Rain (Istisqaa)",
-      "ur": "Invoking Allah for Rain (Istisqaa)",
-      "id": "Invoking Allah for Rain (Istisqaa)",
-      "fr": "Invoking Allah for Rain (Istisqaa)",
-      "ar": "Invoking Allah for Rain (Istisqaa)"
+      "bn": "ইস্তিস্কা",
+      "ar-diacritics": "الِاسْتِسْقَاءُ",
+      "ta": "மழை வேண்டல்",
+      "ur": "استسقاء",
+      "id": "Salat Istisqa",
+      "fr": "La Prière pour la Pluie",
+      "ar": "الاستسقاء"
     }
   },
   {
@@ -278,13 +278,13 @@
     "name": {
       "tr": "Güneş ve Ay Tutulmaları",
       "en": "Eclipses",
-      "bn": "Eclipses",
-      "ar-diacritics": "Eclipses",
-      "ta": "Eclipses",
-      "ur": "Eclipses",
-      "id": "Eclipses",
-      "fr": "Eclipses",
-      "ar": "Eclipses"
+      "bn": "গ্রহণ",
+      "ar-diacritics": "الْكُسُوفُ",
+      "ta": "கிரகணங்கள்",
+      "ur": "خسوف و خسوف",
+      "id": "Gerhana",
+      "fr": "Les éclipses",
+      "ar": "الكسوف"
     }
   },
   {
@@ -296,13 +296,13 @@
     "name": {
       "tr": "Kur'an Okurken Secde",
       "en": "Prostration During Recital of Qur'an",
-      "bn": "Prostration During Recital of Qur'an",
-      "ar-diacritics": "Prostration During Recital of Qur'an",
-      "ta": "Prostration During Recital of Qur'an",
-      "ur": "Prostration During Recital of Qur'an",
-      "id": "Prostration During Recital of Qur'an",
-      "fr": "Prostration During Recital of Qur'an",
-      "ar": "Prostration During Recital of Qur'an"
+      "bn": "তিলাওয়াতের সিজদা",
+      "ar-diacritics": "سُجُودُ الْقُرْآنِ",
+      "ta": "குர்ஆன் ஓதலின் போது சஜ்தா",
+      "ur": "سجود تلاوت",
+      "id": "Sujud Tilawah",
+      "fr": "La Prosternation pendant la Récitation du Coran",
+      "ar": "سجود القرآن"
     }
   },
   {
@@ -314,13 +314,13 @@
     "name": {
       "tr": "Kısaltılan Namazlar",
       "en": "Shortening the Prayers (At-Taqseer)",
-      "bn": "Shortening the Prayers (At-Taqseer)",
-      "ar-diacritics": "Shortening the Prayers (At-Taqseer)",
-      "ta": "Shortening the Prayers (At-Taqseer)",
-      "ur": "Shortening the Prayers (At-Taqseer)",
-      "id": "Shortening the Prayers (At-Taqseer)",
-      "fr": "Shortening the Prayers (At-Taqseer)",
-      "ar": "Shortening the Prayers (At-Taqseer)"
+      "bn": "সালাত কসর",
+      "ar-diacritics": "تَقْصِيرُ الصَّلَاةِ",
+      "ta": "தொழுகையை சுருக்குதல்",
+      "ur": "قصر نماز",
+      "id": "Qasar Salat",
+      "fr": "Le Raccourcissement de la Prière",
+      "ar": "تقصير الصلاة"
     }
   },
   {
@@ -332,13 +332,13 @@
     "name": {
       "tr": "Gece Namazı",
       "en": "Prayer at Night (Tahajjud)",
-      "bn": "Prayer at Night (Tahajjud)",
-      "ar-diacritics": "Prayer at Night (Tahajjud)",
-      "ta": "Prayer at Night (Tahajjud)",
-      "ur": "Prayer at Night (Tahajjud)",
-      "id": "Prayer at Night (Tahajjud)",
-      "fr": "Prayer at Night (Tahajjud)",
-      "ar": "Prayer at Night (Tahajjud)"
+      "bn": "তাহাজ্জুদ",
+      "ar-diacritics": "التَّهَجُّدُ",
+      "ta": "தஹাজ্জுத்",
+      "ur": "تہجد",
+      "id": "Salat Tahajud",
+      "fr": "La Prière Nocturne",
+      "ar": "تهجد"
     }
   },
   {
@@ -350,13 +350,13 @@
     "name": {
       "tr": "Mekke ve Medine Camilerinde Kılınan Namazların Fazileti",
       "en": "Virtues of Prayer at Masjid Makkah and Madinah",
-      "bn": "Virtues of Prayer at Masjid Makkah and Madinah",
-      "ar-diacritics": "Virtues of Prayer at Masjid Makkah and Madinah",
-      "ta": "Virtues of Prayer at Masjid Makkah and Madinah",
-      "ur": "Virtues of Prayer at Masjid Makkah and Madinah",
-      "id": "Virtues of Prayer at Masjid Makkah and Madinah",
-      "fr": "Virtues of Prayer at Masjid Makkah and Madinah",
-      "ar": "Virtues of Prayer at Masjid Makkah and Madinah"
+      "bn": "মসজিদে মক্কা ও মদিনায় সালাতের ফজিলত",
+      "ar-diacritics": "فَضْلُ الصَّلَاةِ فِي مَسْجِدِ مَكَّةَ وَالْمَدِينَةِ",
+      "ta": "மக்கா மற்றும் மதீனா பள்ளிவாசல்களில் தொழுகையின் சிறப்புகள்",
+      "ur": "مسجد مکہ و مدینہ میں نماز کی فضیلت",
+      "id": "Keutamaan Salat di Masjid Makkah dan Madinah",
+      "fr": "Les Mérites de la Prière à la Mosquée de Makkah et Médine",
+      "ar": "فضل الصلاة في مسجد مكة والمدينة"
     }
   },
   {
@@ -368,13 +368,13 @@
     "name": {
       "tr": "Namazda Yapılan Hareketler",
       "en": "Actions while Praying",
-      "bn": "Actions while Praying",
-      "ar-diacritics": "Actions while Praying",
-      "ta": "Actions while Praying",
-      "ur": "Actions while Praying",
-      "id": "Actions while Praying",
-      "fr": "Actions while Praying",
-      "ar": "Actions while Praying"
+      "bn": "সালাতে কাজকর্ম",
+      "ar-diacritics": "الْعَمَلُ فِي الصَّلَاةِ",
+      "ta": "தொழுகையில் செயல்கள்",
+      "ur": "نماز میں کام",
+      "id": "Amalan dalam Salat",
+      "fr": "Les Actions dans la Prière",
+      "ar": "العمل في الصلاة"
     }
   },
   {
@@ -386,12 +386,12 @@
     "name": {
       "tr": "Namazda Unutkanlık",
       "en": "Forgetfulness in Prayer",
-      "bn": "Forgetfulness in Prayer",
+      "bn": "সালাতে ভুলে যাওয়া",
       "ar-diacritics": "النسيان في الصلاة",
-      "ta": "Forgetfulness in Prayer",
-      "ur": "Forgetfulness in Prayer",
-      "id": "Forgetfulness in Prayer",
-      "fr": "Forgetfulness in Prayer",
+      "ta": "தொழுகையில் மறதி",
+      "ur": "نماز میں بھول",
+      "id": "Lupa dalam Salat",
+      "fr": "L'Oubli dans la Prière",
       "ar": "النسيان في الصلاة"
     }
   },
@@ -404,13 +404,13 @@
     "name": {
       "tr": "Cenazeler",
       "en": "Funerals (Al-Janaa'iz)",
-      "bn": "Funerals (Al-Janaa'iz)",
-      "ar-diacritics": "Funerals (Al-Janaa'iz)",
-      "ta": "Funerals (Al-Janaa'iz)",
-      "ur": "Funerals (Al-Janaa'iz)",
-      "id": "Funerals (Al-Janaa'iz)",
-      "fr": "Funerals (Al-Janaa'iz)",
-      "ar": "Funerals (Al-Janaa'iz)"
+      "bn": "জানাজার নামাজ",
+      "ar-diacritics": "الْجَنَائِزُ",
+      "ta": "ஜனாஸா",
+      "ur": "جنازہ",
+      "id": "Pemakaman",
+      "fr": "Les Obsèques",
+      "ar": "الجنائز"
     }
   },
   {
@@ -422,13 +422,13 @@
     "name": {
       "tr": "Zekât",
       "en": "Obligatory Charity Tax (Zakat)",
-      "bn": "Obligatory Charity Tax (Zakat)",
-      "ar-diacritics": "Obligatory Charity Tax (Zakat)",
-      "ta": "Obligatory Charity Tax (Zakat)",
-      "ur": "Obligatory Charity Tax (Zakat)",
-      "id": "Obligatory Charity Tax (Zakat)",
-      "fr": "Obligatory Charity Tax (Zakat)",
-      "ar": "Obligatory Charity Tax (Zakat)"
+      "bn": "যাকাত",
+      "ar-diacritics": "الزَّكَاةُ",
+      "ta": "ஸகாத்",
+      "ur": "زکاۃ",
+      "id": "Zakat",
+      "fr": "La Zakat",
+      "ar": "الزكاة"
     }
   },
   {
@@ -440,13 +440,13 @@
     "name": {
       "tr": "Hac",
       "en": "Hajj (Pilgrimage)",
-      "bn": "Hajj (Pilgrimage)",
-      "ar-diacritics": "Hajj (Pilgrimage)",
-      "ta": "Hajj (Pilgrimage)",
-      "ur": "Hajj (Pilgrimage)",
-      "id": "Hajj (Pilgrimage)",
-      "fr": "Hajj (Pilgrimage)",
-      "ar": "Hajj (Pilgrimage)"
+      "bn": "হজ্জ",
+      "ar-diacritics": "الْحَجُّ",
+      "ta": "ஹஜ்",
+      "ur": "حج",
+      "id": "Haji",
+      "fr": "Le Pèlerinage",
+      "ar": "الحج"
     }
   },
   {
@@ -458,13 +458,13 @@
     "name": {
       "tr": "Umre",
       "en": "`Umrah (Minor pilgrimage)",
-      "bn": "`Umrah (Minor pilgrimage)",
-      "ar-diacritics": "`Umrah (Minor pilgrimage)",
-      "ta": "`Umrah (Minor pilgrimage)",
-      "ur": "`Umrah (Minor pilgrimage)",
-      "id": "`Umrah (Minor pilgrimage)",
-      "fr": "`Umrah (Minor pilgrimage)",
-      "ar": "`Umrah (Minor pilgrimage)"
+      "bn": "উমরা",
+      "ar-diacritics": "الْعُمْرَةُ",
+      "ta": "உம்றா",
+      "ur": "عمرہ",
+      "id": "Umrah",
+      "fr": "La Omra",
+      "ar": "العمرة"
     }
   },
   {
@@ -476,13 +476,13 @@
     "name": {
       "tr": "Hacdan Dönenler",
       "en": "Pilgrims Prevented from Completing the Pilgrimage",
-      "bn": "Pilgrims Prevented from Completing the Pilgrimage",
-      "ar-diacritics": "Pilgrims Prevented from Completing the Pilgrimage",
-      "ta": "Pilgrims Prevented from Completing the Pilgrimage",
-      "ur": "Pilgrims Prevented from Completing the Pilgrimage",
-      "id": "Pilgrims Prevented from Completing the Pilgrimage",
-      "fr": "Pilgrims Prevented from Completing the Pilgrimage",
-      "ar": "Pilgrims Prevented from Completing the Pilgrimage"
+      "bn": "হজ্জ থেকে বাধাপ্রাপ্ত",
+      "ar-diacritics": "الْحَصْرُ",
+      "ta": "ஹஜ்ஜை முடிக்க தடுக்கப்பட்டோர்",
+      "ur": "حج سے روکے گئے",
+      "id": "Halangan Haji",
+      "fr": "Les Pèlerins Empêchés d'Accomplir le Pèlerinage",
+      "ar": "الحصر"
     }
   },
   {
@@ -494,13 +494,13 @@
     "name": {
       "tr": "Haccda Avlanmanın Cezası",
       "en": "Penalty of Hunting while on Pilgrimage",
-      "bn": "Penalty of Hunting while on Pilgrimage",
-      "ar-diacritics": "Penalty of Hunting while on Pilgrimage",
-      "ta": "Penalty of Hunting while on Pilgrimage",
-      "ur": "Penalty of Hunting while on Pilgrimage",
-      "id": "Penalty of Hunting while on Pilgrimage",
-      "fr": "Penalty of Hunting while on Pilgrimage",
-      "ar": "Penalty of Hunting while on Pilgrimage"
+      "bn": "ইহরাম অবস্থায় শিকারের শাস্তি",
+      "ar-diacritics": "جَزَاءُ الصَّيْدِ",
+      "ta": "ஹஜ்ஜில் வேட்டையாடுதற்கான தண்டம்",
+      "ur": "احرام میں شکار کا کفارہ",
+      "id": "Denda Berburu saat Haji",
+      "fr": "La Sanction de la Chasse en Pèlerinage",
+      "ar": "جزاء الصيد"
     }
   },
   {
@@ -512,13 +512,13 @@
     "name": {
       "tr": "Medine'nin Fazileti",
       "en": "Virtues of Madinah",
-      "bn": "Virtues of Madinah",
-      "ar-diacritics": "Virtues of Madinah",
-      "ta": "Virtues of Madinah",
-      "ur": "Virtues of Madinah",
-      "id": "Virtues of Madinah",
-      "fr": "Virtues of Madinah",
-      "ar": "Virtues of Madinah"
+      "bn": "মদিনার ফজিলত",
+      "ar-diacritics": "فَضْلُ الْمَدِينَةِ",
+      "ta": "மதீனாவின் சிறப்புகள்",
+      "ur": "مدینہ کی فضیلت",
+      "id": "Keutamaan Madinah",
+      "fr": "Les Mérites de Médine",
+      "ar": "فضل المدينة"
     }
   },
   {
@@ -530,12 +530,12 @@
     "name": {
       "tr": "Oruç",
       "en": "Fasting",
-      "bn": "Fasting",
+      "bn": "সিয়াম",
       "ar-diacritics": "الصوم",
-      "ta": "Fasting",
-      "ur": "Fasting",
-      "id": "Fasting",
-      "fr": "Fasting",
+      "ta": "நோன்பு",
+      "ur": "روزہ",
+      "id": "Puasa",
+      "fr": "Le Jeûne",
       "ar": "الصوم"
     }
   },
@@ -548,13 +548,13 @@
     "name": {
       "tr": "Ramazan'da Teravih Namazı",
       "en": "Praying at Night in Ramadaan (Taraweeh)",
-      "bn": "Praying at Night in Ramadaan (Taraweeh)",
-      "ar-diacritics": "Praying at Night in Ramadaan (Taraweeh)",
-      "ta": "Praying at Night in Ramadaan (Taraweeh)",
-      "ur": "Praying at Night in Ramadaan (Taraweeh)",
-      "id": "Praying at Night in Ramadaan (Taraweeh)",
-      "fr": "Praying at Night in Ramadaan (Taraweeh)",
-      "ar": "Praying at Night in Ramadaan (Taraweeh)"
+      "bn": "তারাবীহ",
+      "ar-diacritics": "صَلَاةُ التَّرَاوِيحِ",
+      "ta": "தராவீஹ்",
+      "ur": "تراویح",
+      "id": "Salat Tarawih",
+      "fr": "La Prière de Taraweeh",
+      "ar": "صلاة التراويح"
     }
   },
   {
@@ -566,13 +566,13 @@
     "name": {
       "tr": "Kadir Gecesi'nin Fazileti",
       "en": "Virtues of the Night of Qadr",
-      "bn": "Virtues of the Night of Qadr",
-      "ar-diacritics": "Virtues of the Night of Qadr",
-      "ta": "Virtues of the Night of Qadr",
-      "ur": "Virtues of the Night of Qadr",
-      "id": "Virtues of the Night of Qadr",
-      "fr": "Virtues of the Night of Qadr",
-      "ar": "Virtues of the Night of Qadr"
+      "bn": "লাইলাতুল কদরের ফজিলত",
+      "ar-diacritics": "فَضْلُ لَيْلَةِ الْقَدْرِ",
+      "ta": "லைலத்துல் கத்ரின் சிறப்புகள்",
+      "ur": "لیلۃ القدر کی فضیلت",
+      "id": "Keutamaan Malam Lailatul Qadar",
+      "fr": "Les Mérites de la Nuit du Destin",
+      "ar": "فضل ليلة القدر"
     }
   },
   {
@@ -584,13 +584,13 @@
     "name": {
       "tr": "Itikâf",
       "en": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
-      "bn": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
-      "ar-diacritics": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
-      "ta": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
-      "ur": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
-      "id": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
-      "fr": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
-      "ar": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)"
+      "bn": "ইতিকাফ",
+      "ar-diacritics": "الِاعْتِكَافُ",
+      "ta": "இஃதிகாஃப்",
+      "ur": "اعتکاف",
+      "id": "Itikaf",
+      "fr": "La Retraite Spirituelle",
+      "ar": "الاعتكاف"
     }
   },
   {
@@ -602,13 +602,13 @@
     "name": {
       "tr": "Alışveriş ve Ticaret",
       "en": "Sales and Trade",
-      "bn": "Sales and Trade",
-      "ar-diacritics": "Sales and Trade",
-      "ta": "Sales and Trade",
-      "ur": "Sales and Trade",
-      "id": "Sales and Trade",
-      "fr": "Sales and Trade",
-      "ar": "Sales and Trade"
+      "bn": "ক্রয়-বিক্রয় ও ব্যবসা",
+      "ar-diacritics": "الْبَيْعُ وَالشِّرَاءُ",
+      "ta": "விற்பனை மற்றும் வர்த்தகம்",
+      "ur": "خرید و فروخت اور تجارت",
+      "id": "Jual Beli dan Perdagangan",
+      "fr": "Les Ventes et le Commerce",
+      "ar": "البيع والشراء"
     }
   },
   {
@@ -620,13 +620,13 @@
     "name": {
       "tr": "Salam Satışı",
       "en": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
-      "bn": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
-      "ar-diacritics": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
-      "ta": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
-      "ur": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
-      "id": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
-      "fr": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
-      "ar": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)"
+      "bn": "সালাম (পূর্বমূল্যে পণ্য)",
+      "ar-diacritics": "السَّلَمُ",
+      "ta": "சலம் (முன்பண விற்பனை)",
+      "ur": "بیع سلم",
+      "id": "Jual Beli Salam",
+      "fr": "La Vente à Terme",
+      "ar": "السلم"
     }
   },
   {
@@ -638,13 +638,13 @@
     "name": {
       "tr": "Şufa",
       "en": "Preemption",
-      "bn": "Preemption",
-      "ar-diacritics": "Preemption",
-      "ta": "Preemption",
-      "ur": "Preemption",
-      "id": "Preemption",
-      "fr": "Preemption",
-      "ar": "Preemption"
+      "bn": "শুফআ",
+      "ar-diacritics": "الشُّفْعَةُ",
+      "ta": "முன்னுரிமை உரிமை",
+      "ur": "شفعہ",
+      "id": "Syuf'ah",
+      "fr": "Le Droit de Préemption",
+      "ar": "الشفعة"
     }
   },
   {
@@ -656,13 +656,13 @@
     "name": {
       "tr": "Kirala",
       "en": "Hiring",
-      "bn": "Hiring",
-      "ar-diacritics": "Hiring",
-      "ta": "Hiring",
-      "ur": "Hiring",
-      "id": "Hiring",
-      "fr": "Hiring",
-      "ar": "Hiring"
+      "bn": "ভাড়া",
+      "ar-diacritics": "الْإِجَارَةُ",
+      "ta": "கூலி",
+      "ur": "اجارہ",
+      "id": "Upah",
+      "fr": "La Location",
+      "ar": "الإجارة"
     }
   },
   {
@@ -674,13 +674,13 @@
     "name": {
       "tr": "Havale",
       "en": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
-      "bn": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
-      "ar-diacritics": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
-      "ta": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
-      "ur": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
-      "id": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
-      "fr": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
-      "ar": "Transferance of a Debt from One Person to Another (Al-Hawaala)"
+      "bn": "হাওয়ালা",
+      "ar-diacritics": "الْحَوَالَةُ",
+      "ta": "கடன் மாற்றல்",
+      "ur": "حوالہ",
+      "id": "Hawalah",
+      "fr": "Le Transfert de Dette",
+      "ar": "الحوالة"
     }
   },
   {
@@ -692,13 +692,13 @@
     "name": {
       "tr": "Kefil",
       "en": "Guarantee",
-      "bn": "Guarantee",
-      "ar-diacritics": "Guarantee",
-      "ta": "Guarantee",
-      "ur": "Guarantee",
-      "id": "Guarantee",
-      "fr": "Guarantee",
-      "ar": "Guarantee"
+      "bn": "জামিন",
+      "ar-diacritics": "الْكَفَالَةُ",
+      "ta": "உத்தரவாதம்",
+      "ur": "ضمانت",
+      "id": "Penjaminan",
+      "fr": "La Garantie",
+      "ar": "الكفالة"
     }
   },
   {
@@ -710,13 +710,13 @@
     "name": {
       "tr": "Vekalet",
       "en": "Representation, Authorization, Business by Proxy",
-      "bn": "Representation, Authorization, Business by Proxy",
-      "ar-diacritics": "Representation, Authorization, Business by Proxy",
-      "ta": "Representation, Authorization, Business by Proxy",
-      "ur": "Representation, Authorization, Business by Proxy",
-      "id": "Representation, Authorization, Business by Proxy",
-      "fr": "Representation, Authorization, Business by Proxy",
-      "ar": "Representation, Authorization, Business by Proxy"
+      "bn": "প্রতিনিধিত্ব",
+      "ar-diacritics": "الْوَكَالَةُ",
+      "ta": "பிரதிநிதித்துவம்",
+      "ur": "وکالت",
+      "id": "Perwakilan",
+      "fr": "La Représentation",
+      "ar": "الوكالة"
     }
   },
   {
@@ -728,13 +728,13 @@
     "name": {
       "tr": "Tarım",
       "en": "Agriculture",
-      "bn": "Agriculture",
-      "ar-diacritics": "Agriculture",
-      "ta": "Agriculture",
-      "ur": "Agriculture",
-      "id": "Agriculture",
-      "fr": "Agriculture",
-      "ar": "Agriculture"
+      "bn": "কৃষি",
+      "ar-diacritics": "الْمُزَارَعَةُ",
+      "ta": "விவசாயம்",
+      "ur": "کھیتی باڑی",
+      "id": "Pertanian",
+      "fr": "L'agriculture",
+      "ar": "المزارعة"
     }
   },
   {
@@ -746,13 +746,13 @@
     "name": {
       "tr": "Su Dağıtımı",
       "en": "Distribution of Water",
-      "bn": "Distribution of Water",
-      "ar-diacritics": "Distribution of Water",
-      "ta": "Distribution of Water",
-      "ur": "Distribution of Water",
-      "id": "Distribution of Water",
-      "fr": "Distribution of Water",
-      "ar": "Distribution of Water"
+      "bn": "পানি বণ্টন",
+      "ar-diacritics": "الْمُسَاقَاةُ",
+      "ta": "நீர் பகிர்வு",
+      "ur": "پانی کی تقسیم",
+      "id": "Pembagian Air",
+      "fr": "La Distribution de l'Eau",
+      "ar": "المساقاة"
     }
   },
   {
@@ -764,13 +764,13 @@
     "name": {
       "tr": "Borçlar, Borç Ödemeleri, Malın Haczi, İflas",
       "en": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
-      "bn": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
-      "ar-diacritics": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
-      "ta": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
-      "ur": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
-      "id": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
-      "fr": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
-      "ar": "Loans, Payment of Loans, Freezing of Property, Bankruptcy"
+      "bn": "ঋণ, ঋণ পরিশোধ, সম্পদ বাজেয়াপ্ত, দেউলিয়া",
+      "ar-diacritics": "الِاسْتِقْرَاضُ",
+      "ta": "கடன், கடன் செலுத்தல், சொத்து முடக்கம், திவால்",
+      "ur": "قرض، قرض کی ادائیگی، مال ضبطی، دیوالیہ",
+      "id": "Pinjaman, Pembayaran, Penyitaan, Kebangkrutan",
+      "fr": "Les Prêts, le Remboursement, la Saisie, la Faillite",
+      "ar": "الاستقراض"
     }
   },
   {
@@ -782,13 +782,13 @@
     "name": {
       "tr": "Dava",
       "en": "Litigation",
-      "bn": "Litigation",
-      "ar-diacritics": "Litigation",
-      "ta": "Litigation",
-      "ur": "Litigation",
-      "id": "Litigation",
-      "fr": "Litigation",
-      "ar": "Litigation"
+      "bn": "মোকদ্দমা",
+      "ar-diacritics": "الْخُصُومَاتُ",
+      "ta": "வழக்கு",
+      "ur": "مقدمہ",
+      "id": "Perkara",
+      "fr": "Le Litige",
+      "ar": "الخصومات"
     }
   },
   {
@@ -800,13 +800,13 @@
     "name": {
       "tr": "Bulunan Eşyalar",
       "en": "Lost Things Picked up by Someone (Luqatah)",
-      "bn": "Lost Things Picked up by Someone (Luqatah)",
-      "ar-diacritics": "Lost Things Picked up by Someone (Luqatah)",
-      "ta": "Lost Things Picked up by Someone (Luqatah)",
-      "ur": "Lost Things Picked up by Someone (Luqatah)",
-      "id": "Lost Things Picked up by Someone (Luqatah)",
-      "fr": "Lost Things Picked up by Someone (Luqatah)",
-      "ar": "Lost Things Picked up by Someone (Luqatah)"
+      "bn": "লুক্বাতা",
+      "ar-diacritics": "اللُّقَطَةُ",
+      "ta": "கண்டெடுக்கப்பட்ட பொருட்கள்",
+      "ur": "لقطہ",
+      "id": "Barang Temuan",
+      "fr": "Les Objets Trouvés",
+      "ar": "اللقطة"
     }
   },
   {
@@ -818,13 +818,13 @@
     "name": {
       "tr": "Zulümler",
       "en": "Oppressions",
-      "bn": "Oppressions",
-      "ar-diacritics": "Oppressions",
-      "ta": "Oppressions",
-      "ur": "Oppressions",
-      "id": "Oppressions",
-      "fr": "Oppressions",
-      "ar": "Oppressions"
+      "bn": "অত্যাচার",
+      "ar-diacritics": "الْمَظَالِمُ",
+      "ta": "அநீதிகள்",
+      "ur": "ظلم",
+      "id": "Kezaliman",
+      "fr": "Les Oppressions",
+      "ar": "المظالم"
     }
   },
   {
@@ -836,13 +836,13 @@
     "name": {
       "tr": "Ortaklık",
       "en": "Partnership",
-      "bn": "Partnership",
-      "ar-diacritics": "Partnership",
-      "ta": "Partnership",
-      "ur": "Partnership",
-      "id": "Partnership",
-      "fr": "Partnership",
-      "ar": "Partnership"
+      "bn": "অংশীদারিত্ব",
+      "ar-diacritics": "الشَّرِكَةُ",
+      "ta": "கூட்டாண்மை",
+      "ur": "شراکت",
+      "id": "Kemitraan",
+      "fr": "Le Partenariat",
+      "ar": "الشركة"
     }
   },
   {
@@ -854,13 +854,13 @@
     "name": {
       "tr": "Rehin",
       "en": "Mortgaging",
-      "bn": "Mortgaging",
-      "ar-diacritics": "Mortgaging",
-      "ta": "Mortgaging",
-      "ur": "Mortgaging",
-      "id": "Mortgaging",
-      "fr": "Mortgaging",
-      "ar": "Mortgaging"
+      "bn": "বন্ধক",
+      "ar-diacritics": "الرَّهْنُ",
+      "ta": "அடைமானம்",
+      "ur": "رہن",
+      "id": "Gadai",
+      "fr": "L'Hypothèque",
+      "ar": "الرهن"
     }
   },
   {
@@ -872,13 +872,13 @@
     "name": {
       "tr": "Kul Serbest Bırakma",
       "en": "Manumission of Slaves",
-      "bn": "Manumission of Slaves",
-      "ar-diacritics": "Manumission of Slaves",
-      "ta": "Manumission of Slaves",
-      "ur": "Manumission of Slaves",
-      "id": "Manumission of Slaves",
-      "fr": "Manumission of Slaves",
-      "ar": "Manumission of Slaves"
+      "bn": "দাস মুক্তি",
+      "ar-diacritics": "الْعِتْقُ",
+      "ta": "அடிமை விடுதலை",
+      "ur": "آزادی غلام",
+      "id": "Pembebasan Budak",
+      "fr": "L'Affranchissement des Esclaves",
+      "ar": "العتق"
     }
   },
   {
@@ -890,13 +890,13 @@
     "name": {
       "tr": "Kul Serbest Bırakma Sözleşmesi",
       "en": "Contract of Manumission",
-      "bn": "Contract of Manumission",
-      "ar-diacritics": "Contract of Manumission",
-      "ta": "Contract of Manumission",
-      "ur": "Contract of Manumission",
-      "id": "Contract of Manumission",
-      "fr": "Contract of Manumission",
-      "ar": "Contract of Manumission"
+      "bn": "মুকাতাবা",
+      "ar-diacritics": "الْمُكَاتَبَةُ",
+      "ta": "விடுதலை ஒப்பந்தம்",
+      "ur": "مکاتبت",
+      "id": "Kitabah",
+      "fr": "Le Contrat d'Affranchissement",
+      "ar": "المكاتبة"
     }
   },
   {
@@ -908,13 +908,13 @@
     "name": {
       "tr": "Hediye, Fazileti ve Verilmesi Teşviki",
       "en": "Gifts, their virtue and encouragement to give them",
-      "bn": "Gifts, their virtue and encouragement to give them",
-      "ar-diacritics": "Gifts, their virtue and encouragement to give them",
-      "ta": "Gifts, their virtue and encouragement to give them",
-      "ur": "Gifts, their virtue and encouragement to give them",
-      "id": "Gifts, their virtue and encouragement to give them",
-      "fr": "Gifts, their virtue and encouragement to give them",
-      "ar": "Gifts, their virtue and encouragement to give them"
+      "bn": "হেবা ও তার ফজিলত",
+      "ar-diacritics": "الْهِبَةُ وَفَضْلُهَا",
+      "ta": "அன்பளிப்புகள்",
+      "ur": "ہبہ اور اس کی فضیلت",
+      "id": "Hadiah dan Keutamaannya",
+      "fr": "Les Cadeaux, leurs Mérites et Encouragement",
+      "ar": "الهبة وفضلها"
     }
   },
   {
@@ -926,13 +926,13 @@
     "name": {
       "tr": "Şahitler",
       "en": "Witnesses",
-      "bn": "Witnesses",
-      "ar-diacritics": "Witnesses",
-      "ta": "Witnesses",
-      "ur": "Witnesses",
-      "id": "Witnesses",
-      "fr": "Witnesses",
-      "ar": "Witnesses"
+      "bn": "সাক্ষী",
+      "ar-diacritics": "الشهادات",
+      "ta": "சாட்சிகள்",
+      "ur": "گواہ",
+      "id": "Saksi",
+      "fr": "Les Témoins",
+      "ar": "الشهادات"
     }
   },
   {
@@ -944,13 +944,13 @@
     "name": {
       "tr": "Barışma",
       "en": "Peacemaking",
-      "bn": "Peacemaking",
-      "ar-diacritics": "Peacemaking",
-      "ta": "Peacemaking",
-      "ur": "Peacemaking",
-      "id": "Peacemaking",
-      "fr": "Peacemaking",
-      "ar": "Peacemaking"
+      "bn": "সমঝোতা",
+      "ar-diacritics": "الصُّلْحُ",
+      "ta": "சமாதானம்",
+      "ur": "صلح",
+      "id": "Perdamaian",
+      "fr": "La Réconciliation",
+      "ar": "الصلح"
     }
   },
   {
@@ -962,13 +962,13 @@
     "name": {
       "tr": "Şartlar",
       "en": "Conditions",
-      "bn": "Conditions",
-      "ar-diacritics": "Conditions",
-      "ta": "Conditions",
-      "ur": "Conditions",
-      "id": "Conditions",
-      "fr": "Conditions",
-      "ar": "Conditions"
+      "bn": "শর্তাবলী",
+      "ar-diacritics": "الشُّرُوطُ",
+      "ta": "நிபந்தனைகள்",
+      "ur": "شرائط",
+      "id": "Syarat-syarat",
+      "fr": "Les Conditions",
+      "ar": "الشروط"
     }
   },
   {
@@ -980,12 +980,12 @@
     "name": {
       "tr": "Vasiyetler",
       "en": "Wills and Testaments",
-      "bn": "Wills and Testaments",
+      "bn": "ওসিয়াত",
       "ar-diacritics": "الوصايا",
-      "ta": "Wills and Testaments",
-      "ur": "Wills and Testaments",
-      "id": "Wills and Testaments",
-      "fr": "Wills and Testaments",
+      "ta": "உயில்",
+      "ur": "وصیت",
+      "id": "Wasiat",
+      "fr": "Les Testaments",
       "ar": "الوصايا"
     }
   },
@@ -998,13 +998,13 @@
     "name": {
       "tr": "Allah'ın Davası İçin Savaşma",
       "en": "Fighting for the Cause of Allah",
-      "bn": "Fighting for the Cause of Allah",
-      "ar-diacritics": "Fighting for the Cause of Allah",
-      "ta": "Fighting for the Cause of Allah",
-      "ur": "Fighting for the Cause of Allah",
-      "id": "Fighting for the Cause of Allah",
-      "fr": "Fighting for the Cause of Allah",
-      "ar": "Fighting for the Cause of Allah"
+      "bn": "জিহাদ",
+      "ar-diacritics": "الْجِهَادُ",
+      "ta": "ஜிஹாத்",
+      "ur": "جہاد",
+      "id": "Jihad",
+      "fr": "Le Jihad",
+      "ar": "الجهاد"
     }
   },
   {
@@ -1016,13 +1016,13 @@
     "name": {
       "tr": "Ganimetin Beşte Birinin Allah'ın Davası İçin Verilmesi",
       "en": "One-fifth of Booty to the Cause of Allah",
-      "bn": "One-fifth of Booty to the Cause of Allah",
-      "ar-diacritics": "One-fifth of Booty to the Cause of Allah",
-      "ta": "One-fifth of Booty to the Cause of Allah",
-      "ur": "One-fifth of Booty to the Cause of Allah",
-      "id": "One-fifth of Booty to the Cause of Allah",
-      "fr": "One-fifth of Booty to the Cause of Allah",
-      "ar": "One-fifth of Booty to the Cause of Allah"
+      "bn": "গনীমতের এক-পঞ্চমাংশ",
+      "ar-diacritics": "الْخُمُسُ",
+      "ta": "கொள்ளையில் ஐந்தில் ஒரு பங்கு",
+      "ur": "خمس",
+      "id": "Seperlima Ghanimah",
+      "fr": "Le Cinquième du Butin",
+      "ar": "الخمس"
     }
   },
   {
@@ -1034,13 +1034,13 @@
     "name": {
       "tr": "Cizye ve Barış Antlaşmaları",
       "en": "Jizyah and Peace Treaties",
-      "bn": "Jizyah and Peace Treaties",
-      "ar-diacritics": "Jizyah and Peace Treaties",
-      "ta": "Jizyah and Peace Treaties",
-      "ur": "Jizyah and Peace Treaties",
-      "id": "Jizyah and Peace Treaties",
-      "fr": "Jizyah and Peace Treaties",
-      "ar": "Jizyah and Peace Treaties"
+      "bn": "জিজিয়া ও সন্ধি চুক্তি",
+      "ar-diacritics": "الْجِزْيَةُ وَالْهُدْنَةُ",
+      "ta": "ஜிஸ்யா மற்றும் சமாதான உடன்படிக்கைகள்",
+      "ur": "جزیہ اور صلح کے معاہدے",
+      "id": "Jizyah dan Perjanjian Damai",
+      "fr": "La Jizya et les Traités de Paix",
+      "ar": "الجزية والهدنة"
     }
   },
   {
@@ -1052,13 +1052,13 @@
     "name": {
       "tr": "Yaratılışın Başlangıcı",
       "en": "Beginning of Creation",
-      "bn": "Beginning of Creation",
-      "ar-diacritics": "Beginning of Creation",
-      "ta": "Beginning of Creation",
-      "ur": "Beginning of Creation",
-      "id": "Beginning of Creation",
-      "fr": "Beginning of Creation",
-      "ar": "Beginning of Creation"
+      "bn": "সৃষ্টির সূচনা",
+      "ar-diacritics": "بَدْءُ الْخَلْقِ",
+      "ta": "படைப்பின் ஆரம்பம்",
+      "ur": "ابتدائے خلقت",
+      "id": "Awal Penciptaan",
+      "fr": "Le Commencement de la Création",
+      "ar": "بدء الخلق"
     }
   },
   {
@@ -1070,13 +1070,13 @@
     "name": {
       "tr": "Peygamberler",
       "en": "Prophets",
-      "bn": "Prophets",
-      "ar-diacritics": "Prophets",
-      "ta": "Prophets",
-      "ur": "Prophets",
-      "id": "Prophets",
-      "fr": "Prophets",
-      "ar": "Prophets"
+      "bn": "নবীগণ",
+      "ar-diacritics": "الْأَنْبِيَاءُ",
+      "ta": "நபிமார்கள்",
+      "ur": "انبیاء",
+      "id": "Para Nabi",
+      "fr": "Les Prophètes",
+      "ar": "الأنبياء"
     }
   },
   {
@@ -1088,13 +1088,13 @@
     "name": {
       "tr": "Faziletler ve İyilikler",
       "en": "Virtues and Merits",
-      "bn": "Virtues and Merits",
-      "ar-diacritics": "Virtues and Merits",
-      "ta": "Virtues and Merits",
-      "ur": "Virtues and Merits",
-      "id": "Virtues and Merits",
-      "fr": "Virtues and Merits",
-      "ar": "Virtues and Merits"
+      "bn": "গুণাবলী ও মর্যাদা",
+      "ar-diacritics": "الْمَنَاقِبُ",
+      "ta": "சிறப்புகள் மற்றும் புகழ்கள்",
+      "ur": "فضائل و مناقب",
+      "id": "Keutamaan dan Kemuliaan",
+      "fr": "Les Vertus et les Mérites",
+      "ar": "المناقب"
     }
   },
   {
@@ -1106,13 +1106,13 @@
     "name": {
       "tr": "Peygamberin Ashabının Fazileti",
       "en": "Virtues of the Companions of the Prophet",
-      "bn": "Virtues of the Companions of the Prophet",
-      "ar-diacritics": "Virtues of the Companions of the Prophet",
-      "ta": "Virtues of the Companions of the Prophet",
-      "ur": "Virtues of the Companions of the Prophet",
-      "id": "Virtues of the Companions of the Prophet",
-      "fr": "Virtues of the Companions of the Prophet",
-      "ar": "Virtues of the Companions of the Prophet"
+      "bn": "সাহাবীদের ফজিলত",
+      "ar-diacritics": "فَضَائِلُ الصَّحَابَةِ",
+      "ta": "நபித்தோழர்களின் சிறப்புகள்",
+      "ur": "صحابہ کرام کی فضیلت",
+      "id": "Keutamaan Para Sahabat",
+      "fr": "Les Mérites des Compagnons",
+      "ar": "فضائل الصحابة"
     }
   },
   {
@@ -1124,13 +1124,13 @@
     "name": {
       "tr": "Medine'deki Yardımcıların (Ensar) Fazileti",
       "en": "Merits of the Helpers in Madinah (Ansaar)",
-      "bn": "Merits of the Helpers in Madinah (Ansaar)",
-      "ar-diacritics": "Merits of the Helpers in Madinah (Ansaar)",
-      "ta": "Merits of the Helpers in Madinah (Ansaar)",
-      "ur": "Merits of the Helpers in Madinah (Ansaar)",
-      "id": "Merits of the Helpers in Madinah (Ansaar)",
-      "fr": "Merits of the Helpers in Madinah (Ansaar)",
-      "ar": "Merits of the Helpers in Madinah (Ansaar)"
+      "bn": "আনসারদের মর্যাদা",
+      "ar-diacritics": "مَنَاقِبُ الْأَنْصَارِ",
+      "ta": "அன்சாரிகளின் சிறப்புகள்",
+      "ur": "انصار کی فضیلت",
+      "id": "Keutamaan Kaum Anshar",
+      "fr": "Les Mérites des Auxiliaires",
+      "ar": "مناقب الأنصار"
     }
   },
   {
@@ -1142,13 +1142,13 @@
     "name": {
       "tr": "Askeri Seferler",
       "en": "Military Expeditions",
-      "bn": "Military Expeditions",
-      "ar-diacritics": "Military Expeditions",
-      "ta": "Military Expeditions",
-      "ur": "Military Expeditions",
-      "id": "Military Expeditions",
-      "fr": "Military Expeditions",
-      "ar": "Military Expeditions"
+      "bn": "সামরিক অভিযান",
+      "ar-diacritics": "الغزوات",
+      "ta": "போர்ப் பயணங்கள்",
+      "ur": "غزوات",
+      "id": "Ghuraz",
+      "fr": "Les Expéditions Militaires",
+      "ar": "الغزوات"
     }
   },
   {
@@ -1160,13 +1160,13 @@
     "name": {
       "tr": "Peygamberin Kur'an Tefsiri",
       "en": "Prophetic Commentary on the Qur'an",
-      "bn": "Prophetic Commentary on the Qur'an",
-      "ar-diacritics": "Prophetic Commentary on the Qur'an",
-      "ta": "Prophetic Commentary on the Qur'an",
-      "ur": "Prophetic Commentary on the Qur'an",
-      "id": "Prophetic Commentary on the Qur'an",
-      "fr": "Prophetic Commentary on the Qur'an",
-      "ar": "Prophetic Commentary on the Qur'an"
+      "bn": "তাফসীর",
+      "ar-diacritics": "التَّفْسِيرُ",
+      "ta": "குர்ஆன் விளக்கம்",
+      "ur": "تفسیر نبوی",
+      "id": "Tafsir Nabi",
+      "fr": "L'Exégèse Prophétique du Coran",
+      "ar": "التفسير"
     }
   },
   {
@@ -1178,13 +1178,13 @@
     "name": {
       "tr": "Kur'an'ın Fazileti",
       "en": "Virtues of the Qur'an",
-      "bn": "Virtues of the Qur'an",
-      "ar-diacritics": "Virtues of the Qur'an",
-      "ta": "Virtues of the Qur'an",
-      "ur": "Virtues of the Qur'an",
-      "id": "Virtues of the Qur'an",
-      "fr": "Virtues of the Qur'an",
-      "ar": "Virtues of the Qur'an"
+      "bn": "কুরআনের ফজিলত",
+      "ar-diacritics": "فضائل القرآن",
+      "ta": "குர்ஆனின் சிறப்புகள்",
+      "ur": "فضائل قرآن",
+      "id": "Fadilah Qur'an",
+      "fr": "Les Mérites du Coran",
+      "ar": "فضائل القرآن"
     }
   },
   {
@@ -1196,13 +1196,13 @@
     "name": {
       "tr": "Evlilik",
       "en": "Wedlock, Marriage",
-      "bn": "Wedlock, Marriage",
-      "ar-diacritics": "Wedlock, Marriage",
-      "ta": "Wedlock, Marriage",
-      "ur": "Wedlock, Marriage",
-      "id": "Wedlock, Marriage",
-      "fr": "Wedlock, Marriage",
-      "ar": "Wedlock, Marriage"
+      "bn": "বিবাহ",
+      "ar-diacritics": "النِّكَاحُ",
+      "ta": "திருமணம்",
+      "ur": "نکاح",
+      "id": "Pernikahan",
+      "fr": "Le Mariage",
+      "ar": "النكاح"
     }
   },
   {
@@ -1214,12 +1214,12 @@
     "name": {
       "tr": "Boşanma",
       "en": "Divorce",
-      "bn": "Divorce",
+      "bn": "তালাক",
       "ar-diacritics": "الطلاق",
-      "ta": "Divorce",
-      "ur": "Divorce",
-      "id": "Divorce",
-      "fr": "Divorce",
+      "ta": "விவாகரத்து",
+      "ur": "طلاق",
+      "id": "Talak",
+      "fr": "Le Divorce",
       "ar": "الطلاق"
     }
   },
@@ -1232,13 +1232,13 @@
     "name": {
       "tr": "Aileye Destek",
       "en": "Supporting the Family",
-      "bn": "Supporting the Family",
-      "ar-diacritics": "Supporting the Family",
-      "ta": "Supporting the Family",
-      "ur": "Supporting the Family",
-      "id": "Supporting the Family",
-      "fr": "Supporting the Family",
-      "ar": "Supporting the Family"
+      "bn": "পরিবার প্রতিপালন",
+      "ar-diacritics": "النَّفَقَاتُ",
+      "ta": "குடும்ப பராமரிப்பு",
+      "ur": "نفقہ",
+      "id": "Nafkah Keluarga",
+      "fr": "L'Entretien de la Famille",
+      "ar": "النفقات"
     }
   },
   {
@@ -1250,13 +1250,13 @@
     "name": {
       "tr": "Yemekler",
       "en": "Food, Meals",
-      "bn": "Food, Meals",
-      "ar-diacritics": "Food, Meals",
-      "ta": "Food, Meals",
-      "ur": "Food, Meals",
-      "id": "Food, Meals",
-      "fr": "Food, Meals",
-      "ar": "Food, Meals"
+      "bn": "খাবার",
+      "ar-diacritics": "الْأَطْعِمَةُ",
+      "ta": "உணவுகள்",
+      "ur": "طعام",
+      "id": "Makanan",
+      "fr": "Les Aliments",
+      "ar": "الأطعمة"
     }
   },
   {
@@ -1268,13 +1268,13 @@
     "name": {
       "tr": "Akıka",
       "en": "Aqiqah (Birth Sacrifice)",
-      "bn": "Aqiqah (Birth Sacrifice)",
-      "ar-diacritics": "Aqiqah (Birth Sacrifice)",
-      "ta": "Aqiqah (Birth Sacrifice)",
-      "ur": "Aqiqah (Birth Sacrifice)",
-      "id": "Aqiqah (Birth Sacrifice)",
-      "fr": "Aqiqah (Birth Sacrifice)",
-      "ar": "Aqiqah (Birth Sacrifice)"
+      "bn": "আকীকা",
+      "ar-diacritics": "الْعَقِيقَةُ",
+      "ta": "அகீகா",
+      "ur": "عقیقہ",
+      "id": "Akikah",
+      "fr": "La 'Aqiqah",
+      "ar": "العقيقة"
     }
   },
   {
@@ -1286,13 +1286,13 @@
     "name": {
       "tr": "Avlama, Kesme",
       "en": "Hunting, Slaughtering",
-      "bn": "Hunting, Slaughtering",
-      "ar-diacritics": "Hunting, Slaughtering",
-      "ta": "Hunting, Slaughtering",
-      "ur": "Hunting, Slaughtering",
-      "id": "Hunting, Slaughtering",
-      "fr": "Hunting, Slaughtering",
-      "ar": "Hunting, Slaughtering"
+      "bn": "শিকার ও জবাই",
+      "ar-diacritics": "الصَّيْدُ وَالذَّبَائِحُ",
+      "ta": "வேட்டையாடலும் அறுப்பும்",
+      "ur": "شکار اور ذبیحہ",
+      "id": "Berburu dan Menyembelih",
+      "fr": "La Chasse et l'Abattage",
+      "ar": "الصيد والذبائح"
     }
   },
   {
@@ -1304,13 +1304,13 @@
     "name": {
       "tr": "Kurban Bayramı Kurbanı",
       "en": "Al-Adha Festival Sacrifice",
-      "bn": "Al-Adha Festival Sacrifice",
-      "ar-diacritics": "Al-Adha Festival Sacrifice",
-      "ta": "Al-Adha Festival Sacrifice",
-      "ur": "Al-Adha Festival Sacrifice",
-      "id": "Al-Adha Festival Sacrifice",
-      "fr": "Al-Adha Festival Sacrifice",
-      "ar": "Al-Adha Festival Sacrifice"
+      "bn": "কুরবানী",
+      "ar-diacritics": "الْأَضَاحِي",
+      "ta": "தியாகம்",
+      "ur": "قربانی",
+      "id": "Qurban",
+      "fr": "Le Sacrifice de la Fête",
+      "ar": "الأضاحي"
     }
   },
   {
@@ -1322,12 +1322,12 @@
     "name": {
       "tr": "İçecekler",
       "en": "Drinks",
-      "bn": "Drinks",
+      "bn": "পানীয়",
       "ar-diacritics": "المشاربات",
-      "ta": "Drinks",
-      "ur": "Drinks",
-      "id": "Drinks",
-      "fr": "Drinks",
+      "ta": "பானங்கள்",
+      "ur": "مشروبات",
+      "id": "Minuman",
+      "fr": "Les Boissons",
       "ar": "المشاربات"
     }
   },
@@ -1340,13 +1340,13 @@
     "name": {
       "tr": "Hastalar",
       "en": "Patients",
-      "bn": "Patients",
-      "ar-diacritics": "Patients",
-      "ta": "Patients",
-      "ur": "Patients",
-      "id": "Patients",
-      "fr": "Patients",
-      "ar": "Patients"
+      "bn": "রোগী",
+      "ar-diacritics": "الْمَرْضَى",
+      "ta": "நோயாளிகள்",
+      "ur": "مریض",
+      "id": "Orang Sakit",
+      "fr": "Les Malades",
+      "ar": "المرضى"
     }
   },
   {
@@ -1358,13 +1358,13 @@
     "name": {
       "tr": "Tıbb",
       "en": "Medicine",
-      "bn": "Medicine",
-      "ar-diacritics": "Medicine",
-      "ta": "Medicine",
-      "ur": "Medicine",
-      "id": "Medicine",
-      "fr": "Medicine",
-      "ar": "Medicine"
+      "bn": "ওষুধ",
+      "ar-diacritics": "الطب",
+      "ta": "மருத்துவம்",
+      "ur": "دوا",
+      "id": "Kedokteran",
+      "fr": "La Médecine",
+      "ar": "الطب"
     }
   },
   {
@@ -1376,12 +1376,12 @@
     "name": {
       "tr": "Giysi",
       "en": "Dress",
-      "bn": "Dress",
+      "bn": "পোশাক",
       "ar-diacritics": "اللباس",
-      "ta": "Dress",
-      "ur": "Dress",
-      "id": "Dress",
-      "fr": "Dress",
+      "ta": "உடை",
+      "ur": "لباس",
+      "id": "Pakaian",
+      "fr": "Les Vêtements",
       "ar": "اللباس"
     }
   },
@@ -1394,13 +1394,13 @@
     "name": {
       "tr": "Ahlak",
       "en": "Ethics",
-      "bn": "Ethics",
-      "ar-diacritics": "Ethics",
-      "ta": "Ethics",
-      "ur": "Ethics",
-      "id": "Ethics",
-      "fr": "Ethics",
-      "ar": "Ethics"
+      "bn": "নৈতিকতা",
+      "ar-diacritics": "الْأَخْلَاقُ",
+      "ta": "நன்னெறி",
+      "ur": "اخلاق",
+      "id": "Akhlak",
+      "fr": "L'Éthique",
+      "ar": "الأخلاق"
     }
   },
   {
@@ -1412,13 +1412,13 @@
     "name": {
       "tr": "İzin İsteme",
       "en": "Asking Permission",
-      "bn": "Asking Permission",
-      "ar-diacritics": "Asking Permission",
-      "ta": "Asking Permission",
-      "ur": "Asking Permission",
-      "id": "Asking Permission",
-      "fr": "Asking Permission",
-      "ar": "Asking Permission"
+      "bn": "অনুমতি চাওয়া",
+      "ar-diacritics": "الِاسْتِئْذَانُ",
+      "ta": "அனுமதி கோருதல்",
+      "ur": "اجازت لینا",
+      "id": "Meminta Izin",
+      "fr": "La Demande de Permission",
+      "ar": "الاستئذان"
     }
   },
   {
@@ -1430,13 +1430,13 @@
     "name": {
       "tr": "Dualar",
       "en": "Invocations",
-      "bn": "Invocations",
-      "ar-diacritics": "Invocations",
-      "ta": "Invocations",
-      "ur": "Invocations",
-      "id": "Invocations",
-      "fr": "Invocations",
-      "ar": "Invocations"
+      "bn": "দুআ",
+      "ar-diacritics": "الدَّعَوَاتُ",
+      "ta": "பிரார்த்தனைகள்",
+      "ur": "دعائیں",
+      "id": "Doa-doa",
+      "fr": "Les Invocations",
+      "ar": "الدعوات"
     }
   },
   {
@@ -1448,13 +1448,13 @@
     "name": {
       "tr": "Kalbi Yumuşatmak",
       "en": "To make the Heart Tender",
-      "bn": "To make the Heart Tender",
-      "ar-diacritics": "To make the Heart Tender",
-      "ta": "To make the Heart Tender",
-      "ur": "To make the Heart Tender",
-      "id": "To make the Heart Tender",
-      "fr": "To make the Heart Tender",
-      "ar": "To make the Heart Tender"
+      "bn": "হৃদয় নরম করা",
+      "ar-diacritics": "الرِّقَاقُ",
+      "ta": "இதயத்தை மிருதுவாக்குதல்",
+      "ur": "رقاق",
+      "id": "Melembutkan Hati",
+      "fr": "L'Attendrissement du Cœur",
+      "ar": "الرقاق"
     }
   },
   {
@@ -1466,13 +1466,13 @@
     "name": {
       "tr": "İlahi Kader",
       "en": "Divine Will",
-      "bn": "Divine Will",
-      "ar-diacritics": "Divine Will",
-      "ta": "Divine Will",
-      "ur": "Divine Will",
-      "id": "Divine Will",
-      "fr": "Divine Will",
-      "ar": "Divine Will"
+      "bn": "তাকদীর",
+      "ar-diacritics": "الْقَدَرُ",
+      "ta": "விதி",
+      "ur": "تقدیر",
+      "id": "Qadar",
+      "fr": "La Volonté Divine",
+      "ar": "القدر"
     }
   },
   {
@@ -1484,13 +1484,13 @@
     "name": {
       "tr": "Yeminler ve Adaklar",
       "en": "Oaths and Vows",
-      "bn": "Oaths and Vows",
-      "ar-diacritics": "Oaths and Vows",
-      "ta": "Oaths and Vows",
-      "ur": "Oaths and Vows",
-      "id": "Oaths and Vows",
-      "fr": "Oaths and Vows",
-      "ar": "Oaths and Vows"
+      "bn": "শপথ ও মান্নত",
+      "ar-diacritics": "اليمين والنذور",
+      "ta": "சத்தியங்களும் நேர்ச்சைகளும்",
+      "ur": "قسام اور عہد",
+      "id": "Sumpah dan Nazar",
+      "fr": "Les Serments et les Vœux",
+      "ar": "اليمين والنذور"
     }
   },
   {
@@ -1502,13 +1502,13 @@
     "name": {
       "tr": "Yeminlerin Kefareti",
       "en": "Expiation for Unfulfilled Oaths",
-      "bn": "Expiation for Unfulfilled Oaths",
-      "ar-diacritics": "Expiation for Unfulfilled Oaths",
-      "ta": "Expiation for Unfulfilled Oaths",
-      "ur": "Expiation for Unfulfilled Oaths",
-      "id": "Expiation for Unfulfilled Oaths",
-      "fr": "Expiation for Unfulfilled Oaths",
-      "ar": "Expiation for Unfulfilled Oaths"
+      "bn": "শপথ ভঙ্গের কাফফারা",
+      "ar-diacritics": "الْكَفَّارَاتُ",
+      "ta": "சத்திய மீறலுக்குப் பரிகாரம்",
+      "ur": "کفارہ یمین",
+      "id": "Kafarat Sumpah",
+      "fr": "L'Expiation des Serments Non Tenus",
+      "ar": "الكفارات"
     }
   },
   {
@@ -1520,13 +1520,13 @@
     "name": {
       "tr": "Miras Hukuku",
       "en": "Laws of Inheritance",
-      "bn": "Laws of Inheritance",
-      "ar-diacritics": "Laws of Inheritance",
-      "ta": "Laws of Inheritance",
-      "ur": "Laws of Inheritance",
-      "id": "Laws of Inheritance",
-      "fr": "Laws of Inheritance",
-      "ar": "Laws of Inheritance"
+      "bn": "মীরাস",
+      "ar-diacritics": "الْفَرَائِضُ",
+      "ta": "அனந்தர சட்டங்கள்",
+      "ur": "علم الفرائض",
+      "id": "Hukum Waris",
+      "fr": "Les Lois de l'Héritage",
+      "ar": "الفرائض"
     }
   },
   {
@@ -1538,13 +1538,13 @@
     "name": {
       "tr": "Ceza Hukuku",
       "en": "Legal Punishments",
-      "bn": "Legal Punishments",
-      "ar-diacritics": "Legal Punishments",
-      "ta": "Legal Punishments",
-      "ur": "Legal Punishments",
-      "id": "Legal Punishments",
-      "fr": "Legal Punishments",
-      "ar": "Legal Punishments"
+      "bn": "শারীরিক শাস্তি",
+      "ar-diacritics": "الحدود",
+      "ta": "சட்ட தண்டனைகள்",
+      "ur": "سزائیں",
+      "id": "Hudud",
+      "fr": "Les Peines Légales",
+      "ar": "الحدود"
     }
   },
   {
@@ -1556,13 +1556,13 @@
     "name": {
       "tr": "Diye",
       "en": "Blood Money",
-      "bn": "Blood Money",
-      "ar-diacritics": "Blood Money",
-      "ta": "Blood Money",
-      "ur": "Blood Money",
-      "id": "Blood Money",
-      "fr": "Blood Money",
-      "ar": "Blood Money"
+      "bn": "দিয়া",
+      "ar-diacritics": "الديات",
+      "ta": "இரத்தப் பணம்",
+      "ur": "دیہ",
+      "id": "Diyat",
+      "fr": "Le Prix du Sang",
+      "ar": "الديات"
     }
   },
   {
@@ -1574,13 +1574,13 @@
     "name": {
       "tr": "Dinden Çıkanlar",
       "en": "Apostates",
-      "bn": "Apostates",
-      "ar-diacritics": "Apostates",
-      "ta": "Apostates",
-      "ur": "Apostates",
-      "id": "Apostates",
-      "fr": "Apostates",
-      "ar": "Apostates"
+      "bn": "ধর্মত্যাগী",
+      "ar-diacritics": "أَهْلُ الرِّدَّةِ",
+      "ta": "மதம் துறந்தோர்",
+      "ur": "مرتدین",
+      "id": "Murtad",
+      "fr": "Les Apostats",
+      "ar": "أهل الردة"
     }
   },
   {
@@ -1592,13 +1592,13 @@
     "name": {
       "tr": "Zorla Yapılan İfadeler",
       "en": "(Statements made under) Coercion",
-      "bn": "(Statements made under) Coercion",
-      "ar-diacritics": "(Statements made under) Coercion",
-      "ta": "(Statements made under) Coercion",
-      "ur": "(Statements made under) Coercion",
-      "id": "(Statements made under) Coercion",
-      "fr": "(Statements made under) Coercion",
-      "ar": "(Statements made under) Coercion"
+      "bn": "জোরপূর্বক বক্তব্য",
+      "ar-diacritics": "الْإِكْرَاهُ",
+      "ta": "நிர்ப்பந்தத்தின் கீழ்",
+      "ur": "اکراہ",
+      "id": "Pernyataan di Bawah Paksaan",
+      "fr": "Les Déclarations sous Contrainte",
+      "ar": "الإكراه"
     }
   },
   {
@@ -1610,13 +1610,13 @@
     "name": {
       "tr": "Hileler",
       "en": "Tricks",
-      "bn": "Tricks",
-      "ar-diacritics": "Tricks",
-      "ta": "Tricks",
-      "ur": "Tricks",
-      "id": "Tricks",
-      "fr": "Tricks",
-      "ar": "Tricks"
+      "bn": "কৌশল",
+      "ar-diacritics": "الْحِيَلُ",
+      "ta": "தந்திரங்கள்",
+      "ur": "حیلے",
+      "id": "Tipu Daya",
+      "fr": "Les Ruses",
+      "ar": "الحيل"
     }
   },
   {
@@ -1628,13 +1628,13 @@
     "name": {
       "tr": "Rüya Yorumu",
       "en": "Interpretation of Dreams",
-      "bn": "Interpretation of Dreams",
-      "ar-diacritics": "Interpretation of Dreams",
-      "ta": "Interpretation of Dreams",
-      "ur": "Interpretation of Dreams",
-      "id": "Interpretation of Dreams",
-      "fr": "Interpretation of Dreams",
-      "ar": "Interpretation of Dreams"
+      "bn": "স্বপ্নের ব্যাখ্যা",
+      "ar-diacritics": "تفسير الأحلام",
+      "ta": "கனவுகளின் விளக்கம்",
+      "ur": "خوابوں کی تفسیر",
+      "id": "Tafsir Mimpi",
+      "fr": "L'Interprétation des Rêves",
+      "ar": "تفسير الأحلام"
     }
   },
   {
@@ -1646,13 +1646,13 @@
     "name": {
       "tr": "Musibetler ve Dünyanın Sonu",
       "en": "Afflictions and the End of the World",
-      "bn": "Afflictions and the End of the World",
-      "ar-diacritics": "Afflictions and the End of the World",
-      "ta": "Afflictions and the End of the World",
-      "ur": "Afflictions and the End of the World",
-      "id": "Afflictions and the End of the World",
-      "fr": "Afflictions and the End of the World",
-      "ar": "Afflictions and the End of the World"
+      "bn": "ফিতনা ও কিয়ামতের নিদর্শন",
+      "ar-diacritics": "الْفِتَنُ",
+      "ta": "சோதனைகளும் உலக முடிவும்",
+      "ur": "فتن اور عالم کے خاتمہ کی نشانیاں",
+      "id": "Fitnah dan Akhir Zaman",
+      "fr": "Les Épreuves et la Fin du Monde",
+      "ar": "الفتن"
     }
   },
   {
@@ -1664,13 +1664,13 @@
     "name": {
       "tr": "Hükümler",
       "en": "Judgments",
-      "bn": "Judgments",
-      "ar-diacritics": "Judgments",
-      "ta": "Judgments",
-      "ur": "Judgments",
-      "id": "Judgments",
-      "fr": "Judgments",
-      "ar": "Judgments"
+      "bn": "বিচার",
+      "ar-diacritics": "الْأَحْكَامُ",
+      "ta": "தீர்ப்புகள்",
+      "ur": "احکام",
+      "id": "Hukum-hukum",
+      "fr": "Les Jugements",
+      "ar": "الأحكام"
     }
   },
   {
@@ -1682,13 +1682,13 @@
     "name": {
       "tr": "Dilekler",
       "en": "Wishes",
-      "bn": "Wishes",
-      "ar-diacritics": "Wishes",
-      "ta": "Wishes",
-      "ur": "Wishes",
-      "id": "Wishes",
-      "fr": "Wishes",
-      "ar": "Wishes"
+      "bn": "আকাঙ্ক্ষা",
+      "ar-diacritics": "التَّمَنِّي",
+      "ta": "ஆசைகள்",
+      "ur": "تمنا",
+      "id": "Keinginan",
+      "fr": "Les Souhaits",
+      "ar": "التمني"
     }
   },
   {
@@ -1700,13 +1700,13 @@
     "name": {
       "tr": "Doğru Kişinin Verdiği Bilgiyi Kabul Etme",
       "en": "Accepting Information Given by a Truthful Person",
-      "bn": "Accepting Information Given by a Truthful Person",
-      "ar-diacritics": "Accepting Information Given by a Truthful Person",
-      "ta": "Accepting Information Given by a Truthful Person",
-      "ur": "Accepting Information Given by a Truthful Person",
-      "id": "Accepting Information Given by a Truthful Person",
-      "fr": "Accepting Information Given by a Truthful Person",
-      "ar": "Accepting Information Given by a Truthful Person"
+      "bn": "একজন সত্যবাদীর সংবাদ গ্রহণ",
+      "ar-diacritics": "خَبَرُ الْوَاحِدِ",
+      "ta": "உண்மையாளரின் தகவலை ஏற்றல்",
+      "ur": "خبر واحد",
+      "id": "Menerima Berita dari Orang Jujur",
+      "fr": "L'Acceptation des Informations d'une Personne Véridique",
+      "ar": "خبر الواحد"
     }
   },
   {
@@ -1718,13 +1718,13 @@
     "name": {
       "tr": "Kur'an ve Sünnete Sarılma",
       "en": "Holding Fast to the Qur'an and Sunnah",
-      "bn": "Holding Fast to the Qur'an and Sunnah",
-      "ar-diacritics": "Holding Fast to the Qur'an and Sunnah",
-      "ta": "Holding Fast to the Qur'an and Sunnah",
-      "ur": "Holding Fast to the Qur'an and Sunnah",
-      "id": "Holding Fast to the Qur'an and Sunnah",
-      "fr": "Holding Fast to the Qur'an and Sunnah",
-      "ar": "Holding Fast to the Qur'an and Sunnah"
+      "bn": "কুরআন ও সুন্নাহকে অবলম্বন",
+      "ar-diacritics": "الِاعْتِصَامُ بِالْكِتَابِ وَالسُّنَّةِ",
+      "ta": "குர்ஆன் மற்றும் சுன்னாவைப் பிடித்தல்",
+      "ur": "کتاب و سنت کو مضبوطی سے تھامنا",
+      "id": "Berpegang Teguh pada Al-Qur'an dan Sunnah",
+      "fr": "L'Attachement au Coran et à la Sunna",
+      "ar": "الاعتصام بالكتاب والسنة"
     }
   },
   {
@@ -1736,13 +1736,13 @@
     "name": {
       "tr": "Allah'ın Birliği ve Benzersizliği (Tevhid)",
       "en": "Oneness, Uniqueness of Allah (Tawheed)",
-      "bn": "Oneness, Uniqueness of Allah (Tawheed)",
-      "ar-diacritics": "Oneness, Uniqueness of Allah (Tawheed)",
-      "ta": "Oneness, Uniqueness of Allah (Tawheed)",
-      "ur": "Oneness, Uniqueness of Allah (Tawheed)",
-      "id": "Oneness, Uniqueness of Allah (Tawheed)",
-      "fr": "Oneness, Uniqueness of Allah (Tawheed)",
-      "ar": "Oneness, Uniqueness of Allah (Tawheed)"
+      "bn": "তাওহীদ",
+      "ar-diacritics": "التَّوْحِيدُ",
+      "ta": "தவ்ஹீத்",
+      "ur": "توحید",
+      "id": "Tauhid",
+      "fr": "L'Unicité d'Allah (Tawhid)",
+      "ar": "التوحيد"
     }
   }
 ]

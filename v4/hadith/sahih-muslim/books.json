@@ -6,15 +6,15 @@
     "hadithCount": 92,
     "hadithIndexStart": 1,
     "name": {
-      "bn": "Introduction",
-      "ar-diacritics": "Introduction",
-      "id": "Introduction",
+      "bn": "ভূমিকা",
+      "ar-diacritics": "الْمُقَدِّمَةُ",
+      "id": "Pendahuluan",
       "fr": "Introduction",
       "en": "Introduction",
-      "tr": "Introduction",
-      "ru": "Introduction",
-      "ar": "Introduction",
-      "ta": "Introduction"
+      "tr": "Giriş",
+      "ru": "Введение",
+      "ar": "المقدمة",
+      "ta": "அறிமுகம்"
     }
   },
   {
@@ -24,15 +24,15 @@
     "hadithCount": 441,
     "hadithIndexStart": 93,
     "name": {
-      "bn": "Faith",
-      "ar-diacritics": "Faith",
-      "id": "Faith",
-      "fr": "Faith",
+      "bn": "ঈমান",
+      "ar-diacritics": "الإيمان",
+      "id": "Iman",
+      "fr": "La Foi",
       "en": "Faith",
-      "tr": "Faith",
-      "ru": "Faith",
-      "ar": "Faith",
-      "ta": "Faith"
+      "tr": "İman",
+      "ru": "Вера (Иман)",
+      "ar": "الإيمان",
+      "ta": "ஈமான்"
     }
   },
   {
@@ -42,15 +42,15 @@
     "hadithCount": 145,
     "hadithIndexStart": 534,
     "name": {
-      "bn": "Purification",
-      "ar-diacritics": "Purification",
-      "id": "Purification",
-      "fr": "Purification",
+      "bn": "পবিত্রতা",
+      "ar-diacritics": "الطهارة",
+      "id": "Pembersihan",
+      "fr": "La Purification",
       "en": "Purification",
-      "tr": "Purification",
-      "ru": "Purification",
-      "ar": "Purification",
-      "ta": "Purification"
+      "tr": "Temizlik",
+      "ru": "Очищение",
+      "ar": "الطهارة",
+      "ta": "சுத்தம்"
     }
   },
   {
@@ -60,15 +60,15 @@
     "hadithCount": 158,
     "hadithIndexStart": 679,
     "name": {
-      "bn": "Menstruation",
-      "ar-diacritics": "Menstruation",
-      "id": "Menstruation",
-      "fr": "Menstruation",
+      "bn": "হায়েজ",
+      "ar-diacritics": "الْحَيْضُ",
+      "id": "Haid",
+      "fr": "Les Menstrues",
       "en": "Menstruation",
-      "tr": "Menstruation",
-      "ru": "Menstruation",
-      "ar": "Menstruation",
-      "ta": "Menstruation"
+      "tr": "Hayız",
+      "ru": "Менструация",
+      "ar": "الحيض",
+      "ta": "மாதவிடாய்"
     }
   },
   {
@@ -78,15 +78,15 @@
     "hadithCount": 324,
     "hadithIndexStart": 837,
     "name": {
-      "bn": "Prayers",
-      "ar-diacritics": "Prayers",
-      "id": "Prayers",
-      "fr": "Prayers",
+      "bn": "সালাত",
+      "ar-diacritics": "الصَّلَاةُ",
+      "id": "Salat",
+      "fr": "Les Prières",
       "en": "Prayers",
-      "tr": "Prayers",
-      "ru": "Prayers",
-      "ar": "Prayers",
-      "ta": "Prayers"
+      "tr": "Namaz",
+      "ru": "Молитвы",
+      "ar": "الصلاة",
+      "ta": "தொழுகை"
     }
   },
   {
@@ -96,15 +96,15 @@
     "hadithCount": 409,
     "hadithIndexStart": 1161,
     "name": {
-      "bn": "Mosques and Places of Prayer",
-      "ar-diacritics": "Mosques and Places of Prayer",
-      "id": "Mosques and Places of Prayer",
-      "fr": "Mosques and Places of Prayer",
+      "bn": "মসজিদ ও সালাতের স্থান",
+      "ar-diacritics": "الْمَسَاجِدُ وَمَوَاضِعُ الصَّلَاةِ",
+      "id": "Masjid dan Tempat Salat",
+      "fr": "Les Mosquées et les Lieux de Prière",
       "en": "Mosques and Places of Prayer",
-      "tr": "Mosques and Places of Prayer",
-      "ru": "Mosques and Places of Prayer",
-      "ar": "Mosques and Places of Prayer",
-      "ta": "Mosques and Places of Prayer"
+      "tr": "Mescidler ve Namaz Yerleri",
+      "ru": "Мечети и места молитвы",
+      "ar": "المساجد ومواضع الصلاة",
+      "ta": "பள்ளிவாசல்கள் மற்றும் தொழுகை இடங்கள்"
     }
   },
   {
@@ -114,15 +114,15 @@
     "hadithCount": 381,
     "hadithIndexStart": 1570,
     "name": {
-      "bn": "Prayer - Travellers",
-      "ar-diacritics": "Prayer - Travellers",
-      "id": "Prayer - Travellers",
-      "fr": "Prayer - Travellers",
+      "bn": "মুসাফিরের সালাত",
+      "ar-diacritics": "صَلَاةُ الْمُسَافِرِينَ",
+      "id": "Salat Musafir",
+      "fr": "La Prière du Voyageur",
       "en": "Prayer - Travellers",
-      "tr": "Prayer - Travellers",
-      "ru": "Prayer - Travellers",
-      "ar": "Prayer - Travellers",
-      "ta": "Prayer - Travellers"
+      "tr": "Yolcu Namazı",
+      "ru": "Молитва путников",
+      "ar": "صلاة المسافرين",
+      "ta": "பயணிகளின் தொழுகை"
     }
   },
   {
@@ -132,15 +132,15 @@
     "hadithCount": 93,
     "hadithIndexStart": 1951,
     "name": {
-      "bn": "Prayer - Friday",
-      "ar-diacritics": "Prayer - Friday",
-      "id": "Prayer - Friday",
-      "fr": "Prayer - Friday",
+      "bn": "জুমুআর সালাত",
+      "ar-diacritics": "صَلَاةُ الْجُمُعَةِ",
+      "id": "Salat Jumat",
+      "fr": "La Prière du Vendredi",
       "en": "Prayer - Friday",
-      "tr": "Prayer - Friday",
-      "ru": "Prayer - Friday",
-      "ar": "Prayer - Friday",
-      "ta": "Prayer - Friday"
+      "tr": "Cuma Namazı",
+      "ru": "Пятничная молитва",
+      "ar": "صلاة الجمعة",
+      "ta": "வெள்ளிக்கிழமை தொழுகை"
     }
   },
   {
@@ -150,15 +150,15 @@
     "hadithCount": 26,
     "hadithIndexStart": 2044,
     "name": {
-      "bn": "Prayer - Two Eids",
-      "ar-diacritics": "Prayer - Two Eids",
-      "id": "Prayer - Two Eids",
-      "fr": "Prayer - Two Eids",
+      "bn": "ঈদের সালাত",
+      "ar-diacritics": "صَلَاةُ الْعِيدَيْنِ",
+      "id": "Salat Dua Hari Raya",
+      "fr": "La Prière des Deux Fêtes",
       "en": "Prayer - Two Eids",
-      "tr": "Prayer - Two Eids",
-      "ru": "Prayer - Two Eids",
-      "ar": "Prayer - Two Eids",
-      "ta": "Prayer - Two Eids"
+      "tr": "Bayram Namazı",
+      "ru": "Молитва двух праздников",
+      "ar": "صلاة العيدين",
+      "ta": "இரு பெருநாள் தொழுகை"
     }
   },
   {
@@ -168,15 +168,15 @@
     "hadithCount": 19,
     "hadithIndexStart": 2070,
     "name": {
-      "bn": "Prayer - Rain",
-      "ar-diacritics": "Prayer - Rain",
-      "id": "Prayer - Rain",
-      "fr": "Prayer - Rain",
+      "bn": "ইস্তিস্কার সালাত",
+      "ar-diacritics": "صَلَاةُ الِاسْتِسْقَاءِ",
+      "id": "Salat Istisqa",
+      "fr": "La Prière pour la Pluie",
       "en": "Prayer - Rain",
-      "tr": "Prayer - Rain",
-      "ru": "Prayer - Rain",
-      "ar": "Prayer - Rain",
-      "ta": "Prayer - Rain"
+      "tr": "Yağmur Duası",
+      "ru": "Молитва о дожде",
+      "ar": "صلاة الاستسقاء",
+      "ta": "மழை வேண்டல் தொழுகை"
     }
   },
   {
@@ -186,15 +186,15 @@
     "hadithCount": 34,
     "hadithIndexStart": 2089,
     "name": {
-      "bn": "Prayer - Eclipses",
-      "ar-diacritics": "Prayer - Eclipses",
-      "id": "Prayer - Eclipses",
-      "fr": "Prayer - Eclipses",
+      "bn": "গ্রহণের সালাত",
+      "ar-diacritics": "صَلَاةُ الْكُسُوفِ",
+      "id": "Salat Gerhana",
+      "fr": "La Prière des Éclipses",
       "en": "Prayer - Eclipses",
-      "tr": "Prayer - Eclipses",
-      "ru": "Prayer - Eclipses",
-      "ar": "Prayer - Eclipses",
-      "ta": "Prayer - Eclipses"
+      "tr": "Tutulma Namazı",
+      "ru": "Молитва при затмении",
+      "ar": "صلاة الكسوف",
+      "ta": "கிரகண தொழுகை"
     }
   },
   {
@@ -204,15 +204,15 @@
     "hadithCount": 140,
     "hadithIndexStart": 2123,
     "name": {
-      "bn": "Prayer - Funerals",
-      "ar-diacritics": "Prayer - Funerals",
-      "id": "Prayer - Funerals",
-      "fr": "Prayer - Funerals",
+      "bn": "জানাজার সালাত",
+      "ar-diacritics": "صَلَاةُ الْجَنَائِزِ",
+      "id": "Salat Jenazah",
+      "fr": "La Prière Funéraire",
       "en": "Prayer - Funerals",
-      "tr": "Prayer - Funerals",
-      "ru": "Prayer - Funerals",
-      "ar": "Prayer - Funerals",
-      "ta": "Prayer - Funerals"
+      "tr": "Cenaze Namazı",
+      "ru": "Погребальная молитва",
+      "ar": "صلاة الجنائز",
+      "ta": "ஜனாஸா தொழுகை"
     }
   },
   {
@@ -222,15 +222,15 @@
     "hadithCount": 232,
     "hadithIndexStart": 2263,
     "name": {
-      "bn": "Zakat",
+      "bn": "যাকাত",
       "ar-diacritics": "الزكاة",
       "id": "Zakat",
-      "fr": "Zakat",
+      "fr": "La Zakat",
       "en": "Zakat",
       "tr": "Zekât",
-      "ru": "Zakat",
+      "ru": "Закят",
       "ar": "الزكاة",
-      "ta": "Zakat"
+      "ta": "ஸகாத்"
     }
   },
   {
@@ -240,15 +240,15 @@
     "hadithCount": 285,
     "hadithIndexStart": 2495,
     "name": {
-      "bn": "Fasting",
+      "bn": "সিয়াম",
       "ar-diacritics": "الصوم",
-      "id": "Fasting",
-      "fr": "Fasting",
+      "id": "Puasa",
+      "fr": "Le Jeûne",
       "en": "Fasting",
       "tr": "Oruç",
-      "ru": "Fasting",
+      "ru": "Пост",
       "ar": "الصوم",
-      "ta": "Fasting"
+      "ta": "நோன்பு"
     }
   },
   {
@@ -258,15 +258,15 @@
     "hadithCount": 11,
     "hadithIndexStart": 2780,
     "name": {
-      "bn": "I'tikaf",
-      "ar-diacritics": "I'tikaf",
-      "id": "I'tikaf",
-      "fr": "I'tikaf",
+      "bn": "ইতিকাফ",
+      "ar-diacritics": "الِاعْتِكَافُ",
+      "id": "Itikaf",
+      "fr": "La Retraite Spirituelle",
       "en": "I'tikaf",
-      "tr": "I'tikaf",
-      "ru": "I'tikaf",
-      "ar": "I'tikaf",
-      "ta": "I'tikaf"
+      "tr": "Itikâf",
+      "ru": "Итикаф",
+      "ar": "الاعتكاف",
+      "ta": "இஃதிகாஃப்"
     }
   },
   {
@@ -276,15 +276,15 @@
     "hadithCount": 607,
     "hadithIndexStart": 2791,
     "name": {
-      "bn": "Pilgrimage",
-      "ar-diacritics": "Pilgrimage",
-      "id": "Pilgrimage",
-      "fr": "Pilgrimage",
+      "bn": "হজ্জ",
+      "ar-diacritics": "الْحَجُّ",
+      "id": "Haji",
+      "fr": "Le Pèlerinage",
       "en": "Pilgrimage",
-      "tr": "Pilgrimage",
-      "ru": "Pilgrimage",
-      "ar": "Pilgrimage",
-      "ta": "Pilgrimage"
+      "tr": "Hac",
+      "ru": "Хадж",
+      "ar": "الحج",
+      "ta": "ஹஜ்"
     }
   },
   {
@@ -294,15 +294,15 @@
     "hadithCount": 3180,
     "hadithIndexStart": 388,
     "name": {
-      "bn": "Marriage",
+      "bn": "বিবাহ",
       "ar-diacritics": "النكاح",
-      "id": "Marriage",
-      "fr": "Marriage",
+      "id": "Perkawinan",
+      "fr": "Le Mariage",
       "en": "Marriage",
       "tr": "Nikah",
-      "ru": "Marriage",
+      "ru": "Брак",
       "ar": "النكاح",
-      "ta": "Marriage"
+      "ta": "திருமணம்"
     }
   },
   {
@@ -312,15 +312,15 @@
     "hadithCount": 84,
     "hadithIndexStart": 3568,
     "name": {
-      "bn": "Breastfeeding",
+      "bn": "স্তন্যদান",
       "ar-diacritics": "الرضاع",
-      "id": "Breastfeeding",
-      "fr": "Breastfeeding",
+      "id": "Menyusui",
+      "fr": "L'Allaitement",
       "en": "Breastfeeding",
       "tr": "Emzirme",
-      "ru": "Breastfeeding",
+      "ru": "Кормление грудью",
       "ar": "الرضاع",
-      "ta": "Breastfeeding"
+      "ta": "பாலூட்டல்"
     }
   },
   {
@@ -330,15 +330,15 @@
     "hadithCount": 91,
     "hadithIndexStart": 3652,
     "name": {
-      "bn": "Divorce",
+      "bn": "তালাক",
       "ar-diacritics": "الطلاق",
-      "id": "Divorce",
-      "fr": "Divorce",
+      "id": "Talak",
+      "fr": "Le Divorce",
       "en": "Divorce",
       "tr": "Boşanma",
-      "ru": "Divorce",
+      "ru": "Развод",
       "ar": "الطلاق",
-      "ta": "Divorce"
+      "ta": "விவாகரத்து"
     }
   },
   {
@@ -348,15 +348,15 @@
     "hadithCount": 27,
     "hadithIndexStart": 3743,
     "name": {
-      "bn": "Invoking Curses",
-      "ar-diacritics": "Invoking Curses",
-      "id": "Invoking Curses",
-      "fr": "Invoking Curses",
+      "bn": "লিয়ান",
+      "ar-diacritics": "اللِّعَانُ",
+      "id": "Mubahalah",
+      "fr": "L'Imprécation",
       "en": "Invoking Curses",
-      "tr": "Invoking Curses",
-      "ru": "Invoking Curses",
-      "ar": "Invoking Curses",
-      "ta": "Invoking Curses"
+      "tr": "Lian",
+      "ru": "Взаимное проклятие",
+      "ar": "اللعان",
+      "ta": "சாபமிடுதல்"
     }
   },
   {
@@ -366,15 +366,15 @@
     "hadithCount": 31,
     "hadithIndexStart": 3770,
     "name": {
-      "bn": "Emancipating Slaves",
-      "ar-diacritics": "Emancipating Slaves",
-      "id": "Emancipating Slaves",
-      "fr": "Emancipating Slaves",
+      "bn": "দাস মুক্তি",
+      "ar-diacritics": "الْعِتْقُ",
+      "id": "Pembebasan Budak",
+      "fr": "L'Affranchissement",
       "en": "Emancipating Slaves",
-      "tr": "Emancipating Slaves",
-      "ru": "Emancipating Slaves",
-      "ar": "Emancipating Slaves",
-      "ta": "Emancipating Slaves"
+      "tr": "Kul Serbest Bırakma",
+      "ru": "Освобождение рабов",
+      "ar": "العتق",
+      "ta": "அடிமை விடுதலை"
     }
   },
   {
@@ -384,15 +384,15 @@
     "hadithCount": 161,
     "hadithIndexStart": 3801,
     "name": {
-      "bn": "Transactions",
-      "ar-diacritics": "Transactions",
-      "id": "Transactions",
-      "fr": "Transactions",
+      "bn": "লেনদেন",
+      "ar-diacritics": "الْبُيُوعُ",
+      "id": "Transaksi",
+      "fr": "Les Transactions",
       "en": "Transactions",
-      "tr": "Transactions",
-      "ru": "Transactions",
-      "ar": "Transactions",
-      "ta": "Transactions"
+      "tr": "Alışveriş",
+      "ru": "Сделки",
+      "ar": "البيوع",
+      "ta": "வணிகம்"
     }
   },
   {
@@ -402,15 +402,15 @@
     "hadithCount": 178,
     "hadithIndexStart": 3962,
     "name": {
-      "bn": "Irrigation",
-      "ar-diacritics": "Irrigation",
-      "id": "Irrigation",
-      "fr": "Irrigation",
+      "bn": "সেচ",
+      "ar-diacritics": "الْمُسَاقَاةُ",
+      "id": "Pengairan",
+      "fr": "L'Irrigation",
       "en": "Irrigation",
-      "tr": "Irrigation",
-      "ru": "Irrigation",
-      "ar": "Irrigation",
-      "ta": "Irrigation"
+      "tr": "Su Dağıtımı",
+      "ru": "Орошение",
+      "ar": "المساقاة",
+      "ta": "நீர்ப்பாசனம்"
     }
   },
   {
@@ -420,15 +420,15 @@
     "hadithCount": 23,
     "hadithIndexStart": 4140,
     "name": {
-      "bn": "The Rules of Inheritance",
-      "ar-diacritics": "The Rules of Inheritance",
-      "id": "The Rules of Inheritance",
-      "fr": "The Rules of Inheritance",
+      "bn": "মিরাসের বিধান",
+      "ar-diacritics": "الْفَرَائِضُ",
+      "id": "Hukum Waris",
+      "fr": "Les Règles de l'Héritage",
       "en": "The Rules of Inheritance",
-      "tr": "The Rules of Inheritance",
-      "ru": "The Rules of Inheritance",
-      "ar": "The Rules of Inheritance",
-      "ta": "The Rules of Inheritance"
+      "tr": "Faraid",
+      "ru": "Правила наследования",
+      "ar": "الفرائض",
+      "ta": "அனந்தர விதிகள்"
     }
   },
   {
@@ -438,15 +438,15 @@
     "hadithCount": 41,
     "hadithIndexStart": 4163,
     "name": {
-      "bn": "Gifts",
-      "ar-diacritics": "Gifts",
-      "id": "Gifts",
-      "fr": "Gifts",
+      "bn": "উপহার",
+      "ar-diacritics": "الْهِبَاتُ",
+      "id": "Hadiah",
+      "fr": "Les donations",
       "en": "Gifts",
-      "tr": "Gifts",
-      "ru": "Gifts",
-      "ar": "Gifts",
-      "ta": "Gifts"
+      "tr": "Hibe",
+      "ru": "Дары",
+      "ar": "الهبات",
+      "ta": "அன்பளிப்புகள்"
     }
   },
   {
@@ -456,15 +456,15 @@
     "hadithCount": 31,
     "hadithIndexStart": 4204,
     "name": {
-      "bn": "Wills",
-      "ar-diacritics": "Wills",
-      "id": "Wills",
-      "fr": "Wills",
+      "bn": "ওয়াসিয়াত",
+      "ar-diacritics": "الوصايا",
+      "id": "Wasiat",
+      "fr": "Les Testaments",
       "en": "Wills",
-      "tr": "Wills",
-      "ru": "Wills",
-      "ar": "Wills",
-      "ta": "Wills"
+      "tr": "Vasiyetler",
+      "ru": "Завещания",
+      "ar": "الوصايا",
+      "ta": "உயில்"
     }
   },
   {
@@ -474,15 +474,15 @@
     "hadithCount": 19,
     "hadithIndexStart": 4235,
     "name": {
-      "bn": "Vows",
-      "ar-diacritics": "Vows",
-      "id": "Vows",
-      "fr": "Vows",
+      "bn": "মান্নত",
+      "ar-diacritics": "النُّذُورُ",
+      "id": "Nazar",
+      "fr": "Les Vœux",
       "en": "Vows",
-      "tr": "Vows",
-      "ru": "Vows",
-      "ar": "Vows",
-      "ta": "Vows"
+      "tr": "Nezirler",
+      "ru": "Обеты",
+      "ar": "النذور",
+      "ta": "நேர்ச்சைகள்"
     }
   },
   {
@@ -492,15 +492,15 @@
     "hadithCount": 88,
     "hadithIndexStart": 4254,
     "name": {
-      "bn": "Oaths",
-      "ar-diacritics": "Oaths",
-      "id": "Oaths",
-      "fr": "Oaths",
+      "bn": "শপথ",
+      "ar-diacritics": "الْأَيْمَانُ",
+      "id": "Sumpah",
+      "fr": "Les Serments",
       "en": "Oaths",
-      "tr": "Oaths",
-      "ru": "Oaths",
-      "ar": "Oaths",
-      "ta": "Oaths"
+      "tr": "Yeminler",
+      "ru": "Клятвы",
+      "ar": "الأيمان",
+      "ta": "சத்தியங்கள்"
     }
   },
   {
@@ -510,15 +510,15 @@
     "hadithCount": 56,
     "hadithIndexStart": 4342,
     "name": {
-      "bn": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
-      "ar-diacritics": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
-      "id": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
-      "fr": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+      "bn": "শপথ, মুহারিবীন, কিসাস ও দিয়াত",
+      "ar-diacritics": "الْأَيْمَانُ وَالْمُحَارِبِينَ وَالْقِصَاصُ وَالدِّيَاتُ",
+      "id": "Sumpah, Muharibin, Qisas, dan Diyat",
+      "fr": "Les Serments, les Muharibin, la Loi du Talion, le Prix du Sang",
       "en": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
-      "tr": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
-      "ru": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
-      "ar": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
-      "ta": "Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
+      "tr": "Yeminler, Muharibin, Kısas ve Diyet",
+      "ru": "Клятвы, мухарибины, возмездие, выкуп за кровь",
+      "ar": "الأيمان والمحاربين والقصاص والديات",
+      "ta": "சத்தியங்கள், முஹாரிபீன், கிசாஸ் மற்றும் திய்யாத்"
     }
   },
   {
@@ -528,15 +528,15 @@
     "hadithCount": 72,
     "hadithIndexStart": 4398,
     "name": {
-      "bn": "Legal Punishments",
-      "ar-diacritics": "Legal Punishments",
-      "id": "Legal Punishments",
-      "fr": "Legal Punishments",
+      "bn": "শারীরিক শাস্তি",
+      "ar-diacritics": "الحدود",
+      "id": "Hudud",
+      "fr": "Les Peines Légales",
       "en": "Legal Punishments",
       "tr": "Ceza Hukuku",
-      "ru": "Legal Punishments",
-      "ar": "Legal Punishments",
-      "ta": "Legal Punishments"
+      "ru": "Установленные наказания",
+      "ar": "الحدود",
+      "ta": "சட்ட தண்டனைகள்"
     }
   },
   {
@@ -546,15 +546,15 @@
     "hadithCount": 28,
     "hadithIndexStart": 4470,
     "name": {
-      "bn": "Judicial Decisions",
-      "ar-diacritics": "Judicial Decisions",
-      "id": "Judicial Decisions",
-      "fr": "Judicial Decisions",
+      "bn": "বিচারিক সিদ্ধান্ত",
+      "ar-diacritics": "الْأَقْضِيَةُ",
+      "id": "Keputusan Hukum",
+      "fr": "Les Décisions Judiciaires",
       "en": "Judicial Decisions",
-      "tr": "Judicial Decisions",
-      "ru": "Judicial Decisions",
-      "ar": "Judicial Decisions",
-      "ta": "Judicial Decisions"
+      "tr": "Kazai Kararlar",
+      "ru": "Судебные решения",
+      "ar": "الأقضية",
+      "ta": "நீதி முடிவுகள்"
     }
   },
   {
@@ -564,15 +564,15 @@
     "hadithCount": 21,
     "hadithIndexStart": 4498,
     "name": {
-      "bn": "Lost Property",
-      "ar-diacritics": "Lost Property",
-      "id": "Lost Property",
-      "fr": "Lost Property",
+      "bn": "হারানো সম্পত্তি",
+      "ar-diacritics": "الضالة",
+      "id": "Barang Hilang",
+      "fr": "Les Biens Perdus",
       "en": "Lost Property",
-      "tr": "Lost Property",
-      "ru": "Lost Property",
-      "ar": "Lost Property",
-      "ta": "Lost Property"
+      "tr": "Kaybolan Mallar",
+      "ru": "Потерянное имущество",
+      "ar": "الضالة",
+      "ta": "காணாமற்போன பொருள்"
     }
   },
   {
@@ -582,15 +582,15 @@
     "hadithCount": 182,
     "hadithIndexStart": 4519,
     "name": {
-      "bn": "Jihad and Expeditions",
-      "ar-diacritics": "Jihad and Expeditions",
-      "id": "Jihad and Expeditions",
-      "fr": "Jihad and Expeditions",
+      "bn": "জিহাদ ও অভিযান",
+      "ar-diacritics": "الْجِهَادُ وَالسِّيَرُ",
+      "id": "Jihad dan Ekspedisi",
+      "fr": "Le Jihad et les Expéditions",
       "en": "Jihad and Expeditions",
-      "tr": "Jihad and Expeditions",
-      "ru": "Jihad and Expeditions",
-      "ar": "Jihad and Expeditions",
-      "ta": "Jihad and Expeditions"
+      "tr": "Cihad ve Seferler",
+      "ru": "Джихад и походы",
+      "ar": "الجهاد والسير",
+      "ta": "ஜிஹாத் மற்றும் பயணங்கள்"
     }
   },
   {
@@ -600,15 +600,15 @@
     "hadithCount": 267,
     "hadithIndexStart": 4701,
     "name": {
-      "bn": "Government",
-      "ar-diacritics": "Government",
-      "id": "Government",
-      "fr": "Government",
+      "bn": "শাসনব্যবস্থা",
+      "ar-diacritics": "الْإِمَارَةُ",
+      "id": "Pemerintahan",
+      "fr": "Le Gouvernement",
       "en": "Government",
-      "tr": "Government",
-      "ru": "Government",
-      "ar": "Government",
-      "ta": "Government"
+      "tr": "Devlet Yönetimi",
+      "ru": "Правление",
+      "ar": "الإمارة",
+      "ta": "ஆட்சி"
     }
   },
   {
@@ -618,15 +618,15 @@
     "hadithCount": 92,
     "hadithIndexStart": 4972,
     "name": {
-      "bn": "Hunting, Slaughter, and what may be Eaten",
-      "ar-diacritics": "Hunting, Slaughter, and what may be Eaten",
-      "id": "Hunting, Slaughter, and what may be Eaten",
-      "fr": "Hunting, Slaughter, and what may be Eaten",
+      "bn": "শিকার, জবাই ও ভক্ষণীয়",
+      "ar-diacritics": "الصَّيْدُ وَالذَّبَائِحُ وَمَا يُؤْكَلُ",
+      "id": "Berburu, Menyembelih, dan Makanan",
+      "fr": "La Chasse, l'Abattage et ce qui est Comestible",
       "en": "Hunting, Slaughter, and what may be Eaten",
-      "tr": "Hunting, Slaughter, and what may be Eaten",
-      "ru": "Hunting, Slaughter, and what may be Eaten",
-      "ar": "Hunting, Slaughter, and what may be Eaten",
-      "ta": "Hunting, Slaughter, and what may be Eaten"
+      "tr": "Av, Kesim ve Yenebilecekler",
+      "ru": "Охота, заклание и съедобное",
+      "ar": "الصيد والذبائح وما يؤكل",
+      "ta": "வேட்டை, அறுப்பு மற்றும் உண்ணத்தக்கவை"
     }
   },
   {
@@ -636,15 +636,15 @@
     "hadithCount": 63,
     "hadithIndexStart": 5064,
     "name": {
-      "bn": "Sacrifices",
-      "ar-diacritics": "Sacrifices",
-      "id": "Sacrifices",
-      "fr": "Sacrifices",
+      "bn": "কুরবানি",
+      "ar-diacritics": "الذبائح",
+      "id": "Qurban",
+      "fr": "Les Sacrifices",
       "en": "Sacrifices",
-      "tr": "Sacrifices",
-      "ru": "Sacrifices",
-      "ar": "Sacrifices",
-      "ta": "Sacrifices"
+      "tr": "Kurbanlar",
+      "ru": "Жертвоприношения",
+      "ar": "الذبائح",
+      "ta": "குர்பானி"
     }
   },
   {
@@ -654,15 +654,15 @@
     "hadithCount": 270,
     "hadithIndexStart": 5114,
     "name": {
-      "bn": "Drinks",
+      "bn": "পানীয়",
       "ar-diacritics": "المشاربات",
-      "id": "Drinks",
-      "fr": "Drinks",
+      "id": "Minuman",
+      "fr": "Les Boissons",
       "en": "Drinks",
       "tr": "İçecekler",
-      "ru": "Drinks",
+      "ru": "Напитки",
       "ar": "المشاربات",
-      "ta": "Drinks"
+      "ta": "பானங்கள்"
     }
   },
   {
@@ -672,15 +672,15 @@
     "hadithCount": 201,
     "hadithIndexStart": 5385,
     "name": {
-      "bn": "Clothes and Adornment",
-      "ar-diacritics": "Clothes and Adornment",
-      "id": "Clothes and Adornment",
-      "fr": "Clothes and Adornment",
+      "bn": "পোশাক ও সাজসজ্জা",
+      "ar-diacritics": "اللِّبَاسُ وَالزِّينَةُ",
+      "id": "Pakaian dan Perhiasan",
+      "fr": "Les Vêtements et la Parure",
       "en": "Clothes and Adornment",
-      "tr": "Clothes and Adornment",
-      "ru": "Clothes and Adornment",
-      "ar": "Clothes and Adornment",
-      "ta": "Clothes and Adornment"
+      "tr": "Giysi ve Kıyafet",
+      "ru": "Одежда и украшения",
+      "ar": "اللباس والزينة",
+      "ta": "உடைகள் மற்றும் அலங்காரம்"
     }
   },
   {
@@ -690,15 +690,15 @@
     "hadithCount": 60,
     "hadithIndexStart": 5586,
     "name": {
-      "bn": "Manners and Etiquette",
-      "ar-diacritics": "Manners and Etiquette",
-      "id": "Manners and Etiquette",
-      "fr": "Manners and Etiquette",
+      "bn": "শিষ্টাচার ও আদব",
+      "ar-diacritics": "الْآدَابُ",
+      "id": "Adab dan Etika",
+      "fr": "Les Bonnes Manières",
       "en": "Manners and Etiquette",
-      "tr": "Manners and Etiquette",
-      "ru": "Manners and Etiquette",
-      "ar": "Manners and Etiquette",
-      "ta": "Manners and Etiquette"
+      "tr": "Ahlak",
+      "ru": "Манеры и этикет",
+      "ar": "الآداب",
+      "ta": "நடத்தைகள் மற்றும் ஒழுக்கம்"
     }
   },
   {
@@ -708,15 +708,15 @@
     "hadithCount": 216,
     "hadithIndexStart": 5646,
     "name": {
-      "bn": "Greetings",
+      "bn": "অভিবাদন",
       "ar-diacritics": "التحية",
-      "id": "Greetings",
-      "fr": "Greetings",
+      "id": "Salam",
+      "fr": "Les Salutations",
       "en": "Greetings",
       "tr": "Selamlaşma",
-      "ru": "Greetings",
+      "ru": "Приветствия",
       "ar": "التحية",
-      "ta": "Greetings"
+      "ta": "வாழ்த்துக்கள்"
     }
   },
   {
@@ -726,15 +726,15 @@
     "hadithCount": 23,
     "hadithIndexStart": 5862,
     "name": {
-      "bn": "Concerning the Use of Correct Words",
-      "ar-diacritics": "Concerning the Use of Correct Words",
-      "id": "Concerning the Use of Correct Words",
-      "fr": "Concerning the Use of Correct Words",
+      "bn": "শব্দ প্রয়োগ",
+      "ar-diacritics": "الْأَلْفَاظُ",
+      "id": "Penggunaan Kata yang Benar",
+      "fr": "L'Usage des Mots Justes",
       "en": "Concerning the Use of Correct Words",
-      "tr": "Concerning the Use of Correct Words",
-      "ru": "Concerning the Use of Correct Words",
-      "ar": "Concerning the Use of Correct Words",
-      "ta": "Concerning the Use of Correct Words"
+      "tr": "Doğru Kelimelerin Kullanımı",
+      "ru": "Об использовании правильных слов",
+      "ar": "الألفاظ",
+      "ta": "சரியான சொற்கள்"
     }
   },
   {
@@ -744,15 +744,15 @@
     "hadithCount": 10,
     "hadithIndexStart": 5887,
     "name": {
-      "bn": "Poetry",
-      "ar-diacritics": "Poetry",
-      "id": "Poetry",
-      "fr": "Poetry",
+      "bn": "কবিতা",
+      "ar-diacritics": "الشِّعْرُ",
+      "id": "Puisi",
+      "fr": "La Poésie",
       "en": "Poetry",
-      "tr": "Poetry",
-      "ru": "Poetry",
-      "ar": "Poetry",
-      "ta": "Poetry"
+      "tr": "Saç",
+      "ru": "Поэзия",
+      "ar": "الشعر",
+      "ta": "கவிதை"
     }
   },
   {
@@ -762,15 +762,15 @@
     "hadithCount": 41,
     "hadithIndexStart": 5897,
     "name": {
-      "bn": "Dreams",
+      "bn": "স্বপ্ন",
       "ar-diacritics": "الأحلام",
-      "id": "Dreams",
-      "fr": "Dreams",
+      "id": "Mimpi",
+      "fr": "Les Rêves",
       "en": "Dreams",
       "tr": "Rüyalar",
-      "ru": "Dreams",
+      "ru": "Сны",
       "ar": "الأحلام",
-      "ta": "Dreams"
+      "ta": "கனவுகள்"
     }
   },
   {
@@ -780,15 +780,15 @@
     "hadithCount": 5785,
     "hadithIndexStart": 384,
     "name": {
-      "bn": "Virtues",
-      "ar-diacritics": "Virtues",
-      "id": "Virtues",
-      "fr": "Virtues",
+      "bn": "ফজিলত",
+      "ar-diacritics": "الْفَضَائِلُ",
+      "id": "Keutamaan",
+      "fr": "Les Vertus",
       "en": "Virtues",
-      "tr": "Virtues",
-      "ru": "Virtues",
-      "ar": "Virtues",
-      "ta": "Virtues"
+      "tr": "Faziletler ve Erdemler",
+      "ru": "Достоинства",
+      "ar": "الفضائل",
+      "ta": "சிறப்புகள்"
     }
   },
   {
@@ -798,15 +798,15 @@
     "hadithCount": 331,
     "hadithIndexStart": 6169,
     "name": {
-      "bn": "The Merits of the Companions",
-      "ar-diacritics": "The Merits of the Companions",
-      "id": "The Merits of the Companions",
-      "fr": "The Merits of the Companions",
+      "bn": "সাহাবীদের ফজিলত",
+      "ar-diacritics": "فَضَائِلُ الصَّحَابَةِ",
+      "id": "Keutamaan Para Sahabat",
+      "fr": "Les Mérites des Compagnons",
       "en": "The Merits of the Companions",
-      "tr": "The Merits of the Companions",
-      "ru": "The Merits of the Companions",
-      "ar": "The Merits of the Companions",
-      "ta": "The Merits of the Companions"
+      "tr": "Peygamberin Ashabının Fazileti",
+      "ru": "Достоинства сподвижников",
+      "ar": "فضائل الصحابة",
+      "ta": "தோழர்களின் சிறப்புகள்"
     }
   },
   {
@@ -816,15 +816,15 @@
     "hadithCount": 223,
     "hadithIndexStart": 6500,
     "name": {
-      "bn": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
-      "ar-diacritics": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
-      "id": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
-      "fr": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+      "bn": "সৎকর্ম, আত্মীয়তার সম্পর্ক ও শিষ্টাচার",
+      "ar-diacritics": "الْبِرُّ وَالصِّلَةُ وَالْآدَابُ",
+      "id": "Kebajikan, Adab, dan Silaturahmi",
+      "fr": "La Vertu, les Bonnes Manières et les Liens de Parenté",
       "en": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
-      "tr": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
-      "ru": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
-      "ar": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
-      "ta": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
+      "tr": "İyilik, Güzel Ahlak ve Sıla-i Rahim",
+      "ru": "Добродетель, благонравие и поддержание родственных связей",
+      "ar": "البر والصلة والآداب",
+      "ta": "நற்செயல், நடத்தை மற்றும் உறவுப் பிணைப்பு"
     }
   },
   {
@@ -834,15 +834,15 @@
     "hadithCount": 52,
     "hadithIndexStart": 6723,
     "name": {
-      "bn": "Destiny",
-      "ar-diacritics": "Destiny",
-      "id": "Destiny",
-      "fr": "Destiny",
+      "bn": "তাকদীর",
+      "ar-diacritics": "القدر",
+      "id": "Qada dan Qadar",
+      "fr": "Le Destin",
       "en": "Destiny",
-      "tr": "Destiny",
-      "ru": "Destiny",
-      "ar": "Destiny",
-      "ta": "Destiny"
+      "tr": "Kader",
+      "ru": "Судьба",
+      "ar": "القدر",
+      "ta": "விதி"
     }
   },
   {
@@ -852,15 +852,15 @@
     "hadithCount": 30,
     "hadithIndexStart": 6775,
     "name": {
-      "bn": "Knowledge",
+      "bn": "জ্ঞান",
       "ar-diacritics": "العلم",
-      "id": "Knowledge",
-      "fr": "Knowledge",
+      "id": "Pengetahuan",
+      "fr": "La Connaissance",
       "en": "Knowledge",
       "tr": "Bilgi",
-      "ru": "Knowledge",
+      "ru": "Знание",
       "ar": "العلم",
-      "ta": "Knowledge"
+      "ta": "ஞானம்"
     }
   },
   {
@@ -870,15 +870,15 @@
     "hadithCount": 132,
     "hadithIndexStart": 6805,
     "name": {
-      "bn": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
-      "ar-diacritics": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
-      "id": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
-      "fr": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+      "bn": "আল্লাহর স্মরণ, দুআ, তাওবা ও ইস্তিগফার",
+      "ar-diacritics": "الذِّكْرُ وَالدُّعَاءُ وَالتَّوْبَةُ وَالِاسْتِغْفَارُ",
+      "id": "Dzikir, Doa, Taubat, dan Istigfar",
+      "fr": "L'Évocation d'Allah, l'Invocation, le Repentir et le Pardon",
       "en": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
-      "tr": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
-      "ru": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
-      "ar": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
-      "ta": "Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+      "tr": "Zikir, Dua, Tövbe ve İstiğfar",
+      "ru": "Поминание Аллаха, мольба, покаяние и прощение",
+      "ar": "الذكر والدعاء والتوبة والاستغفار",
+      "ta": "அல்லாஹ்வை நினைத்தல், பிரார்த்தனை, மன்னிப்பு"
     }
   },
   {
@@ -888,15 +888,15 @@
     "hadithCount": 15,
     "hadithIndexStart": 6937,
     "name": {
-      "bn": "Heart-Melting Traditions",
-      "ar-diacritics": "Heart-Melting Traditions",
-      "id": "Heart-Melting Traditions",
-      "fr": "Heart-Melting Traditions",
+      "bn": "হৃদয়দ্রাবক বর্ণনা",
+      "ar-diacritics": "الرِّقَاقُ",
+      "id": "Riwayat Pelembut Hati",
+      "fr": "Les Traditions Attendrissantes",
       "en": "Heart-Melting Traditions",
-      "tr": "Heart-Melting Traditions",
-      "ru": "Heart-Melting Traditions",
-      "ar": "Heart-Melting Traditions",
-      "ta": "Heart-Melting Traditions"
+      "tr": "Kalbi Yumuşatmak",
+      "ru": "Умиляющие традиции",
+      "ar": "الرقاق",
+      "ta": "இதயம் உருக்கும் மரபுகள்"
     }
   },
   {
@@ -906,15 +906,15 @@
     "hadithCount": 72,
     "hadithIndexStart": 6952,
     "name": {
-      "bn": "Repentance",
-      "ar-diacritics": "Repentance",
-      "id": "Repentance",
-      "fr": "Repentance",
+      "bn": "তাওবা",
+      "ar-diacritics": "التَّوْبَةُ",
+      "id": "Taubat",
+      "fr": "Le Repentir",
       "en": "Repentance",
-      "tr": "Repentance",
-      "ru": "Repentance",
-      "ar": "Repentance",
-      "ta": "Repentance"
+      "tr": "Tövbe",
+      "ru": "Покаяние",
+      "ar": "التوبة",
+      "ta": "மன்னிப்பு"
     }
   },
   {
@@ -924,15 +924,15 @@
     "hadithCount": 21,
     "hadithIndexStart": 7024,
     "name": {
-      "bn": "Characteristics of The Hypocrites And Rulings Concerning Them",
-      "ar-diacritics": "Characteristics of The Hypocrites And Rulings Concerning Them",
-      "id": "Characteristics of The Hypocrites And Rulings Concerning Them",
-      "fr": "Characteristics of The Hypocrites And Rulings Concerning Them",
+      "bn": "মুনাফিকদের বৈশিষ্ট্য ও বিধান",
+      "ar-diacritics": "صِفَاتُ الْمُنَافِقِينَ وَأَحْكَامُهُمْ",
+      "id": "Sifat Munafik dan Hukumnya",
+      "fr": "Les Caractéristiques des Hypocrites",
       "en": "Characteristics of The Hypocrites And Rulings Concerning Them",
-      "tr": "Characteristics of The Hypocrites And Rulings Concerning Them",
-      "ru": "Characteristics of The Hypocrites And Rulings Concerning Them",
-      "ar": "Characteristics of The Hypocrites And Rulings Concerning Them",
-      "ta": "Characteristics of The Hypocrites And Rulings Concerning Them"
+      "tr": "Münafıkların Özellikleri ve Hükümleri",
+      "ru": "Качества лицемеров",
+      "ar": "صفات المنافقين وأحكامهم",
+      "ta": "நயவஞ்சகர்களின் பண்புகள்"
     }
   },
   {
@@ -942,15 +942,15 @@
     "hadithCount": 85,
     "hadithIndexStart": 7045,
     "name": {
-      "bn": "Characteristics of the Day of Judgment, Paradise, and Hell",
-      "ar-diacritics": "Characteristics of the Day of Judgment, Paradise, and Hell",
-      "id": "Characteristics of the Day of Judgment, Paradise, and Hell",
-      "fr": "Characteristics of the Day of Judgment, Paradise, and Hell",
+      "bn": "কিয়ামত, জান্নাত ও জাহান্নামের বর্ণনা",
+      "ar-diacritics": "صِفَةُ يَوْمِ الْقِيَامَةِ وَالْجَنَّةِ وَالنَّارِ",
+      "id": "Sifat Hari Kiamat, Surga, dan Neraka",
+      "fr": "Les Caractéristiques du Jour du Jugement, du Paradis et de l'Enfer",
       "en": "Characteristics of the Day of Judgment, Paradise, and Hell",
-      "tr": "Characteristics of the Day of Judgment, Paradise, and Hell",
-      "ru": "Characteristics of the Day of Judgment, Paradise, and Hell",
-      "ar": "Characteristics of the Day of Judgment, Paradise, and Hell",
-      "ta": "Characteristics of the Day of Judgment, Paradise, and Hell"
+      "tr": "Kıyamet, Cennet ve Cehennemin Özellikleri",
+      "ru": "Описание Судного дня, Рая и Ада",
+      "ar": "صفة يوم القيامة والجنة والنار",
+      "ta": "இறுதி நாள், சுவர்க்கம் மற்றும் நரகத்தின் விளக்கம்"
     }
   },
   {
@@ -960,15 +960,15 @@
     "hadithCount": 105,
     "hadithIndexStart": 7130,
     "name": {
-      "bn": "Paradise, its Description, its Bounties and its Inhabitants",
-      "ar-diacritics": "Paradise, its Description, its Bounties and its Inhabitants",
-      "id": "Paradise, its Description, its Bounties and its Inhabitants",
-      "fr": "Paradise, its Description, its Bounties and its Inhabitants",
+      "bn": "জান্নাত, তার বর্ণনা, নেয়ামত ও অধিবাসী",
+      "ar-diacritics": "الْجَنَّةُ وَصِفَتُهَا وَنَعِيمُهَا وَأَهْلُهَا",
+      "id": "Surga, Deskripsinya, Nikmatnya, dan Penghuninya",
+      "fr": "Le Paradis, sa Description, ses Bienfaits et ses Habitants",
       "en": "Paradise, its Description, its Bounties and its Inhabitants",
-      "tr": "Paradise, its Description, its Bounties and its Inhabitants",
-      "ru": "Paradise, its Description, its Bounties and its Inhabitants",
-      "ar": "Paradise, its Description, its Bounties and its Inhabitants",
-      "ta": "Paradise, its Description, its Bounties and its Inhabitants"
+      "tr": "Cennet, Vasfı, Nimetleri ve Cennetlikler",
+      "ru": "Рай, его описание, блага и обитатели",
+      "ar": "الجنة وصفتها ونعيمها وأهلها",
+      "ta": "சுவர்க்கம் மற்றும் அதன் இன்பங்கள்"
     }
   },
   {
@@ -978,15 +978,15 @@
     "hadithCount": 182,
     "hadithIndexStart": 7235,
     "name": {
-      "bn": "Tribulations and Portents of the Last Hour",
-      "ar-diacritics": "Tribulations and Portents of the Last Hour",
-      "id": "Tribulations and Portents of the Last Hour",
-      "fr": "Tribulations and Portents of the Last Hour",
+      "bn": "ফিতনা ও কিয়ামতের নিদর্শন",
+      "ar-diacritics": "الْفِتَنُ وَأَشْرَاطُ السَّاعَةِ",
+      "id": "Fitnah dan Tanda-tanda Kiamat",
+      "fr": "Les Tribulations et les Signes de l'Heure",
       "en": "Tribulations and Portents of the Last Hour",
-      "tr": "Tribulations and Portents of the Last Hour",
-      "ru": "Tribulations and Portents of the Last Hour",
-      "ar": "Tribulations and Portents of the Last Hour",
-      "ta": "Tribulations and Portents of the Last Hour"
+      "tr": "Fitneler ve Kıyamet Alametleri",
+      "ru": "Смуты и признаки Часа",
+      "ar": "الفتن وأشراط الساعة",
+      "ta": "சோதனைகள் மற்றும் இறுதி நேர அடையாளங்கள்"
     }
   },
   {
@@ -996,15 +996,15 @@
     "hadithCount": 106,
     "hadithIndexStart": 7417,
     "name": {
-      "bn": "Zuhd and Softening of Hearts",
-      "ar-diacritics": "Zuhd and Softening of Hearts",
-      "id": "Zuhd and Softening of Hearts",
-      "fr": "Zuhd and Softening of Hearts",
+      "bn": "জুহদ ও হৃদয় নরমকরণ",
+      "ar-diacritics": "الزُّهْدُ وَالرِّقَاقُ",
+      "id": "Zuhud dan Melembutkan Hati",
+      "fr": "L'Ascétisme et l'Attendrissement des Cœurs",
       "en": "Zuhd and Softening of Hearts",
-      "tr": "Zuhd and Softening of Hearts",
-      "ru": "Zuhd and Softening of Hearts",
-      "ar": "Zuhd and Softening of Hearts",
-      "ta": "Zuhd and Softening of Hearts"
+      "tr": "Zühd ve Kalpleri Yumuşatma",
+      "ru": "Аскетизм и смягчение сердец",
+      "ar": "الزهد والرقاق",
+      "ta": "ஜுஹ்தும் இதய மிருதுவாக்கலும்"
     }
   },
   {
@@ -1014,15 +1014,15 @@
     "hadithCount": 41,
     "hadithIndexStart": 7523,
     "name": {
-      "bn": "Commentary on the Qur'an",
-      "ar-diacritics": "Commentary on the Qur'an",
-      "id": "Commentary on the Qur'an",
-      "fr": "Commentary on the Qur'an",
+      "bn": "তাফসীর",
+      "ar-diacritics": "التَّفْسِيرُ",
+      "id": "Tafsir",
+      "fr": "Le Commentaire du Coran",
       "en": "Commentary on the Qur'an",
-      "tr": "Commentary on the Qur'an",
-      "ru": "Commentary on the Qur'an",
-      "ar": "Commentary on the Qur'an",
-      "ta": "Commentary on the Qur'an"
+      "tr": "Tefsir",
+      "ru": "Толкование Корана",
+      "ar": "التفسير",
+      "ta": "குர்ஆன் விளக்கம்"
     }
   }
 ]
