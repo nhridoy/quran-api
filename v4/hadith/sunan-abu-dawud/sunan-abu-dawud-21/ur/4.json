@@ -1,0 +1,93 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c55add1a4c9c86f093a8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3239,
+      "bookHadithIndex": 151,
+      "text": "اس سند سے بھی ابن عباس رضی اللہ عنہما سے اسی طرح کی حدیث مروی ہے اس میں ہے کہ اسے دو کپڑوں میں کفناؤ۔ ابوداؤد کہتے ہیں: سلیمان نے کہا ہے کہ ایوب کی روایت میں «ثوبين» کے بجائے «ثوبيه» ( اسی کے دونوں کپڑے میں ) ہے اور عمرو نے «ثوبين» کا لفظ نقل کیا ہے۔ ابو عبید نے کہا کہ ایوب نے «في ثوبين» اور عمرو نے «في ثوبيه» کہا ہے، اور تنہا سلیمان نے «ولا تحنطوه» ( اسے خوشبو نہ لگاؤ ) کا اضافہ کیا ہے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1849) Sahih Muslim (1206)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093a9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3240,
+      "bookHadithIndex": 152,
+      "text": "اس سند سے بھی ابن عباس رضی اللہ عنہما سے سلیمان کی حدیث کے ہم معنی حدیث مروی ہے اس میں «في ثوبين» ہے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093aa",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3241,
+      "bookHadithIndex": 153,
+      "text": "اس سند سے بھی ابن عباس رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں ایک محرم کو اس کی اونٹنی نے گردن توڑ کر ہلاک کر دیا، اسے رسول اللہ صلی اللہ علیہ وسلم کے پاس لایا گیا تو آپ نے فرمایا: اسے غسل دو اور کفن پہناؤ ( لیکن ) اس کا سر نہ ڈھانپو اور اسے خوشبو سے دور رکھو کیونکہ وہ لبیک پکارتا ہوا اٹھایا جائے گا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1839)"
+        }
+      ]
+    }
+  ]
+}

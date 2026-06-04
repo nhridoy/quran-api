@@ -1,0 +1,83 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c611dd1a4c9c86f09f9f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1026,
+      "bookHadithIndex": 151,
+      "text": "Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; telah memberitakan kepada kami ['Abdullah bin Al Mubarak] dari [Sufyan] dari ['Ashim bin Kulaib] dari ['Abdurrahman bin Al Aswad] dari ['Alqamah] dari ['Abdullah] dia berkata; \"Maukah kalian aku beritahu tentang cara shalat Rasulullah Shallallahu'alaihiwasallam? Beliau Shallallahu'alaihi wasallam mengangkat kedua tangan pertama kali kemudian tidak mengulanginya",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1027,
+      "bookHadithIndex": 152,
+      "text": "Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada kami [Al Fudhail] dari [Al A'masy] dari ['Umarah bin 'Umair] dari [Abu Ma'mar] dari [Abu Mas'ud] dia berkata; Rasulullah Shallallahu'alaihi wasallam bersabda: \"Tidak sempurna shalat seseorang yang tidak meluruskan punggungnya (Thuma'ninah) ketika ruku' dan sujud",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1028,
+      "bookHadithIndex": 153,
+      "text": "Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; telah memberitakan kepada kami ['Abdullah bin Al Mubarak] dari [Sa'id bin Abu 'Arubah] dan [Hammad bin Salamah] dari [Qatadah] dari [Anas] dari Rasulullah Shallallahu'alaihi wasallam, beliau Shallallahu'alaihi wasallam bersabda: \"Luruskanlah saat ruku' dan sujud, serta janganlah salah seorang dari kalian menghamparkan kedua lengannya di tanah seperti anjing",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

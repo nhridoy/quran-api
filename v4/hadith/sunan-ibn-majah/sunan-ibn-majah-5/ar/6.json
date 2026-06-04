@@ -1,0 +1,1468 @@
+{
+  "total": 630,
+  "totalPage": 13,
+  "page": 6,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c859dd1a4c9c86f0c605",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1053,
+      "bookHadithIndex": 251,
+      "text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا محمد بن يزيد بن خنيس، عن الحسن بن محمد بن عبيد الله بن ابي يزيد، قال قال لي ابن جريج يا حسن اخبرني جدك، عبيد الله بن ابي يزيد عن ابن عباس، قال كنت عند النبي صلى الله عليه وسلم فاتاه رجل فقال اني رايت البارحة فيما يرى النايم كاني اصلي الى اصل شجرة فقرات السجدة فسجدت فسجدت الشجرة لسجودي فسمعتها تقول اللهم احطط عني بها وزرا واكتب لي بها اجرا واجعلها لي عندك ذخرا. قال ابن عباس فرايت النبي صلى الله عليه وسلم قرا السجدة فسجد فسمعته يقول في سجوده مثل الذي اخبره الرجل عن قول الشجرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1053-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1053-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1053-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c606",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1054,
+      "bookHadithIndex": 252,
+      "text": "حدثنا علي بن عمرو الانصاري، حدثنا يحيى بن سعيد الاموي، عن ابن جريج، عن موسى بن عقبة، عن عبد الله بن الفضل، عن الاعرج، عن ابن ابي رافع، عن علي، ان النبي صلى الله عليه وسلم كان اذا سجد قال \" اللهم لك سجدت وبك امنت ولك اسلمت انت ربي سجد وجهي للذي شق سمعه وبصره تبارك الله احسن الخالقين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1054-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1054-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1054-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1054-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c607",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1055,
+      "bookHadithIndex": 253,
+      "text": "حدثنا حرملة بن يحيى المصري، حدثنا عبد الله بن وهب، اخبرني عمرو بن الحارث، عن ابن ابي هلال، عن عمر الدمشقي، عن ام الدرداء، قالت حدثني ابو الدرداء، انه سجد مع النبي صلى الله عليه وسلم احدى عشرة سجدة منهن النجم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1055-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1055-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1055-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1055-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c608",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1056,
+      "bookHadithIndex": 254,
+      "text": "حدثنا محمد بن يحيى، حدثنا سليمان بن عبد الرحمن الدمشقي، حدثنا عثمان بن فايد، حدثنا عاصم بن رجاء بن حيوة، عن المهدي بن عبد الرحمن بن عيينة بن خاطر، قال حدثتني عمتي ام الدرداء، عن ابي الدرداء، قال سجدت مع النبي صلى الله عليه وسلم احدى عشرة سجدة ليس فيها من المفصل شىء الاعراف والرعد والنحل وبني اسراييل ومريم والحج وسجدة الفرقان وسليمان سورة النمل والسجدة وفي ص وسجدة الحواميم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1056-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1056-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1056-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1056-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c609",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1057,
+      "bookHadithIndex": 255,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابن ابي مريم، عن نافع بن يزيد، حدثنا الحارث بن سعيد العتقي، عن عبد الله بن منين، - من بني عبد كلال - عن عمرو بن العاص، ان رسول الله صلى الله عليه وسلم اقراه خمس عشرة سجدة في القران منها ثلاث في المفصل وفي الحج سجدتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1057-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1057-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1057-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1057-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c60a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1058,
+      "bookHadithIndex": 256,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن ايوب بن موسى، عن عطاء بن ميناء، عن ابي هريرة، قال سجدنا مع رسول الله صلى الله عليه وسلم في {اذا السماء انشقت} و {اقرا باسم ربك}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1058-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1058-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1058-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1058-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c60b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1059,
+      "bookHadithIndex": 257,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن يحيى بن سعيد، عن ابي بكر بن محمد بن عمرو بن حزم، عن عمر بن عبد العزيز، عن ابي بكر بن عبد الرحمن بن الحارث بن هشام، عن ابي هريرة، ان النبي صلى الله عليه وسلم سجد في {اذا السماء انشقت}. قال ابو بكر بن ابي شيبة هذا الحديث من حديث يحيى بن سعيد ما سمعت احدا يذكره غيره",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1059-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1059-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1059-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1059-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c60c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1060,
+      "bookHadithIndex": 258,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن نمير، عن عبيد الله بن عمر، عن سعيد بن ابي سعيد، عن ابي هريرة، ان رجلا، دخل المسجد فصلى ورسول الله صلى الله عليه وسلم في ناحية من المسجد فجاء فسلم فقال \" وعليك فارجع فصل فانك لم تصل \" . فرجع فصلى ثم جاء فسلم على النبي صلى الله عليه وسلم فقال \" وعليك فارجع فصل فانك لم تصل بعد \" . قال في الثالثة فعلمني يا رسول الله . قال \"اذا قمت الى الصلاة فاسبغ الوضوء ثم استقبل القبلة وكبر، ثم اقرا ما تيسر معك من القران، ثم اركع حتى تطمين راكعا، ثم ارفع حتى تطمين قايما، ثم اسجد حتى تطمين ساجدا، ثم ارفع راسك حتى تستوي قاعدا، ثم افعل ذلك في صلاتك كلها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1060-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1060-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1060-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1060-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c60d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1061,
+      "bookHadithIndex": 259,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو عاصم، حدثنا عبد الحميد بن جعفر، حدثنا محمد بن عمرو بن عطاء، قال سمعت ابا حميد الساعدي، في عشرة من اصحاب رسول الله صلى الله عليه وسلم فيهم ابو قتادة فقال ابو حميد انا اعلمكم بصلاة رسول الله صلى الله عليه وسلم . قالوا لم فوالله ما كنت باكثرنا له تبعة ولا اقدمنا له صحبة . قال بلى . قالوا فاعرض . قال كان رسول الله صلى الله عليه وسلم اذا قام الى الصلاة كبر ثم رفع يديه حتى يحاذي بهما منكبيه ويقر كل عضو منه في موضعه ثم يقرا ثم يكبر ويرفع يديه حتى يحاذي بهما منكبيه ثم يركع ويضع راحتيه على ركبتيه معتمدا لا يصب راسه ولا يقنع معتدلا ثم يقول \" سمع الله لمن حمده \" . ويرفع يديه حتى يحاذي بهما منكبيه حتى يقر كل عظم الى موضعه ثم يهوي الى الارض ويجافي يديه عن جنبيه ثم يرفع راسه ويثني رجله اليسرى فيقعد عليها ويفتخ اصابع رجليه اذا سجد ثم يسجد ثم يكبر ويجلس على رجله اليسرى حتى يرجع كل عظم منه الى موضعه ثم يقوم فيصنع في الركعة الاخرى مثل ذلك ثم اذا قام من الركعتين رفع يديه حتى يحاذي بهما منكبيه كما صنع عند افتتاح الصلاة ثم يصلي بقية صلاته هكذا حتى اذا كانت السجدة التي ينقضي فيها التسليم اخر احدى رجليه وجلس على شقه الايسر متوركا . قالوا صدقت هكذا كان يصلي رسول الله صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1061-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1061-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1061-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1061-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c60e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1062,
+      "bookHadithIndex": 260,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبدة بن سليمان، عن حارثة بن ابي الرجال، عن عمرة، قالت سالت عايشة كيف كانت صلاة رسول الله صلى الله عليه وسلم قالت كان النبي صلى الله عليه وسلم اذا توضا فوضع يديه في الاناء سمى الله ويسبغ الوضوء ثم يقوم فيستقبل القبلة فيكبر ويرفع يديه حذاء منكبيه ثم يركع فيضع يديه على ركبتيه ويجافي بعضديه ثم يرفع راسه فيقيم صلبه ويقوم قياما هو اطول من قيامكم قليلا ثم يسجد فيضع يديه تجاه القبلة ويجافي بعضديه ما استطاع فيما رايت ثم يرفع راسه فيجلس على قدمه اليسرى وينصب اليمنى ويكره ان يسقط على شقه الايسر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1062-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1062-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1062-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1062-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c60f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1063,
+      "bookHadithIndex": 261,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شريك، عن زبيد، عن عبد الرحمن بن ابي ليلى، عن عمر، قال صلاة السفر ركعتان والجمعة ركعتان والعيد ركعتان تمام غير قصر على لسان محمد صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1063-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1063-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1063-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1063-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c610",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1064,
+      "bookHadithIndex": 262,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا محمد بن بشر، انبانا يزيد بن زياد بن ابي الجعد، عن زبيد، عن عبد الرحمن بن ابي ليلى، عن كعب بن عجرة، عن عمر، قال صلاة السفر ركعتان وصلاة الجمعة ركعتان والفطر والاضحى ركعتان تمام غير قصر على لسان محمد صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1064-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1064-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1064-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1064-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c611",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1065,
+      "bookHadithIndex": 263,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن ادريس، عن ابن جريج، عن ابن ابي عمار، عن عبد الله بن بابيه، عن يعلى بن امية، قال سالت عمر بن الخطاب قلت ليس عليكم جناح ان تقصروا من الصلاة ان خفتم ان يفتنكم الذين كفروا وقد امن الناس فقال عجبت مما عجبت منه فسالت رسول الله صلى الله عليه وسلم عن ذلك فقال \" صدقة تصدق الله بها عليكم، فاقبلوا صدقته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1065-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1065-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1065-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1065-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c612",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1066,
+      "bookHadithIndex": 264,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابن شهاب، عن عبد الله بن ابي بكر بن عبد الرحمن، عن امية بن عبد الله بن خالد، انه قال لعبد الله بن عمر انا نجد صلاة الحضر وصلاة الخوف في القران ولا نجد صلاة السفر فقال له عبد الله ان الله بعث الينا محمدا صلى الله عليه وسلم ولا نعلم شييا فانما نفعل كما راينا محمدا صلى الله عليه وسلم يفعل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1066-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1066-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1066-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1066-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c613",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1067,
+      "bookHadithIndex": 265,
+      "text": "حدثنا احمد بن عبدة، انبانا حماد بن زيد، عن بشر بن حرب، عن ابن عمر، قال كان رسول الله صلى الله عليه وسلم اذا خرج من هذه المدينة لم يزد على ركعتين، حتى يرجع اليها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1067-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1067-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1067-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1067-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c614",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1068,
+      "bookHadithIndex": 266,
+      "text": "حدثنا محمد بن عبد الملك بن ابي الشوارب، وجبارة بن المغلس، قالا حدثنا ابو عوانة، عن بكير بن الاخنس، عن مجاهد، عن ابن عباس، قال: افترض الله الصلاة على لسان نبيكم صلى الله عليه وسلم في الحضر اربعا وفي السفر ركعتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1068-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1068-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1068-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1068-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c615",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1069,
+      "bookHadithIndex": 267,
+      "text": "حدثنا محرز بن سلمة العدني، حدثنا عبد العزيز بن ابي حازم، عن ابراهيم بن اسماعيل، عن عبد الكريم، عن مجاهد، وسعيد بن جبير، وعطاء بن ابي رباح، وطاوس، اخبروه عن ابن عباس، انه اخبرهم ان رسول الله صلى الله عليه وسلم كان يجمع بين المغرب والعشاء في السفر من غير ان يعجله شىء ولا يطلبه عدو ولا يخاف شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1069-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1069-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1069-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1069-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c616",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1070,
+      "bookHadithIndex": 268,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن ابي الزبير، عن ابي الطفيل، عن معاذ بن جبل، ان النبي صلى الله عليه وسلم جمع بين الظهر والعصر والمغرب والعشاء في غزوة تبوك في السفر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1070-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1070-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1070-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1070-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c617",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1071,
+      "bookHadithIndex": 269,
+      "text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا ابو عامر، عن عيسى بن حفص بن عاصم بن عمر بن الخطاب، حدثني ابي قال، كنا مع ابن عمر في سفر فصلى بنا ثم انصرفنا معه وانصرف . قال فالتفت فراى اناسا يصلون فقال ما يصنع هولاء قلت يسبحون . قال لو كنت مسبحا لاتممت صلاتي يا ابن اخي اني صحبت رسول الله صلى الله عليه وسلم فلم يزد على ركعتين في السفر حتى قبضه الله ثم صحبت ابا بكر فلم يزد على ركعتين ثم صحبت عمر فلم يزد على ركعتين ثم صحبت عثمان فلم يزد على ركعتين حتى قبضهم الله والله يقول {لقد كان لكم في رسول الله اسوة حسنة}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1071-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1071-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1071-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1071-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c618",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1072,
+      "bookHadithIndex": 270,
+      "text": "حدثنا ابو بكر بن خلاد، حدثنا وكيع، حدثنا اسامة بن زيد، قال سالت طاوسا عن السبحة، في السفر - والحسن بن مسلم بن يناق جالس عنده - فقال حدثني طاوس، انه سمع ابن عباس، يقول فرض رسول الله صلى الله عليه وسلم صلاة الحضر وصلاة السفر فكنا نصلي في الحضر قبلها وبعدها وكنا نصلي في السفر قبلها وبعدها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1072-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1072-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1072-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1072-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c619",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1073,
+      "bookHadithIndex": 271,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا حاتم بن اسماعيل، عن عبد الرحمن بن حميد الزهري، قال سالت السايب بن يزيد ماذا سمعت في، سكنى مكة قال سمعت العلاء بن الحضرمي، يقول قال النبي صلى الله عليه وسلم \" ثلاثا للمهاجر بعد الصدر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1073-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1073-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1073-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1073-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c61a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1074,
+      "bookHadithIndex": 272,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابو عاصم، وقراته، عليه انبانا ابن جريج، اخبرني عطاء، حدثني جابر بن عبد الله، في اناس معي قال قدم النبي صلى الله عليه وسلم مكة صبح رابعة مضت من شهر ذي الحجة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1074-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1074-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1074-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1074-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c61b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1075,
+      "bookHadithIndex": 273,
+      "text": "حدثنا محمد بن عبد الملك بن ابي الشوارب، حدثنا عبد الواحد بن زياد، حدثنا عاصم الاحول، عن عكرمة، عن ابن عباس، قال اقام رسول الله صلى الله عليه وسلم تسعة عشر يوما يصلي ركعتين ركعتين، فنحن اذا اقمنا تسعة عشر يوما، نصلي ركعتين ركعتين، فاذا اقمنا اكثر من ذلك، صلينا اربعا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1075-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1075-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1075-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1075-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c61c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1076,
+      "bookHadithIndex": 274,
+      "text": "حدثنا ابو يوسف الصيدلاني، محمد بن احمد الرقي حدثنا محمد بن سلمة، عن محمد بن اسحاق، عن الزهري، عن عبيد الله بن عبد الله بن عتبة، عن ابن عباس، ان رسول الله صلى الله عليه وسلم اقام بمكة عام الفتح خمس عشرة ليلة يقصر الصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1076-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1076-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1076-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c61d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1077,
+      "bookHadithIndex": 275,
+      "text": "حدثنا نصر بن علي الجهضمي، حدثنا يزيد بن زريع، وعبد الاعلى، قالا حدثنا يحيى بن ابي اسحاق، عن انس قال: خرجنا مع رسول الله صلى الله عليه وسلم من المدينة الى مكة. فصلى ركعتين ركعتين، حتى رجعنا . قلت: كم اقام بمكة؟ قال: عشرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1077-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1077-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1077-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1077-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c61e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1078,
+      "bookHadithIndex": 276,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا سفيان، عن ابي الزبير، عن جابر بن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" بين العبد وبين الكفر ترك الصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1078-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1078-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1078-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1078-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c61f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1079,
+      "bookHadithIndex": 277,
+      "text": "حدثنا اسماعيل بن ابراهيم البالسي، حدثنا علي بن الحسن بن شقيق، حدثنا حسين بن واقد، حدثنا عبد الله بن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" العهد الذي بيننا وبينهم الصلاة، فمن تركها فقد كفر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1079-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1079-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1079-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1079-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c620",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1080,
+      "bookHadithIndex": 278,
+      "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا الوليد بن مسلم، حدثنا الاوزاعي، عن عمرو بن سعد، عن يزيد الرقاشي، عن انس بن مالك، عن النبي صلى الله عليه وسلم قال \" ليس بين العبد والشرك الا ترك الصلاة، فاذا تركها فقد اشرك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1080-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1080-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1080-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1080-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c621",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1081,
+      "bookHadithIndex": 279,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا الوليد بن بكير ابو خباب، حدثني عبد الله بن محمد العدوي، عن علي بن زيد، عن سعيد بن المسيب، عن جابر بن عبد الله، قال خطبنا رسول الله صلى الله عليه وسلم فقال \" يا ايها الناس توبوا الى الله قبل ان تموتوا وبادروا بالاعمال الصالحة قبل ان تشغلوا وصلوا الذي بينكم وبين ربكم بكثرة ذكركم له وكثرة الصدقة في السر والعلانية ترزقوا وتنصروا وتجبروا واعلموا ان الله قد افترض عليكم الجمعة في مقامي هذا في يومي هذا في شهري هذا من عامي هذا الى يوم القيامة فمن تركها في حياتي او بعدي وله امام عادل او جاير استخفافا بها او جحودا بها فلا جمع الله له شمله ولا بارك له في امره الا ولا صلاة له ولا زكاة له ولا حج له ولا صوم له ولا بر له حتى يتوب فمن تاب تاب الله عليه الا لا تومن امراة رجلا ولا يومن اعرابي مهاجرا ولا يوم فاجر مومنا الا ان يقهره بسلطان يخاف سيفه وسوطه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1081-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1081-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1081-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1081-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c622",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1082,
+      "bookHadithIndex": 280,
+      "text": "حدثنا يحيى بن خلف ابو سلمة، حدثنا عبد الاعلى، عن محمد بن اسحاق، عن محمد بن ابي امامة بن سهل بن حنيف، عن ابيه ابي امامة، عن عبد الرحمن بن كعب بن مالك، قال: كنت قايد ابي حين ذهب بصره، وكنت اذا خرجت به الى الجمعة فسمع الاذان استغفر لابي امامة، اسعد بن زرارة، ودعا له، فمكثت حينا اسمع ذلك منه، ثم قلت في نفسي: والله ان ذا لعجز، اني اسمعه كلما سمع اذان الجمعة يستغفر لابي امامة ويصلي عليه، ولا اساله عن ذلك لم هو؟ فخرجت به كما كنت اخرج به الى الجمعة. فلما سمع الاذان استغفر كما كان يفعل. فقلت له: يا ابتاه ارايتك صلاتك على اسعد بن زرارة كلما سمعت النداء بالجمعة لم هو؟ قال: اى بنى كان اول من صلى بنا صلاة الجمعة قبل مقدم رسول الله صلى الله عليه وسلم من مكة، في نقيع الخضمات، في هزم من حرة بني بياضة . قلت: كم كنتم يوميذ؟ قال: اربعين رجلا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1082-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1082-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1082-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1082-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c623",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1083,
+      "bookHadithIndex": 281,
+      "text": "حدثنا علي بن المنذر، حدثنا ابن فضيل، حدثنا ابو مالك الاشجعي، عن ربعي بن حراش، عن حذيفة، وعن ابي حازم، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اضل الله عن الجمعة من كان قبلنا. كان لليهود يوم السبت. والاحد للنصارى. فهم لنا تبع الى يوم القيامة. نحن الاخرون من اهل الدنيا، والاولون المقضي لهم قبل الخلايق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1083-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1083-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1083-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1083-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c624",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1084,
+      "bookHadithIndex": 282,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يحيى بن ابي بكير، حدثنا زهير بن محمد، عن عبد الله بن محمد بن عقيل، عن عبد الرحمن بن يزيد الانصاري، عن ابي لبابة بن عبد المنذر، قال قال النبي صلى الله عليه وسلم \" ان يوم الجمعة سيد الايام، واعظمها عند الله. وهو اعظم عند الله من يوم الاضحى ويوم الفطر. فيه خمس خلال. خلق الله فيه ادم. واهبط الله فيه ادم الى الارض. وفيه توفى الله ادم. وفيه ساعة لا يسال الله فيها العبد شييا الا اعطاه. ما لم يسال حراما. وفيه تقوم الساعة. ما من ملك مقرب ولا سماء ولا ارض ولا رياح ولا جبال ولا بحر الا وهن يشفقن من يوم الجمعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1084-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1084-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1084-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c625",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1085,
+      "bookHadithIndex": 283,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا الحسين بن علي، عن عبد الرحمن بن يزيد بن جابر، عن ابي الاشعث الصنعاني، عن شداد بن اوس، قال قال رسول الله صلى الله عليه وسلم \" ان من افضل ايامكم يوم الجمعة فيه خلق ادم وفيه النفخة وفيه الصعقة فاكثروا على من الصلاة فيه فان صلاتكم معروضة على \" . فقال رجل يا رسول الله كيف تعرض صلاتنا عليك وقد ارمت - يعني بليت - . فقال \" ان الله قد حرم على الارض ان تاكل اجساد الانبياء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1085-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1085-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1085-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c626",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1086,
+      "bookHadithIndex": 284,
+      "text": "حدثنا محرز بن سلمة العدني، حدثنا عبد العزيز بن ابي حازم، عن العلاء، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" الجمعة الى الجمعة كفارة ما بينهما. ما لم تغش الكباير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1086-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1086-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1086-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c627",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1087,
+      "bookHadithIndex": 285,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن المبارك، عن الاوزاعي، حدثنا حسان بن عطية، حدثني ابو الاشعث، حدثني اوس بن اوس الثقفي، قال سمعت النبي صلى الله عليه وسلم يقول \" من غسل يوم الجمعة واغتسل، وبكر وابتكر، ومشى ولم يركب، ودنا من الامام، فاستمع، ولم يلغ، كان له بكل خطوة عمل سنة، اجر صيامها وقيامها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1087-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1087-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1087-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1087-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c628",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1088,
+      "bookHadithIndex": 286,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا عمر بن عبيد، عن ابي اسحاق، عن نافع، عن ابن عمر، قال سمعت النبي صلى الله عليه وسلم يقول على المنبر \" من اتى الجمعة فليغتسل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1088-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1088-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1088-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1088-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c629",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1089,
+      "bookHadithIndex": 287,
+      "text": "حدثنا سهل بن ابي سهل، حدثنا سفيان بن عيينة، عن صفوان بن سليم، عن عطاء بن يسار، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم قال \" غسل يوم الجمعة واجب على كل محتلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1089-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1089-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1089-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c62a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1090,
+      "bookHadithIndex": 288,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو معاوية، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من توضا فاحسن الوضوء، ثم اتى الجمعة، فدنا وانصت واستمع، غفر له ما بينه وبين الجمعة الاخرى، وزيادة ثلاثة ايام. ومن مس الحصى فقد لغا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1090-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1090-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1090-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1090-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c62b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1091,
+      "bookHadithIndex": 289,
+      "text": "حدثنا نصر بن علي الجهضمي، حدثنا يزيد بن هارون، انبانا اسماعيل بن مسلم المكي، عن يزيد الرقاشي، عن انس بن مالك، عن النبي صلى الله عليه وسلم قال \" من توضا يوم الجمعة فبها ونعمت يجزي عنه الفريضة ومن اغتسل فالغسل افضل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1091-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1091-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1091-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c62c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1092,
+      "bookHadithIndex": 290,
+      "text": "حدثنا هشام بن عمار، وسهل بن ابي سهل، قالا حدثنا سفيان بن عيينة، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" اذا كان يوم الجمعة، كان على كل باب من ابواب المسجد ملايكة يكتبون الناس على قدر منازلهم. الاول فالاول. فاذا خرج الامام طووا الصحف، واستمعوا الخطبة. فالمهجر الى الصلاة كالمهدي بدنة. ثم الذي يليه كمهدي بقرة. ثم الذي يليه كمهدي كبش \" . حتى ذكر الدجاجة والبيضة زاد سهل في حديثه \" فمن جاء بعد ذلك فانما يجيء بحق الى الصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1092-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1092-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1092-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1092-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c62d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1093,
+      "bookHadithIndex": 291,
+      "text": "حدثنا ابو كريب، حدثنا وكيع، عن سعيد بن بشير، عن قتادة، عن الحسن، عن سمرة بن جندب، ان رسول الله صلى الله عليه وسلم ضرب مثل الجمعة ثم التبكير، كناحر البدنة، كناحر البقرة، كناحر الشاة، حتى ذكر الدجاجة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1093-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1093-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1093-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1093-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c62e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1094,
+      "bookHadithIndex": 292,
+      "text": "حدثنا كثير بن عبيد الحمصي، حدثنا عبد المجيد بن عبد العزيز، عن معمر، عن الاعمش، عن ابراهيم، عن علقمة، قال خرجت مع عبد الله الى الجمعة فوجد ثلاثة قد سبقوه فقال رابع اربعة وما رابع اربعة ببعيد اني سمعت رسول الله صلى الله عليه وسلم يقول \" ان الناس يجلسون من الله يوم القيامة على قدر رواحهم الى الجمعات الاول والثاني والثالث \" . ثم قال رابع اربعة وما رابع اربعة ببعيد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1094-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1094-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1094-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1094-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c62f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1095,
+      "bookHadithIndex": 293,
+      "text": "حدثنا حرملة بن يحيى، حدثنا عبد الله بن وهب، اخبرني عمرو بن الحارث، عن يزيد بن ابي حبيب، عن موسى بن سعيد، عن محمد بن يحيى بن حبان، عن عبد الله بن سلام، انه سمع رسول الله صلى الله عليه وسلم يقول على المنبر في يوم الجمعة \" ما على احدكم لو اشترى ثوبين ليوم الجمعة، سوى ثوب مهنته \" . حدثنا ابو بكر بن ابي شيبة، حدثنا شيخ، لنا عن عبد الحميد بن جعفر، عن محمد بن يحيى بن حبان، عن يوسف بن عبد الله بن سلام، عن ابيه، قال خطبنا النبي صلى الله عليه وسلم . فذكر ذلك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1095-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1095-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1095-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1095-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c630",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1096,
+      "bookHadithIndex": 294,
+      "text": "حدثنا محمد بن يحيى، حدثنا عمرو بن ابي سلمة، عن زهير، عن هشام بن عروة، عن ابيه، عن عايشة، ان النبي صلى الله عليه وسلم خطب الناس يوم الجمعة فراى عليهم ثياب النمار فقال رسول الله صلى الله عليه وسلم \" ما على احدكم، ان وجد سعة، ان يتخذ ثوبين لجمعته، سوى ثوبى مهنته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1096-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1096-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1096-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1096-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c631",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1097,
+      "bookHadithIndex": 295,
+      "text": "حدثنا سهل بن ابي سهل، وحوثرة بن محمد، قالا حدثنا يحيى بن سعيد القطان، عن ابن عجلان، عن سعيد المقبري، عن ابيه، عن عبد الله بن وديعة، عن ابي ذر، عن النبي صلى الله عليه وسلم قال \" من اغتسل يوم الجمعة فاحسن غسله، وتطهر فاحسن طهوره، ولبس من احسن ثيابه، ومس ما كتب الله له من طيب اهله، ثم اتى الجمعة ولم يلغ ولم يفرق بين اثنين، غفر له ما بينه وبين الجمعة الاخرى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1097-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1097-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1097-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1097-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c632",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1098,
+      "bookHadithIndex": 296,
+      "text": "حدثنا عمار بن خالد الواسطي، حدثنا علي بن غراب، عن صالح بن ابي الاخضر، عن الزهري، عن عبيد بن السباق، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" ان هذا يوم عيد، جعله الله للمسلمين. فمن جاء الى الجمعة فليغتسل. وان كان طيب فليمس منه. وعليكم بالسواك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1098-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1098-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1098-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c633",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1099,
+      "bookHadithIndex": 297,
+      "text": "حدثنا محمد بن الصباح، حدثنا عبد العزيز بن ابي حازم، حدثني ابي، عن سهل بن سعد، قال ما كنا نقيل ولا نتغدى الا بعد الجمعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1099-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1099-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1099-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1099-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c634",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1100,
+      "bookHadithIndex": 298,
+      "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا يعلى بن الحارث، قال سمعت اياس بن سلمة بن الاكوع، عن ابيه، قال كنا نصلي مع النبي صلى الله عليه وسلم الجمعة ثم نرجع، فلا نرى للحيطان فييا نستظل به",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1100-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1100-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1100-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1100-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c635",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1101,
+      "bookHadithIndex": 299,
+      "text": "حدثنا هشام بن عمار، حدثنا عبد الرحمن بن سعد بن عمار بن سعد، موذن النبي صلى الله عليه وسلم حدثني ابي عن ابيه عن جده انه كان يوذن يوم الجمعة على عهد رسول الله صلى الله عليه وسلم اذا كان الفىء مثل الشراك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1101-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1101-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1101-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1101-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c636",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1102,
+      "bookHadithIndex": 300,
+      "text": "حدثنا احمد بن عبدة، حدثنا المعتمر بن سليمان، حدثنا حميد، عن انس، قال كنا نجمع ثم نرجع فنقيل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1102-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1102-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1102-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1102-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    }
+  ]
+}

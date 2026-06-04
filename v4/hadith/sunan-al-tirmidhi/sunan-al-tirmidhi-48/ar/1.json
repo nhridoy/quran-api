@@ -1,0 +1,1337 @@
+{
+  "total": 244,
+  "totalPage": 5,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf6b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3370,
+      "bookHadithIndex": 1,
+      "text": "حدثنا عباس بن عبد العظيم العنبري، وغير، واحد، قالوا حدثنا ابو داود الطيالسي، حدثنا عمران القطان، عن قتادة، عن سعيد بن ابي الحسن، عن ابي هريرة، رضى الله عنه عن النبي صلى الله عليه وسلم قال \" ليس شيء اكرم على الله تعالى من الدعاء \" . قال ابو عيسى هذا حديث حسن غريب لا نعرفه مرفوعا الا من حديث عمران القطان وعمران القطان هو ابن داور ويكنى ابا العوام . حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، عن عمران القطان، بهذا الاسناد نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3370-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3370-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3370-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3370-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf6c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3371,
+      "bookHadithIndex": 2,
+      "text": "حدثنا علي بن حجر، اخبرنا الوليد بن مسلم، عن ابن لهيعة، عن عبيد الله بن ابي جعفر، عن ابان بن صالح، عن انس بن مالك، عن النبي صلى الله عليه وسلم قال \" الدعاء مخ العبادة \" . قال ابو عيسى هذا حديث غريب من هذا الوجه لا نعرفه الا من حديث ابن لهيعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3371-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3371-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3371-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf6d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3372,
+      "bookHadithIndex": 3,
+      "text": "حدثنا احمد بن منيع، حدثنا مروان بن معاوية، عن الاعمش، عن ذر، عن يسيع، عن النعمان بن بشير، عن النبي صلى الله عليه وسلم قال \" الدعاء هو العبادة \" . ثم قرا : (وقال ربكم ادعوني استجب لكم ان الذين يستكبرون عن عبادتي سيدخلون جهنم داخرين ) . قال هذا حديث حسن صحيح . وقد رواه منصور والاعمش عن ذر ولا نعرفه الا من حديث ذر . هو ذر بن عبد الله الهمداني ثقة والد عمر بن ذر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3372-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3372-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3372-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3372-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf6e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3373,
+      "bookHadithIndex": 4,
+      "text": "حدثنا قتيبة، حدثنا حاتم بن اسماعيل، عن ابي المليح، عن ابي صالح، عن ابي هريرة، رضى الله عنه قال قال رسول الله صلى الله عليه وسلم \" من لم يسال الله يغضب عليه \" . قال وروى وكيع وغير واحد عن ابي المليح هذا الحديث ولا نعرفه الا من هذا الوجه وابو المليح اسمه صبيح سمعت محمدا يقوله وقال يقال له الفارسي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3373-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3373-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3373-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf6f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3374,
+      "bookHadithIndex": 5,
+      "text": "حدثنا محمد بن بشار حدثنا مرحوم بن عبد العزيز العطار حدثنا ابو نعامة السعدي عن ابي عثمان النهدي عن ابي موسى الاشعري رضي الله عنه قال كنا مع رسول الله صلى الله عليه وسلم في غزاة فلما قفلنا اشرفنا على المدينة فكبر الناس تكبيرة ورفعوا بها اصواتهم فقال رسول الله صلى الله عليه وسلم ان ربكم ليس باصم ولا غايب هو بينكم وبين رءوس رحالكم ثم قال يا عبد الله بن قيس الا اعلمك كنزا من كنوز الجنة لا حول ولا قوة الا بالله قال ابو عيسى هذا حديث حسن وابو عثمان النهدي اسمه عبد الرحمن بن مل وابو نعامة السعدي اسمه عمرو بن عيسى. حدثنا اسحاق بن منصور، حدثنا ابو عاصم، عن حميد ابي المليح، عن ابي صالح، عن ابي هريرة، عن النبي صلى الله عليه وسلم نحوه",
+      "grades": []
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf70",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3375,
+      "bookHadithIndex": 6,
+      "text": "حدثنا ابو كريب، حدثنا زيد بن حباب، عن معاوية بن صالح، عن عمرو بن قيس، عن عبد الله بن بسر، رضى الله عنه ان رجلا، قال يا رسول الله ان شرايع الاسلام قد كثرت على فاخبرني بشيء اتشبث به . قال \" لا يزال لسانك رطبا من ذكر الله \" . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3375-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3375-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3375-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3375-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf71",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3376,
+      "bookHadithIndex": 7,
+      "text": "حدثنا قتيبة، حدثنا ابن لهيعة، عن دراج، عن ابي الهيثم، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم سيل اى العباد افضل درجة عند الله يوم القيامة قال \" الذاكرون الله كثيرا والذاكرات \" . قلت يا رسول الله ومن الغازي في سبيل الله قال \" لو ضرب بسيفه في الكفار والمشركين حتى ينكسر ويختضب دما لكان الذاكرون الله كثيرا افضل منه درجة \" . قال ابو عيسى هذا حديث غريب انما نعرفه من حديث دراج",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3376-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3376-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3376-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf72",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3377,
+      "bookHadithIndex": 8,
+      "text": "حدثنا الحسين بن حريث، حدثنا الفضل بن موسى، عن عبد الله بن سعيد، هو ابن ابي هند عن زياد، مولى ابن عياش عن ابي بحرية، عن ابي الدرداء، رضي الله عنه قال قال النبي صلى الله عليه وسلم \" الا انبيكم بخير اعمالكم وازكاها عند مليككم وارفعها في درجاتكم وخير لكم من انفاق الذهب والورق وخير لكم من ان تلقوا عدوكم فتضربوا اعناقهم ويضربوا اعناقكم \" . قالوا بلى . قال \" ذكر الله تعالى \" . فقال معاذ بن جبل رضى الله عنه ما شيء انجى من عذاب الله من ذكر الله . قال ابو عيسى وقد روى بعضهم هذا الحديث عن عبد الله بن سعيد مثل هذا بهذا الاسناد وروى بعضهم عنه فارسله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3377-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3377-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf73",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3378,
+      "bookHadithIndex": 9,
+      "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا سفيان، عن ابي اسحاق، عن الاغر ابي مسلم، انه شهد على ابي هريرة وابي سعيد الخدري انهما شهدا على رسول الله صلى الله عليه وسلم انه قال \" ما من قوم يذكرون الله الا حفت بهم الملايكة وغشيتهم الرحمة ونزلت عليهم السكينة وذكرهم الله فيمن عنده \" . قال ابو عيسى هذا حديث حسن صحيح . حدثنا يوسف بن يعقوب، حدثنا حفص بن عمر، حدثنا شعبة، عن ابي اسحاق، قال سمعت الاغر ابا مسلم، قال اشهد على ابي سعيد وابي هريرة رضى الله عنهما انهما شهدا على رسول الله صلى الله عليه وسلم فذكر مثله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3378-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3378-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3378-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3378-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf74",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3379,
+      "bookHadithIndex": 10,
+      "text": "حدثنا محمد بن بشار، حدثنا مرحوم بن عبد العزيز العطار، حدثنا ابو نعامة، عن ابي عثمان النهدي، عن ابي سعيد الخدري، قال خرج معاوية الى المسجد فقال ما يجلسكم قالوا جلسنا نذكر الله قال الله ما اجلسكم الا ذاك قالوا والله ما اجلسنا الا ذاك . قال اما اني ما استحلفكم تهمة لكم وما كان احد بمنزلتي من رسول الله صلى الله عليه وسلم اقل حديثا عنه مني ان رسول الله صلى الله عليه وسلم خرج على حلقة من اصحابه فقال \" ما يجلسكم \" . قالوا جلسنا نذكر الله ونحمده لما هدانا للاسلام ومن علينا به . فقال \" الله ما اجلسكم الا ذاك \" . قالوا الله ما اجلسنا الا ذاك . قال \" اما اني لم استحلفكم لتهمة لكم انه اتاني جبريل فاخبرني ان الله يباهي بكم الملايكة \" . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من هذا الوجه وابو نعامة السعدي اسمه عمرو بن عيسى وابو عثمان النهدي اسمه عبد الرحمن بن مل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3379-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3379-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3379-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf75",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3380,
+      "bookHadithIndex": 11,
+      "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا سفيان، عن صالح، مولى التوامة عن ابي هريرة، رضى الله عنه عن النبي صلى الله عليه وسلم قال \" ما جلس قوم مجلسا لم يذكروا الله فيه ولم يصلوا على نبيهم الا كان عليهم ترة فان شاء عذبهم وان شاء غفر لهم \" . قال ابو عيسى هذا حديث حسن صحيح . وقد روي من غير وجه عن ابي هريرة عن النبي صلى الله عليه وسلم ومعنى قوله ترة يعني حسرة وندامة . وقال بعض اهل المعرفة بالعربية: الترة هو الثار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3380-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3380-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3380-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf76",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3381,
+      "bookHadithIndex": 12,
+      "text": "حدثنا قتيبة، حدثنا ابن لهيعة، عن ابي الزبير، عن جابر، قال سمعت رسول الله صلى الله عليه وسلم يقول \" ما من احد يدعو بدعاء الا اتاه الله ما سال او كف عنه من السوء مثله ما لم يدع باثم او قطيعة رحم \" . وفي الباب عن ابي سعيد وعبادة بن الصامت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3381-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3381-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3381-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf77",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3382,
+      "bookHadithIndex": 13,
+      "text": "حدثنا محمد بن مرزوق، حدثنا عبيد الله بن واقد، حدثنا سعيد بن عطية الليثي، عن شهر بن حوشب، عن ابي هريرة، رضى الله عنه قال قال رسول الله صلى الله عليه وسلم \" من سره ان يستجيب الله له عند الشدايد والكرب فليكثر الدعاء في الرخاء \" . قال ابو عيسى هذا حديث غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3382-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3382-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3382-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf78",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3383,
+      "bookHadithIndex": 14,
+      "text": "حدثنا يحيى بن حبيب بن عربي، حدثنا موسى بن ابراهيم بن كثير الانصاري، قال سمعت طلحة بن خراش، قال سمعت جابر بن عبد الله، رضى الله عنهما يقول سمعت رسول الله صلى الله عليه وسلم يقول \" افضل الذكر لا اله الا الله وافضل الدعاء الحمد لله \" . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من حديث موسى بن ابراهيم . وقد روى علي بن المديني وغير واحد عن موسى بن ابراهيم هذا الحديث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3383-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3383-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3383-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3383-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf79",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3384,
+      "bookHadithIndex": 15,
+      "text": "حدثنا ابو كريب، ومحمد بن عبيد المحاربي، قالا حدثنا يحيى بن زكريا بن ابي زايدة، عن ابيه، عن خالد بن سلمة، عن البهي، عن عروة، عن عايشة، رضى الله عنها قالت كان رسول الله صلى الله عليه وسلم يذكر الله على كل احيانه . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من حديث يحيى بن زكريا بن ابي زايدة والبهي اسمه عبد الله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3384-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3384-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3384-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf7a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3385,
+      "bookHadithIndex": 16,
+      "text": "حدثنا نصر بن عبد الرحمن الكوفي، حدثنا ابو قطن، عن حمزة الزيات، عن ابي اسحاق، عن سعيد بن جبير، عن ابن عباس، عن ابى بن كعب، ان رسول الله صلى الله عليه وسلم كان اذا ذكر احدا فدعا له بدا بنفسه . قال ابو عيسى هذا حديث حسن غريب صحيح وابو قطن اسمه عمرو بن الهيثم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3385-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3385-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3385-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf7b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3386,
+      "bookHadithIndex": 17,
+      "text": "حدثنا ابو موسى، محمد بن المثنى وابراهيم بن يعقوب وغير واحد قالوا حدثنا حماد بن عيسى الجهني، عن حنظلة بن ابي سفيان الجمحي، عن سالم بن عبد الله، عن ابيه، عن عمر بن الخطاب، رضي الله عنه قال كان رسول الله صلى الله عليه وسلم اذا رفع يديه في الدعاء لم يحطهما حتى يمسح بهما وجهه . قال محمد بن المثنى في حديثه لم يردهما حتى يمسح بهما وجهه . قال ابو عيسى هذا حديث صحيح غريب لا نعرفه الا من حديث حماد بن عيسى . وقد تفرد به وهو قليل الحديث وقد حدث عنه الناس حنظلة بن ابي سفيان ثقة وثقه يحيى بن سعيد القطان",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3386-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3386-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3386-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf7c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3387,
+      "bookHadithIndex": 18,
+      "text": "حدثنا الانصاري، حدثنا معن، حدثنا مالك، عن ابن شهاب، عن ابي عبيد، مولى ابن ازهر عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" يستجاب لاحدكم ما لم يعجل يقول دعوت فلم يستجب لي \" . قال ابو عيسى هذا حديث حسن صحيح وابو عبيد اسمه سعد وهو مولى عبد الرحمن بن ازهر ويقال مولى عبد الرحمن بن عوف وعبد الرحمن بن ازهر هو ابن عم عبد الرحمن بن عوف . قال وفي الباب عن انس رضى الله عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3387-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3387-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3387-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3387-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf7d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3388,
+      "bookHadithIndex": 19,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو داود، - وهو الطيالسي حدثنا عبد الرحمن بن ابي الزناد، عن ابيه، عن ابان بن عثمان، قال سمعت عثمان بن عفان، رضى الله عنه يقول قال رسول الله صلى الله عليه وسلم \" ما من عبد يقول في صباح كل يوم ومساء كل ليلة بسم الله الذي لا يضر مع اسمه شيء في الارض ولا في السماء وهو السميع العليم ثلاث مرات فيضره شيء \" . وكان ابان قد اصابه طرف فالج فجعل الرجل ينظر اليه فقال له ابان ما تنظر اما ان الحديث كما حدثتك ولكني لم اقله يوميذ ليمضي الله على قدره . قال هذا حديث حسن صحيح غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3388-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3388-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3388-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3388-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf7e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3389,
+      "bookHadithIndex": 20,
+      "text": "حدثنا ابو سعيد الاشج، حدثنا عقبة بن خالد، عن ابي سعد، سعيد بن المرزبان عن ابي سلمة، عن ثوبان، رضى الله عنه قال قال رسول الله صلى الله عليه وسلم \" من قال حين يمسي رضيت بالله ربا وبالاسلام دينا وبمحمد نبيا كان حقا على الله ان يرضيه \" . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3389-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3389-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3389-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3389-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf7f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3390,
+      "bookHadithIndex": 21,
+      "text": "حدثنا سفيان بن وكيع، حدثنا جرير، عن الحسن بن عبيد الله، عن ابراهيم بن سويد، عن عبد الرحمن بن يزيد، عن عبد الله، قال كان النبي صلى الله عليه وسلم اذا امسى قال \" امسينا وامسى الملك لله والحمد لله ولا اله الا الله وحده لا شريك له اراه قال فيها له الملك وله الحمد وهو على كل شيء قدير اسالك خير ما في هذه الليلة وخير ما بعدها واعوذ بك من شر هذه الليلة وشر ما بعدها واعوذ بك من الكسل وسوء الكبر واعوذ بك من عذاب النار وعذاب القبر \" . واذا اصبح قال ذلك ايضا \" اصبحنا واصبح الملك لله والحمد لله \" . قال هذا حديث حسن صحيح . وقد رواه شعبة بهذا الاسناد عن ابن مسعود لم يرفعه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3390-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3390-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3390-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf80",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3391,
+      "bookHadithIndex": 22,
+      "text": "حدثنا علي بن حجر، حدثنا عبد الله بن جعفر، اخبرنا سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم يعلم اصحابه يقول \" اذا اصبح احدكم فليقل اللهم بك اصبحنا وبك امسينا وبك نحيا وبك نموت واليك المصير . واذا امسى فليقل اللهم بك امسينا وبك اصبحنا وبك نحيا وبك نموت واليك النشور \" . قال ابو عيسى هذا حديث حسن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3391-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3391-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3391-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3391-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf81",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3392,
+      "bookHadithIndex": 23,
+      "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، قال انبانا شعبة، عن يعلى بن عطاء، قال سمعت عمرو بن عاصم الثقفي، يحدث عن ابي هريرة، رضى الله عنه قال قال ابو بكر يا رسول الله مرني بشيء اقوله اذا اصبحت واذا امسيت قال \" قل اللهم عالم الغيب والشهادة فاطر السموات والارض رب كل شيء ومليكه اشهد ان لا اله الا انت اعوذ بك من شر نفسي ومن شر الشيطان وشركه قال قله اذا اصبحت واذا امسيت واذا اخذت مضجعك \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3392-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3392-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3392-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3392-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf82",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3393,
+      "bookHadithIndex": 24,
+      "text": "حدثنا الحسين بن حريث، حدثنا عبد العزيز بن ابي حازم، عن كثير بن زيد، عن عثمان بن ربيعة، عن شداد بن اوس، رضى الله عنه ان النبي صلى الله عليه وسلم قال له \" الا ادلك على سيد الاستغفار اللهم انت ربي لا اله الا انت خلقتني وانا عبدك وانا على عهدك ووعدك ما استطعت اعوذ بك من شر ما صنعت وابوء اليك بنعمتك على واعترف بذنوبي فاغفر لي ذنوبي انه لا يغفر الذنوب الا انت . لا يقولها احدكم حين يمسي فياتي عليه قدر قبل ان يصبح الا وجبت له الجنة ولا يقولها حين يصبح فياتي عليه قدر قبل ان يمسي الا وجبت له الجنة \" . قال وفي الباب عن ابي هريرة وابن عمر وابن مسعود وابن ابزى وبريدة رضى الله عنهم . قال وهذا حديث حسن غريب . وعبد العزيز بن ابي حازم هو ابن ابي حازم الزاهد . وقد روي هذا الحديث من غير هذا الوجه عن شداد بن اوس رضى الله عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3393-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3393-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3393-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf83",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3394,
+      "bookHadithIndex": 25,
+      "text": "حدثنا ابن ابي عمر، حدثنا سفيان بن عيينة، عن ابي اسحاق الهمداني، عن البراء بن عازب، ان النبي صلى الله عليه وسلم قال له \" الا اعلمك كلمات تقولها اذا اويت الى فراشك فان مت من ليلتك مت على الفطرة وان اصبحت اصبحت وقد اصبت خيرا تقول اللهم اني اسلمت نفسي اليك ووجهت وجهي اليك وفوضت امري اليك رغبة ورهبة اليك والجات ظهري اليك لا ملجا ولا منجا منك الا اليك امنت بكتابك الذي انزلت وبنبيك الذي ارسلت \" . قال البراء فقلت وبرسولك الذي ارسلت . قال فطعن بيده في صدري ثم قال \" وبنبيك الذي ارسلت \" . قال ابو عيسى هذا حديث حسن صحيح غريب قد روي من غير وجه عن البراء . ورواه منصور بن المعتمر عن سعد بن عبيدة عن البراء عن النبي صلى الله عليه وسلم نحوه الا انه قال اذا اويت الى فراشك وانت على وضوء . قال وفي الباب عن رافع بن خديج رضى الله عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3394-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3394-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3394-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3394-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf84",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3395,
+      "bookHadithIndex": 26,
+      "text": "حدثنا محمد بن بشار، حدثنا عثمان بن عمر، حدثنا علي بن المبارك، عن يحيى بن ابي كثير، عن يحيى بن اسحاق ابن اخي، رافع بن خديج عن رافع بن خديج، رضى الله عنه ان النبي صلى الله عليه وسلم قال \" اذا اضطجع احدكم على جنبه الايمن ثم قال اللهم اني اسلمت نفسي اليك ووجهت وجهي اليك والجات ظهري اليك وفوضت امري اليك لا ملجا ولا منجا منك الا اليك اومن بكتابك وبرسلك . فان مات من ليلته دخل الجنة \" . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه من حديث رافع بن خديج رضى الله عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3395-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3395-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3395-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf85",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3396,
+      "bookHadithIndex": 27,
+      "text": "حدثنا اسحاق بن منصور، اخبرنا عفان بن مسلم، حدثنا حماد بن سلمة، عن ثابت، عن انس بن مالك، رضى الله عنه ان رسول الله صلى الله عليه وسلم كان اذا اوى الى فراشه قال \" الحمد لله الذي اطعمنا وسقانا وكفانا واوانا وكم ممن لا كافي له ولا مووي \" . قال هذا حديث حسن صحيح غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3396-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3396-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3396-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3396-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf86",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3397,
+      "bookHadithIndex": 28,
+      "text": "حدثنا صالح بن عبد الله، حدثنا ابو معاوية، عن الوصافي، عن عطية، عن ابي سعيد، رضى الله عنه عن النبي صلى الله عليه وسلم قال \" من قال حين ياوي الى فراشه استغفر الله العظيم الذي لا اله الا هو الحى القيوم واتوب اليه . ثلاث مرات غفر الله ذنوبه وان كانت مثل زبد البحر وان كانت عدد ورق الشجر وان كانت عدد رمل عالج وان كانت عدد ايام الدنيا \" . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من هذا الوجه من حديث الوصافي عبيد الله بن الوليد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3397-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3397-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3397-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf87",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3398,
+      "bookHadithIndex": 29,
+      "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن عبد الملك بن عمير، عن ربعي بن حراش، عن حذيفة بن اليمان، رضى الله عنهما ان النبي صلى الله عليه وسلم كان اذا اراد ان ينام وضع يده تحت راسه ثم قال \" اللهم قني عذابك يوم تجمع عبادك او تبعث عبادك \" . قال هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3398-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3398-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3398-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3398-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf88",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3399,
+      "bookHadithIndex": 30,
+      "text": "حدثنا ابو كريب، اخبرنا اسحاق بن منصور، - هو السلولي عن ابراهيم بن يوسف بن ابي اسحاق، عن ابيه، عن ابي اسحاق، عن ابي بردة، عن البراء بن عازب، رضى الله عنهما قال كان رسول الله صلى الله عليه وسلم يتوسد يمينه عند المنام ثم يقول \" رب قني عذابك يوم تبعث عبادك \" . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه . وروى الثوري هذا الحديث عن ابي اسحاق عن البراء لم يذكر بينهما احدا وروى شعبة عن ابي اسحاق عن ابي عبيدة ورجل اخر عن البراء . وروى اسراييل عن ابي اسحاق عن عبد الله بن يزيد عن البراء وعن ابي اسحاق عن ابي عبيدة عن عبد الله عن النبي صلى الله عليه وسلم مثله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3399-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3399-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3399-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf89",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3400,
+      "bookHadithIndex": 31,
+      "text": "حدثنا عبد الله بن عبد الرحمن، اخبرنا عمرو بن عون، اخبرنا خالد بن عبد الله، عن سهيل، عن ابيه، عن ابي هريرة، رضى الله عنه قال كان رسول الله صلى الله عليه وسلم يامرنا اذا اخذ احدنا مضجعه ان يقول \" اللهم رب السموات ورب الارضين وربنا ورب كل شيء وفالق الحب والنوى ومنزل التوراة والانجيل والقران اعوذ بك من شر كل ذي شر انت اخذ بناصيته انت الاول فليس قبلك شيء وانت الاخر فليس بعدك شيء والظاهر فليس فوقك شيء والباطن فليس دونك شيء اقض عني الدين واغنني من الفقر \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3400-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3400-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3400-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3400-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf8a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3401,
+      "bookHadithIndex": 32,
+      "text": "حدثنا ابن ابي عمر المكي، حدثنا سفيان، عن ابن عجلان، عن سعيد المقبري، عن ابي هريرة، رضى الله عنه ان رسول الله صلى الله عليه وسلم قال \" اذا قام احدكم عن فراشه ثم رجع اليه فلينفضه بصنفة ازاره ثلاث مرات فانه لا يدري ما خلفه عليه بعده فاذا اضطجع فليقل باسمك ربي وضعت جنبي وبك ارفعه فان امسكت نفسي فارحمها وان ارسلتها فاحفظها بما تحفظ به عبادك الصالحين . فاذا استيقظ فليقل الحمد لله الذي عافاني في جسدي ورد على روحي واذن لي بذكره \" . قال وفي الباب عن جابر وعايشة . قال حديث ابي هريرة حديث حسن . وروى بعضهم هذا الحديث وقال فلينفضه بداخلة ازاره",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3401-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3401-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3401-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3401-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf8b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3402,
+      "bookHadithIndex": 33,
+      "text": "حدثنا قتيبة، حدثنا المفضل بن فضالة، عن عقيل، عن ابن شهاب، عن عروة، عن عايشة، ان النبي صلى الله عليه وسلم كان اذا اوى الى فراشه كل ليلة جمع كفيه ثم نفث فيهما فقرا فيهما : ( قل هو الله احد ) و : ( قل اعوذ برب الفلق ) و : ( قل اعوذ برب الناس ) ثم يمسح بهما ما استطاع من جسده يبدا بهما على راسه ووجهه وما اقبل من جسده يفعل ذلك ثلاث مرات . قال هذا حديث حسن غريب صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3402-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3402-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3402-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf8c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3403,
+      "bookHadithIndex": 34,
+      "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، قال اخبرنا شعبة، عن ابي اسحاق، عن رجل، عن فروة بن نوفل، رضى الله عنه انه اتى النبي صلى الله عليه وسلم فقال يا رسول الله علمني شييا اقوله اذا اويت الى فراشي قال \" اقرا : ( قل يا ايها الكافرون ) فانها براءة من الشرك \" . قال شعبة احيانا يقول مرة واحيانا لا يقولها . حدثنا موسى بن حزام، اخبرنا يحيى بن ادم، عن اسراييل، عن ابي اسحاق، عن فروة بن نوفل، عن ابيه، انه اتى النبي صلى الله عليه وسلم فذكر نحوه بمعناه وهذا اصح . قال ابو عيسى وروى زهير هذا الحديث عن ابي اسحاق عن فروة بن نوفل عن ابيه عن النبي صلى الله عليه وسلم نحوه وهذا اشبه واصح من حديث شعبة . وقد اضطرب اصحاب ابي اسحاق في هذا الحديث . وقد روي هذا الحديث من غير هذا الوجه قد رواه عبد الرحمن بن نوفل عن ابيه عن النبي صلى الله عليه وسلم وعبد الرحمن هو اخو فروة بن نوفل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3403-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3403-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3403-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf8d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3404,
+      "bookHadithIndex": 35,
+      "text": "حدثنا هشام بن يونس الكوفي، حدثنا المحاربي، عن ليث، عن ابي الزبير، عن جابر، رضى الله عنه قال كان النبي صلى الله عليه وسلم لا ينام حتى يقرا بتنزيل السجدة وبتبارك . قال ابو عيسى هكذا روى سفيان وغير واحد هذا الحديث عن ليث عن ابي الزبير عن جابر عن النبي صلى الله عليه وسلم نحوه . وروى زهير هذا الحديث عن ابي الزبير قال قلت له سمعته من جابر قال لم اسمعه من جابر انما سمعته من صفوان او ابن صفوان . وروى شبابة عن مغيرة بن مسلم عن ابي الزبير عن جابر نحو حديث ليث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3404-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3404-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3404-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf8e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3405,
+      "bookHadithIndex": 36,
+      "text": "حدثنا صالح بن عبد الله، حدثنا حماد بن زيد، عن ابي لبابة، قال قالت عايشة رضى الله عنها كان النبي صلى الله عليه وسلم لا ينام حتى يقرا الزمر وبني اسراييل . اخبرني محمد بن اسماعيل قال ابو لبابة هذا اسمه مروان مولى عبد الرحمن بن زياد وسمع من عايشة سمع منه حماد بن زيد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3405-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3405-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3405-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf8f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3406,
+      "bookHadithIndex": 37,
+      "text": "حدثنا علي بن حجر، اخبرنا بقية بن الوليد، عن بحير بن سعد، عن خالد بن معدان، عن عبد الله بن ابي بلال، عن العرباض بن سارية، رضى الله عنه ان النبي صلى الله عليه وسلم كان لا ينام حتى يقرا المسبحات ويقول \" فيها اية خير من الف اية \" . هذا حديث حسن غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3406-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3406-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3406-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3406-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf90",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3407,
+      "bookHadithIndex": 38,
+      "text": "حدثنا محمود بن غيلان، حدثنا ابو احمد الزبيري، حدثنا سفيان، عن الجريري، عن ابي العلاء بن الشخير، عن رجل، من بني حنظلة قال صحبت شداد بن اوس رضى الله عنه في سفر فقال الا اعلمك ما كان رسول الله صلى الله عليه وسلم يعلمنا ان نقول اللهم اني اسالك الثبات في الامر واسالك عزيمة الرشد واسالك شكر نعمتك وحسن عبادتك واسالك لسانا صادقا وقلبا سليما واعوذ بك من شر ما تعلم واسالك من خير ما تعلم واستغفرك مما تعلم انك انت علام الغيوب . قال وكان رسول الله صلى الله عليه وسلم يقول \" ما من مسلم ياخذ مضجعه يقرا سورة من كتاب الله الا وكل الله به ملكا فلا يقربه شيء يوذيه حتى يهب متى هب \" . قال ابو عيسى هذا حديث انما نعرفه من هذا الوجه والجريري هو سعيد بن اياس ابو مسعود الجريري وابو العلاء اسمه يزيد بن عبد الله بن الشخير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3407-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3407-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3407-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf91",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3408,
+      "bookHadithIndex": 39,
+      "text": "حدثنا ابو الخطاب، زياد بن يحيى البصري حدثنا ازهر السمان، عن ابن عون، عن ابن سيرين، عن عبيدة، عن علي، رضى الله عنه قال شكت الى فاطمة مجل يديها من الطحين فقلت لو اتيت اباك فسالتيه خادما فقال \" الا ادلكما على ما هو خير لكما من الخادم اذا اخذتما مضجعكما تقولان ثلاثا وثلاثين وثلاثا وثلاثين واربعا وثلاثين من تحميد وتسبيح وتكبير \" . وفي الحديث قصة . قال ابو عيسى هذا حديث حسن غريب من حديث ابن عون وقد روي هذا الحديث من غير وجه عن علي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3408-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3408-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3408-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf92",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3409,
+      "bookHadithIndex": 40,
+      "text": "حدثنا محمد بن يحيى، حدثنا ازهر السمان، عن ابن عون، عن محمد، عن عبيدة، عن علي، رضى الله عنه قال جاءت فاطمة الى النبي صلى الله عليه وسلم تشكو مجلا بيديها فامرها بالتسبيح والتكبير والتحميد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3409-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3409-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3409-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf93",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3410,
+      "bookHadithIndex": 41,
+      "text": "حدثنا احمد بن منيع، حدثنا اسماعيل ابن علية، حدثنا عطاء بن السايب، عن ابيه، عن عبد الله بن عمرو، رضى الله عنهما قال قال رسول الله صلى الله عليه وسلم \" خلتان لا يحصيهما رجل مسلم الا دخل الجنة الا وهما يسير ومن يعمل بهما قليل يسبح الله في دبر كل صلاة عشرا ويحمده عشرا ويكبره عشرا \" . قال فانا رايت رسول الله صلى الله عليه وسلم يعقدها بيده قال \" فتلك خمسون وماية باللسان والف وخمسماية في الميزان واذا اخذت مضجعك تسبحه وتكبره وتحمده ماية فتلك ماية باللسان والف في الميزان فايكم يعمل في اليوم والليلة الفين وخمسماية سيية \" . قالوا وكيف لا يحصيها قال \" ياتي احدكم الشيطان وهو في صلاته فيقول اذكر كذا اذكر كذا . حتى ينفتل فلعله ان لا يفعل وياتيه وهو في مضجعه فلا يزال ينومه حتى ينام \" . قال هذا حديث حسن صحيح . وقد روى شعبة والثوري عن عطاء بن السايب هذا الحديث . وروى الاعمش هذا الحديث عن عطاء بن السايب مختصرا . وفي الباب عن زيد بن ثابت وانس وابن عباس رضى الله عنهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3410-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3410-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3410-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3410-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf94",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3411,
+      "bookHadithIndex": 42,
+      "text": "حدثنا محمد بن عبد الاعلى الصنعاني، حدثنا عثام بن علي، عن الاعمش، عن عطاء بن السايب، عن ابيه، عن عبد الله بن عمرو، رضى الله عنهما قال رايت رسول الله صلى الله عليه وسلم يعقد التسبيح . قال ابو عيسى هذا حديث حسن غريب من حديث الاعمش",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3411-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3411-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3411-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf95",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3412,
+      "bookHadithIndex": 43,
+      "text": "حدثنا محمد بن اسماعيل بن سمرة الاحمسي الكوفي، حدثنا اسباط بن محمد، حدثنا عمرو بن قيس الملايي، عن الحكم بن عتيبة، عن عبد الرحمن بن ابي ليلى، عن كعب بن عجرة، عن النبي صلى الله عليه وسلم قال \" معقبات لا يخيب قايلهن يسبح الله في دبر كل صلاة ثلاثا وثلاثين ويحمده ثلاثا وثلاثين ويكبره اربعا وثلاثين \" . قال ابو عيسى هذا حديث حسن . وعمرو بن قيس الملايي ثقة حافظ . وروى شعبة هذا الحديث عن الحكم ولم يرفعه . ورواه منصور بن المعتمر عن الحكم ورفعه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3412-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3412-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3412-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf96",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3413,
+      "bookHadithIndex": 44,
+      "text": "حدثنا يحيى بن خلف، حدثنا ابن ابي عدي، عن هشام بن حسان، عن محمد بن سيرين، عن كثير بن افلح، عن زيد بن ثابت، رضى الله عنه قال امرنا ان نسبح دبر كل صلاة ثلاثا وثلاثين ونحمده ثلاثا وثلاثين ونكبره اربعا وثلاثين . قال فراى رجل من الانصار في المنام فقال امركم رسول الله صلى الله عليه وسلم ان تسبحوا في دبر كل صلاة ثلاثا وثلاثين وتحمدوا الله ثلاثا وثلاثين وتكبروا اربعا وثلاثين قال نعم . قال فاجعلوا خمسا وعشرين واجعلوا التهليل معهن فغدا على النبي صلى الله عليه وسلم فحدثه فقال \" افعلوا \" . قال ابو عيسى هذا حديث صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3413-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf97",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3414,
+      "bookHadithIndex": 45,
+      "text": "حدثنا الوليد بن مسلم، حدثنا الاوزاعي، حدثني عمير بن هاني، قال حدثني جنادة بن ابي امية، حدثني عبادة بن الصامت، رضى الله عنه عن رسول الله صلى الله عليه وسلم قال \" من تعار من الليل فقال لا اله الا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير وسبحان الله والحمد لله ولا اله الا الله والله اكبر ولا حول ولا قوة الا بالله ثم قال رب اغفر لي او قال ثم دعا استجيب له فان عزم فتوضا ثم صلى قبلت صلاته \" . قال ابو عيسى هذا حديث حسن صحيح غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3414-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3414-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3414-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3414-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf98",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3415,
+      "bookHadithIndex": 46,
+      "text": "حدثنا علي بن حجر حدثنا مسلمة بن عمرو قال كان عمير بن هاني يصلي كل يوم الف سجدة ويسبح ماية الف تسبيحة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3415-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3415-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3415-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf99",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3416,
+      "bookHadithIndex": 47,
+      "text": "حدثنا اسحاق بن منصور، اخبرنا النضر بن شميل، ووهب بن جرير، وابو عامر العقدي وعبد الصمد بن عبد الوارث قالوا حدثنا هشام الدستوايي، عن يحيى بن ابي كثير، عن ابي سلمة، حدثني ربيعة بن كعب الاسلمي، قال كنت ابيت عند باب النبي صلى الله عليه وسلم فاعطيه وضوءه فاسمعه الهوي من الليل يقول \" سمع الله لمن حمده \" . واسمعه الهوي من الليل يقول \" الحمد لله رب العالمين \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3416-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3416-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3416-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3416-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf9a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3417,
+      "bookHadithIndex": 48,
+      "text": "حدثنا عمر بن اسماعيل بن مجالد بن سعيد، حدثنا ابي، عن عبد الملك بن عمير، عن ربعي، عن حذيفة بن اليمان، رضى الله عنهما ان رسول الله صلى الله عليه وسلم كان اذا اراد ان ينام قال \" اللهم باسمك اموت واحيا \" . واذا استيقظ قال \" الحمد لله الذي احيا نفسي بعد ما اماتها واليه النشور \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3417-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3417-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3417-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3417-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf9b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3418,
+      "bookHadithIndex": 49,
+      "text": "حدثنا الانصاري، حدثنا معن، حدثنا مالك بن انس، عن ابي الزبير، عن طاوس، عن عبد الله بن عباس، رضى الله عنهما ان رسول الله صلى الله عليه وسلم كان اذا قام الى الصلاة من جوف الليل يقول \" اللهم لك الحمد انت نور السموات والارض ولك الحمد انت قيام السموات والارض ولك الحمد انت رب السموات والارض ومن فيهن انت الحق ووعدك الحق ولقاوك حق والجنة حق والنار حق والساعة حق اللهم لك اسلمت وبك امنت وعليك توكلت واليك انبت وبك خاصمت واليك حاكمت فاغفر لي ما قدمت وما اخرت وما اسررت وما اعلنت انت الهي لا اله الا انت \" . قال هذا حديث حسن صحيح . وقد روي من غير وجه عن ابن عباس عن النبي صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3418-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3418-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3418-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3418-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf9c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 48,
+      "hadithIndex": 3419,
+      "bookHadithIndex": 50,
+      "text": "حدثنا عبد الله بن عبد الرحمن، اخبرنا محمد بن عمران بن ابي ليلى، حدثني ابي، حدثني ابن ابي ليلى، عن داود بن علي، هو ابن عبد الله بن عباس عن ابيه، عن جده ابن عباس، قال سمعت نبي الله صلى الله عليه وسلم يقول ليلة حين فرغ من صلاته \" اللهم اني اسالك رحمة من عندك تهدي بها قلبي وتجمع بها امري وتلم بها شعثي وتصلح بها غايبي وترفع بها شاهدي وتزكي بها عملي وتلهمني بها رشدي وترد بها الفتي وتعصمني بها من كل سوء اللهم اعطني ايمانا ويقينا ليس بعده كفر ورحمة انال بها شرف كرامتك في الدنيا والاخرة اللهم اني اسالك الفوز في العطاء ويروى في القضاء ونزل الشهداء وعيش السعداء والنصر على الاعداء اللهم اني انزل بك حاجتي وان قصر رايي وضعف عملي افتقرت الى رحمتك فاسالك يا قاضي الامور ويا شافي الصدور كما تجير بين البحور ان تجيرني من عذاب السعير ومن دعوة الثبور ومن فتنة القبور اللهم ما قصر عنه رايي ولم تبلغه نيتي ولم تبلغه مسالتي من خير وعدته احدا من خلقك او خير انت معطيه احدا من عبادك فاني ارغب اليك فيه واسالكه برحمتك رب العالمين اللهم ذا الحبل الشديد والامر الرشيد اسالك الامن يوم الوعيد والجنة يوم الخلود مع المقربين الشهود الركع السجود الموفين بالعهود انك رحيم ودود وانت تفعل ما تريد اللهم اجعلنا هادين مهتدين غير ضالين ولا مضلين سلما لاوليايك وعدوا لاعدايك نحب بحبك من احبك ونعادي بعداوتك من خالفك اللهم هذا الدعاء وعليك الاستجابة وهذا الجهد وعليك التكلان اللهم اجعل لي نورا في قبري ونورا في قلبي ونورا من بين يدى ونورا من خلفي ونورا عن يميني ونورا عن شمالي ونورا من فوقي ونورا من تحتي ونورا في سمعي ونورا في بصري ونورا في شعري ونورا في بشري ونورا في لحمي ونورا في دمي ونورا في عظامي اللهم اعظم لي نورا واعطني نورا واجعل لي نورا سبحان الذي تعطف العز وقال به سبحان الذي لبس المجد وتكرم به سبحان الذي لا ينبغي التسبيح الا له سبحان ذي الفضل والنعم سبحان ذي المجد والكرم سبحان ذي الجلال والاكرام \" . قال ابو عيسى هذا حديث غريب لا نعرفه الا من حديث ابن ابي ليلى من هذا الوجه . وقد روى شعبة وسفيان الثوري عن سلمة بن كهيل عن كريب عن ابن عباس عن النبي صلى الله عليه وسلم بعض هذا الحديث ولم يذكره بطوله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3419-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3419-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3419-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-48-3419-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "total": 164,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c518dd1a4c9c86f090a0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2463,
+      "bookHadithIndex": 151,
+      "text": "Rapporté par Ubayy ibn Ka'b رضي الله عنه : Le Prophète ﷺ faisait l’i’tikaf pendant les dix derniers jours de Ramadan. Une année, il ne l’a pas fait. L’année suivante, il a fait l’i’tikaf pendant vingt nuits (c’est-à-dire vingt jours)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2463-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2463-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2463-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2464,
+      "bookHadithIndex": 152,
+      "text": "Aishah رضي الله عنها a dit : Quand le Messager d’Allah ﷺ voulait faire l’i’tikaf, il accomplissait la prière de l’aube puis entrait dans son lieu de retraite. Une fois, il voulait faire l’i’tikaf pendant les dix derniers jours de Ramadan. Elle a dit : Il a ordonné qu’on lui installe une tente, et on l’a installée. Elle a dit : Les autres épouses du Prophète ﷺ ont aussi demandé qu’on leur installe des tentes, et cela a été fait. Quand il a accompli la prière de l’aube, il a vu les tentes et a dit : « Qu’est-ce que c’est ? Avez-vous eu l’intention de faire un acte de piété ? » Elle a dit : Il a alors ordonné de démonter sa tente, et elle a été démontée. Ses épouses ont aussi fait démonter leurs tentes. Il a ensuite reporté son i’tikaf aux dix premiers jours de Shawwal. Abu Dawud a dit : Cette tradition a été transmise par Ibn Ishaq et al-Auza’i d’après Yahya b. Sa’id de façon similaire, et Malik l’a rapportée de Yahya b. Sa’id en disant : Il a fait l’i’tikaf pendant vingt jours de Shawwal",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2464-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2464-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2464-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2464-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2033) Sahih Muslim (1173)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2465,
+      "bookHadithIndex": 153,
+      "text": "Ibn 'Umar رضي الله عنه a dit : Le Prophète ﷺ faisait l’i’tikaf pendant les dix derniers jours de Ramadan. Nafi' a dit : ‘Abd Allah (b. ‘Umar) m’a montré l’endroit dans la mosquée où le Messager d’Allah ﷺ faisait l’i’tikaf",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2465-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2465-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2465-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2465-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2025) Sahih Muslim (1171)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2466,
+      "bookHadithIndex": 154,
+      "text": "Abu Huraira رضي الله عنه a dit : Le Prophète ﷺ faisait l’i’tikaf pendant dix jours de Ramadan chaque année. Mais l’année où il est décédé, il a fait l’i’tikaf pendant vingt jours",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2466-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2466-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2466-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2466-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2044)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2467,
+      "bookHadithIndex": 155,
+      "text": "Aishah رضي الله عنها a dit : Quand le Messager d’Allah ﷺ faisait l’i’tikaf, il passait sa tête vers moi et je la peignais. Il n’entrait dans la maison que pour ses besoins naturels (c’est-à-dire pour uriner ou se soulager)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2467-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2467-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (297)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2468,
+      "bookHadithIndex": 156,
+      "text": "Une tradition similaire a été rapportée par Aishah رضي الله عنها du Prophète ﷺ par une chaîne différente de transmetteurs. Abu Dawud a dit : Et Yunus l’a aussi rapportée de la même façon d’après al-Zuhri, et personne n’a soutenu Malik dans sa version d’après ‘Urwah d’après ‘Umrah ; Ma’mar, Ziyad b. Sa’d et d’autres l’ont aussi rapportée d’al-Zuhri d’après ‘Urwah au nom de Aishah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2468-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2468-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2468-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2468-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2029)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2469,
+      "bookHadithIndex": 157,
+      "text": "Aishah رضي الله عنها a dit : Le Messager d’Allah ﷺ faisait l’i’tikaf à la mosquée et passait sa tête vers moi par l’ouverture de l’appartement, et je lui lavais la tête. Musaddad a dit : « Et je la peignais alors que j’étais en période de menstruation. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2469-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2469-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2469-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2469-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (295، 2030، 5925) Sahih Muslim (297)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2470,
+      "bookHadithIndex": 158,
+      "text": "Safiyyah رضي الله عنها a dit : Quand le Messager d’Allah ﷺ faisait l’i’tikaf (à la mosquée), je venais lui rendre visite. Je parlais avec lui puis je me levais pour repartir, et il se levait aussi pour m’accompagner jusqu’à la maison. Sa demeure se trouvait chez Usamah b. Zaid. Deux hommes des Ansar sont passés à ce moment-là. En voyant le Prophète ﷺ, ils ont accéléré le pas. Le Prophète ﷺ a dit : « Restez tranquilles, c’est Safiyyah, la fille de Huyayy. » Ils ont dit : « Gloire à Allah, Messager d’Allah ! » Il a dit : « Satan circule dans l’homme comme le sang. J’ai eu peur qu’il ne mette quelque chose dans vos esprits, ou bien le mal. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2470-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2470-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2470-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3281) Sahih Muslim (2175)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2471,
+      "bookHadithIndex": 159,
+      "text": "La tradition mentionnée ci-dessus a aussi été rapportée par Al Zuhri par une chaîne différente de transmetteurs. Dans cette version, elle a dit : « Quand il était à la porte de la mosquée près de la porte d’Umm Salamah, deux hommes sont passés près d’eux. » Le narrateur a ensuite transmis la tradition dans le même sens",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2471-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2471-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2471-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2471-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2035)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090a9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2472,
+      "bookHadithIndex": 160,
+      "text": "Selon la version d’Al Nufaili, A’ishah رضي الله عنها a dit : « Le Prophète ﷺ passait près d’un malade alors qu’il faisait l’i’tikaf (à la mosquée), mais il passait simplement sans s’arrêter pour prendre de ses nouvelles. » Selon la version d’Ibn Isa, elle a dit : « Le Prophète ﷺ rendait visite à un malade alors qu’il faisait l’i’tikaf. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2472-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2472-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2472-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2472-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090aa",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2473,
+      "bookHadithIndex": 161,
+      "text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : La sunna pour celui qui fait l’i’tikaf (dans une mosquée) est de ne pas rendre visite à un malade, ni d’assister à un enterrement, ni de toucher ou d’embrasser sa femme, ni de sortir sauf par nécessité. Il n’y a pas d’i’tikaf sans jeûne, et il n’y a d’i’tikaf que dans une mosquée où l’on fait la prière en groupe",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2473-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2473-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2473-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2473-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090ab",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2474,
+      "bookHadithIndex": 162,
+      "text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Omar رضي الله عنه avait fait le vœu, avant l’islam, de passer une nuit ou un jour en dévotion près de la Kaaba (dans la mosquée sacrée). Il a interrogé le Prophète ﷺ à ce sujet. Il a dit : « Accomplis l’i’tikaf (c’est-à-dire passe une nuit ou un jour près de la Kaaba) et jeûne. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2474-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2474-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2474-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090ac",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2475,
+      "bookHadithIndex": 163,
+      "text": "Rapporté par Abdullah ibn Umar رضي الله عنه : La tradition mentionnée ci-dessus (n° 2468) a aussi été transmise par Abdullah ibn Budayl par une autre chaîne de transmetteurs de façon similaire. Cette version ajoute : Pendant qu’il (Omar) faisait l’i’tikaf (dans la mosquée sacrée), les gens ont crié à haute voix : « Allah est le plus grand. » Il a dit : « Qu’est-ce que c’est, Abdullah ? » Il a répondu : « Ce sont les captifs de Hawazin que le Messager d’Allah ﷺ a libérés. » Il a dit : « Et cette servante aussi ? » Il l’a envoyée avec eux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2475-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2475-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2475-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2475-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f090ad",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 14,
+      "hadithIndex": 2476,
+      "bookHadithIndex": 164,
+      "text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : « L’une des épouses du Messager d’Allah ﷺ faisait l’i’tikaf avec lui dans la mosquée. Elle voyait des traces jaunes et rouges. Parfois, nous lui mettions un bassin d’eau pendant qu’elle priait. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2476-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2476-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2476-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-14-2476-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2037)"
+        }
+      ]
+    }
+  ]
+}

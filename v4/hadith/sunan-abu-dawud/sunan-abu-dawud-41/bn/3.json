@@ -1,0 +1,63 @@
+{
+  "total": 102,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c59add1a4c9c86f098f3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4594,
+      "bookHadithIndex": 101,
+      "text": "। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আগুনে ক্ষতিপূরণ নেই (দুর্ঘটনাক্রমে আগুন ছড়িয়ে পড়লে)। সহীহ।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f098f4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4595,
+      "bookHadithIndex": 102,
+      "text": "। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আনাস ইবনুল নাদর (রাঃ)-এর বোন রুবাই (রাঃ) এক মহিলার সামনের একটি দাঁত ভেঙ্গে ফেলেন। তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এলে তিনি আল্লাহর কিতাব অনুসারে কিসাসের হুকুম দেন। আনাস ইবনুল নাদর (রাঃ) বললেন, আপনাকে যে পবিত্র সত্তা সত্য দ্বীনসহ পাঠিয়েছেন তাঁর কসম! আজ তার দাঁত উপড়ে ফেলবেন না। তিনি বললেন, হে আনাস! আল্লাহর কিতাবের নির্দেশ হলো কিসাস। এরপর বিবাদী পক্ষ দিয়াত গ্রহণে রাযী হলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এতে অবাক হয়ে বললেন, ‘‘আল্লাহর কিছু বান্দা আছে, তারা আল্লাহর উপর কসম করলে আল্লাহ তাদের কসমকে পূর্ণ করেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমি আহমাদ ইবনু হাম্বাল (রহঃ)-এর নিকট শুনেছি তাকে প্রশ্ন করা হলো, দাঁতের কিসাস সম্পর্কে। তিনি বলেন, এক ফালি কাঠ দ্বারা তা ভেঙ্গে দিতে হবে।[1] সহীহ।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2703)"
+        }
+      ]
+    }
+  ]
+}

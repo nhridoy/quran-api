@@ -1,0 +1,72 @@
+{
+  "total": 54,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c788dd1a4c9c86f0ba52",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2086,
+      "bookHadithIndex": 51,
+      "text": "Telah menceritakan kepada kami ['Ali bin Hujr] dia berkata; telah mengabarkan kepada kami [Al Walid bin Muhammad Al Muwaqqiri] dari [Az Zuhri] dari [Anas bin Malik] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Perumpamaan seorang yang sembuh dan kembali sehat seperti salju yang turun dari langit tatkala langit sedang cerah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2086-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba53",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2087,
+      "bookHadithIndex": 52,
+      "text": "Telah menceritakan kepada kami ['Abdullah bin Sa'id Al Asyaj]; telah menceritakan kepada kami ['Uqbah bin Khalid As Sakkauni] dari [Musa bin Muhammad bin Ibrahim At Taimi] dari [bapaknya] dari [Abu Sa'id Al Khudri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika kalian menjenguk orang yang sakit, hendaknya ringankanlah bebannya dan hiburlah dia jika mendekati ajalnya, karena hal itu tidak dapat menolak taqdir dan hal itu dapat menenangkan jiwanya.\" Berkata Abu Isa: Ini merupakan hadits gharib",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba54",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2088,
+      "bookHadithIndex": 53,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2088-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba55",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2089,
+      "bookHadithIndex": 54,
+      "text": "",
+      "grades": []
+    }
+  ]
+}

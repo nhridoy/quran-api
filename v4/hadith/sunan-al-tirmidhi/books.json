@@ -1,0 +1,786 @@
+[
+  {
+    "id": "69b6bc020df084ec203b47e6",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 1,
+    "hadithCount": 148,
+    "hadithIndexStart": 1,
+    "name": {
+      "en": "Purification",
+      "ar-diacritics": "الطهارة",
+      "ur": "تطہیر",
+      "bn": "Purification",
+      "ar": "الطهارة",
+      "id": "Pembersihan",
+      "tr": "Temizlik"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47e7",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 2,
+    "hadithCount": 303,
+    "hadithIndexStart": 149,
+    "name": {
+      "en": "Salat (Prayer)",
+      "ar-diacritics": "الصلاة",
+      "ur": "Salat (Prayer)",
+      "bn": "Salat (Prayer)",
+      "ar": "الصلاة",
+      "id": "Salat",
+      "tr": "Salat"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47e8",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 3,
+    "hadithCount": 36,
+    "hadithIndexStart": 452,
+    "name": {
+      "en": "The Witr Prayer",
+      "ar-diacritics": "الوتر",
+      "ur": "The Witr Prayer",
+      "bn": "The Witr Prayer",
+      "ar": "الوتر",
+      "id": "Salat Witr",
+      "tr": "Vitr Namazı"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47e9",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 4,
+    "hadithCount": 42,
+    "hadithIndexStart": 488,
+    "name": {
+      "en": "The Day of Friday",
+      "ar-diacritics": "يوم الجمعة",
+      "ur": "The Day of Friday",
+      "bn": "The Day of Friday",
+      "ar": "يوم الجمعة",
+      "id": "Hari Jumat",
+      "tr": "Cuma Günü"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47ea",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 5,
+    "hadithCount": 14,
+    "hadithIndexStart": 530,
+    "name": {
+      "en": "The Two Eids",
+      "ar-diacritics": "العيدان",
+      "ur": "The Two Eids",
+      "bn": "The Two Eids",
+      "ar": "العيدان",
+      "id": "Dua Hari Raya",
+      "tr": "İki Bayram"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47eb",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 6,
+    "hadithCount": 73,
+    "hadithIndexStart": 544,
+    "name": {
+      "en": "Traveling",
+      "ar-diacritics": "السفر",
+      "ur": "Traveling",
+      "bn": "Traveling",
+      "ar": "السفر",
+      "id": "Perjalanan",
+      "tr": "Seyahat"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47ec",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 7,
+    "hadithCount": 65,
+    "hadithIndexStart": 617,
+    "name": {
+      "en": "Zakat",
+      "ar-diacritics": "الزكاة",
+      "ur": "زکاة",
+      "bn": "Zakat",
+      "ar": "الزكاة",
+      "id": "Zakat",
+      "tr": "Zekât"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47ed",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 8,
+    "hadithCount": 127,
+    "hadithIndexStart": 682,
+    "name": {
+      "en": "Fasting",
+      "ar-diacritics": "الصوم",
+      "ur": "روزہ",
+      "bn": "Fasting",
+      "ar": "الصوم",
+      "id": "Puasa",
+      "tr": "Oruç"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47ee",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 9,
+    "hadithCount": 156,
+    "hadithIndexStart": 809,
+    "name": {
+      "en": "Hajj",
+      "ar-diacritics": "الحج",
+      "ur": "Hajj",
+      "bn": "Hajj",
+      "ar": "الحج",
+      "id": "Haji",
+      "tr": "Hac"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47ef",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 10,
+    "hadithCount": 115,
+    "hadithIndexStart": 965,
+    "name": {
+      "en": "Funerals",
+      "ar-diacritics": "الجنائز",
+      "ur": "جنازہ",
+      "bn": "Funerals",
+      "ar": "الجنائز",
+      "id": "Pemakaman",
+      "tr": "Cenazeler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f0",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 11,
+    "hadithCount": 66,
+    "hadithIndexStart": 1080,
+    "name": {
+      "en": "Marriage",
+      "ar-diacritics": "النكاح",
+      "ur": "نکاح",
+      "bn": "Marriage",
+      "ar": "النكاح",
+      "id": "Perkawinan",
+      "tr": "Nikah"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f1",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 12,
+    "hadithCount": 29,
+    "hadithIndexStart": 1146,
+    "name": {
+      "en": "Suckling",
+      "ar-diacritics": "الرضاع",
+      "ur": "Suckling",
+      "bn": "Suckling",
+      "ar": "الرضاع",
+      "id": "Menyusui",
+      "tr": "Emzirme"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f2",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 13,
+    "hadithCount": 30,
+    "hadithIndexStart": 1175,
+    "name": {
+      "en": "Divorce and Mutual Imprecation",
+      "ar-diacritics": "الطلاق واللعان",
+      "ur": "Divorce and Mutual Imprecation",
+      "bn": "Divorce and Mutual Imprecation",
+      "ar": "الطلاق واللعان",
+      "id": "Talak dan Mubahalah",
+      "tr": "Boşanma ve Karşılıklı Lanet"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f3",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 14,
+    "hadithCount": 117,
+    "hadithIndexStart": 1205,
+    "name": {
+      "en": "Business",
+      "ar-diacritics": "البيع والشراء",
+      "ur": "Business",
+      "bn": "Business",
+      "ar": "البيع والشراء",
+      "id": "Perdagangan",
+      "tr": "Ticaret"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f4",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 15,
+    "hadithCount": 64,
+    "hadithIndexStart": 1322,
+    "name": {
+      "en": "Judgements",
+      "ar-diacritics": "القضاء",
+      "ur": "Judgements",
+      "bn": "Judgements",
+      "ar": "القضاء",
+      "id": "Hukum",
+      "tr": "Hükümler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f5",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 16,
+    "hadithCount": 37,
+    "hadithIndexStart": 1386,
+    "name": {
+      "en": "Blood Money",
+      "ar-diacritics": "الديات",
+      "ur": "Blood Money",
+      "bn": "Blood Money",
+      "ar": "الديات",
+      "id": "Diyat",
+      "tr": "Diye"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f6",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 17,
+    "hadithCount": 41,
+    "hadithIndexStart": 1423,
+    "name": {
+      "en": "Legal Punishments",
+      "ar-diacritics": "الحدود",
+      "ur": "Legal Punishments",
+      "bn": "Legal Punishments",
+      "ar": "الحدود",
+      "id": "Hudud",
+      "tr": "Ceza Hukuku"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f7",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 18,
+    "hadithCount": 29,
+    "hadithIndexStart": 1464,
+    "name": {
+      "en": "Hunting",
+      "ar-diacritics": "الصيد",
+      "ur": "Hunting",
+      "bn": "Hunting",
+      "ar": "الصيد",
+      "id": "Berburu",
+      "tr": "Av"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f8",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 19,
+    "hadithCount": 31,
+    "hadithIndexStart": 1493,
+    "name": {
+      "en": "Sacrifices",
+      "ar-diacritics": "الذبائح",
+      "ur": "Sacrifices",
+      "bn": "Sacrifices",
+      "ar": "الذبائح",
+      "id": "Qurban",
+      "tr": "Kurbanlar"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47f9",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 20,
+    "hadithCount": 24,
+    "hadithIndexStart": 1524,
+    "name": {
+      "en": "Vows and Oaths",
+      "ar-diacritics": "النذور والأيمان",
+      "ur": "Vows and Oaths",
+      "bn": "Vows and Oaths",
+      "ar": "النذور والأيمان",
+      "id": "Nazar dan Sumpah",
+      "tr": "Adaklar ve Yeminler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47fa",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 21,
+    "hadithCount": 71,
+    "hadithIndexStart": 1548,
+    "name": {
+      "en": "Military Expeditions",
+      "ar-diacritics": "الغزوات",
+      "ur": "Military Expeditions",
+      "bn": "Military Expeditions",
+      "ar": "الغزوات",
+      "id": "Ghuraz",
+      "tr": "Askeri Seferler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47fb",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 22,
+    "hadithCount": 51,
+    "hadithIndexStart": 1619,
+    "name": {
+      "en": "Virtues of Jihad",
+      "ar-diacritics": "فضائل الجهاد",
+      "ur": "Virtues of Jihad",
+      "bn": "Virtues of Jihad",
+      "ar": "فضائل الجهاد",
+      "id": "Fadilah Jihad",
+      "tr": "Cihadın Faziletleri"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47fc",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 23,
+    "hadithCount": 50,
+    "hadithIndexStart": 1670,
+    "name": {
+      "en": "Jihad",
+      "ar-diacritics": "الجهاد",
+      "ur": "جihad",
+      "bn": "Jihad",
+      "ar": "الجهاد",
+      "id": "Jihad",
+      "tr": "Cihad"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47fd",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 24,
+    "hadithCount": 68,
+    "hadithIndexStart": 1720,
+    "name": {
+      "en": "Clothing",
+      "ar-diacritics": "اللباس",
+      "ur": "لباس",
+      "bn": "Clothing",
+      "ar": "اللباس",
+      "id": "Pakaian",
+      "tr": "Giysiler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47fe",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 25,
+    "hadithCount": 73,
+    "hadithIndexStart": 1788,
+    "name": {
+      "en": "Food",
+      "ar-diacritics": "الأطعمة",
+      "ur": "Food",
+      "bn": "Food",
+      "ar": "الأطعمة",
+      "id": "Makanan",
+      "tr": "Yemek"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b47ff",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 26,
+    "hadithCount": 36,
+    "hadithIndexStart": 1861,
+    "name": {
+      "en": "Drinks",
+      "ar-diacritics": "المشاربات",
+      "ur": "مشروبات",
+      "bn": "Drinks",
+      "ar": "المشاربات",
+      "id": "Minuman",
+      "tr": "İçecekler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4800",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 27,
+    "hadithCount": 139,
+    "hadithIndexStart": 1897,
+    "name": {
+      "en": "Righteousness and Maintaining Family Ties",
+      "ar-diacritics": "بر الوالدين",
+      "ur": "Righteousness and Maintaining Family Ties",
+      "bn": "Righteousness and Maintaining Family Ties",
+      "ar": "بر الوالدين",
+      "id": "Birr wal Walidain",
+      "tr": "İhsan ve Akraba Bağlarını Koruma"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4801",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 28,
+    "hadithCount": 54,
+    "hadithIndexStart": 2036,
+    "name": {
+      "en": "Medicine",
+      "ar-diacritics": "الطب",
+      "ur": "دوا",
+      "bn": "Medicine",
+      "ar": "الطب",
+      "id": "Kedokteran",
+      "tr": "Tıbb"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4802",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 29,
+    "hadithCount": 26,
+    "hadithIndexStart": 2090,
+    "name": {
+      "en": "Inheritance",
+      "ar-diacritics": "الفرائض",
+      "ur": "Inheritance",
+      "bn": "Inheritance",
+      "ar": "الفرائض",
+      "id": "Waris",
+      "tr": "Miras"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4803",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 30,
+    "hadithCount": 9,
+    "hadithIndexStart": 2116,
+    "name": {
+      "en": "Wasaya (Wills and Testament)",
+      "ar-diacritics": "الوصايا",
+      "ur": "Wasaya (Wills and Testament)",
+      "bn": "Wasaya (Wills and Testament)",
+      "ar": "الوصايا",
+      "id": "Wasiat",
+      "tr": "Vasiyetname"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4804",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 31,
+    "hadithCount": 8,
+    "hadithIndexStart": 2125,
+    "name": {
+      "en": "Wala' And Gifts",
+      "ar-diacritics": "الولاية والهبات",
+      "ur": "Wala' And Gifts",
+      "bn": "Wala' And Gifts",
+      "ar": "الولاية والهبات",
+      "id": "Wala' dan Hadiah",
+      "tr": "Vela ve Hediye"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4805",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 32,
+    "hadithCount": 166,
+    "hadithIndexStart": 2133,
+    "name": {
+      "en": "Destiny",
+      "ar-diacritics": "القدر",
+      "ur": "Destiny",
+      "bn": "Destiny",
+      "ar": "القدر",
+      "id": "Qada dan Qadar",
+      "tr": "Kader"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4806",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 33,
+    "hadithCount": 112,
+    "hadithIndexStart": 2158,
+    "name": {
+      "en": "Trials and Tribulations",
+      "ar-diacritics": "الفتن",
+      "ur": "Trials and Tribulations",
+      "bn": "Trials and Tribulations",
+      "ar": "الفتن",
+      "id": "Fitnah",
+      "tr": "İmtihanlar ve Musibetler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4807",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 34,
+    "hadithCount": 25,
+    "hadithIndexStart": 2270,
+    "name": {
+      "en": "Dreams",
+      "ar-diacritics": "الأحلام",
+      "ur": "Dreams",
+      "bn": "Dreams",
+      "ar": "الأحلام",
+      "id": "Mimpi",
+      "tr": "Rüyalar"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4808",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 35,
+    "hadithCount": 9,
+    "hadithIndexStart": 2295,
+    "name": {
+      "en": "Witnesses",
+      "ar-diacritics": "الشهادات",
+      "ur": "Witnesses",
+      "bn": "Witnesses",
+      "ar": "الشهادات",
+      "id": "Saksi",
+      "tr": "Şahitler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4809",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 36,
+    "hadithCount": 111,
+    "hadithIndexStart": 2304,
+    "name": {
+      "en": "Asceticism",
+      "ar-diacritics": "الزهد",
+      "ur": "Asceticism",
+      "bn": "Asceticism",
+      "ar": "الزهد",
+      "id": "Zuhud",
+      "tr": "Zühd"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b480a",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 37,
+    "hadithCount": 108,
+    "hadithIndexStart": 2415,
+    "name": {
+      "en": "The description of the Day of Judgement, Softening of Hearts (Riqāq), and Scrupulousness (Waraʿ)",
+      "ar-diacritics": "صفة القيامة والرقائق والورع",
+      "ur": "The description of the Day of Judgement, Softening of Hearts (Riqāq), and Scrupulousness (Waraʿ)",
+      "bn": "The description of the Day of Judgement, Softening of Hearts (Riqāq), and Scrupulousness (Waraʿ)",
+      "ar": "صفة القيامة والرقائق والورع",
+      "id": "Kiamat, Riqāq, dan Wara'",
+      "tr": "Kıyamet Günü, Kalpleri Yumuşatma (Rika) ve Dikkatli Olma (Vera')"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b480b",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 38,
+    "hadithCount": 213,
+    "hadithIndexStart": 2523,
+    "name": {
+      "en": "The description of Paradise",
+      "ar-diacritics": "صفة الجنة",
+      "ur": "The description of Paradise",
+      "bn": "The description of Paradise",
+      "ar": "صفة الجنة",
+      "id": "Deskripsi Surga",
+      "tr": "Cennetin Tasviri"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b480c",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 39,
+    "hadithCount": 223,
+    "hadithIndexStart": 2573,
+    "name": {
+      "en": "The Description of Hellfire",
+      "ar-diacritics": "صفة النار",
+      "ur": "The Description of Hellfire",
+      "bn": "The Description of Hellfire",
+      "ar": "صفة النار",
+      "id": "Deskripsi Neraka",
+      "tr": "Cehennem Ateşi'nin Tasviri"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b480d",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 40,
+    "hadithCount": 39,
+    "hadithIndexStart": 2606,
+    "name": {
+      "en": "Faith",
+      "ar-diacritics": "الإيمان",
+      "ur": "Faith",
+      "bn": "Faith",
+      "ar": "الإيمان",
+      "id": "Iman",
+      "tr": "İman"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b480e",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 41,
+    "hadithCount": 43,
+    "hadithIndexStart": 2645,
+    "name": {
+      "en": "Knowledge",
+      "ar-diacritics": "العلم",
+      "ur": "علم",
+      "bn": "Knowledge",
+      "ar": "العلم",
+      "id": "Pengetahuan",
+      "tr": "Bilgi"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b480f",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 42,
+    "hadithCount": 47,
+    "hadithIndexStart": 2688,
+    "name": {
+      "en": "Seeking Permission",
+      "ar-diacritics": "استئذان",
+      "ur": "Seeking Permission",
+      "bn": "Seeking Permission",
+      "ar": "استئذان",
+      "id": "Meminta Izin",
+      "tr": "İzin İste"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4810",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 43,
+    "hadithCount": 123,
+    "hadithIndexStart": 2736,
+    "name": {
+      "en": "Manners",
+      "ar-diacritics": "الآداب",
+      "ur": "Manners",
+      "bn": "Manners",
+      "ar": "الآداب",
+      "id": "Adab",
+      "tr": "Ahlak"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4811",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 44,
+    "hadithCount": 16,
+    "hadithIndexStart": 2859,
+    "name": {
+      "en": "Parables",
+      "ar-diacritics": "الأمثال",
+      "ur": "Parables",
+      "bn": "Parables",
+      "ar": "الأمثال",
+      "id": "Perumpamaan",
+      "tr": "Öğütler"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4812",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 45,
+    "hadithCount": 52,
+    "hadithIndexStart": 2875,
+    "name": {
+      "en": "Virtues of the Qur'an",
+      "ar-diacritics": "فضائل القرآن",
+      "ur": "Virtues of the Qur'an",
+      "bn": "Virtues of the Qur'an",
+      "ar": "فضائل القرآن",
+      "id": "Fadilah Qur'an",
+      "tr": "Kur'an'ın Fazileti"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4813",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 46,
+    "hadithCount": 23,
+    "hadithIndexStart": 2927,
+    "name": {
+      "en": "Recitation",
+      "ar-diacritics": "التلاوة",
+      "ur": "Recitation",
+      "bn": "Recitation",
+      "ar": "التلاوة",
+      "id": "Tilawah",
+      "tr": "Tilavet"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4814",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 47,
+    "hadithCount": 774,
+    "hadithIndexStart": 2950,
+    "name": {
+      "en": "Exegesis",
+      "ar-diacritics": "التفسير",
+      "ur": "Exegesis",
+      "bn": "Exegesis",
+      "ar": "التفسير",
+      "id": "Tafsir",
+      "tr": "Tefsir"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4815",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 48,
+    "hadithCount": 235,
+    "hadithIndexStart": 3370,
+    "name": {
+      "en": "Supplication",
+      "ar-diacritics": "الدعاء",
+      "ur": "Supplication",
+      "bn": "Supplication",
+      "ar": "الدعاء",
+      "id": "Doa",
+      "tr": "Dua"
+    }
+  },
+  {
+    "id": "69b6bc020df084ec203b4816",
+    "editionId": "69b55e8d6f42ba7ccb2a1322",
+    "bookIndex": 49,
+    "hadithCount": 352,
+    "hadithIndexStart": 3605,
+    "name": {
+      "en": "Merits and Virtues",
+      "ar-diacritics": "الفضائل",
+      "ur": "Merits and Virtues",
+      "bn": "Merits and Virtues",
+      "ar": "الفضائل",
+      "id": "Fadilah",
+      "tr": "Faziletler ve Erdemler"
+    }
+  }
+]

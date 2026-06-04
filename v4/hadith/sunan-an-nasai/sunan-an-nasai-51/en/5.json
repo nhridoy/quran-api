@@ -1,0 +1,503 @@
+{
+  "total": 220,
+  "totalPage": 5,
+  "page": 5,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c702dd1a4c9c86f0b20d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5739,
+      "bookHadithIndex": 201,
+      "text": "It was narrated that Ibn 'Abbas said:\"Nabidh of raisins would be made for the Messenger of Allah [SAW] at night, and he would put it in a water skin and drink it during the next day, the day after, and the day after that. At the end of the third day, he would give it to others to drink, or drink it himself, and if anything was left the following morning, he would pour it away",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5739-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5739-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5739-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b20e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5740,
+      "bookHadithIndex": 202,
+      "text": "It was narrated from Ibn 'Umar that:Nabidh of raisins would be made for him in a water skin in the morning, and he would drink it that night, and it would be made for him in the evening, and he would drink it in the morning. He would wash out the water skins and not leave any pieces or anything in them. Nafi' said: \"We used to drink it like honey",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5740-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5740-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5740-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b20f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5741,
+      "bookHadithIndex": 203,
+      "text": "It was narrated that Bassam said:\"I asked Abu Ja'far about Nabidh and he said: \" 'Ali bin Husain, may Allah be pleased with him, would have Nabidh made for him at night, and he would drink it in the morning, and he would have Nabidh made in the morning and he would drink it at night",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5741-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5741-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5741-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b210",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5742,
+      "bookHadithIndex": 204,
+      "text": "Abdullah said:\"I heard Sufyan being asked about Nabidh. He said: 'Make Nabidh at night and drink it in the morning",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5742-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5742-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5742-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b211",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5743,
+      "bookHadithIndex": 205,
+      "text": "It was narrated from Abu 'Uthman, who was not Al-Hindi, that:Umm Al-Fadl sent word to Anas bin Malik, asking him about Nabidh made in an earthenware jar. He told her about his son An-Nadr, who used to make Nabidh in an earthenware jar in the morning and drink it in the evening",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5743-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5743-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5743-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b212",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5744,
+      "bookHadithIndex": 206,
+      "text": "It was narrated from Sa'eed bin Al-Musayyib that:He disliked putting the dregs of Nabidh into (new) Nabidh lest it become strong because of the dregs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5744-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5744-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5744-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b213",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5745,
+      "bookHadithIndex": 207,
+      "text": "It was narrated that Sa'eed bin Al-Musayyab said concerning Nabidh:\"The dregs are what intoxicates",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5745-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5745-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b214",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5746,
+      "bookHadithIndex": 208,
+      "text": "It was narrated that Sa'eed bin Al-Musayyab said:\"Khamr is so called because it is left until the good parts are gone and the dregs remain.\" And he disliked everything that was made by using dregs (by adding new materials to the dregs)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5746-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5746-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5746-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b215",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5747,
+      "bookHadithIndex": 209,
+      "text": "It was narrated that Ibrahim said:\"They used to think that whoever drank something and became intoxicated from it, it was not befitting for him to go back and drink more of the same",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5747-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5747-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5747-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b216",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5748,
+      "bookHadithIndex": 210,
+      "text": "It was narrated that Ibrahim said:\"There is nothing wrong with Nabidh Al-Bukhtuj",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5748-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5748-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5748-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b217",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5749,
+      "bookHadithIndex": 211,
+      "text": "It was narrated that Abu Al-Miskin said:\"I asked Ibrahim: 'We take the dregs of Khamr or Tila' (thickened grape juice) and clean them, then we soak it with raisins for three days, then we strain it and leave it until it matures, then we drink it.' He said: 'That is Makruh",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5749-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5749-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5749-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b218",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5750,
+      "bookHadithIndex": 212,
+      "text": "It was narrated that Ibn Shubrumah said:\"May Allah have mercy on Ibrahim. Other scholars had strict views on Nabidh but he was lenient",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5750-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5750-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5750-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b219",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5751,
+      "bookHadithIndex": 213,
+      "text": "Ibn Al-Mubarak said:\"I have never found any sound report, giving a concession on intoxicants, except the report narrated from Ibrahim",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5751-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5751-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5751-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5752,
+      "bookHadithIndex": 214,
+      "text": "Ubaidullah bin Sa'eed said:\"I heard Abu Usamah say: 'I never saw any man more assiduous in seeking knowledge than 'Abdullah bin Al-Mubarak, not in Ash-Sham, Egypt, Yemen or the Hijaz",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5752-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5752-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5752-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5753,
+      "bookHadithIndex": 215,
+      "text": "It was narrated that Anas said:Umm Sulaim had a wooden cup and she said: \"I gave the Messenger of Allah [SAW] all kinds of things to drink in it: Water, honey, milk and Nabidh",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5753-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5753-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5753-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5754,
+      "bookHadithIndex": 216,
+      "text": "It was narrated from Sa'eed bin 'Abdur-Rahman bin Abza that his father said:\"I asked Ubayy bin Ka'b about Nabidh, and he said: 'Drink water, drink honey, drink Sawiq (barley gruel) and drink milk that you have been nourished with since childhood.' I repeated the question and he said: 'Is it wine you want? Is it wine you want?",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5754-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5754-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5754-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5755,
+      "bookHadithIndex": 217,
+      "text": "It was narrated that Ibn Mas'ud said:\"The people have invented new drinks and I do not know what they are. I have not drunk anything for 20 years (or he said: 40 years) except water and Sawiq (barley gruel), and he did not mention Nabidh",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5755-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5755-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5755-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5756,
+      "bookHadithIndex": 218,
+      "text": "It was narrated that 'Abidah said:\"The people have invented drinks and I do not know what they are. I have not drunk anything for 20 years except water, milk and honey",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5756-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5756-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5756-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5757,
+      "bookHadithIndex": 219,
+      "text": "It was narrated that Ibn Shubrumah said:\"Talhah said to the people of Al-Kufah concerning Nabidh: 'It is a test whereby a young man may benefit but an old man may be harmed.' If there was a wedding among them, Talhah and Zubaid would offer milk and honey to drink. It was said to Talhah: 'Why don't you offer Nabidh?' He said: 'I would not like a Muslim to become intoxicated because of me",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5757-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5757-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5757-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b220",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5758,
+      "bookHadithIndex": 220,
+      "text": "Jarir said:\"Ibn Shubrumah would not drink anything except water and milk",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5758-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5758-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5758-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    }
+  ]
+}

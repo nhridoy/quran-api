@@ -1,0 +1,1217 @@
+{
+  "total": 115,
+  "totalPage": 3,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aed9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4920,
+      "bookHadithIndex": 51,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن معمر، عن ابن شهاب، عن عمرة، عن عايشة، قالت تقطع اليد في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4920-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4920-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4920-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeda",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4921,
+      "bookHadithIndex": 52,
+      "text": "اخبرنا اسحاق بن ابراهيم، وقتيبة بن سعيد، عن سفيان، عن الزهري، عن عمرة، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم - قال قتيبة كان النبي صلى الله عليه وسلم - يقطع في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4921-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4921-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4921-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aedb",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4922,
+      "bookHadithIndex": 53,
+      "text": "اخبرنا الحسن بن محمد، قال حدثنا عبد الوهاب، عن سعيد، عن يحيى بن سعيد، عن عمرة، عن عايشة، عن النبي صلى الله عليه وسلم \" تقطع يد السارق في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4922-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4922-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4922-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aedc",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4923,
+      "bookHadithIndex": 54,
+      "text": "اخبرني يزيد بن محمد بن فضيل، قال انبانا مسلم بن ابراهيم، قال حدثنا ابان، قال حدثنا يحيى بن سعيد، عن عمرة، عن عايشة، ان النبي صلى الله عليه وسلم قال \" تقطع يد السارق في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4923-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4923-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4923-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aedd",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4924,
+      "bookHadithIndex": 55,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن يحيى بن سعيد، عن عمرة، انها سمعت عايشة، تقول يقطع في ربع دينار فصاعدا . قال ابو عبد الرحمن هذا الصواب من حديث يحيى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4924-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4924-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4924-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aede",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4925,
+      "bookHadithIndex": 56,
+      "text": "اخبرنا محمد بن العلاء، قال حدثنا ابن ادريس، عن يحيى بن سعيد، عن عمرة، عن عايشة، قالت القطع في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4925-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4925-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4925-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aedf",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4926,
+      "bookHadithIndex": 57,
+      "text": "اخبرنا قتيبة، قال حدثنا سفيان، عن يحيى بن سعيد، وعبد، ربه ورزيق صاحب ايلة انهم سمعوا عمرة عن عايشة قالت القطع في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4926-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4926-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4926-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4927,
+      "bookHadithIndex": 58,
+      "text": "قال الحارث بن مسكين قراءة عليه وانا اسمع، عن ابن القاسم، قال حدثني مالك، عن يحيى بن سعيد، عن عمرة، عن عايشة، قالت ما طال على ولا نسيت القطع في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4927-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4927-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4927-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4928,
+      "bookHadithIndex": 59,
+      "text": "اخبرنا ابو صالح، محمد بن زنبور قال حدثنا ابن ابي حازم، عن يزيد بن عبد الله، عن ابي بكر بن محمد، عن عمرة، عن عايشة، انها سمعت رسول الله صلى الله عليه وسلم يقول \" لا يقطع السارق الا في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4928-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4928-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4928-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee2",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4929,
+      "bookHadithIndex": 60,
+      "text": "اخبرنا احمد بن عمرو بن السرح، قال حدثنا ابن وهب، قال اخبرني عبد الرحمن بن سلمان، { عن ابن الهاد، } عن ابي بكر بن محمد بن حزم، عن عمرة، عن عايشة، عن رسول الله صلى الله عليه وسلم مثل الاول",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4929-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4929-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee3",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4930,
+      "bookHadithIndex": 61,
+      "text": "قال الحارث بن مسكين قراءة عليه وانا اسمع، عن ابن القاسم، قال حدثني مالك، عن عبد الله بن محمد بن ابي بكر، عن عمرة، قالت قالت عايشة القطع في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4930-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4930-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4930-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee4",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4931,
+      "bookHadithIndex": 62,
+      "text": "اخبرني ابراهيم بن يعقوب، قال حدثنا عبد الله بن يوسف، قال حدثنا عبد الرحمن بن محمد بن عبد الرحمن بن ابي الرجال، عن ابيه، عن عمرة، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" يقطع يد السارق في ثمن المجن وثمن المجن ربع دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4931-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4931-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4931-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4932,
+      "bookHadithIndex": 63,
+      "text": "اخبرني يحيى بن درست، قال حدثنا ابو اسماعيل، قال حدثنا يحيى بن ابي كثير، ان محمد بن عبد الرحمن، حدثه عن عمرة، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يقطع اليد في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4932-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4932-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4932-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee6",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4933,
+      "bookHadithIndex": 64,
+      "text": "اخبرنا حميد بن مسعدة، قال حدثنا عبد الوارث، قال حدثنا حسين، عن يحيى بن ابي كثير، عن محمد بن عبد الرحمن، ثم ذكر كلمة معناها عن عمرة، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" لا تقطع اليد الا في ربع دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4933-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4933-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4933-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee7",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4934,
+      "bookHadithIndex": 65,
+      "text": "اخبرنا ابو بكر، محمد بن اسماعيل الطبراني قال حدثنا عبد الرحمن بن بحر ابو علي، قال حدثنا مبارك بن سعيد، عن يحيى بن ابي كثير، قال حدثني عكرمة، ان امراة، اخبرته ان عايشة ام المومنين اخبرتها ان رسول الله صلى الله عليه وسلم قال \" تقطع اليد في المجن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4934-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4934-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4934-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee8",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4935,
+      "bookHadithIndex": 66,
+      "text": "حدثنا عبيد الله بن سعد بن ابراهيم بن سعد، قال حدثنا عمي، قال حدثنا ابي، عن ابن اسحاق، عن يزيد بن ابي حبيب، ان بكير بن عبد الله بن الاشج، حدثه ان سليمان بن يسار حدثه ان عمرة ابنة عبد الرحمن حدثته انها، سمعت عايشة، تقول قال رسول الله صلى الله عليه وسلم \" لا تقطع يد السارق فيما دون المجن \" . قيل لعايشة ما ثمن المجن قالت ربع دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4935-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4935-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4935-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aee9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4936,
+      "bookHadithIndex": 67,
+      "text": "اخبرني احمد بن عمرو بن السرح، قال حدثنا ابن وهب، قال اخبرني مخرمة، عن ابيه، عن سليمان بن يسار، عن عمرة، عن عايشة، انها سمعت رسول الله صلى الله عليه وسلم يقول \" لا تقطع يد السارق الا في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4936-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4936-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4936-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeea",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4937,
+      "bookHadithIndex": 68,
+      "text": "اخبرني هارون بن عبد الله، قال حدثنا قدامة بن محمد، قال انبانا مخرمة، عن ابيه، قال سمعت عثمان بن ابي الوليد، مولى الاخنسيين يقول سمعت عروة بن الزبير، يقول كانت عايشة تحدث عن النبي صلى الله عليه وسلم يقول \" لا تقطع اليد الا في المجن او ثمنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4937-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4937-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4937-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeeb",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4938,
+      "bookHadithIndex": 69,
+      "text": "اخبرنا ابو بكر بن اسحاق، قال حدثني قدامة بن محمد، قال اخبرني مخرمة بن بكير، عن ابيه، قال سمعت عثمان بن ابي الوليد، يقول سمعت عروة بن الزبير، يقول كانت عايشة تحدث عن نبي الله صلى الله عليه وسلم انه قال \" لا تقطع اليد الا في المجن او ثمنه \" . وزعم ان عروة قال المجن اربعة دراهم .. قال وسمعت سليمان بن يسار، يزعم انه سمع عمرة، تقول سمعت عايشة، تحدث انها سمعت رسول الله صلى الله عليه وسلم يقول \" لا تقطع اليد الا في ربع دينار فما فوقه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4938-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4938-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4938-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeec",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4939,
+      "bookHadithIndex": 69,
+      "text": "اخبرنا ابو بكر بن اسحاق، قال حدثني قدامة بن محمد، قال اخبرني مخرمة بن بكير، عن ابيه، قال سمعت عثمان بن ابي الوليد، يقول سمعت عروة بن الزبير، يقول كانت عايشة تحدث عن نبي الله صلى الله عليه وسلم انه قال \" لا تقطع اليد الا في المجن او ثمنه \" . وزعم ان عروة قال المجن اربعة دراهم .. قال وسمعت سليمان بن يسار، يزعم انه سمع عمرة، تقول سمعت عايشة، تحدث انها سمعت رسول الله صلى الله عليه وسلم يقول \" لا تقطع اليد الا في ربع دينار فما فوقه",
+      "grades": []
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeed",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4940,
+      "bookHadithIndex": 70,
+      "text": "اخبرنا عمرو بن علي، قال حدثنا عبد الرحمن بن مهدي، قال حدثنا همام، عن قتادة، عن عبد الله الداناج، عن سليمان بن يسار، قال لا تقطع الخمس الا في الخمس . قال همام فلقيت عبد الله الداناج فحدثني عن سليمان بن يسار قال لا تقطع الخمس الا في الخمس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4940-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4940-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4940-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeee",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4941,
+      "bookHadithIndex": 71,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن هشام بن عروة، عن ابيه، عن عايشة، قالت لم تقطع يد سارق في ادنى من حجفة او ترس وكل واحد منهما ذو ثمن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4941-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4941-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4941-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeef",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4942,
+      "bookHadithIndex": 72,
+      "text": "اخبرنا محمد بن المثنى، قال حدثنا عبد الرحمن، عن سفيان، عن عيسى، عن الشعبي، عن عبد الله، ان النبي صلى الله عليه وسلم قطع في قيمة خمسة دراهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4942-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4942-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4942-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4943,
+      "bookHadithIndex": 73,
+      "text": "واخبرنا محمود بن غيلان، قال حدثنا معاوية، قال حدثنا سفيان، عن منصور، عن مجاهد، عن عطاء، عن ايمن، قال لم يقطع النبي صلى الله عليه وسلم السارق الا في ثمن المجن وثمن المجن يوميذ دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4943-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4943-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4943-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4944,
+      "bookHadithIndex": 74,
+      "text": "اخبرنا محمد بن بشار، قال حدثنا عبد الرحمن، قال حدثنا سفيان، عن منصور، عن مجاهد، عن ايمن، قال لم تكن تقطع اليد على عهد رسول الله صلى الله عليه وسلم الا في ثمن المجن وقيمته يوميذ دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4944-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4944-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4944-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef2",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4945,
+      "bookHadithIndex": 75,
+      "text": "اخبرنا ابو الازهر النيسابوري، قال حدثنا محمد بن يوسف، قال حدثنا سفيان، عن منصور، عن الحكم، عن مجاهد، عن ايمن، قال لم تقطع اليد في زمن رسول الله صلى الله عليه وسلم الا في ثمن المجن وقيمة المجن يوميذ دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4945-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4945-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4945-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef3",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4946,
+      "bookHadithIndex": 76,
+      "text": "حدثنا محمد بن بشار، قال حدثنا عبد الله بن داود، عن علي بن صالح، عن منصور، عن الحكم، عن مجاهد، وعطاء، عن ايمن، قال لم تقطع اليد في عهد رسول الله صلى الله عليه وسلم الا في ثمن المجن وثمنه يوميذ دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4946-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4946-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4946-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef4",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4947,
+      "bookHadithIndex": 77,
+      "text": "اخبرنا هارون بن عبد الله، قال حدثنا الاسود بن عامر، قال انبانا الحسن بن حى، عن منصور، عن الحكم، عن عطاء، ومجاهد، عن ايمن، قال يقطع السارق في ثمن المجن وكان ثمن المجن على عهد رسول الله صلى الله عليه وسلم دينارا او عشرة دراهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4947-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4947-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4947-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4948,
+      "bookHadithIndex": 78,
+      "text": "اخبرنا علي بن حجر، قال انبانا شريك، عن منصور، عن عطاء، ومجاهد، عن ايمن بن ام ايمن، يرفعه قال \" لا تقطع اليد الا في ثمن المجن \" . وثمنه يوميذ دينار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4948-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4948-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4948-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef6",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4949,
+      "bookHadithIndex": 79,
+      "text": "اخبرنا قتيبة، قال حدثنا جرير، عن منصور، عن عطاء، ومجاهد، عن ايمن، قال لا يقطع السارق في اقل من ثمن المجن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4949-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4949-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4949-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef7",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4950,
+      "bookHadithIndex": 80,
+      "text": "اخبرنا عبيد الله بن سعد بن ابراهيم بن سعد، قال حدثنا عمي، قال حدثنا ابي، عن ابن اسحاق، قال حدثنا عمرو بن شعيب، ان عطاء بن ابي رباح، حدثه ان عبد الله بن عباس كان يقول ثمنه يوميذ عشرة دراهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4950-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4950-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef8",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4951,
+      "bookHadithIndex": 81,
+      "text": "اخبرنا يحيى بن موسى البلخي، قال حدثنا ابن نمير، قال حدثنا محمد بن اسحاق، عن ايوب بن موسى، عن عطاء، عن ابن عباس، مثله كان ثمن المجن على عهد رسول الله صلى الله عليه وسلم يقوم عشرة دراهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4951-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4951-alalbani",
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4951-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aef9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4952,
+      "bookHadithIndex": 82,
+      "text": "اخبرني محمد بن وهب، قال حدثنا محمد بن سلمة، قال حدثني ابن اسحاق، عن ايوب بن موسى، عن عطاء، مرسل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4952-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "-"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4952-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aefa",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4953,
+      "bookHadithIndex": 83,
+      "text": "اخبرني حميد بن مسعدة، عن سفيان، - وهو ابن حبيب - عن العرزمي، - وهو عبد الملك بن ابي سليمان - عن عطاء، قال ادنى ما يقطع فيه ثمن المجن . قال وثمن المجن يوميذ عشرة دراهم . قال ابو عبد الرحمن وايمن الذي تقدم ذكرنا لحديثه ما احسب ان له صحبة وقد روي عنه حديث اخر يدل على ما قلناه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4953-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4953-alalbani",
+          "name": "Al-Albani",
+          "grade": "Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4953-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aefb",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4954,
+      "bookHadithIndex": 84,
+      "text": "حدثنا سوار بن عبد الله بن سوار، قال حدثنا خالد بن الحارث، قال حدثنا عبد الملك، ح وانبانا عبد الرحمن بن محمد بن سلام، قال انبانا اسحاق، - هو الازرق - قال حدثنا به عبد الملك، عن عطاء، عن ايمن، مولى ابن الزبير - وقال خالد في حديثه مولى الزبير - عن تبيع عن كعب قال من توضا فاحسن الوضوء ثم صلى - وقال عبد الرحمن فصلى العشاء الاخرة - ثم صلى بعدها اربع ركعات فاتم - وقال سوار يتم - ركوعهن وسجودهن ويعلم ما يقتري - وقال سوار يقرا - فيهن كن له بمنزلة ليلة القدر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4954-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4954-alalbani",
+          "name": "Al-Albani",
+          "grade": "Maqtu"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aefc",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4955,
+      "bookHadithIndex": 85,
+      "text": "اخبرنا عبد الحميد بن محمد، قال حدثنا مخلد، قال حدثنا ابن جريج، عن عطاء، عن ايمن، مولى ابن عمر عن تبيع، عن كعب، قال من توضا فاحسن وضوءه ثم شهد صلاة العتمة في جماعة ثم صلى اليها اربعا مثلها يقرا فيها ويتم ركوعها وسجودها كان له من الاجر مثل ليلة القدر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4955-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4955-alalbani",
+          "name": "Al-Albani",
+          "grade": "Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4955-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aefd",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4956,
+      "bookHadithIndex": 86,
+      "text": "اخبرنا خلاد بن اسلم، عن عبد الله بن ادريس، عن محمد بن اسحاق، عن عمرو بن شعيب، عن ابيه، عن جده، قال كان ثمن المجن على عهد رسول الله صلى الله عليه وسلم عشرة دراهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4956-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4956-alalbani",
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aefe",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4957,
+      "bookHadithIndex": 87,
+      "text": "اخبرنا قتيبة، قال حدثنا ابو عوانة، عن عبيد الله بن الاخنس، عن عمرو بن شعيب، عن ابيه، عن جده، قال سيل رسول الله صلى الله عليه وسلم في كم تقطع اليد قال \" لا تقطع اليد في ثمر معلق فاذا ضمه الجرين قطعت في ثمن المجن ولا تقطع في حريسة الجبل فاذا اوى المراح قطعت في ثمن المجن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4957-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4957-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4957-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0aeff",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4958,
+      "bookHadithIndex": 88,
+      "text": "اخبرنا قتيبة، قال حدثنا الليث، عن ابن عجلان، عن عمرو بن شعيب، عن ابيه، عن جده عبد الله بن عمرو، عن رسول الله صلى الله عليه وسلم انه سيل عن الثمر المعلق فقال \" ما اصاب من ذي حاجة غير متخذ خبنة فلا شىء عليه ومن خرج بشىء منه فعليه غرامة مثليه والعقوبة ومن سرق شييا منه بعد ان ييويه الجرين فبلغ ثمن المجن فعليه القطع ومن سرق دون ذلك فعليه غرامة مثليه والعقوبة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4958-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4958-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4958-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af00",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4959,
+      "bookHadithIndex": 89,
+      "text": "قال الحارث بن مسكين قراءة عليه وانا اسمع، عن ابن وهب، قال اخبرني عمرو بن الحارث، وهشام بن سعد، عن عمرو بن شعيب، عن ابيه، عن جده عبد الله بن عمرو، ان رجلا، من مزينة اتى رسول الله صلى الله عليه وسلم فقال يا رسول الله كيف ترى في حريسة الجبل فقال \" هي ومثلها والنكال وليس في شىء من الماشية قطع الا فيما اواه المراح فبلغ ثمن المجن ففيه قطع اليد وما لم يبلغ ثمن المجن ففيه غرامة مثليه وجلدات نكال \" . قال يا رسول الله كيف ترى في الثمر المعلق قال \" هو ومثله معه والنكال وليس في شىء من الثمر المعلق قطع الا فيما اواه الجرين فما اخذ من الجرين فبلغ ثمن المجن ففيه القطع وما لم يبلغ ثمن المجن ففيه غرامة مثليه وجلدات نكال",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4959-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "-"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4959-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4959-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af01",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4960,
+      "bookHadithIndex": 90,
+      "text": "اخبرنا محمد بن خالد بن خلي، قال حدثنا ابي قال، حدثنا سلمة، - يعني ابن عبد الملك العوصي - عن الحسن، - وهو ابن صالح - عن يحيى بن سعيد، عن القاسم بن محمد بن ابي بكر، عن رافع بن خديج، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4960-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4960-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4960-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af02",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4961,
+      "bookHadithIndex": 91,
+      "text": "اخبرنا عمرو بن علي، قال سمعت يحيى بن سعيد القطان، يقول حدثنا يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن رافع بن خديج، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4961-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4961-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4961-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af03",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4962,
+      "bookHadithIndex": 92,
+      "text": "اخبرني يحيى بن حبيب بن عربي، قال حدثنا حماد، عن يحيى، عن محمد بن يحيى بن حبان، عن رافع بن خديج، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4962-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4962-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4962-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af04",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4963,
+      "bookHadithIndex": 93,
+      "text": "اخبرنا عبد الرحمن بن محمد بن سلام، قال حدثنا ابو معاوية، عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن رافع بن خديج، قال قال رسول الله صلى الله عليه وسلم \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4963-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4963-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4963-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af05",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4964,
+      "bookHadithIndex": 94,
+      "text": "اخبرنا عبد الحميد بن محمد، قال حدثنا مخلد، قال حدثنا سفيان، عن يحيى، عن محمد بن يحيى بن حبان، عن رافع بن خديج، عن النبي صلى الله عليه وسلم قال \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4964-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4964-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4964-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af06",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4965,
+      "bookHadithIndex": 95,
+      "text": "اخبرنا محمد بن اسماعيل بن ابراهيم، قال حدثنا ابو نعيم، عن سفيان، عن يحيى، عن محمد بن يحيى بن حبان، عن رافع بن خديج، قال قال رسول الله صلى الله عليه وسلم \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4965-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4965-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4965-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af07",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4966,
+      "bookHadithIndex": 96,
+      "text": "اخبرنا احمد بن محمد بن عبيد الله، - هو ابن ابي رجاء - قال حدثنا وكيع، عن سفيان، عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن عمه، واسع، عن رافع بن خديج، قال قال رسول الله صلى الله عليه وسلم \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4966-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4966-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4966-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af08",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4967,
+      "bookHadithIndex": 97,
+      "text": "اخبرنا قتيبة، قال حدثنا الليث، عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن عمه، ان رافع بن خديج، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا قطع في ثمر ولا كثر \" . والكثر الجمار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4967-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4967-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4967-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af09",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4968,
+      "bookHadithIndex": 98,
+      "text": "اخبرنا محمد بن علي بن ميمون، قال حدثنا سعيد بن منصور، قال حدثنا عبد العزيز بن محمد، عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن ابي ميمون، عن رافع بن خديج، ان رسول الله صلى الله عليه وسلم قال \" لا قطع في ثمر ولا كثر \" . قال ابو عبد الرحمن هذا خطا ابو ميمون لا اعرفه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4968-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4968-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4968-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af0a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4969,
+      "bookHadithIndex": 99,
+      "text": "اخبرنا الحسين بن منصور، قال حدثنا ابو اسامة، قال حدثنا يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن رجل، من قومه عن رافع بن خديج، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4969-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4969-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4969-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    }
+  ]
+}

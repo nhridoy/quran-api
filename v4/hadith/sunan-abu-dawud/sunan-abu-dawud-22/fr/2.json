@@ -1,0 +1,933 @@
+{
+  "total": 84,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c55add1a4c9c86f093dd",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3292,
+      "bookHadithIndex": 51,
+      "text": "Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Il ne faut pas faire de vœu pour un acte de désobéissance, et l’expiation pour cela est la même que pour un serment. » Ahmad b. Muhammad al-Marwazi a dit : La chaîne correcte de cette tradition est : ‘Ali b. al-Mubarak, de Yahya b. Abi Kathir, de Muhammad b. al-Zubair, de son père, d’après ‘Imran b. Husain, du Prophète ﷺ. Abu Dawud a dit : Par cela, il (al-Marwazi) veut dire que le narrateur Sulaiman b. Arqam s’est trompé à propos de cette tradition. Al-Zuhri l’a rapportée de lui puis l’a transmise (en omettant son nom) d’Abu Salamah, d’après Aishah. Abu Dawud a dit : Baqiyyah l’a transmise d’al-Awza’i, de Yahya, de Muhammad b. al-Zubair avec une chaîne similaire à celle d’Ibn al-Mubarak",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3292-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3292-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3292-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093de",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3293,
+      "bookHadithIndex": 52,
+      "text": "Rapporté par Uqbah ibn Amir : Uqbah a consulté le Prophète ﷺ au sujet de sa sœur qui avait fait le vœu d’accomplir le hajj pieds nus et tête découverte. Il a dit : « Ordonne-lui de couvrir sa tête, de monter à dos de monture et de jeûner trois jours. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3293-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3293-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3293-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093df",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3294,
+      "bookHadithIndex": 53,
+      "text": "La tradition mentionnée ci-dessus a aussi été transmise par Abu Sa’id al-Ru’aini avec la même chaîne que celle rapportée par Yahya (b. Sa’id) et avec le même sens",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3294-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3294-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3295,
+      "bookHadithIndex": 54,
+      "text": "Rapporté par Abdullah ibn Abbas : Un homme est venu voir le Prophète ﷺ et a dit : « Messager d’Allah, ma sœur a fait le vœu d’accomplir le hajj à pied. » Le Prophète ﷺ a dit : « Allah ne tire aucun bien de l’épreuve que ta sœur s’est imposée. Qu’elle fasse le hajj à dos de monture et qu’elle expie son serment. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3295-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3295-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3295-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3295-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3296,
+      "bookHadithIndex": 55,
+      "text": "Rapporté par Ibn ‘Abbas : La sœur de ‘Uqbah b. ‘Amir avait fait le vœu d’aller à pied jusqu’à la Ka‘bah. Le Prophète ﷺ a alors ordonné qu’elle monte à dos de monture et qu’elle sacrifie un animal",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3296-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3296-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3296-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3297,
+      "bookHadithIndex": 56,
+      "text": "Rapporté par Ibn ‘Abbas : Lorsque le Prophète ﷺ a été informé que la sœur de ‘Uqbah b. ‘Amir avait fait le vœu d’accomplir le Hajj à pied, il a dit : « Allah n’a pas besoin de son vœu. Ordonnez-lui de monter à dos de monture. » Abu Dawud a dit : Sa’ib b. ‘Arubah a transmis une tradition similaire. Khalid a aussi transmis une tradition semblable de la part de ‘Ikrimah, du Prophète ﷺ",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3297-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3297-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3297-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3297-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3298,
+      "bookHadithIndex": 57,
+      "text": "Rapporté par ‘Ikrimah : La tradition concernant la sœur de ‘Uqbah b. ‘Amir, rapportée par Hisham, mais il n’a pas mentionné le sacrifice de l’animal. Dans sa version, il a dit : « Dis à ta sœur de monter à dos de monture. » Abu Dawud a dit : Khalid l’a rapportée de ‘Ikrimah avec le même sens que Hisham",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3298-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3298-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3298-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3299,
+      "bookHadithIndex": 58,
+      "text": "Rapporté par ‘Uqbah bin ‘Amir al-Juhani : Ma sœur a fait le vœu d’aller à pied jusqu’à la Maison d’Allah (c’est-à-dire la Ka‘bah). Elle m’a demandé de consulter le Prophète ﷺ à ce sujet. Je l’ai donc consulté. Il a dit : « Qu’elle marche et qu’elle monte à dos de monture. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3299-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3299-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3299-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1866) Sahih Muslim (1644)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3300,
+      "bookHadithIndex": 59,
+      "text": "Rapporté par Ibn ‘Abbas : Alors que le Prophète ﷺ prêchait, un homme était debout en plein soleil. Il a demandé qui c’était. On lui a dit : « C’est Abu Isra’il, qui a fait le vœu de rester debout sans s’asseoir, ni aller à l’ombre, ni parler, mais de jeûner. » Il a alors dit : « Ordonnez-lui de parler, d’aller à l’ombre, de s’asseoir et de terminer son jeûne. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3300-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3300-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3300-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3300-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6704)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3301,
+      "bookHadithIndex": 60,
+      "text": "Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ a vu un homme soutenu par ses fils. Il a demandé qui il était, et les gens ont répondu : « Il a fait le vœu de marcher à pied. » Le Prophète ﷺ a alors dit : « Allah n’a pas besoin que cet homme se fasse du mal à lui-même », puis il lui a ordonné de monter. Abu Dawud a dit : ‘Amr b. Abi ‘Amir a aussi rapporté une tradition similaire de al-A‘raj, d’après Abu Huraira, du Prophète ﷺ",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3301-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3301-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3301-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3301-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6701) Sahih Muslim (1642)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3302,
+      "bookHadithIndex": 61,
+      "text": "Rapporté par Ibn ‘Abbas : Le Prophète ﷺ, alors qu’il faisait le tour de la Ka‘bah, est passé devant un homme qu’on conduisait avec un anneau dans le nez comme une bride. Le Prophète ﷺ l’a coupé de sa main et a ordonné qu’on le guide en le tenant par la main",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3302-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3302-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3302-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3302-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1620)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3303,
+      "bookHadithIndex": 62,
+      "text": "Rapporté par Abdullah ibn Abbas : La sœur de Uqbah ibn Amir avait fait le vœu de faire le hajj à pied, mais elle n’en avait pas la capacité. Le Prophète ﷺ a dit : « Allah n’a pas besoin que ta sœur marche. Qu’elle monte et offre un chameau en sacrifice. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3303-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3303-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3303-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093e9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3304,
+      "bookHadithIndex": 63,
+      "text": "Rapporté par Uqbah ibn Amir al-Juhani : Uqbah a dit au Prophète ﷺ : « Ma sœur a fait le vœu de marcher jusqu’à la Maison d’Allah (la Ka‘bah). » Il a répondu : « Allah ne tirera rien du fait que ta sœur marche jusqu’à la Maison d’Allah (c’est-à-dire la Ka‘bah). »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3304-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3304-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3304-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3304-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093ea",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3305,
+      "bookHadithIndex": 64,
+      "text": "Rapporté par Jabir ibn Abdullah : Un homme s’est levé le jour de la conquête de La Mecque et a dit : « Messager d’Allah, j’ai fait le vœu à Allah que si la conquête de La Mecque se faisait par toi, je prierais deux rak‘as à Jérusalem. » Il a répondu : « Prie ici. » L’homme a répété sa demande, et il a dit : « Prie ici. » Il l’a encore répétée, et le Prophète a dit : « Fais comme tu veux, alors. » Abu Dawud a dit : Une tradition similaire a été rapportée par ‘Abd al-Rahman b. ‘Awf du Prophète ﷺ",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3305-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3305-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3305-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093eb",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3306,
+      "bookHadithIndex": 65,
+      "text": "La tradition mentionnée ci-dessus (n°3299) a aussi été transmise par Umar ibn Abd al-Rahman ibn Awf, d’après son père et les Compagnons du Prophète ﷺ. Cette version dit : « Le Prophète ﷺ a dit : Par Celui qui a envoyé Muhammad avec la vérité, si tu pries ici, cela te suffit comme si tu avais prié à Jérusalem. » Abu Dawud a dit : Cette tradition a aussi été transmise par al-Ansari, de Ibn-Juraij. Il a dit : Ja‘far b. ‘Umar et ‘Amr b. Hayyah. Il a dit : Ils l’ont transmise de ‘Abd al-Rahman b. ‘Awf et des Compagnons du Prophète ﷺ",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3306-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3306-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3306-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093ec",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3307,
+      "bookHadithIndex": 66,
+      "text": "Rapporté par Ibn ‘Abbas : Sa‘d b. ‘Ubadah a demandé au Messager d’Allah ﷺ : « Ma mère est décédée sans avoir accompli le vœu qu’elle avait fait. » Le Messager d’Allah ﷺ a dit : « Accomplis-le à sa place. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3307-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3307-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3307-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2761) Sahih Muslim (1638)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093ed",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3308,
+      "bookHadithIndex": 67,
+      "text": "Rapporté par Abdullah ibn Abbas : Une femme a fait un voyage et a promis de jeûner un mois si Allah lui permettait d’arriver à destination en sécurité. Allah l’a fait arriver en sécurité, mais elle est morte avant de pouvoir jeûner. Sa fille ou sa sœur (le rapporteur n’est pas sûr) est venue voir le Messager d’Allah ﷺ. Il a alors ordonné de jeûner à sa place",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3308-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3308-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3308-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3308-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093ee",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3309,
+      "bookHadithIndex": 68,
+      "text": "Rapporté par Buraidah : Une femme est venue voir le Prophète ﷺ et a dit : « J’ai offert une esclave à ma mère, mais elle est morte en laissant l’esclave. » Il a dit : « Ta récompense est assurée, et l’esclave te revient comme héritage. » Elle a dit : « Elle est morte alors qu’il lui restait un mois de jeûne à accomplir. » Le rapporteur a ensuite mentionné une tradition similaire à celle rapportée par ‘Amr b. ‘Awn",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3309-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3309-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3309-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3309-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1149)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093ef",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3310,
+      "bookHadithIndex": 69,
+      "text": "Rapporté par Ibn ‘Abbas : Une femme est venue voir le Prophète ﷺ et lui a dit qu’il restait un mois de jeûne à accomplir pour sa mère décédée. « Puis-je les accomplir à sa place ? » Il a demandé : « Si ta mère avait une dette à payer, la paierais-tu ? » Elle a répondu : « Oui. » Il a dit : « La dette envers Allah est celle qui mérite le plus d’être acquittée. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3310-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3310-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3310-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3310-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1953) Sahih Muslim (1148)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3311,
+      "bookHadithIndex": 70,
+      "text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Le Prophète ﷺ a dit : « Si quelqu’un meurt alors qu’il lui restait des jours de jeûne à accomplir, son héritier doit jeûner à sa place. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3311-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3311-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3311-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1952) Sahih Muslim (1147)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3312,
+      "bookHadithIndex": 71,
+      "text": "Rapporté par ‘Amr b. Suh‘aib, d’après son père, d’après son grand-père : Une femme est venue voir le Prophète ﷺ et a dit : « Messager d’Allah, j’ai fait le vœu de jouer du tambourin pour toi. » Il a dit : « Accomplis ton vœu. » Elle a dit : « Et j’ai fait le vœu de faire un sacrifice dans un endroit où les gens faisaient des sacrifices à l’époque préislamique. » Il a demandé : « Pour une idole ? » Elle a répondu : « Non. » Il a demandé : « Pour une image ? » Elle a répondu : « Non. » Il a dit : « Accomplis ton vœu. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3312-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3312-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3312-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3312-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3313,
+      "bookHadithIndex": 72,
+      "text": "Rapporté par Thabit ibn ad-Dahhak : À l’époque du Prophète ﷺ, un homme a fait le vœu d’égorger un chameau à Buwanah. Il est donc venu voir le Prophète ﷺ et a dit : « J’ai fait le vœu de sacrifier un chameau à Buwanah. » Le Prophète ﷺ a demandé : « Y a-t-il là-bas une idole adorée à l’époque préislamique ? » Les gens ont répondu : « Non. » Il a demandé : « Y avait-il là-bas une fête préislamique ? » Ils ont répondu : « Non. » Le Prophète ﷺ a dit : « Accomplis ton vœu, car un vœu qui implique de désobéir à Allah ne doit pas être accompli, ni un acte sur lequel on n’a aucun pouvoir. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3313-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3313-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3313-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3314,
+      "bookHadithIndex": 73,
+      "text": "Rapporté par Maymunah, fille de Kardam : Je suis sortie avec mon père pour voir le hajj accompli par le Messager d’Allah ﷺ. Je l’ai vu et je l’ai observé attentivement. Mon père s’est approché de lui alors qu’il était sur sa chamelle. Il avait un fouet comme celui des scribes. J’ai entendu les bédouins et les gens dire : « Le fouet, le fouet. » Mon père s’est approché et a tenu son pied. Elle a dit : Il a reconnu sa prophétie, s’est levé et l’a écouté. Il a dit : « Messager d’Allah, j’ai fait le vœu que si j’ai un fils, j’égorgerai un certain nombre de moutons à la fin de Buwanah, dans la vallée de la colline. » Le rapporteur a dit : Je ne sais pas avec certitude si elle a dit : cinquante (moutons). Le Messager d’Allah ﷺ a dit : « Y a-t-il une idole là-bas ? » Il a répondu : « Non. » Puis il a dit : « Accomplis le vœu que tu as fait pour Allah. » Il les a alors rassemblés (c’est-à-dire les moutons) et a commencé à les sacrifier. Un mouton s’est échappé. Il l’a cherché en disant : « Ô Allah, accomplis mon vœu pour moi. » Il a réussi à le retrouver et l’a sacrifié",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3314-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3314-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3314-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3315,
+      "bookHadithIndex": 74,
+      "text": "Une tradition similaire a aussi été rapportée brièvement par Maymunah, fille de Kardam fils de Sufyan, d’après son père, par une autre chaîne de transmetteurs. Cette version ajoute : (Le Prophète a demandé) : « Y a-t-il une idole là-bas ou une fête préislamique y était-elle célébrée ? » Il a répondu : « Non. » J’ai dit : « Ma mère a fait un vœu et la marche lui est imposée. Puis-je l’accomplir à sa place ? » Parfois, le rapporteur Bashshar disait : « Pouvons-nous l’accomplir à sa place ? » Il a dit : « Oui. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3315-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3315-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3315-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3315-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3316,
+      "bookHadithIndex": 75,
+      "text": "Imran b. Husain a dit : ‘Adba appartenait à un homme des Banu ‘Aqil. Elle précédait les pèlerins. Cet homme a ensuite été capturé. Il a été amené enchaîné devant le Prophète ﷺ, qui était à dos d’âne, couvert d’une couverture. Il a dit : « Muhammad, pourquoi m’arrêtes-tu et prends-tu celle (la chamelle) qui précède les pèlerins ? » Il a répondu : « Nous t’arrêtons à cause du crime commis par tes alliés Thaqif. Thaqif a capturé deux compagnons du Prophète ﷺ. » Il a dit (ce qu’il a dit) : « Je suis musulman », ou il a dit : « Je me suis converti à l’islam. » Quand le Prophète ﷺ est parti, il l’a appelé : « Ô Muhammad, ô Muhammad. » Abu Dawud a dit : Je l’ai appris de la version du rapporteur Muhammad b. ‘Isa. Le Prophète ﷺ était compatissant et doux. Il est donc revenu vers lui et a demandé : « Qu’as-tu ? » Il a répondu : « Je suis musulman. » Il a dit : « Si tu l’avais dit quand tu étais encore libre, tu aurais tout gagné. » Abu Dawud a dit : Je suis ensuite revenu à la version du rapporteur Sulaiman (b. Harb). Il a dit : « Muhammad, j’ai faim, nourris-moi. J’ai soif, donne-moi à boire. » Le Prophète ﷺ a dit : « C’est ton besoin », ou il a dit : « C’est son besoin » (le rapporteur n’est pas sûr). Plus tard, l’homme a été échangé (par Thaqif) contre les deux compagnons du Prophète. Le Prophète ﷺ a gardé ‘Adba pour ses voyages. Le rapporteur a dit : Les polythéistes ont attaqué les troupeaux de Médine et ont pris ‘Adba. En la prenant, ils ont aussi capturé une femme musulmane. Ils laissaient leurs chameaux paître la nuit. Une nuit, ils se sont endormis et la femme s’est levée. Tous les chameaux qu’elle touchait bramaient, jusqu’à ce qu’elle arrive à ‘Adba. Elle a trouvé une chamelle docile et expérimentée. Elle est montée dessus et a fait le vœu à Allah que s’Il la sauvait, elle la sacrifierait. Quand elle est arrivée à Médine, les gens ont reconnu la chamelle du Prophète ﷺ. Le Prophète ﷺ en a été informé et l’a fait venir. Elle lui a expliqué son vœu. Il a dit : « C’est une mauvaise récompense que tu lui donnes. Allah ne t’a pas sauvée sur son dos pour que tu la sacrifies maintenant. Un vœu de désobéissance ne doit pas être accompli, ni un acte sur lequel on n’a aucun pouvoir. » Abu Dawud a dit : Cette femme était l’épouse d’Abu Dharr",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3316-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3316-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3316-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3316-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1641)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3317,
+      "bookHadithIndex": 76,
+      "text": "Rapporté par Ka‘b ibn Malik : J’ai dit : « Messager d’Allah, pour que mon repentir soit complet, je devrais donner tous mes biens en aumône pour Allah et Son Messager. » Le Messager d’Allah ﷺ a dit : « Garde une partie de tes biens, ce sera meilleur pour toi. » Il a donc dit : « Je garderai ce que j’ai à Khaybar. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3317-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3317-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3317-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3317-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3318,
+      "bookHadithIndex": 77,
+      "text": "Rapporté par Ka‘b bin Malik : Au Messager d’Allah ﷺ, lorsque son repentir a été accepté : « Je devrais donner tous mes biens. » Il a ensuite rapporté une tradition similaire jusqu’aux mots : « meilleur pour toi. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3318-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3318-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3318-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3319,
+      "bookHadithIndex": 78,
+      "text": "Rapporté par Ka‘b ibn Malik : Ka‘b ibn Malik a dit à Abu Lubabah, ou à quelqu’un d’autre selon la volonté d’Allah, ou au Prophète ﷺ : « Pour que mon repentir soit complet, je devrais quitter la maison de mon peuple où j’ai péché, et donner tous mes biens en aumône. » Il a dit : « Un tiers de tes biens suffira. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3319-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3319-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3319-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3319-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093f9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3320,
+      "bookHadithIndex": 79,
+      "text": "Cette tradition a aussi été rapportée par Ibn Ka‘b b. Malik par une autre chaîne de transmetteurs. Cette version dit : Il a ensuite rapporté la tradition dans le même sens. Cette version attribue cette histoire à Abu Lubabah. Abu Dawud a dit : Cette tradition a été rapportée par Yunus, de Ibn Shihab, de certains enfants d’al-Sa‘ib fils d’Abu Lubabah. Une tradition similaire a aussi été transmise par al-Zabidi, de al-Zuhri, de Husain b. al-Sa‘ib fils d’Abu Lubabah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3320-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3320-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3320-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093fa",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3321,
+      "bookHadithIndex": 80,
+      "text": "Rapporté par Ka‘b ibn Malik : J’ai dit : « Messager d’Allah, pour que mon expiation soit complète, je devrais donner tous mes biens en aumône pour Allah et Son Messager. » Il a dit : « Non. » J’ai dit : « La moitié. » Il a dit : « Non. » J’ai dit : « Alors un tiers. » Il a dit : « Oui. » J’ai dit : « Je garderai ce que j’ai à Khaybar. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3321-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3321-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3321-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093fb",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3322,
+      "bookHadithIndex": 81,
+      "text": "Rapporté par Abdullah ibn Abbas : Le Prophète ﷺ a dit : « Si quelqu’un fait un vœu sans le préciser, son expiation est la même que pour un serment. Si quelqu’un fait le vœu d’accomplir un acte de désobéissance, son expiation est la même que pour un serment. Si quelqu’un fait un vœu qu’il ne peut pas accomplir, son expiation est la même que pour un serment. Mais si quelqu’un fait un vœu qu’il peut accomplir, il doit le faire. » Abu Dawud a dit : Cette tradition a été transmise par Waki‘ et d’autres, d’après ‘Abd Allah b. Sa‘id b. Abi al-Hind, mais ils ne l’ont pas attribuée au-delà d’Ibn ‘Abbas",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3322-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3322-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3322-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3322-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093fc",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3323,
+      "bookHadithIndex": 82,
+      "text": "Rapporté par ‘Uqbah bin ‘Amir : Le Messager d’Allah ﷺ a dit : « L’expiation pour un vœu est la même que pour un serment. » Abu Dawud a dit : Cette tradition a aussi été transmise par ‘Amr b. al-Harith, de Ka‘b b. ‘Alqamah, de Ibn Shamasah, d’après ‘Uqbah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3323-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3323-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093fd",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3324,
+      "bookHadithIndex": 83,
+      "text": "Une tradition similaire a aussi été rapportée par ‘Uqbah b. ‘Amir du Prophète ﷺ par une autre chaîne de transmetteurs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3324-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3324-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3324-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3324-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093fe",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 22,
+      "hadithIndex": 3325,
+      "bookHadithIndex": 84,
+      "text": "Rapporté par Ibn ‘Umar : ‘Umar a dit : « Messager d’Allah, j’ai fait un vœu à l’époque préislamique de rester en retraite spirituelle (i‘tikaf) dans la mosquée sacrée (Masjid al-Haram). » Le Prophète ﷺ a dit : « Accomplis ton vœu. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3325-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3325-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3325-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-22-3325-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2032) Sahih Muslim (1656)"
+        }
+      ]
+    }
+  ]
+}

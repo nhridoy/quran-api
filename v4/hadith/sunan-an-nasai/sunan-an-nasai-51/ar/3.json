@@ -1,0 +1,1258 @@
+{
+  "total": 220,
+  "totalPage": 5,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1a9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5639,
+      "bookHadithIndex": 101,
+      "text": "اخبرنا زياد بن ايوب، قال حدثنا ابن علية، قال حدثنا اسحاق بن سويد، عن معاذة، عن عايشة، رضى الله عنها قالت نهى عن الدباء، بذاته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5639-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5639-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5639-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1aa",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5640,
+      "bookHadithIndex": 102,
+      "text": "اخبرنا محمد بن عبد الاعلى، قال حدثنا المعتمر، قال سمعت اسحاق، - وهو ابن سويد - يقول حدثتني معاذة، عن عايشة، ان رسول الله صلى الله عليه وسلم نهى عن نبيذ النقير والمقير والدباء والحنتم . في حديث ابن علية قال اسحاق وذكرت هنيدة عن عايشة مثل حديث معاذة وسمت الجرار . قلت لهنيدة انت سمعتيها سمت الجرار قالت نعم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5640-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5640-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5640-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1ab",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5641,
+      "bookHadithIndex": 103,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، عن طود بن عبد الملك القيسي، - بصري - قال حدثني ابي، عن هنيدة بنت شريك بن زبان، قالت لقيت عايشة رضي الله عنها بالخريبة فسالتها عن العكر فنهتني عنه وقالت انبذي عشية واشربيه غدوة واوكي عليه . ونهتني عن الدباء والنقير والمزفت والحنتم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5641-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5641-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5641-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1ac",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5642,
+      "bookHadithIndex": 104,
+      "text": "اخبرنا زياد بن ايوب، قال حدثنا ابن ادريس، قال سمعت المختار بن فلفل، عن انس، قال نهى رسول الله صلى الله عليه وسلم عن الظروف المزفتة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5642-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5642-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5642-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1ad",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5643,
+      "bookHadithIndex": 105,
+      "text": "اخبرنا احمد بن سليمان، قال حدثنا يزيد بن هارون، قال حدثنا منصور بن حيان، سمع سعيد بن جبير، يحدث انه سمع ابن عمر، وابن، عباس انهما شهدا على رسول الله صلى الله عليه وسلم انه نهى عن الدباء والحنتم والمزفت والنقير ثم تلا رسول الله صلى الله عليه وسلم هذه الاية { وما اتاكم الرسول فخذوه وما نهاكم عنه فانتهوا}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5643-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5643-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5643-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1ae",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5644,
+      "bookHadithIndex": 106,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، عن سليمان التيمي، عن اسماء بنت يزيد، عن ابن عم، لها يقال له انس قال قال ابن عباس الم يقل الله عز وجل { ما اتاكم الرسول فخذوه وما نهاكم عنه فانتهوا } قلت بلى . قال الم يقل الله { وما كان لمومن ولا مومنة اذا قضى الله ورسوله امرا ان يكون لهم الخيرة من امرهم } قلت بلى . قال فاني اشهد ان نبي الله صلى الله عليه وسلم نهى عن النقير والمقير والدباء والحنتم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5644-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5644-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5644-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1af",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5645,
+      "bookHadithIndex": 107,
+      "text": "اخبرنا عمرو بن يزيد، قال حدثنا بهز بن اسد، قال حدثنا شعبة، قال اخبرني عمرو بن مرة، قال سمعت زاذان، قال سالت عبد الله بن عمر قلت حدثني بشىء، سمعته من، رسول الله صلى الله عليه وسلم في الاوعية وفسره قال نهى رسول الله صلى الله عليه وسلم عن الحنتم وهو الذي تسمونه انتم الجرة ونهى عن الدباء وهو الذي تسمونه انتم القرع ونهى عن النقير وهي النخلة ينقرونها ونهى عن المزفت وهو المقير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5645-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5645-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5645-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5646,
+      "bookHadithIndex": 108,
+      "text": "اخبرنا سوار بن عبد الله بن سوار، قال حدثنا عبد الوهاب بن عبد المجيد، عن هشام، عن محمد، عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم وفد عبد القيس حين قدموا عليه عن الدباء وعن النقير وعن المزفت والمزادة المجبوبة وقال \" انتبذ في سقايك واوكه واشربه حلوا \" . قال بعضهم ايذن لي يا رسول الله في مثل هذا . قال \" اذا تجعلها مثل هذه \" . واشار بيده يصف ذلك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5646-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5646-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5646-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5647,
+      "bookHadithIndex": 109,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، عن ابن جريج، قراءة قال وقال ابو الزبير سمعت جابرا، يقول نهى رسول الله صلى الله عليه وسلم عن الجر المزفت والدباء والنقير وكان النبي صلى الله عليه وسلم اذا لم يجد سقاء ينبذ له فيه نبذ له في تور من حجارة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5647-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5647-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5647-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b2",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5648,
+      "bookHadithIndex": 110,
+      "text": "اخبرني احمد بن خالد، قال حدثنا اسحاق، - يعني الازرق - قال حدثنا عبد الملك بن ابي سليمان، عن ابي الزبير، عن جابر، قال كان رسول الله صلى الله عليه وسلم ينبذ له في سقاء فاذا لم يكن له سقاء ننبذ له في تور برام . قال ونهى رسول الله صلى الله عليه وسلم عن الدباء والنقير والمزفت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5648-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5648-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5648-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b3",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5649,
+      "bookHadithIndex": 111,
+      "text": "اخبرنا سوار بن عبد الله بن سوار، قال حدثنا خالد بن الحارث، قال حدثنا عبد الملك، قال حدثنا ابو الزبير، عن جابر، رضى الله عنه ان رسول الله صلى الله عليه وسلم نهى عن الدباء والنقير والجر والمزفت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5649-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5649-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5649-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b4",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5650,
+      "bookHadithIndex": 112,
+      "text": "اخبرنا ابراهيم بن سعيد، قال حدثنا سفيان، قال حدثنا سليمان الاحول، عن مجاهد، عن ابي عياض، عن عبد الله، ان النبي صلى الله عليه وسلم رخص في الجر غير مزفت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5650-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5650-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5650-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5651,
+      "bookHadithIndex": 113,
+      "text": "اخبرنا العباس بن عبد العظيم، عن الاحوص بن جواب، عن عمار بن رزيق، انه حدثهم عن ابي اسحاق، عن الزبير بن عدي، عن ابن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" اني كنت نهيتكم عن لحوم الاضاحي فتزودوا وادخروا ومن اراد زيارة القبور فانها تذكر الاخرة واشربوا واتقوا كل مسكر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5651-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5651-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5651-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b6",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5652,
+      "bookHadithIndex": 114,
+      "text": "اخبرني محمد بن ادم بن سليمان، عن ابن فضيل، عن ابي سنان، عن محارب بن دثار، عن عبد الله بن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" اني كنت نهيتكم عن زيارة القبور فزوروها ونهيتكم عن لحوم الاضاحي فوق ثلاثة ايام فامسكوا ما بدا لكم ونهيتكم عن النبيذ الا في سقاء فاشربوا في الاسقية كلها ولا تشربوا مسكرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5652-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5652-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5652-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b7",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5653,
+      "bookHadithIndex": 115,
+      "text": "اخبرنا محمد بن معدان بن عيسى بن معدان الحراني، قال حدثنا الحسن بن اعين، قال حدثنا زهير، قال حدثنا زبيد، عن محارب، عن ابن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" اني كنت نهيتكم عن ثلاث زيارة القبور فزوروها ولتزدكم زيارتها خيرا ونهيتكم عن لحوم الاضاحي بعد ثلاث فكلوا منها ما شيتم ونهيتكم عن الاشربة في الاوعية فاشربوا في اى وعاء شيتم ولا تشربوا مسكرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5653-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5653-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5653-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b8",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5654,
+      "bookHadithIndex": 116,
+      "text": "اخبرنا ابو بكر بن علي، قال حدثنا ابراهيم بن الحجاج، قال حدثنا حماد بن سلمة، عن حماد بن ابي سليمان، عن عبد الله بن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" كنت نهيتكم عن الاوعية فانتبذوا فيما بدا لكم واياكم وكل مسكر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5654-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5654-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5654-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1b9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5655,
+      "bookHadithIndex": 117,
+      "text": "اخبرنا ابو علي، محمد بن يحيى بن ايوب - مروزي - قال حدثنا عبد الله بن عثمان، قال حدثنا عيسى بن عبيد الكندي، - خراساني - قال سمعت عبد الله بن بريدة، عن ابيه، ان رسول الله صلى الله عليه وسلم بينا هو يسير اذ حل بقوم فسمع لهم لغطا فقال \" ما هذا الصوت \" . قالوا يا نبي الله لهم شراب يشربونه . فبعث الى القوم فدعاهم فقال \" في اى شىء تنتبذون \" . قالوا ننتبذ في النقير والدباء وليس لنا ظروف . فقال \" لا تشربوا الا فيما اوكيتم عليه \" . قال فلبث بذلك ما شاء الله ان يلبث ثم رجع عليهم فاذا هم قد اصابهم وباء واصفروا . قال \" ما لي اراكم قد هلكتم \" . قالوا يا نبي الله ارضنا وبيية وحرمت علينا الا ما اوكينا عليه . قال \" اشربوا وكل مسكر حرام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5655-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5655-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5655-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1ba",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5656,
+      "bookHadithIndex": 118,
+      "text": "اخبرنا محمود بن غيلان، قال حدثنا ابو داود الحفري، وابو احمد الزبيري عن سفيان، عن منصور، عن سالم، عن جابر، ان رسول الله صلى الله عليه وسلم لما نهى عن الظروف شكت الانصار فقالت يا رسول الله ليس لنا وعاء . فقال النبي صلى الله عليه وسلم \" فلا اذا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5656-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5656-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5656-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1bb",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5657,
+      "bookHadithIndex": 119,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، عن يونس، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، قال اتي رسول الله صلى الله عليه وسلم ليلة اسري به بقدحين من خمر ولبن فنظر اليهما فاخذ اللبن فقال له جبريل عليه السلام الحمد لله الذي هداك للفطرة لو اخذت الخمر غوت امتك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5657-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5657-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5657-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1bc",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5658,
+      "bookHadithIndex": 120,
+      "text": "اخبرنا محمد بن عبد الاعلى، عن خالد، - وهو ابن الحارث - عن شعبة، قال سمعت ابا بكر بن حفص، يقول سمعت ابن محيريز، يحدث عن رجل، من اصحاب النبي صلى الله عليه وسلم عن النبي صلى الله عليه وسلم قال \" يشرب ناس من امتي الخمر يسمونها بغير اسمها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5658-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5658-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5658-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1bd",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5659,
+      "bookHadithIndex": 121,
+      "text": "اخبرنا عيسى بن حماد، قال انبانا الليث، عن عقيل، عن ابن شهاب، عن ابي بكر بن عبد الرحمن بن الحارث، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا يزني الزاني حين يزني وهو مومن ولا يشرب الخمر شاربها حين يشربها وهو مومن ولا يسرق السارق حين يسرق وهو مومن ولا ينتهب نهبة يرفع الناس اليه فيها ابصارهم حين ينتهبها وهو مومن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5659-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5659-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5659-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1be",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5660,
+      "bookHadithIndex": 122,
+      "text": "اخبرنا اسحاق بن ابراهيم، قال حدثنا الوليد بن مسلم، عن الاوزاعي، عن الزهري، قال حدثني سعيد بن المسيب، وابو سلمة بن عبد الرحمن وابو بكر بن عبد الرحمن كلهم حدثوني عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا يزني الزاني حين يزني وهو مومن ولا يسرق السارق حين يسرق وهو مومن ولا يشرب الخمر حين يشربها وهو مومن ولا ينتهب نهبة ذات شرف يرفع المسلمون اليه ابصارهم وهو مومن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5660-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5660-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5660-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1bf",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5661,
+      "bookHadithIndex": 123,
+      "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا جرير، عن مغيرة، عن عبد الرحمن بن ابي نعم، عن ابن عمر، ونفر، من اصحاب محمد صلى الله عليه وسلم قالوا قال رسول الله صلى الله عليه وسلم \" من شرب الخمر فاجلدوه ثم ان شرب فاجلدوه ثم ان شرب فاجلدوه ثم ان شرب فاقتلوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5661-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5661-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5661-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5662,
+      "bookHadithIndex": 124,
+      "text": "اخبرنا اسحاق بن ابراهيم، قال حدثنا شبابة، قال حدثنا ابن ابي ذيب، عن خاله الحارث بن عبد الرحمن، عن ابي سلمة، عن ابي هريرة، عن رسول الله صلى الله عليه وسلم قال \" اذا سكر فاجلدوه ثم ان سكر فاجلدوه ثم ان سكر فاجلدوه \" . ثم قال في الرابعة \" فاضربوا عنقه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5662-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5662-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5662-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5663,
+      "bookHadithIndex": 125,
+      "text": "اخبرنا واصل بن عبد الاعلى، عن ابن فضيل، عن وايل ابي بكر، عن ابي بردة بن ابي موسى، عن ابيه، رضى الله عنه انه كان يقول ما ابالي شربت الخمر او عبدت هذه السارية من دون الله عز وجل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5663-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5663-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5663-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c2",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5664,
+      "bookHadithIndex": 126,
+      "text": "اخبرنا علي بن حجر، قال انبانا عثمان بن حصن بن علاق، - دمشقي - قال حدثنا عروة بن، رويم ان ابن الديلمي ركب يطلب عبد الله بن عمرو بن العاص قال ابن الديلمي فدخلت عليه فقلت هل سمعت يا عبد الله بن عمرو، رسول الله صلى الله عليه وسلم ذكر شان الخمر بشىء فقال نعم سمعت رسول الله صلى الله عليه وسلم يقول \" لا يشرب الخمر رجل من امتي فيقبل الله منه صلاة اربعين يوما",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5664-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5664-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5664-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c3",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5665,
+      "bookHadithIndex": 127,
+      "text": "اخبرنا قتيبة، وعلي بن حجر، قالا حدثنا خلف، - يعني ابن خليفة - عن منصور بن زاذان، عن الحكم بن عتيبة، عن ابي وايل، عن مسروق، قال القاضي اذا اكل الهدية فقد اكل السحت واذا قبل الرشوة بلغت به الكفر . وقال مسروق من شرب الخمر فقد كفر وكفره ان ليس له صلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5665-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5665-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5665-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c4",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5666,
+      "bookHadithIndex": 128,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، عن معمر، عن الزهري، عن ابي بكر بن عبد الرحمن بن الحارث، عن ابيه، قال سمعت عثمان، رضى الله عنه يقول اجتنبوا الخمر فانها ام الخبايث انه كان رجل ممن خلا قبلكم تعبد فعلقته امراة غوية فارسلت اليه جاريتها فقالت له انا ندعوك للشهادة فانطلق مع جاريتها فطفقت كلما دخل بابا اغلقته دونه حتى افضى الى امراة وضيية عندها غلام وباطية خمر فقالت اني والله ما دعوتك للشهادة ولكن دعوتك لتقع على او تشرب من هذه الخمرة كاسا او تقتل هذا الغلام . قال فاسقيني من هذا الخمر كاسا فسقته كاسا . قال زيدوني فلم يرم حتى وقع عليها وقتل النفس فاجتنبوا الخمر فانها والله لا يجتمع الايمان وادمان الخمر الا ليوشك ان يخرج احدهما صاحبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5666-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5666-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5666-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5667,
+      "bookHadithIndex": 129,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، - يعني ابن المبارك - عن يونس، عن الزهري، قال حدثني ابو بكر بن عبد الرحمن بن الحارث، ان اباه، قال سمعت عثمان، يقول اجتنبوا الخمر فانها ام الخبايث فانه كان رجل ممن خلا قبلكم يتعبد ويعتزل الناس فذكر مثله قال فاجتنبوا الخمر فانه والله لا يجتمع والايمان ابدا الا يوشك احدهما ان يخرج صاحبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5667-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5667-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5667-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c6",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5668,
+      "bookHadithIndex": 130,
+      "text": "اخبرنا ابو بكر بن علي، قال حدثنا سريج بن يونس، قال حدثنا يحيى بن عبد الملك، عن العلاء، - وهو ابن المسيب - عن فضيل، عن مجاهد، عن ابن عمر، قال من شرب الخمر فلم ينتش لم تقبل له صلاة مادام في جوفه او عروقه منها شىء وان مات مات كافرا وان انتشى لم تقبل له صلاة اربعين ليلة وان مات فيها مات كافرا . خالفه يزيد بن ابي زياد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5668-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5668-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5668-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b1c7",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5669,
+      "bookHadithIndex": 131,
+      "text": "اخبرني محمد بن ادم بن سليمان، عن عبد الرحيم، عن يزيد، ح وانبانا واصل بن عبد الاعلى، حدثنا ابن فضيل، عن يزيد بن ابي زياد، عن مجاهد، عن عبد الله بن عمرو، عن النبي صلى الله عليه وسلم وقال محمد بن ادم عن رسول الله صلى الله عليه وسلم قال \" من شرب الخمر فجعلها في بطنه لم يقبل الله منه صلاة سبعا ان مات فيها \" . وقال ابن ادم \" فيهن مات كافرا فان اذهبت عقله عن شىء من الفرايض \" . وقال ابن ادم \" القران لم تقبل له صلاة اربعين يوما ان مات فيها \" . وقال ابن ادم \" فيهن مات كافرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5669-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5669-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5669-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1c8",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5670,
+      "bookHadithIndex": 132,
+      "text": "اخبرنا القاسم بن زكريا بن دينار، قال حدثنا معاوية بن عمرو، حدثنا ابو اسحاق، قال حدثنا الاوزاعي، قال حدثني ربيعة بن يزيد، ح واخبرني عمرو بن عثمان بن سعيد، عن بقية، عن ابي عمرو، - وهو الاوزاعي - عن ربيعة بن يزيد، عن عبد الله بن الديلمي، قال دخلت على عبد الله بن عمرو بن العاص وهو في حايط له بالطايف يقال له الوهط وهو مخاصر فتى من قريش يزن ذلك الفتى بشرب الخمر فقال سمعت رسول الله صلى الله عليه وسلم يقول \" من شرب الخمر شربة لم تقبل له توبة اربعين صباحا فان تاب تاب الله عليه فان عاد لم تقبل توبته اربعين صباحا فان تاب تاب الله عليه فان عاد كان حقا على الله ان يسقيه من طينة الخبال يوم القيامة \" . اللفظ لعمرو",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5670-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5670-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5670-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1c9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5671,
+      "bookHadithIndex": 133,
+      "text": "اخبرنا قتيبة، عن مالك، والحارث بن مسكين، قراءة عليه وانا اسمع، - واللفظ له - عن ابن القاسم، قال حدثني مالك، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" من شرب الخمر في الدنيا ثم لم يتب منها حرمها في الاخرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5671-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5671-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5671-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1ca",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5672,
+      "bookHadithIndex": 134,
+      "text": "اخبرنا محمد بن بشار، عن محمد، قال حدثنا شعبة، عن منصور، عن سالم بن ابي الجعد، عن نبيط، عن جابان، عن عبد الله بن عمرو، عن النبي صلى الله عليه وسلم قال \" لا يدخل الجنة منان ولا عاق ولا مدمن خمر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5672-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5672-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5672-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1cb",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5673,
+      "bookHadithIndex": 135,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، عن حماد بن زيد، قال حدثنا ايوب، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" من شرب الخمر في الدنيا فمات وهو يدمنها لم يتب منها لم يشربها في الاخرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5673-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5673-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5673-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1cc",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5674,
+      "bookHadithIndex": 136,
+      "text": "اخبرنا يحيى بن درست، قال حدثنا حماد، عن ايوب، عن نافع، عن ابن عمر، رضى الله عنهما قال قال رسول الله صلى الله عليه وسلم \" من شرب الخمر في الدنيا فمات وهو يدمنها لم يشربها في الاخرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5674-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5674-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5674-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1cd",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5675,
+      "bookHadithIndex": 137,
+      "text": "اخبرنا سويد، قال انبانا عبد الله، عن الحسن بن يحيى، عن الضحاك، قال من مات مدمنا للخمر نضح في وجهه بالحميم حين يفارق الدنيا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5675-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5675-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5675-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1ce",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5676,
+      "bookHadithIndex": 138,
+      "text": "اخبرنا زكريا بن يحيى، قال حدثنا عبد الاعلى بن حماد، قال حدثنا معتمر بن سليمان، قال حدثني عبد الرزاق، عن معمر، عن الزهري، عن سعيد بن المسيب، قال غرب عمر رضى الله عنه ربيعة بن امية في الخمر الى خيبر فلحق بهرقل فتنصر فقال عمر رضي الله عنه لا اغرب بعده مسلما",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5676-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5676-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5676-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1cf",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5677,
+      "bookHadithIndex": 139,
+      "text": "اخبرنا هناد بن السري، عن ابي الاحوص، عن سماك، عن القاسم بن عبد الرحمن، عن ابيه، عن ابي بردة بن نيار، قال قال رسول الله صلى الله عليه وسلم \" اشربوا في الظروف ولا تسكروا \" . قال ابو عبد الرحمن وهذا حديث منكر غلط فيه ابو الاحوص سلام بن سليم لا نعلم ان احدا تابعه عليه من اصحاب سماك بن حرب وسماك ليس بالقوي وكان يقبل التلقين . قال احمد بن حنبل كان ابو الاحوص يخطي في هذا الحديث . خالفه شريك في اسناده وفي لفظه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5677-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5677-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5677-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5678,
+      "bookHadithIndex": 140,
+      "text": "اخبرنا محمد بن اسماعيل، قال حدثنا يزيد، قال انبانا شريك، عن سماك بن حرب، عن ابن بريدة، عن ابيه، ان رسول الله صلى الله عليه وسلم نهى عن الدباء والحنتم والنقير والمزفت . خالفه ابو عوانة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5678-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5678-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5678-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5679,
+      "bookHadithIndex": 141,
+      "text": "اخبرنا ابو بكر بن علي، قال انبانا ابراهيم بن حجاج، قال حدثنا ابو عوانة، عن سماك، عن قرصافة، - امراة منهم - عن عايشة، قالت اشربوا ولا تسكروا . قال ابو عبد الرحمن وهذا ايضا غير ثابت وقرصافة هذه لا ندري من هي والمشهور عن عايشة خلاف ما روت عنها قرصافة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5679-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5679-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5679-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d2",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5680,
+      "bookHadithIndex": 142,
+      "text": "اخبرنا سويد بن نصر، قال اخبرنا عبد الله، عن قدامة العامري، ان جسرة بنت دجاجة العامرية، حدثته قالت، سمعت عايشة، سالها اناس كلهم يسال عن النبيذ، يقول ننبذ التمر غدوة ونشربه عشيا وننبذه عشيا ونشربه غدوة . قالت لا احل مسكرا وان كان خبزا وان كانت ماء . قالتها ثلاث مرات",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5680-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5680-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5680-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d3",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5681,
+      "bookHadithIndex": 143,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن علي بن المبارك، قال حدثتنا كريمة بنت همام، انها سمعت عايشة ام المومنين، تقول نهيتم عن الدباء، نهيتم عن الحنتم، نهيتم عن المزفت، . ثم اقبلت على النساء فقالت اياكن والجر الاخضر وان اسكركن ماء حبكن فلا تشربنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5681-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5681-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5681-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d4",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5682,
+      "bookHadithIndex": 144,
+      "text": "اخبرنا اسماعيل بن مسعود، قال حدثنا خالد، قال حدثنا ابان بن صمعة، قال حدثتني والدتي، عن عايشة، انها سيلت عن الاشربة، فقالت كان رسول الله صلى الله عليه وسلم ينهى عن كل مسكر . واعتلوا بحديث عبد الله بن شداد عن عبد الله بن عباس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5682-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5682-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5682-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5683,
+      "bookHadithIndex": 145,
+      "text": "اخبرنا ابو بكر بن علي، قال انبانا القواريري، قال حدثنا عبد الوارث، قال سمعت ابن شبرمة، يذكره عن عبد الله بن شداد بن الهاد، عن ابن عباس، قال حرمت الخمر قليلها وكثيرها والسكر من كل شراب . ابن شبرمة لم يسمعه من عبد الله بن شداد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5683-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5683-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5683-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d6",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5684,
+      "bookHadithIndex": 146,
+      "text": "اخبرنا ابو بكر بن علي، قال حدثنا سريج بن يونس، قال حدثنا هشيم، عن ابن شبرمة، قال حدثني الثقة، عن عبد الله بن شداد، عن ابن عباس، قال حرمت الخمر بعينها قليلها وكثيرها والسكر من كل شراب . خالفه ابو عون محمد بن عبيد الله الثقفي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5684-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5684-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5684-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d7",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5685,
+      "bookHadithIndex": 147,
+      "text": "اخبرنا احمد بن عبد الله بن الحكم، قال حدثنا محمد، ح وانبانا الحسين بن منصور، قال حدثنا احمد بن حنبل، قال حدثنا محمد بن جعفر، قال حدثنا شعبة، عن مسعر، عن ابي عون، عن عبد الله بن شداد، عن ابن عباس، قال حرمت الخمر بعينها قليلها وكثيرها والسكر من كل شراب . لم يذكر ابن الحكم قليلها وكثيرها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5685-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5685-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5685-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d8",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5686,
+      "bookHadithIndex": 148,
+      "text": "اخبرنا الحسين بن منصور، قال حدثنا احمد بن حنبل، قال حدثنا ابراهيم بن ابي العباس، قال حدثنا شريك، عن عباس بن ذريح، عن ابي عون، عن عبد الله بن شداد، عن ابن عباس، قال حرمت الخمر قليلها وكثيرها وما اسكر من كل شراب . قال ابو عبد الرحمن وهذا اولى بالصواب من حديث ابن شبرمة وهشيم بن بشير كان يدلس وليس في حديثه ذكر السماع من ابن شبرمة ورواية ابي عون اشبه بما رواه الثقات عن ابن عباس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5686-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5686-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5686-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1d9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5687,
+      "bookHadithIndex": 149,
+      "text": "اخبرنا قتيبة، عن سفيان، عن ابي الجويرية الجرمي، قال سالت ابن عباس وهو مسند ظهره الى الكعبة عن الباذق، فقال سبق محمد الباذق وما اسكر فهو حرام . قال انا اول العرب ساله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5687-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5687-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5687-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b1da",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5688,
+      "bookHadithIndex": 150,
+      "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا ابو عامر، والنضر بن شميل، ووهب بن جرير، قالوا حدثنا شعبة، عن سلمة بن كهيل، قال سمعت ابا الحكم، يحدث قال ابن عباس من سره ان يحرم، - ان كان محرما ما حرم الله ورسوله - فليحرم النبيذ",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5688-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5688-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5688-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    }
+  ]
+}

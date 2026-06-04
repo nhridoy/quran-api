@@ -1,0 +1,1463 @@
+{
+  "total": 266,
+  "totalPage": 6,
+  "page": 5,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 201,
+      "bookHadithIndex": 201,
+      "text": "حدثنا محمد بن يحيى، حدثنا عبد الله بن رجاء، حدثنا اسراييل، عن عثمان، - يعني ابن المغيرة الثقفي - عن سالم بن ابي الجعد، عن جابر بن عبد الله، قال كان رسول الله صلى الله عليه وسلم يعرض نفسه على الناس في الموسم فيقول \" الا رجل يحملني الى قومه فان قريشا قد منعوني ان ابلغ كلام ربي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-201-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-201-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-201-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-201-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 202,
+      "bookHadithIndex": 202,
+      "text": "حدثنا هشام بن عمار، حدثنا الوزير بن صبيح، حدثنا يونس بن حلبس، عن ام الدرداء، عن ابي الدرداء، عن النبي صلى الله عليه وسلم في قوله تعالى {كل يوم هو في شان} . قال \" من شانه ان يغفر ذنبا ويفرج كربا ويرفع قوما ويخفض اخرين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-202-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-202-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-202-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 203,
+      "bookHadithIndex": 203,
+      "text": "حدثنا محمد بن عبد الملك بن ابي الشوارب، حدثنا ابو عوانة، حدثنا عبد الملك بن عمير، عن المنذر بن جرير، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" من سن سنة حسنة فعمل بها كان له اجرها ومثل اجر من عمل بها لا ينقص من اجورهم شييا ومن سن سنة سيية فعمل بها كان عليه وزرها ووزر من عمل بها من بعده لا ينقص من اوزارهم شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-203-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-203-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-203-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-203-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 204,
+      "bookHadithIndex": 204,
+      "text": "حدثنا عبد الوارث بن عبد الصمد بن عبد الوارث، حدثني ابي، حدثني ابي، عن ايوب، عن محمد بن سيرين، عن ابي هريرة، قال جاء رجل الى النبي صلى الله عليه وسلم فحث عليه فقال رجل عندي كذا وكذا . قال فما بقي في المجلس رجل الا تصدق عليه بما قل او كثر فقال رسول الله صلى الله عليه وسلم \" من استن خيرا فاستن به كان له اجره كاملا ومن اجور من استن به ولا ينقص من اجورهم شييا ومن استن سنة سيية فاستن به فعليه وزره كاملا ومن اوزار الذين استن به ولا ينقص من اوزارهم شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-204-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-204-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-204-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-204-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 205,
+      "bookHadithIndex": 205,
+      "text": "حدثنا عيسى بن حماد المصري، انبانا الليث بن سعد، عن يزيد بن ابي حبيب، عن سعد بن سنان، عن انس بن مالك، عن رسول الله صلى الله عليه وسلم انه قال \" ايما داع دعا الى ضلالة فاتبع فان له مثل اوزار من اتبعه ولا ينقص من اوزارهم شييا وايما داع دعا الى هدى فاتبع فان له مثل اجور من اتبعه ولا ينقص من اجورهم شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-205-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-205-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-205-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-205-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 206,
+      "bookHadithIndex": 206,
+      "text": "حدثنا ابو مروان، محمد بن عثمان العثماني حدثنا عبد العزيز بن ابي حازم، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" من دعا الى هدى كان له من الاجر مثل اجور من اتبعه لا ينقص ذلك من اجورهم شييا ومن دعا الى ضلالة فعليه من الاثم مثل اثام من اتبعه لا ينقص ذلك من اثامهم شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-206-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-206-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-206-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-206-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 207,
+      "bookHadithIndex": 207,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابو نعيم، حدثنا ابو اسراييل، عن الحكم، عن ابي جحيفة، قال قال رسول الله صلى الله عليه وسلم \" من سن سنة حسنة فعمل بها بعده كان له اجرها ومثل اجورهم من غير ان ينقص من اجورهم شييا ومن سن سنة سيية فعمل بها بعده كان عليه وزره ومثل اوزارهم من غير ان ينقص من اوزارهم شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-207-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-207-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-207-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 208,
+      "bookHadithIndex": 208,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو معاوية، عن ليث، عن بشير بن نهيك، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ما من داع يدعو الى شىء الا وقف يوم القيامة لازما لدعوته ما دعا اليه وان دعا رجل رجلا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-208-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-208-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-208-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-208-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2b9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 209,
+      "bookHadithIndex": 209,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، حدثنا كثير بن عبد الله بن عمرو بن عوف المزني، حدثني ابي، عن جدي، ان رسول الله صلى الله عليه وسلم قال \" من احيا سنة من سنتي فعمل بها الناس كان له مثل اجر من عمل بها لا ينقص من اجورهم شييا ومن ابتدع بدعة فعمل بها كان عليه اوزار من عمل بها لا ينقص من اوزار من عمل بها شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-209-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-209-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-209-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-209-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ba",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 210,
+      "bookHadithIndex": 210,
+      "text": "حدثنا محمد بن يحيى، حدثنا اسماعيل بن ابي اويس، حدثني كثير بن عبد الله، عن ابيه، عن جده، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من احيا سنة من سنتي قد اميتت بعدي فان له من الاجر مثل اجر من عمل بها من الناس لا ينقص من اجور الناس شييا ومن ابتدع بدعة لا يرضاها الله ورسوله فان عليه مثل اثم من عمل بها من الناس لا ينقص من اثام الناس شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-210-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-210-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-210-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-210-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2bb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 211,
+      "bookHadithIndex": 211,
+      "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد القطان، حدثنا شعبة، وسفيان، عن علقمة بن مرثد، عن سعد بن عبيدة، عن ابي عبد الرحمن السلمي، عن عثمان بن عفان، قال قال رسول الله صلى الله عليه وسلم قال شعبة \" خيركم \" . وقال سفيان \" افضلكم من تعلم القران وعلمه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-211-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-211-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-211-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-211-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2bc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 212,
+      "bookHadithIndex": 212,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا سفيان، عن علقمة بن مرثد، عن ابي عبد الرحمن السلمي، عن عثمان بن عفان، قال قال رسول الله صلى الله عليه وسلم \" افضلكم من تعلم القران وعلمه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-212-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-212-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-212-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-212-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2bd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 213,
+      "bookHadithIndex": 213,
+      "text": "حدثنا ازهر بن مروان، حدثنا الحارث بن نبهان، حدثنا عاصم بن بهدلة، عن مصعب بن سعد، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" خياركم من تعلم القران وعلمه \" . قال واخذ بيدي فاقعدني مقعدي هذا اقري",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-213-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-213-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-213-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-213-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2be",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 214,
+      "bookHadithIndex": 214,
+      "text": "حدثنا محمد بن بشار، ومحمد بن المثنى، قالا حدثنا يحيى بن سعيد، عن شعبة، عن قتادة، عن انس بن مالك، عن ابي موسى الاشعري، عن النبي صلى الله عليه وسلم قال \" مثل المومن الذي يقرا القران كمثل الاترجة طعمها طيب وريحها طيب ومثل المومن الذي لا يقرا القران كمثل التمرة طعمها طيب ولا ريح لها ومثل المنافق الذي يقرا القران كمثل الريحانة ريحها طيب وطعمها مر ومثل المنافق الذي لا يقرا القران كمثل الحنظلة طعمها مر ولا ريح لها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-214-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-214-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-214-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-214-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2bf",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 215,
+      "bookHadithIndex": 215,
+      "text": "حدثنا بكر بن خلف ابو بشر، حدثنا عبد الرحمن بن مهدي، حدثنا عبد الرحمن بن بديل، عن ابيه، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" ان لله اهلين من الناس \" . قالوا يا رسول الله من هم قال \" هم اهل القران اهل الله وخاصته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-215-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-215-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-215-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-215-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 216,
+      "bookHadithIndex": 216,
+      "text": "حدثنا عمرو بن عثمان بن سعيد بن كثير بن دينار الحمصي، حدثنا محمد بن حرب، عن ابي عمر، عن كثير بن زاذان، عن عاصم بن ضمرة، عن علي بن ابي طالب، قال قال رسول الله صلى الله عليه وسلم \" من قرا القران وحفظه ادخله الله الجنة وشفعه في عشرة من اهل بيته كلهم قد استوجبوا النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-216-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-216-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-216-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-216-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 217,
+      "bookHadithIndex": 217,
+      "text": "حدثنا عمرو بن عبد الله الاودي، حدثنا ابو اسامة، عن عبد الحميد بن جعفر، عن المقبري، عن عطاء، مولى ابي احمد عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" تعلموا القران واقرءوه وارقدوا فان مثل القران ومن تعلمه فقام به كمثل جراب محشو مسكا يفوح ريحه كل مكان ومثل من تعلمه فرقد وهو في جوفه كمثل جراب اوكي على مسك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-217-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-217-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-217-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-217-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 218,
+      "bookHadithIndex": 218,
+      "text": "حدثنا ابو مروان، محمد بن عثمان العثماني حدثنا ابراهيم بن سعد، عن ابن شهاب، عن عامر بن واثلة ابي الطفيل، ان نافع بن عبد الحارث، لقي عمر بن الخطاب بعسفان - وكان عمر استعمله على مكة - فقال عمر من استخلفت على اهل الوادي قال استخلفت عليهم ابن ابزى . قال ومن ابن ابزى قال رجل من موالينا . قال عمر فاستخلفت عليهم مولى قال انه قاري لكتاب الله تعالى عالم بالفرايض قاض . قال عمر اما ان نبيكم صلى الله عليه وسلم قال \" ان الله يرفع بهذا الكتاب اقواما ويضع به اخرين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-218-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-218-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-218-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-218-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 219,
+      "bookHadithIndex": 219,
+      "text": "حدثنا العباس بن عبد الله الواسطي، حدثنا عبد الله بن غالب العباداني، عن عبد الله بن زياد البحراني، عن علي بن زيد، عن سعيد بن المسيب، عن ابي ذر، قال قال لي رسول الله صلى الله عليه وسلم \" يا ابا ذر لان تغدو فتعلم اية من كتاب الله خير لك من ان تصلي ماية ركعة ولان تغدو فتعلم بابا من العلم عمل به او لم يعمل خير لك من ان تصلي الف ركعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-219-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-219-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-219-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-219-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 220,
+      "bookHadithIndex": 220,
+      "text": "حدثنا بكر بن خلف ابو بشر، حدثنا عبد الاعلى، عن معمر، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من يرد الله به خيرا يفقهه في الدين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-220-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-220-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-220-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-220-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 221,
+      "bookHadithIndex": 221,
+      "text": "حدثنا هشام بن عمار، حدثنا الوليد بن مسلم، حدثنا مروان بن جناح، عن يونس بن ميسرة بن حلبس، انه حدثه قال سمعت معاوية بن ابي سفيان، يحدث عن رسول الله صلى الله عليه وسلم انه قال \" الخير عادة والشر لجاجة ومن يرد الله به خيرا يفقهه في الدين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-221-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-221-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-221-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-221-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 222,
+      "bookHadithIndex": 222,
+      "text": "حدثنا هشام بن عمار، حدثنا الوليد بن مسلم، حدثنا روح بن جناح ابو سعد، عن مجاهد، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" فقيه واحد اشد على الشيطان من الف عابد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-222-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-222-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-222-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-222-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 223,
+      "bookHadithIndex": 223,
+      "text": "حدثنا نصر بن علي الجهضمي، حدثنا عبد الله بن داود، عن عاصم بن رجاء بن حيوة، عن داود بن جميل، عن كثير بن قيس، قال كنت جالسا عند ابي الدرداء في مسجد دمشق فاتاه رجل فقال يا ابا الدرداء اتيتك من المدينة مدينة رسول الله صلى الله عليه وسلم لحديث بلغني انك تحدث به عن النبي صلى الله عليه وسلم . قال فما جاء بك تجارة قال لا . قال ولا جاء بك غيره قال لا . قال فاني سمعت رسول الله صلى الله عليه وسلم يقول \" من سلك طريقا يلتمس فيه علما سهل الله له طريقا الى الجنة وان الملايكة لتضع اجنحتها رضا لطالب العلم وان طالب العلم يستغفر له من في السماء والارض حتى الحيتان في الماء وان فضل العالم على العابد كفضل القمر على ساير الكواكب ان العلماء هم ورثة الانبياء ان الانبياء لم يورثوا دينارا ولا درهما انما ورثوا العلم فمن اخذه اخذ بحظ وافر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-223-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-223-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-223-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-223-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 224,
+      "bookHadithIndex": 224,
+      "text": "حدثنا هشام بن عمار، حدثنا حفص بن سليمان، حدثنا كثير بن شنظير، عن محمد بن سيرين، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" طلب العلم فريضة على كل مسلم وواضع العلم عند غير اهله كمقلد الخنازير الجوهر واللولو والذهب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-224-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-224-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-224-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-224-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2c9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 225,
+      "bookHadithIndex": 225,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا ابو معاوية، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من نفس عن مومن كربة من كرب الدنيا نفس الله عنه كربة من كرب يوم القيامة ومن ستر مسلما ستره الله في الدنيا والاخرة ومن يسر على معسر يسر الله عليه في الدنيا والاخرة والله في عون العبد ما كان العبد في عون اخيه ومن سلك طريقا يلتمس فيه علما سهل الله له به طريقا الى الجنة وما اجتمع قوم في بيت من بيوت الله يتلون كتاب الله ويتدارسونه بينهم الا حفتهم الملايكة ونزلت عليهم السكينة وغشيتهم الرحمة وذكرهم الله فيمن عنده ومن ابطا به عمله لم يسرع به نسبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-225-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-225-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-225-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-225-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ca",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 226,
+      "bookHadithIndex": 226,
+      "text": "حدثنا محمد بن يحيى، حدثنا عبد الرزاق، انبانا معمر، عن عاصم بن ابي النجود، عن زر بن حبيش، قال اتيت صفوان بن عسال المرادي فقال ما جاء بك قلت انبط العلم . قال فاني سمعت رسول الله صلى الله عليه وسلم يقول \" ما من خارج خرج من بيته في طلب العلم الا وضعت له الملايكة اجنحتها رضا بما يصنع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-226-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-226-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-226-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-226-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2cb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 227,
+      "bookHadithIndex": 227,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا حاتم بن اسماعيل، عن حميد بن صخر، عن المقبري، عن ابي هريرة، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من جاء مسجدي هذا لم ياته الا لخير يتعلمه او يعلمه فهو بمنزلة المجاهد في سبيل الله ومن جاء لغير ذلك فهو بمنزلة الرجل ينظر الى متاع غيره",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-227-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-227-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-227-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2cc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 228,
+      "bookHadithIndex": 228,
+      "text": "حدثنا هشام بن عمار، حدثنا صدقة بن خالد، حدثنا عثمان بن ابي عاتكة، عن علي بن يزيد، عن القاسم، عن ابي امامة، قال قال رسول الله صلى الله عليه وسلم \" عليكم بهذا العلم قبل ان يقبض وقبضه ان يرفع \" . وجمع بين اصبعيه الوسطى والتي تلي الابهام هكذا ثم قال \" العالم والمتعلم شريكان في الاجر ولا خير في ساير الناس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-228-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-228-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-228-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-228-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2cd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 229,
+      "bookHadithIndex": 229,
+      "text": "حدثنا بشر بن هلال الصواف، حدثنا داود بن الزبرقان، عن بكر بن خنيس، عن عبد الرحمن بن زياد، عن عبد الله بن يزيد، عن عبد الله بن عمرو، قال خرج رسول الله صلى الله عليه وسلم ذات يوم من بعض حجره فدخل المسجد فاذا هو بحلقتين احداهما يقرءون القران ويدعون الله والاخرى يتعلمون ويعلمون فقال النبي صلى الله عليه وسلم \" كل على خير هولاء يقرءون القران ويدعون الله فان شاء اعطاهم وان شاء منعهم وهولاء يتعلمون ويعلمون وانما بعثت معلما \" . فجلس معهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-229-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-229-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-229-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-229-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ce",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 230,
+      "bookHadithIndex": 230,
+      "text": "حدثنا محمد بن عبد الله بن نمير، وعلي بن محمد، قالا حدثنا محمد بن فضيل، حدثنا ليث بن ابي سليم، عن يحيى بن عباد ابي هبيرة الانصاري، عن ابيه، عن زيد بن ثابت، قال قال رسول الله صلى الله عليه وسلم \" نضر الله امرا سمع مقالتي فبلغها فرب حامل فقه غير فقيه ورب حامل فقه الى من هو افقه منه \" . زاد فيه علي بن محمد \" ثلاث لا يغل عليهن قلب امري مسلم اخلاص العمل لله والنصح لايمة المسلمين ولزوم جماعتهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-230-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-230-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-230-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2cf",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 231,
+      "bookHadithIndex": 231,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا ابي، عن محمد بن اسحاق، عن عبد السلام، عن الزهري، عن محمد بن جبير بن مطعم، عن ابيه، قال قام رسول الله صلى الله عليه وسلم بالخيف من منى فقال \" نضر الله امرا سمع مقالتي فبلغها فرب حامل فقه غير فقيه ورب حامل فقه الى من هو افقه منه \" . حدثنا علي بن محمد، حدثنا خالي، يعلى ح وحدثنا هشام بن عمار، حدثنا سعيد بن يحيى، قالا حدثنا محمد بن اسحاق، عن الزهري، عن محمد بن جبير بن مطعم، عن ابيه، عن النبي صلى الله عليه وسلم بنحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-231-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-231-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-231-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-231-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 232,
+      "bookHadithIndex": 232,
+      "text": "حدثنا محمد بن بشار، ومحمد بن الوليد، قالا حدثنا محمد بن جعفر، حدثنا شعبة، عن سماك، عن عبد الرحمن بن عبد الله، عن ابيه، ان النبي صلى الله عليه وسلم قال \" نضر الله امرا سمع منا حديثا فبلغه فرب مبلغ احفظ من سامع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-232-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-232-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-232-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-232-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 233,
+      "bookHadithIndex": 233,
+      "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد القطان، - املاه علينا - حدثنا قرة بن خالد، حدثنا محمد بن سيرين، عن عبد الرحمن بن ابي بكرة، عن ابيه، وعن رجل، اخر هو افضل في نفسي من عبد الرحمن عن ابي بكرة قال خطب رسول الله صلى الله عليه وسلم يوم النحر فقال \" ليبلغ الشاهد الغايب فانه رب مبلغ يبلغه اوعى له من سامع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-233-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-233-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-233-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-233-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 234,
+      "bookHadithIndex": 234,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، ح وحدثنا اسحاق بن منصور، انبانا النضر بن شميل، عن بهز بن حكيم، عن ابيه، عن جده، معاوية القشيري قال قال رسول الله صلى الله عليه وسلم \" الا ليبلغ الشاهد الغايب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-234-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-234-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-234-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-234-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 235,
+      "bookHadithIndex": 235,
+      "text": "حدثنا احمد بن عبدة، انبانا عبد العزيز بن محمد الدراوردي، حدثني قدامة بن موسى، عن محمد بن الحصين التميمي، عن ابي علقمة، مولى ابن عباس عن يسار، مولى ابن عمر عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" ليبلغ شاهدكم غايبكم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-235-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-235-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-235-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-235-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 236,
+      "bookHadithIndex": 236,
+      "text": "حدثنا محمد بن ابراهيم الدمشقي، حدثنا مبشر بن اسماعيل الحلبي، عن معان بن رفاعة، عن عبد الوهاب بن بخت المكي، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" نضر الله عبدا سمع مقالتي فوعاها ثم بلغها عني فرب حامل فقه غير فقيه ورب حامل فقه الى من هو افقه منه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-236-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-236-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-236-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 237,
+      "bookHadithIndex": 237,
+      "text": "حدثنا الحسين بن الحسن المروزي، انبانا محمد بن ابي عدي، حدثنا محمد بن ابي حميد، حدثنا حفص بن عبيد الله بن انس، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" ان من الناس مفاتيح للخير مغاليق للشر وان من الناس مفاتيح للشر مغاليق للخير فطوبى لمن جعل الله مفاتيح الخير على يديه وويل لمن جعل الله مفاتيح الشر على يديه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-237-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-237-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-237-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-237-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 238,
+      "bookHadithIndex": 238,
+      "text": "حدثنا هارون بن سعيد الايلي ابو جعفر، حدثنا عبد الله بن وهب، اخبرني عبد الرحمن بن زيد بن اسلم، عن ابي حازم، عن سهل بن سعد، ان رسول الله صلى الله عليه وسلم قال \" ان هذا الخير خزاين ولتلك الخزاين مفاتيح فطوبى لعبد جعله الله مفتاحا للخير مغلاقا للشر وويل لعبد جعله الله مفتاحا للشر مغلاقا للخير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-238-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-238-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-238-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-238-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 239,
+      "bookHadithIndex": 239,
+      "text": "حدثنا هشام بن عمار، حدثنا حفص بن عمر، عن عثمان بن عطاء، عن ابيه، عن ابي الدرداء، قال سمعت رسول الله صلى الله عليه وسلم يقول \" انه ليستغفر للعالم من في السموات ومن في الارض حتى الحيتان في البحر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-239-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-239-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-239-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 240,
+      "bookHadithIndex": 240,
+      "text": "حدثنا احمد بن عيسى المصري، حدثنا عبد الله بن وهب، عن يحيى بن ايوب، عن سهل بن معاذ بن انس، عن ابيه، ان النبي صلى الله عليه وسلم قال \" من علم علما فله اجر من عمل به لا ينقص من اجر العامل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-240-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-240-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-240-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-240-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2d9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 241,
+      "bookHadithIndex": 241,
+      "text": "حدثنا اسماعيل بن ابي كريمة الحراني، حدثنا محمد بن سلمة، عن ابي عبد الرحيم، حدثني زيد بن ابي انيسة، عن زيد بن اسلم، عن عبد الله بن ابي قتادة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" خير ما يخلف الرجل من بعده ثلاث ولد صالح يدعو له وصدقة تجري يبلغه اجرها وعلم يعمل به من بعده \" . قال ابو الحسن وحدثنا ابو حاتم، حدثنا محمد بن يزيد بن سنان الرهاوي، حدثنا يزيد بن سنان، - يعني اباه - حدثني زيد بن ابي انيسة، عن فليح بن سليمان، عن زيد بن اسلم، عن عبد الله بن ابي قتادة، عن ابيه، سمعت رسول الله صلى الله عليه وسلم فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-241-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-241-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-241-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2da",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 242,
+      "bookHadithIndex": 242,
+      "text": "حدثنا محمد بن يحيى، حدثنا محمد بن وهب بن عطية، حدثنا الوليد بن مسلم، حدثنا مرزوق بن ابي الهذيل، حدثني الزهري، حدثني ابو عبد الله الاغر، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ان مما يلحق المومن من عمله وحسناته بعد موته علما علمه ونشره وولدا صالحا تركه ومصحفا ورثه او مسجدا بناه او بيتا لابن السبيل بناه او نهرا اجراه او صدقة اخرجها من ماله في صحته وحياته يلحقه من بعد موته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-242-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-242-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-242-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2db",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 243,
+      "bookHadithIndex": 243,
+      "text": "حدثنا يعقوب بن حميد بن كاسب المدني، حدثني اسحاق بن ابراهيم، عن صفوان بن سليم، عن عبيد الله بن طلحة، عن الحسن البصري، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" افضل الصدقة ان يتعلم المرء المسلم علما ثم يعلمه اخاه المسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-243-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-243-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-243-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-243-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2dc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 244,
+      "bookHadithIndex": 244,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا سويد بن عمرو، عن حماد بن سلمة، عن ثابت، عن شعيب بن عبد الله بن عمرو، عن ابيه، قال ما ريي رسول الله صلى الله عليه وسلم ياكل متكيا قط ولا يطا عقبيه رجلان . قال ابو الحسن وحدثنا خازم بن يحيى، حدثنا ابراهيم بن الحجاج السامي، حدثنا حماد بن سلمة، قال ابو الحسن وحدثنا ابراهيم بن نصر الهمداني، صاحب القفيز حدثنا موسى بن اسماعيل، حدثنا حماد بن سلمة،",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-244-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-244-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-244-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2dd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 245,
+      "bookHadithIndex": 245,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابو المغيرة، حدثنا معان بن رفاعة، حدثني علي بن يزيد، قال سمعت القاسم بن عبد الرحمن، يحدث عن ابي امامة، قال مر النبي صلى الله عليه وسلم في يوم شديد الحر نحو بقيع الغرقد وكان الناس يمشون خلفه فلما سمع صوت النعال وقر ذلك في نفسه فجلس حتى قدمهم امامه ليلا يقع في نفسه شىء من الكبر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-245-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-245-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-245-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-245-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2de",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 246,
+      "bookHadithIndex": 246,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن الاسود بن قيس، عن نبيح العنزي، عن جابر بن عبد الله، قال كان النبي صلى الله عليه وسلم اذا مشى مشى اصحابه امامه وتركوا ظهره للملايكة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-246-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-246-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-246-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-246-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2df",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 247,
+      "bookHadithIndex": 247,
+      "text": "حدثنا محمد بن الحارث بن راشد المصري، حدثنا الحكم بن عبدة، عن ابي هارون العبدي، عن ابي سعيد الخدري، عن رسول الله صلى الله عليه وسلم قال \" سياتيكم اقوام يطلبون العلم فاذا رايتموهم فقولوا لهم مرحبا مرحبا بوصية رسول الله صلى الله عليه وسلم واقنوهم \" . قلت للحكم ما اقنوهم قال علموهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-247-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-247-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-247-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-247-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 248,
+      "bookHadithIndex": 248,
+      "text": "حدثنا عبد الله بن عامر بن زرارة، حدثنا المعلى بن هلال، عن اسماعيل، قال دخلنا على الحسن نعوده حتى ملانا البيت فقبض رجليه ثم قال دخلنا على ابي هريرة نعوده حتى ملانا البيت فقبض رجليه ثم قال دخلنا على رسول الله صلى الله عليه وسلم حتى ملانا البيت وهو مضطجع لجنبه فلما رانا قبض رجليه ثم قال \" انه سياتيكم اقوام من بعدي يطلبون العلم فرحبوا بهم وحيوهم وعلموهم \" . قال فادركنا والله اقواما ما رحبوا بنا ولا حيونا ولا علمونا الا بعد ان كنا نذهب اليهم فيجفونا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-248-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-248-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-248-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-248-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 249,
+      "bookHadithIndex": 249,
+      "text": "حدثنا علي بن محمد، حدثنا عمرو بن محمد العنقزي، انبانا سفيان، عن ابي هارون العبدي، قال كنا اذا اتينا ابا سعيد الخدري قال مرحبا بوصية رسول الله صلى الله عليه وسلم . ان رسول الله صلى الله عليه وسلم قال لنا \" ان الناس لكم تبع وانهم سياتونكم من اقطار الارض يتفقهون في الدين فاذا جاءوكم فاستوصوا بهم خيرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-249-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-249-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-249-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-249-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 250,
+      "bookHadithIndex": 250,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو خالد الاحمر، عن ابن عجلان، عن سعيد بن ابي سعيد، عن ابي هريرة، قال كان من دعاء النبي صلى الله عليه وسلم \" اللهم اني اعوذ بك من علم لا ينفع ومن دعاء لا يسمع ومن قلب لا يخشع ومن نفس لا تشبع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-250-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-250-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-250-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-250-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

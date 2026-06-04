@@ -1,0 +1,878 @@
+{
+  "total": 630,
+  "totalPage": 13,
+  "page": 13,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c859dd1a4c9c86f0c763",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1403,
+      "bookHadithIndex": 601,
+      "text": "ابوقتادہ بن ربعی رضی اللہ عنہ خبر دیتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ نے فرمایا: میں نے تمہاری امت پر پانچ نمازیں فرض کی ہیں، اور میں نے اپنے پاس سے یہ وعدہ کیا ہے کہ جو انہیں ان کے اوقات پر پڑھنے کی پابندی کرے گا، میں اسے جنت میں داخل کروں گا، اور جو ان کی پابندی نہیں کرے گا، تو اس کے لیے میرے پاس کوئی وعدہ نہیں ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1403-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1403-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1403-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1403-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c764",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1404,
+      "bookHadithIndex": 602,
+      "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میری مسجد میں ایک نماز دوسری مسجدوں کی ہزار نماز سے افضل ہے ۱؎، سوائے مسجد الحرام کے ۲؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1404-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1404-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1404-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1404-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c765",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1405,
+      "bookHadithIndex": 603,
+      "text": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: میری مسجد میں ایک نماز پڑھنی دوسری مسجدوں میں ہزار نماز پڑھنے سے افضل ہے، سوائے مسجد الحرام کے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1405-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1405-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1405-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1405-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c766",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1406,
+      "bookHadithIndex": 604,
+      "text": "جابر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میری مسجد میں ایک نماز پڑھنی دوسری مسجدوں میں ہزار نماز پڑھنے سے افضل ہے سوائے مسجد الحرام کے، اور مسجد الحرام میں ایک نماز پڑھنی دوسری مسجدوں کی ایک لاکھ نماز سے افضل ہے ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1406-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1406-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1406-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1406-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c767",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1407,
+      "bookHadithIndex": 605,
+      "text": "نبی اکرم صلی اللہ علیہ وسلم کی لونڈی میمونہ رضی اللہ عنہا کہتی ہیں کہ میں نے عرض کیا: اللہ کے رسول! ہم کو بیت المقدس کا مسئلہ بتائیے ، آپ صلی اللہ علیہ وسلم نے فرمایا: وہ تو حشر و نشر کی زمین ہے، وہاں جاؤ اور نماز پڑھو، اس لیے کہ اس میں ایک نماز دوسری مسجدوں کی ہزار نماز کی طرح ہے میں نے عرض کیا: اگر وہاں تک جانے کی طاقت نہ ہو؟ آپ صلی اللہ علیہ وسلم نے فرمایا: تو تم تیل بھیج دو جسے وہاں کے چراغوں میں جلایا جائے، جس نے ایسا کیا گویا وہ وہاں گیا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1407-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1407-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1407-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1407-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c768",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1408,
+      "bookHadithIndex": 606,
+      "text": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب سلیمان بن داود علیہما السلام بیت المقدس کی تعمیر سے فارغ ہوئے، تو انہوں نے اللہ تعالیٰ سے تین چیزیں مانگیں، ایک تو یہ کہ میں مقدمات میں جو فیصلہ کروں، وہ تیرے فیصلے کے مطابق ہو، دوسرے مجھ کو ایسی حکومت دے کہ میرے بعد پھر ویسی حکومت کسی کو نہ ملے، تیسرے یہ کہ جو کوئی اس مسجد میں صرف نماز ہی کے ارادے سے آئے وہ اپنے گناہوں سے ایسا پاک ہو جائے جیسے اس دن تھا جس دن اس کی ماں نے اس کو جنا تھا، نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: دو باتیں تو اللہ تعالیٰ نے سلیمان علیہ السلام کو عطا فرمائیں، مجھے امید ہے کہ تیسری چیز بھی انہیں عطا کی گئی ہو گی ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1408-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1408-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1408-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c769",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1409,
+      "bookHadithIndex": 607,
+      "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تین مساجد: مسجد الحرام، میری اس مسجد ( یعنی مسجد نبوی ) اور مسجد الاقصیٰ کے علاوہ کسی اور مسجد کی جانب ( ثواب کی نیت سے ) سفر نہ کیا جائے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1409-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1409-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1409-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1409-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c76a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1410,
+      "bookHadithIndex": 608,
+      "text": "ابو سعید خدری اور عبداللہ بن عمرو بن العاص رضی اللہ عنہم سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تین مساجد: مسجد الحرام، مسجد الاقصیٰ اور میری اس مسجد ( یعنی مسجد نبوی ) کے علاوہ کسی اور مسجد کی طرف ( ثواب کی نیت سے ) سفر نہ کیا جائے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1410-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1410-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1410-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1410-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c76b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1411,
+      "bookHadithIndex": 609,
+      "text": "اسید بن ظہیر انصاری رضی اللہ عنہ (جو نبی اکرم صلی اللہ علیہ وسلم کے اصحاب میں سے تھے) کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: مسجد قباء میں نماز پڑھنا ایک عمرہ کے برابر ہے ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1411-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1411-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1411-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1411-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c76c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1412,
+      "bookHadithIndex": 610,
+      "text": "سہل بن حنیف رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص اپنے گھر میں وضو کرے، پھر مسجد قباء آئے اور اس میں نماز پڑھے، تو اسے ایک عمرہ کا ثواب ملے گا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1412-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1412-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1412-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1412-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c76d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1413,
+      "bookHadithIndex": 611,
+      "text": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: آدمی کی نماز اپنے گھر میں ایک نماز کے برابر ہے، محلہ کی مسجد میں پچیس نماز کے برابر ہے، اور جامع مسجد میں پانچ سو نماز کے برابر ہے، مسجد الاقصیٰ میں پچاس ہزار نماز کے برابر ہے، مسجد نبوی میں پچاس ہزار نماز کے برابر ہے، اور خانہ کعبہ میں ایک لاکھ نماز کے برابر ہے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1413-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1413-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1413-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1413-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c76e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1414,
+      "bookHadithIndex": 612,
+      "text": "ابی بن کعب رضی اللہ عنہ کہتے ہیں کہ جب مسجد چھپر کی تھی تو رسول اللہ صلی اللہ علیہ وسلم کھجور کے ایک تنے کی طرف نماز پڑھتے تھے، اور اسی تنے پر ٹیک لگا کر خطبہ دیتے تھے، تو صحابہ کرام رضی اللہ عنہم میں سے ایک شخص نے کہا: کیا آپ اجازت دیتے ہیں کہ ہم آپ کے لیے کوئی ایسی چیز بنائیں جس پر آپ جمعہ کے دن کھڑے ہو کر خطبہ دیں تاکہ لوگ آپ کو دیکھ سکیں، اور آپ انہیں اپنا خطبہ سنا سکیں؟ تو آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں پھر اس شخص نے تین سیڑھیاں بنائیں، یہی منبر کی اونچائی ہے، جب منبر تیار ہو گیا، تو لوگوں نے اسے اس مقام پہ رکھا جہاں اب ہے، جب نبی اکرم صلی اللہ علیہ وسلم نے منبر پر کھڑے ہونے کا ارادہ کیا، تو اس تنے کے پاس سے گزرے جس کے سہارے آپ خطبہ دیا کرتے تھے، جب آپ تنے سے آگے بڑھ گئے تو وہ رونے لگا، یہاں تک کہ پھوٹ پھوٹ کر رویا، اس وقت آپ منبر سے اترے اور اس پر اپنا ہاتھ پھیرا، تب وہ خاموش ہوا، ۱؎ پھر آپ منبر پہ لوٹے، جب آپ نماز پڑھتے تھے تو اسی تنے کی جانب پڑھتے تھے، پھر جب ( عمر رضی اللہ عنہ کے زمانہ میں تعمیر نو کے لیے ) مسجد ڈھائی گئی، اور اس کی لکڑیاں بدل دی گئیں، تو اس تنے کو ابی بن کعب رضی اللہ عنہ نے لے لیا، اور وہ ان کے گھر ہی میں رہا یہاں تک کہ پرانا ہو گیا، پھر اسے دیمک کھا گئی، اور وہ گل کر ریزہ ریزہ ہو گیا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1414-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1414-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1414-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c76f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1415,
+      "bookHadithIndex": 613,
+      "text": "انس رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم کھجور کے ایک تنے کے سہارے خطبہ دیتے تھے، جب منبر تیار ہو گیا تو آپ منبر کی طرف چلے، وہ تنا رونے لگا تو آپ نے اسے اپنے گود میں لے لیا، تو وہ خاموش ہو گیا، آپ صلی اللہ علیہ وسلم نے فرمایا: اگر میں اسے گود میں نہ لیتا تو وہ قیامت تک روتا رہتا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1415-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1415-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1415-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1415-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c770",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1416,
+      "bookHadithIndex": 614,
+      "text": "ابوحازم کہتے ہیں کہ لوگوں نے رسول اللہ صلی اللہ علیہ وسلم کے منبر کے بارے میں اختلاف کیا کہ وہ کس چیز کا بنا ہوا تھا، تو لوگ سہل بن سعد رضی اللہ عنہ کے پاس آئے، اور ان سے پوچھا؟ انہوں نے کہا: اب لوگوں میں کوئی ایسا باقی نہیں رہا جو اس منبر کا حال مجھ سے زیادہ جانتا ہو، وہ غابہ ۱؎ کے جھاؤ کا تھا، جس کو فلاں بڑھئی نے بنایا تھا، جو فلاں عورت کا غلام تھا، بہرحال وہ غلام منبر لے کر آیا، جب وہ رکھا گیا تو آپ اس پر کھڑے ہوئے، اور قبلہ کی طرف رخ کیا، اور لوگ آپ کے پیچھے کھڑے ہوئے، آپ نے قراءت کی پھر رکوع کیا، اور رکوع سے اپنا سر اٹھایا، اور الٹے پاؤں پیچھے ہٹے، اور زمین پہ سجدہ کیا، پھر منبر کی طرف لوٹ گئے، اور قراءت کی، پھر رکوع کیا پھر رکوع سے اٹھ کر سیدھے کھڑے ہوئے، پھر الٹے پاؤں پیچھے لوٹے، ( اور منبر سے اتر کر ) زمین پر سجدہ کیا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1416-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1416-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1416-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c771",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1417,
+      "bookHadithIndex": 615,
+      "text": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ایک درخت کی جڑ، یا یوں کہا: ایک تنے کے سہارے کھڑے ہو کر خطبہ دیتے تھے، پھر آپ صلی اللہ علیہ وسلم نے ایک منبر بنوا لیا، تو وہ تنا سسکیاں لے لے کر رونے لگا، یہاں تک کہ اس کے رونے کی آواز مسجد والوں نے بھی سنی، رسول اللہ صلی اللہ علیہ وسلم اس کے پاس آئے، اس پر اپنا ہاتھ پھیرا، تو وہ خاموش ہو گیا، بعض نے کہا کہ اگر آپ صلی اللہ علیہ وسلم اس کے پاس نہ آتے تو وہ قیامت تک روتا رہتا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1417-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1417-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1417-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1417-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c772",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1418,
+      "bookHadithIndex": 616,
+      "text": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ ایک رات میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی، آپ برابر کھڑے رہے یہاں تک کہ میں نے ایک برے کام کا ارادہ کر لیا، ( راوی ابووائل کہتے ہیں: ) میں نے پوچھا: وہ کیا؟ کہا: میں نے یہ ارادہ کر لیا کہ میں بیٹھ جاؤں، اور آپ کو ( کھڑا ) چھوڑ دوں",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1418-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1418-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1418-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1418-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c773",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1419,
+      "bookHadithIndex": 617,
+      "text": "مغیرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نماز کے لیے کھڑے ہوئے، یہاں تک کہ آپ کے پیروں میں ورم آ گیا، تو عرض کیا گیا: اللہ کے رسول! اللہ تعالیٰ نے آپ کے اگلے اور پچھلے تمام گناہ بخش دئیے ہیں ( پھر آپ اتنی مشقت کیوں اٹھاتے ہیں ) ؟ آپ صلی اللہ علیہ وسلم نے فرمایا: کیا میں ( اللہ کا ) شکر گزار بندہ نہ بنوں ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1419-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1419-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1419-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1419-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c774",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1420,
+      "bookHadithIndex": 618,
+      "text": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نماز پڑھتے یہاں تک کہ آپ کے پاؤں سوج جاتے، آپ سے عرض کیا گیا: اللہ تعالیٰ نے آپ کے اگلے اور پچھلے سارے گناہ معاف کر دئیے ہیں ( پھر آپ اتنی مشقت کیوں اٹھاتے ہیں ) ؟ آپ صلی اللہ علیہ وسلم نے فرمایا: کیا میں شکر گزار بندہ نہ بنوں ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1420-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1420-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1420-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c775",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1421,
+      "bookHadithIndex": 619,
+      "text": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم سے پوچھا گیا: کون سی نماز افضل ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: جس میں قیام لمبا ہو ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1421-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1421-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1421-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1421-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c776",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1422,
+      "bookHadithIndex": 620,
+      "text": "ابوفاطمہ رضی اللہ عنہا کہتے ہیں کہ میں نے عرض کیا: اللہ کے رسول! مجھے ایسا عمل بتائیے جس پر میں جما رہوں اور اس کو کرتا رہوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: تم اپنے اوپر سجدے کو لازم کر لو، اس لیے کہ جب بھی تم کوئی سجدہ کرو گے تو اللہ تعالیٰ اس کی وجہ سے تمہارا ایک درجہ بلند کرے گا، اور ایک گناہ مٹا دے گا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1422-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1422-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1422-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1422-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c777",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1423,
+      "bookHadithIndex": 621,
+      "text": "معدان بن ابی طلحہ یعمری کہتے ہیں کہ میں ثوبان رضی اللہ عنہ سے ملا، اور ان سے کہا: آپ مجھ سے کوئی حدیث بیان کریں، امید ہے کہ اللہ تعالیٰ مجھے اس سے فائدہ دے گا، یہ سن کر وہ خاموش رہے، پھر میں نے دوبارہ وہی بات کہی، تو بھی وہ خاموش رہے، تین بار ایسا ہی ہوا، پھر انہوں نے کہا: تم اپنے اوپر اللہ تعالیٰ کے لیے سجدہ لازم کر لو، اس لیے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: جو بندہ اللہ تعالیٰ کے لیے ایک سجدہ کرتا ہے، اللہ تعالیٰ اس کے بدلے اس کا ایک درجہ بلند کرتا ہے، اور ایک گناہ مٹا دیتا ہے ۔ معدان کہتے ہیں کہ پھر میں ابوالدرداء رضی اللہ عنہ سے ملا، اور ان سے پوچھا تو انہوں نے بھی ایسا ہی بیان کیا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1423-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1423-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1423-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1423-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c778",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1424,
+      "bookHadithIndex": 622,
+      "text": "عبادہ بن صامت رضی اللہ عنہ کہتے ہیں کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: جو کوئی بندہ اللہ تعالیٰ کے لیے ایک سجدہ کرے گا، اللہ اس کے بدلے ایک نیکی لکھے گا، اور اس کا ایک گناہ مٹا دے گا، اور اس کا ایک درجہ بلند فرمائے گا، لہٰذا تم کثرت سے سجدے کرو ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1424-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1424-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1424-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1424-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c779",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1425,
+      "bookHadithIndex": 623,
+      "text": "انس بن حکیم کہتے ہیں کہ ابوہریرہ رضی اللہ عنہ نے مجھ سے کہا کہ جب تم اپنے شہر والوں کے پاس پہنچو تو ان کو بتاؤ کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا ہے: مسلمان بندے سے قیامت کے دن سب سے پہلے جس چیز کا حساب لیا جائے گا وہ فرض نماز ہو گی، اگر اس نے اسے کامل طریقے سے ادا کی ہے تو ٹھیک ہے، ورنہ کہا جائے گا کہ دیکھو کیا اس کے پاس کچھ نفل ہے؟ اگر اس کے پاس نفل نمازیں ہوں گی تو اس سے فرض میں کمی پوری کی جائے گی، پھر باقی دوسرے فرائض اعمال کے ساتھ ایسا ہی کیا جائے گا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1425-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1425-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1425-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1425-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c77a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1426,
+      "bookHadithIndex": 624,
+      "text": "تمیم داری رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: قیامت کے دن بندے سے جس چیز کا سب سے پہلے حساب لیا جائے گا وہ نماز ہو گی، اگر اس نے نماز مکمل طریقے سے ادا کی ہو گی تو نفل نماز علیحدہ لکھی جائے گی، اور اگر مکمل طریقے سے ادا نہ کی ہو گی تو اللہ تعالیٰ اپنے فرشتوں سے کہے گا: دیکھو، کیا میرے بندے کے پاس نفل نمازیں ہیں، تو ان سے فرض کی کمی کو پورا کرو، پھر باقی اعمال کا بھی اسی طرح حساب ہو گا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1426-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1426-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1426-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c77b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1427,
+      "bookHadithIndex": 625,
+      "text": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: کیا تم میں کا کوئی اتنا عاجز و مجبور ہے کہ جب ( فرض ) نماز پڑھ چکے تو نفل کے لیے آگے بڑھ جائے، یا پیچھے ہٹ جائے، یا دائیں، بائیں ہو جائے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1427-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1427-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1427-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1427-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c77c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1428,
+      "bookHadithIndex": 626,
+      "text": "مغیرہ بن شعبہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: امام اس جگہ سنت ( نفل نماز ) نہ پڑھے جہاں پر اس نے فرض پڑھائی ہے، جب تک کہ وہاں سے دور نہ جائے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1428-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1428-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1428-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1428-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c77d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1429,
+      "bookHadithIndex": 627,
+      "text": "عبدالرحمٰن بن شبل رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ( نماز میں ) تین چیزوں سے منع فرمایا: ایک تو کوے کی طرح ٹھونگ مارنے سے، دوسرے درندے کی طرح بازو بچھانے سے، اور تیسرے نماز کے لیے ایک جگہ متعین کرنے سے جیسے اونٹ اپنی جگہ مقرر کرتا ہے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1429-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1429-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1429-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1429-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c77e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1430,
+      "bookHadithIndex": 628,
+      "text": "سلمہ بن الاکوع رضی اللہ عنہ کہتے ہیں کہ وہ نماز الضحیٰ ( چاشت کی نفل نماز ) کے لیے آتے اور صف سے پہلے ستون کے پاس جاتے اور اس کے نزدیک نماز پڑھتے، میں مسجد کے ایک گوشے کی جانب اشارہ کرتے ہوئے ان سے کہتا: آپ اس جگہ نماز کیوں نہیں پڑھتے؟ تو وہ کہتے: میں نے نبی اکرم صلی اللہ علیہ وسلم کو دیکھا کہ آپ اسی جگہ کا قصد کرتے تھے ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1430-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1430-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1430-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c77f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1431,
+      "bookHadithIndex": 629,
+      "text": "عبداللہ بن سائب رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فتح مکہ کے دن نماز پڑھتے ہوئے دیکھا، تو آپ نے اپنے جوتے بائیں طرف رکھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1431-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1431-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1431-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1431-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c780",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 1432,
+      "bookHadithIndex": 630,
+      "text": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جوتے اپنے پاؤں میں پہنے رکھو، اور اگر انہیں اتارو تو اپنے پیروں کے درمیان رکھو، اور اپنے دائیں طرف نہ رکھو، نہ اپنے ساتھی کے دائیں طرف رکھو، اور نہ پیچھے رکھو کیونکہ پیچھے والوں کو تکلیف ہو ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1432-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1432-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1432-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-1432-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

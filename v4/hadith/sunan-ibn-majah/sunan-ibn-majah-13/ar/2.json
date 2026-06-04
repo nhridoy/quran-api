@@ -1,0 +1,478 @@
+{
+  "total": 67,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb1e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2358,
+      "bookHadithIndex": 51,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، ح وحدثنا محمد بن رمح، انبانا الليث بن سعد، جميعا عن يحيى بن سعيد، عن ابي بكر بن محمد بن عمرو بن حزم، عن عمر بن عبد العزيز، عن ابي بكر بن عبد الرحمن بن الحارث بن هشام، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من وجد متاعه بعينه عند رجل قد افلس فهو احق به من غيره",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb1f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2359,
+      "bookHadithIndex": 52,
+      "text": "حدثنا هشام بن عمار، حدثنا اسماعيل بن عياش، عن موسى بن عقبة، عن الزهري، عن ابي بكر بن عبد الرحمن بن الحارث بن هشام، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" ايما رجل باع سلعة فادرك سلعته بعينها عند رجل وقد افلس ولم يكن قبض من ثمنها شييا فهي له . وان كان قبض من ثمنها شييا فهو اسوة الغرماء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2359-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2359-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2359-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb20",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2360,
+      "bookHadithIndex": 53,
+      "text": "حدثنا ابراهيم بن المنذر الحزامي، وعبد الرحمن بن ابراهيم الدمشقي، قالا حدثنا ابن ابي فديك، عن ابن ابي ذيب، عن ابي المعتمر بن عمرو بن رافع، عن ابن خلدة الزرقي، وكان، قاضيا بالمدينة قال جينا ابا هريرة في صاحب لنا قد افلس فقال هذا الذي قضى فيه النبي صلى الله عليه وسلم \" ايما رجل مات او افلس فصاحب المتاع احق بمتاعه اذا وجده بعينه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb21",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2361,
+      "bookHadithIndex": 54,
+      "text": "حدثنا عمرو بن عثمان بن سعيد بن كثير بن دينار الحمصي، حدثنا اليمان بن عدي، حدثني الزبيدي، محمد بن عبد الرحمن عن الزهري، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ايما امري مات وعنده مال امري بعينه اقتضى منه شييا او لم يقتض فهو اسوة الغرماء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb22",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2362,
+      "bookHadithIndex": 55,
+      "text": "حدثنا عثمان بن ابي شيبة، وعمرو بن رافع، قالا حدثنا جرير، عن منصور، عن ابراهيم، عن عبيدة السلماني، قال قال عبد الله بن مسعود سيل رسول الله صلى الله عليه وسلم اى الناس خير قال \" قرني ثم الذين يلونهم ثم الذين يلونهم ثم يجيء قوم تبدر شهادة احدهم يمينه ويمينه شهادته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb23",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2363,
+      "bookHadithIndex": 56,
+      "text": "حدثنا عبد الله بن الجراح، حدثنا جرير، عن عبد الملك بن عمير، عن جابر بن سمرة، قال خطبنا عمر بن الخطاب بالجابية فقال ان رسول الله صلى الله عليه وسلم قام فينا مثل مقامي فيكم فقال \" احفظوني في اصحابي ثم الذين يلونهم ثم الذين يلونهم ثم يفشو الكذب حتى يشهد الرجل وما يستشهد ويحلف وما يستحلف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb24",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2364,
+      "bookHadithIndex": 57,
+      "text": "حدثنا علي بن محمد، ومحمد بن عبد الرحمن الجعفي، قالا حدثنا زيد بن الحباب العكلي، اخبرني ابى بن عباس بن سهل بن سعد الساعدي، حدثني ابو بكر بن عمرو بن حزم، حدثني محمد بن عبد الله بن عمرو بن عثمان بن عفان، حدثني خارجة بن زيد بن ثابت، اخبرني عبد الرحمن بن ابي عمرة الانصاري، انه سمع زيد بن خالد الجهني، يقول انه سمع رسول الله صلى الله عليه وسلم يقول \" خير الشهود من ادى شهادته قبل ان يسالها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2364-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2364-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2364-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb25",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2365,
+      "bookHadithIndex": 58,
+      "text": "حدثنا عبيد الله بن يوسف الجبيري، وجميل بن الحسن العتكي، قالا حدثنا محمد بن مروان العجلي، حدثنا عبد الملك بن ابي نضرة، عن ابيه، عن ابي سعيد الخدري، قال تلا هذه الاية {يا ايها الذين امنوا اذا تداينتم بدين الى اجل مسمى } حتى بلغ {فان امن بعضكم بعضا} فقال هذه نسخت ما قبلها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb26",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2366,
+      "bookHadithIndex": 59,
+      "text": "حدثنا ايوب بن محمد الرقي، حدثنا معمر بن سليمان، ح وحدثنا محمد بن يحيى، حدثنا يزيد بن هارون، قالا حدثنا حجاج بن ارطاة، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" لا تجوز شهادة خاين ولا خاينة ولا محدود في الاسلام ولا ذي غمر على اخيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb27",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2367,
+      "bookHadithIndex": 60,
+      "text": "حدثنا حرملة بن يحيى، حدثنا عبد الله بن وهب، اخبرني نافع بن يزيد، عن ابن الهاد، عن محمد بن عمرو بن عطاء، عن عطاء بن يسار، عن ابي هريرة، انه سمع رسول الله صلى الله عليه وسلم يقول \" لا تجوز شهادة بدوي على صاحب قرية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2367-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2367-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2367-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb28",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2368,
+      "bookHadithIndex": 61,
+      "text": "حدثنا ابو مصعب المديني، احمد بن عبد الله الزهري ويعقوب بن ابراهيم الدورقي قالا حدثنا عبد العزيز بن محمد الدراوردي، عن ربيعة بن ابي عبد الرحمن، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قضى باليمين مع الشاهد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2368-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2368-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2368-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb29",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2369,
+      "bookHadithIndex": 62,
+      "text": "حدثنا محمد بن بشار، حدثنا عبد الوهاب، حدثنا جعفر بن محمد، عن ابيه، عن جابر، ان النبي صلى الله عليه وسلم قضى باليمين مع الشاهد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2369-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2369-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2369-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2370,
+      "bookHadithIndex": 63,
+      "text": "حدثنا ابو اسحاق الهروي، ابراهيم بن عبد الله بن حاتم حدثنا عبد الله بن الحارث المخزومي، حدثنا سيف بن سليمان المكي، اخبرني قيس بن سعد، عن عمرو بن دينار، عن ابن عباس، قال قضى رسول الله صلى الله عليه وسلم بالشاهد واليمين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2371,
+      "bookHadithIndex": 64,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، انبانا جويرية بن اسماء، حدثنا عبد الله بن يزيد، - مولى المنبعث - عن رجل، من اهل مصر عن سرق، ان النبي صلى الله عليه وسلم اجاز شهادة الرجل ويمين الطالب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2371-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2371-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2371-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2372,
+      "bookHadithIndex": 65,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن عبيد، حدثنا سفيان العصفري، عن ابيه، عن حبيب بن النعمان الاسدي، عن خريم بن فاتك الاسدي، قال صلى النبي صلى الله عليه وسلم الصبح فلما انصرف قام قايما فقال \" عدلت شهادة الزور بالاشراك بالله \" . ثلاث مرات ثم تلا هذه الاية {واجتنبوا قول الزور حنفاء لله غير مشركين به}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2372-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2372-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2372-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2373,
+      "bookHadithIndex": 66,
+      "text": "حدثنا سويد بن سعيد، حدثنا محمد بن الفرات، عن محارب بن دثار، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم {لن تزول قدم شاهد الزور حتى يوجب الله له النار}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2374,
+      "bookHadithIndex": 67,
+      "text": "حدثنا محمد بن طريف، حدثنا ابو خالد الاحمر، عن مجالد، عن عامر، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم اجاز شهادة اهل الكتاب بعضهم على بعض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2374-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2374-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2374-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

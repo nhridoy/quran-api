@@ -1,0 +1,1428 @@
+{
+  "total": 400,
+  "totalPage": 8,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c357",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 367,
+      "bookHadithIndex": 101,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، أَنْبَأَنَا مَالِكُ بْنُ أَنَسٍ، أَخْبَرَنِي إِسْحَاقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ الأَنْصَارِيُّ، عَنْ حُمَيْدَةَ بِنْتِ عُبَيْدِ بْنِ رِفَاعَةَ، عَنْ كَبْشَةَ بِنْتِ كَعْبٍ، وَكَانَتْ، تَحْتَ بَعْضِ وَلَدِ أَبِي قَتَادَةَ أَنَّهَا صَبَّتْ لأَبِي قَتَادَةَ مَاءً يَتَوَضَّأُ بِهِ فَجَاءَتْ هِرَّةٌ تَشْرَبُ فَأَصْغَى لَهَا الإِنَاءَ فَجَعَلْتُ أَنْظُرُ إِلَيْهِ فَقَالَ يَا ابْنَةَ أَخِي أَتَعْجَبِينَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِنَّهَا لَيْسَتْ بِنَجَسٍ هِيَ مِنَ الطَّوَّافِينَ أَوِ الطَّوَّافَاتِ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c358",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 368,
+      "bookHadithIndex": 102,
+      "text": "حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ، وَإِسْمَاعِيلُ بْنُ تَوْبَةَ، قَالاَ حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ حَارِثَةَ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَتَوَضَّأُ أَنَا وَرَسُولُ اللَّهِ، ـ صلى الله عليه وسلم ـ مِنْ إِنَاءٍ وَاحِدٍ قَدْ أَصَابَتْ مِنْهُ الْهِرَّةُ قَبْلَ ذَلِكَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c359",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 369,
+      "bookHadithIndex": 103,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ الْهِرَّةُ لاَ تَقْطَعُ الصَّلاَةَ لأَنَّهَا مِنْ مَتَاعِ الْبَيْتِ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-369-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-369-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-369-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 370,
+      "bookHadithIndex": 104,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ اغْتَسَلَ بَعْضُ أَزْوَاجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ فِي جَفْنَةٍ فَجَاءَ النَّبِيُّ ـ صلى الله عليه وسلم ـ لِيَغْتَسِلَ أَوْ يَتَوَضَّأَ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي كُنْتُ جُنُبًا ‏.‏ فَقَالَ ‏ \"‏ الْمَاءُ لاَ يُجْنِبُ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 371,
+      "bookHadithIndex": 105,
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ امْرَأَةً، مِنْ أَزْوَاجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ اغْتَسَلَتْ مِنْ جَنَابَةٍ فَتَوَضَّأَ أَوِ اغْتَسَلَ النَّبِيُّ ـ صلى الله عليه وسلم ـ مِنْ فَضْلِ وَضُوئِهَا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 372,
+      "bookHadithIndex": 106,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ يَحْيَى، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالُوا حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شَرِيكٌ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، زَوْجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ تَوَضَّأَ بِفَضْلِ غُسْلِهَا مِنَ الْجَنَابَةِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 373,
+      "bookHadithIndex": 107,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَبِي حَاجِبٍ، عَنِ الْحَكَمِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى أَنْ يَتَوَضَّأَ الرَّجُلُ بِفَضْلِ وَضُوءِ الْمَرْأَةِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 374,
+      "bookHadithIndex": 108,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، حَدَّثَنَا عَاصِمٌ الأَحْوَلُ، عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يَغْتَسِلَ الرَّجُلُ بِفَضْلِ وَضُوءِ الْمَرْأَةِ وَالْمَرْأَةُ بِفَضْلِ الرَّجُلِ وَلَكِنْ يَشْرَعَانِ جَمِيعًا ‏. ‏ قَالَ أَبُو عَبْدِ اللَّهِ بْنُ مَاجَهْ الصَّحِيحُ هُوَ الأَوَّلُ وَالثَّانِي وَهَمٌ ‏.‏ قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ، وَأَبُو عُثْمَانَ الْبُخَارِيُّ قَالاَ حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ، نَحْوَهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-374-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-374-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-374-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 375,
+      "bookHadithIndex": 109,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ وَأَهْلُهُ يَغْتَسِلُونَ مِنْ إِنَاءٍ وَاحِدٍ وَلاَ يَغْتَسِلُ أَحَدُهُمَا بِفَضْلِ صَاحِبِهِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c360",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 376,
+      "bookHadithIndex": 110,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ، ـ صلى الله عليه وسلم ـ مِنْ إِنَاءٍ وَاحِدٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c361",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 377,
+      "bookHadithIndex": 111,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ خَالَتِهِ، مَيْمُونَةَ قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ، ـ صلى الله عليه وسلم ـ مِنْ إِنَاءٍ وَاحِدٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c362",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 378,
+      "bookHadithIndex": 112,
+      "text": "حَدَّثَنَا أَبُو عَامِرٍ الأَشْعَرِيُّ عَبْدُ اللَّهِ بْنُ عَامِرٍ، حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ نَافِعٍ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ أُمِّ هَانِئٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ اغْتَسَلَ وَمَيْمُونَةُ مِنْ إِنَاءٍ وَاحِدٍ فِي قَصْعَةٍ فِيهَا أَثَرُ الْعَجِينِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c363",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 379,
+      "bookHadithIndex": 113,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ الْحَسَنِ الأَسَدِيُّ، حَدَّثَنَا شَرِيكٌ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَأَزْوَاجُهُ يَغْتَسِلُونَ مِنْ إِنَاءٍ وَاحِدٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c364",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 380,
+      "bookHadithIndex": 114,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ هِشَامٍ الدَّسْتَوَائِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ زَيْنَبَ بِنْتِ أُمِّ سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، أَنَّهَا كَانَتْ وَرَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَغْتَسِلاَنِ مِنْ إِنَاءٍ وَاحِدٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c365",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 381,
+      "bookHadithIndex": 115,
+      "text": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ الرِّجَالُ وَالنِّسَاءُ يَتَوَضَّئُونَ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ مِنْ إِنَاءٍ وَاحِدٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c366",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 382,
+      "bookHadithIndex": 116,
+      "text": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ، عَنْ سَالِمٍ أَبِي النُّعْمَانِ، - وَهُوَ ابْنُ سَرْجٍ - عَنْ أُمِّ صُبَيَّةَ الْجُهَنِيَّةِ، قَالَتْ رُبَّمَا اخْتَلَفَتْ يَدِي وَيَدُ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فِي الْوُضُوءِ مِنْ إِنَاءٍ وَاحِدٍ ‏. ‏ قَالَ أَبُو عَبْدِ اللَّهِ ابْنُ مَاجَهْ سَمِعْتُ مُحَمَّدًا يَقُولُ أُمُّ صُبَيَّةَ هِيَ خَوْلَةُ بِنْتُ قَيْسٍ ‏.‏ فَذَكَرْتُ لأَبِي زُرْعَةَ فَقَالَ صَدَقَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c367",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 383,
+      "bookHadithIndex": 117,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا دَاوُدُ بْنُ شَبِيبٍ، حَدَّثَنَا حَبِيبُ بْنُ أَبِي حَبِيبٍ، عَنْ عَمْرِو بْنِ هَرَمٍ، عَنْ عِكْرِمَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُمَا كَانَا يَتَوَضَّآنِ جَمِيعًا لِلصَّلاَةِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-383-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-383-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-383-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c368",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 384,
+      "bookHadithIndex": 118,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ أَبِيهِ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ سُفْيَانَ، عَنْ أَبِي فَزَارَةَ الْعَبْسِيِّ، عَنْ أَبِي زَيْدٍ، مَوْلَى عَمْرِو بْنِ حُرَيْثٍ عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ لَهُ لَيْلَةَ الْجِنِّ ‏\"‏ عِنْدَكَ طَهُورٌ ‏\"‏ ‏.‏ قَالَ لاَ إِلاَّ شَىْءٌ مِنْ نَبِيذٍ فِي إِدَاوَةٍ ‏.‏ قَالَ ‏\"‏ تَمْرَةٌ طَيِّبَةٌ وَمَاءٌ طَهُورٌ ‏\"‏ ‏.‏ فَتَوَضَّأَ ‏.‏ هَذَا حَدِيثُ وَكِيعٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c369",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 385,
+      "bookHadithIndex": 119,
+      "text": "حَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ الدِّمَشْقِيُّ، حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ، حَدَّثَنَا ابْنُ لَهِيعَةَ، حَدَّثَنَا قَيْسُ بْنُ الْحَجَّاجِ، عَنْ حَنَشٍ الصَّنْعَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ لاِبْنِ مَسْعُودٍ لَيْلَةَ الْجِنِّ ‏\"‏ مَعَكَ مَاءٌ ‏\"‏ ‏.‏ قَالَ لاَ إِلاَّ نَبِيذًا فِي سَطِيحَةٍ ‏.‏ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ تَمْرَةٌ طَيِّبَةٌ وَمَاءٌ طَهُورٌ صُبَّ عَلَىَّ ‏\"‏ ‏.‏ قَالَ فَصَبَبْتُ عَلَيْهِ فَتَوَضَّأَ بِهِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 386,
+      "bookHadithIndex": 120,
+      "text": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، حَدَّثَنِي صَفْوَانُ بْنُ سُلَيْمٍ، عَنْ سَعِيدِ بْنِ سَلَمَةَ، - هُوَ مِنْ آلِ ابْنِ الأَزْرَقِ - أَنَّ الْمُغِيرَةَ بْنَ أَبِي بُرْدَةَ، - وَهُوَ مِنْ بَنِي عَبْدِ الدَّارِ - حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّا نَرْكَبُ الْبَحْرَ وَنَحْمِلُ مَعَنَا الْقَلِيلَ مِنَ الْمَاءِ فَإِنْ تَوَضَّأْنَا بِهِ عَطِشْنَا أَفَنَتَوَضَّأُ مِنْ مَاءِ الْبَحْرِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 387,
+      "bookHadithIndex": 121,
+      "text": "حَدَّثَنَا سَهْلُ بْنُ أَبِي سَهْلٍ، حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنْ بَكْرِ بْنِ سَوَادَةَ، عَنْ مُسْلِمِ بْنِ مَخْشِيٍّ، عَنِ ابْنِ الْفِرَاسِيِّ، قَالَ كُنْتُ أَصِيدُ وَكَانَتْ لِي قِرْبَةٌ أَجْعَلُ فِيهَا مَاءً وَإِنِّي تَوَضَّأْتُ بِمَاءِ الْبَحْرِ فَذَكَرْتُ ذَلِكَ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَ ‏ \"‏ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 388,
+      "bookHadithIndex": 122,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو الْقَاسِمِ بْنُ أَبِي الزِّنَادِ، قَالَ حَدَّثَنِي إِسْحَاقُ بْنُ حَازِمٍ، عَنْ عُبَيْدِ اللَّهِ، - هُوَ ابْنُ مِقْسَمٍ - عَنْ جَابِرٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ سُئِلَ عَنْ مَاءِ الْبَحْرِ فَقَالَ ‏ \"‏ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ ‏\"‏ ‏.‏ قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ الْهِسِنْجَانِيُّ، حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو الْقَاسِمِ بْنُ أَبِي الزِّنَادِ، حَدَّثَنِي إِسْحَاقُ بْنُ حَازِمٍ، عَنْ عُبَيْدِ اللَّهِ، - هُوَ ابْنُ مِقْسَمٍ - عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَذَكَرَ نَحْوَهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 389,
+      "bookHadithIndex": 123,
+      "text": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا الأَعْمَشُ، عَنْ مُسْلِمِ بْنِ صُبَيْحٍ، عَنْ مَسْرُوقٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ خَرَجَ النَّبِيُّ ـ صلى الله عليه وسلم ـ لِبَعْضِ حَاجَتِهِ فَلَمَّا رَجَعَ تَلَقَّيْتُهُ بِالإِدَاوَةِ فَصَبَبْتُ عَلَيْهِ فَغَسَلَ يَدَيْهِ ثُمَّ غَسَلَ وَجْهَهُ ثُمَّ ذَهَبَ يَغْسِلُ ذِرَاعَيْهِ فَضَاقَتِ الْجُبَّةُ فَأَخْرَجَهُمَا مِنْ تَحْتِ الْجُبَّةِ فَغَسَلَهُمَا وَمَسَحَ عَلَى خُفَّيْهِ ثُمَّ صَلَّى بِنَا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 390,
+      "bookHadithIndex": 124,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا الْهَيْثَمُ بْنُ جَمِيلٍ، حَدَّثَنَا شَرِيكٌ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنِ الرُّبَيِّعِ بِنْتِ مُعَوِّذٍ، قَالَتْ أَتَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ بِمِيضَأَةٍ فَقَالَ ‏ \"‏ اسْكُبِي ‏\"‏ ‏.‏ فَسَكَبْتُ فَغَسَلَ وَجْهَهُ وَذِرَاعَيْهِ وَأَخَذَ مَاءً جَدِيدًا فَمَسَحَ بِهِ رَأْسَهُ مُقَدَّمَهُ وَمُؤَخَّرَهُ وَغَسَلَ قَدَمَيْهِ ثَلاَثًا ثَلاَثًا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-390-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-390-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-390-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 391,
+      "bookHadithIndex": 125,
+      "text": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنِي الْوَلِيدُ بْنُ عُقْبَةَ، حَدَّثَنِي حُذَيْفَةُ بْنُ أَبِي حُذَيْفَةَ الأَزْدِيُّ، عَنْ صَفْوَانَ بْنِ عَسَّالٍ، قَالَ صَبَبْتُ عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ الْمَاءَ فِي السَّفَرِ وَالْحَضَرِ فِي الْوُضُوءِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c370",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 392,
+      "bookHadithIndex": 126,
+      "text": "حَدَّثَنَا كُرْدُوسُ بْنُ أَبِي عَبْدِ اللَّهِ الْوَاسِطِيُّ، حَدَّثَنَا عَبْدُ الْكَرِيمِ بْنُ رَوْحٍ، حَدَّثَنَا أَبِي رَوْحُ بْنُ عَنْبَسَةَ بْنِ سَعِيدِ بْنِ أَبِي عَيَّاشٍ، مَوْلَى عُثْمَانَ بْنِ عَفَّانَ عَنْ أَبِيهِ، عَنْبَسَةَ بْنِ سَعِيدٍ عَنْ جَدَّتِهِ أُمِّ أَبِيهِ أُمِّ عَيَّاشٍ، وَكَانَتْ، أَمَةً لِرُقَيَّةَ بِنْتِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَتْ كُنْتُ أُوَضِّئُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَا قَائِمَةٌ وَهُوَ قَاعِدٌ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c371",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 393,
+      "bookHadithIndex": 127,
+      "text": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، حَدَّثَنِي الزُّهْرِيُّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَنَّهُمَا حَدَّثَاهُ أَنَّ أَبَا هُرَيْرَةَ كَانَ يَقُولُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنَ اللَّيْلِ فَلاَ يُدْخِلْ يَدَهُ فِي الإِنَاءِ حَتَّى يُفْرِغَ عَلَيْهَا مَرَّتَيْنِ أَوْ ثَلاَثًا فَإِنَّ أَحَدَكُمْ لاَ يَدْرِي فِيمَ بَاتَتْ يَدُهُ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c372",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 394,
+      "bookHadithIndex": 128,
+      "text": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي ابْنُ لَهِيعَةَ، وَجَابِرُ بْنُ إِسْمَاعِيلَ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ نَوْمِهِ فَلاَ يُدْخِلْ يَدَهُ فِي الإِنَاءِ حَتَّى يَغْسِلَهَا ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-394-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-394-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-394-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c373",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 395,
+      "bookHadithIndex": 129,
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ تَوْبَةَ، حَدَّثَنَا زِيَادُ بْنُ عَبْدِ اللَّهِ الْبَكَّائِيُّ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِذَا قَامَ أَحَدُكُمْ مِنَ النَّوْمِ فَأَرَادَ أَنْ يَتَوَضَّأَ فَلاَ يُدْخِلْ يَدَهُ فِي وَضُوئِهِ حَتَّى يَغْسِلَهَا فَإِنَّهُ لاَ يَدْرِي أَيْنَ بَاتَتْ يَدُهُ وَلاَ عَلَى مَا وَضَعَهَا ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-395-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-395-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-395-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c374",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 396,
+      "bookHadithIndex": 130,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، قَالَ دَعَا عَلِيٌّ بِمَاءٍ فَغَسَلَ يَدَيْهِ قَبْلَ أَنْ يُدْخِلَهُمَا الإِنَاءَ ثُمَّ قَالَ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ صَنَعَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-396-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-396-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-396-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c375",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 397,
+      "bookHadithIndex": 131,
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قَالُوا حَدَّثَنَا كَثِيرُ بْنُ زَيْدٍ، عَنْ رُبَيْحِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ لاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-397-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-397-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-397-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c376",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 398,
+      "bookHadithIndex": 132,
+      "text": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا يَزِيدُ بْنُ عِيَاضٍ، حَدَّثَنَا أَبُو ثِفَالٍ، عَنْ رَبَاحِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سُفْيَانَ، أَنَّهُ سَمِعَ جَدَّتَهُ بِنْتَ سَعِيدِ بْنِ زَيْدٍ، تَذْكُرُ أَنَّهَا سَمِعَتْ أَبَاهَا، سَعِيدَ بْنَ زَيْدٍ يَقُولُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ صَلاَةَ لِمَنْ لاَ وُضُوءَ لَهُ وَلاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-398-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-398-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-398-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c377",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 399,
+      "bookHadithIndex": 133,
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ، وَعَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى بْنِ أَبِي عَبْدِ اللَّهِ، عَنْ يَعْقُوبَ بْنِ سَلَمَةَ اللَّيْثِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ صَلاَةَ لِمَنْ لاَ وُضُوءَ لَهُ وَلاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-399-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-399-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-399-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c378",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 400,
+      "bookHadithIndex": 134,
+      "text": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنْ عَبْدِ الْمُهَيْمِنِ بْنِ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ لاَ صَلاَةَ لِمَنْ لاَ وُضُوءَ لَهُ وَلاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ وَلاَ صَلاَةَ لِمَنْ لاَ يُصَلِّي عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ وَلاَ صَلاَةَ لِمَنْ لاَ يُحِبُّ الأَنْصَارَ ‏\"‏ ‏.‏ قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ، حَدَّثَنَا عُبَيْسُ بْنُ مَرْحُومٍ الْعَطَّارُ، حَدَّثَنَا عَبْدُ الْمُهَيْمِنِ بْنُ عَبَّاسٍ، فَذَكَرَ نَحْوَهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c379",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 401,
+      "bookHadithIndex": 135,
+      "text": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، ح وَحَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا عُمَرُ بْنُ عُبَيْدٍ الطَّنَافِسِيُّ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يُحِبُّ التَّيَمُّنَ فِي الطُّهُورِ إِذَا تَطَهَّرَ وَفِي تَرَجُّلِهِ إِذَا تَرَجَّلَ وَفِي انْتِعَالِهِ إِذَا انْتَعَلَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 402,
+      "bookHadithIndex": 136,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو جَعْفَرٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرُ بْنُ مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِذَا تَوَضَّأْتُمْ فَابْدَءُوا بِمَيَامِنِكُمْ ‏\"‏ ‏.‏ قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ، حَدَّثَنَا يَحْيَى بْنُ صَالِحٍ، وَابْنُ، نُفَيْلٍ وَغَيْرُهُمَا قَالُوا حَدَّثَنَا زُهَيْرٌ، فَذَكَرَ نَحْوَهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 403,
+      "bookHadithIndex": 137,
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْجَرَّاحِ، وَأَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ مَضْمَضَ وَاسْتَنْشَقَ مِنْ غَرْفَةٍ وَاحِدَةٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 404,
+      "bookHadithIndex": 138,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، عَنْ خَالِدِ بْنِ عَلْقَمَةَ، عَنْ عَبْدِ خَيْرٍ، عَنْ عَلِيٍّ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ تَوَضَّأَ فَمَضْمَضَ ثَلاَثًا وَاسْتَنْشَقَ ثَلاَثًا مِنْ كَفٍّ وَاحِدٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-404-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-404-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-404-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 405,
+      "bookHadithIndex": 139,
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو الْحُسَيْنِ الْعُكْلِيُّ، عَنْ خَالِدِ بْنِ عَبْدِ اللَّهِ، عَنْ عَمْرِو بْنِ يَحْيَى، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ الأَنْصَارِيِّ، قَالَ أَتَانَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فَسَأَلَنَا وَضُوءًا فَأَتَيْتُهُ بِمَاءٍ فَمَضْمَضَ وَاسْتَنْشَقَ مِنْ كَفٍّ وَاحِدٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 406,
+      "bookHadithIndex": 140,
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ مَنْصُورٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ مَنْصُورٍ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنْ سَلَمَةَ بْنِ قَيْسٍ، قَالَ قَالَ لِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِذَا تَوَضَّأْتَ فَانْثُرْ وَإِذَا اسْتَجْمَرْتَ فَأَوْتِرْ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 407,
+      "bookHadithIndex": 141,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْ��َةَ، حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ الطَّائِفِيُّ، عَنْ إِسْمَاعِيلَ بْنِ كَثِيرٍ، عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبِرَةَ، عَنْ أَبِيهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَخْبِرْنِي عَنِ الْوُضُوءِ، ‏.‏ قَالَ ‏ \"‏ أَسْبِغِ الْوُضُوءَ وَبَالِغْ فِي الاِسْتِنْشَاقِ إِلاَّ أَنْ تَكُونَ صَائِمًا ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-407-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-407-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-407-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c380",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 408,
+      "bookHadithIndex": 142,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ، ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ قَارِظِ بْنِ شَيْبَةَ، عَنْ أَبِي غَطَفَانَ الْمُرِّيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ اسْتَنْثِرُوا مَرَّتَيْنِ بَالِغَتَيْنِ أَوْ ثَلاَثًا ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-408-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-408-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-408-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c381",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 409,
+      "bookHadithIndex": 143,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، وَدَاوُدُ بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ مَنْ تَوَضَّأَ فَلْيَسْتَنْثِرْ وَمَنِ اسْتَجْمَرَ فَلْيُوتِرْ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c382",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 410,
+      "bookHadithIndex": 144,
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ، حَدَّثَنَا شَرِيكُ بْنُ عَبْدِ اللَّهِ النَّخَعِيُّ، عَنْ ثَابِتِ بْنِ أَبِي صَفِيَّةَ الثُّمَالِيِّ، قَالَ سَأَلْتُ أَبَا جَعْفَرٍ قُلْتُ لَهُ حُدِّثْتَ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ تَوَضَّأَ مَرَّةً مَرَّةً قَالَ نَعَمْ ‏.‏ قُلْتُ وَمَرَّتَيْنِ مَرَّتَيْنِ وَثَلاَثًا ثَلاَثًا قَالَ نَعَمْ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-410-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-410-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-410-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c383",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 411,
+      "bookHadithIndex": 145,
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ، عَنْ سُفْيَانَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ تَوَضَّأَ غُرْفَةً غُرْفَةً ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c384",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 412,
+      "bookHadithIndex": 146,
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا رِشْدِينُ بْنُ سَعْدٍ، أَنْبَأَنَا الضَّحَّاكُ بْنُ شُرَحْبِيلَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فِي غَزْوَةِ تَبُوكَ تَوَضَّأَ وَاحِدَةً وَاحِدَةً ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-412-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-412-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-412-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c385",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 413,
+      "bookHadithIndex": 147,
+      "text": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ الدِّمَشْقِيُّ، عَنِ ابْنِ ثَوْبَانَ، عَنْ عَبْدَةَ بْنِ أَبِي لُبَابَةَ، عَنْ شَقِيقِ بْنِ سَلَمَةَ، قَالَ رَأَيْتُ عُثْمَانَ وَعَلِيًّا يَتَوَضَّآنِ ثَلاَثًا ثَلاَثًا وَيَقُولاَنِ هَكَذَا كَانَ وُضُوءُ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏ قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَاهُ أَبُو حَاتِمٍ، حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ ثَابِتِ بْنِ ثَوْبَانَ، فَذَكَرَ نَحْوَهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c386",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 414,
+      "bookHadithIndex": 148,
+      "text": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الْمُطَّلِبِ بْنِ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ تَوَضَّأَ ثَلاَثًا ثَلاَثًا وَرَفَعَ ذَلِكَ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c387",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 415,
+      "bookHadithIndex": 149,
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا خَالِدُ بْنُ حَيَّانَ، عَنْ سَالِمٍ أَبِي الْمُهَاجِرِ، عَنْ مَيْمُونِ بْنِ مِهْرَانَ، عَنْ عَائِشَةَ، وَأَبِي، هُرَيْرَةَ أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ تَوَضَّأَ ثَلاَثًا ثَلاَثًا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c388",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 416,
+      "bookHadithIndex": 150,
+      "text": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ فَائِدٍ أَبِي الْوَرْقَاءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى، قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ تَوَضَّأَ ثَلاَثًا ثَلاَثًا وَمَسَحَ رَأْسَهُ مَرَّةً ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-416-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-416-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-416-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

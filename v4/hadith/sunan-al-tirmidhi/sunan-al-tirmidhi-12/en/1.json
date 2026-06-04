@@ -1,0 +1,833 @@
+{
+  "total": 29,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b69d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1146,
+      "bookHadithIndex": 1,
+      "text": "Ali (bin Abi Talib) narrated that The Messenger of Allah said:“Indeed Allah has made unlawful through suckling whatever He made unlawful through lineage.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1146-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1146-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1146-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1146-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b69e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1147,
+      "bookHadithIndex": 2,
+      "text": "Aishah narrated that the Messenger of Allah said:“Indeed Allah has made unlawful through suckling whatever He made unlawful through birth.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1147-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1147-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1147-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1147-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b69f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1148,
+      "bookHadithIndex": 3,
+      "text": "Aishah narrated:“My uncle through suckling came and asked permission (to enter) but I refused to admit him until I asked the Messenger of Allah. So the Messenger of Allah said: “Let him in since he is your uncle.’” She said: “It is only the woman who suckled me; I was not suckled by the man.’ So he said: ‘Indeed he is your uncle, so let him in.’”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1148-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1148-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1148-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1148-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a0",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1149,
+      "bookHadithIndex": 4,
+      "text": "Amr bin Ash-Shariq narrated that Ibn Abbas was asked about the case in which a man had two slave girls, one of them suckled a girl and the other suckled a boy, is it lawful for the boy to marry the girl? She said:“No, the semen is the same.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1149-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1149-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1149-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a1",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1150,
+      "bookHadithIndex": 5,
+      "text": "Abdullah bin Az-Zubair narrated from Aishah from the Prophet who said:“One sip or two sips do not make a prohibition.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1150-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1150-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1150-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1150-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a2",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1151,
+      "bookHadithIndex": 6,
+      "text": "Abdullah bin Abi Mulaikah narrated:“Ubaid bin Abi Maryam narrated to me from Uqbah bin Al-Harith” and, he (Abdullah bin Abi Mulaikah) said: “And I heard it from Uqbah bin Al-Harith, but to me, the narration of Ubaid is better preserved; he said: (Uqbah bin Al-Harith narrated: ) “I married a woman, then a black woman came to us and she said: ‘I suckled both of you.’ So I went to the Prophet and said: ‘I married so-and-so the daughter of so-and-so, then a black women came to us, and said: “I suckled both of you” but she is a liar.’” He said: “Then he (pbuh) turned away from me.” He said: “So I went around to face him (and he (pbuh) turned his face away from me) so I said: ‘She is a liar.’ He said: ‘How can you stay with her while she claims that she suckled both of you? Leave her.’”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1151-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1151-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1151-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1151-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a3",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1152,
+      "bookHadithIndex": 7,
+      "text": "Umm Salamah narrated that The Messenger of Allah said:“No prohibition results from suckling except for what penetrates the intestines while on the breast before weaning.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1152-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1152-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1152-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1152-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a4",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1153,
+      "bookHadithIndex": 8,
+      "text": "Hajjaj bin Hajjaj Al-Aslami narrated that His father asked the Prophet:“O Messenger of Allah! What will remove the responsibility of the foster relationship from me?” So he said: “A Ghurrah: a male slave or a female slave.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1153-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1153-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1153-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1153-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a5",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1154,
+      "bookHadithIndex": 9,
+      "text": "Aishah narrated:“Barfah’s husband was a slave, so the Messenger of Allah let her chose, and she chose herself, and if he was a free man she would not have had a choice.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1154-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1154-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1154-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a6",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1155,
+      "bookHadithIndex": 10,
+      "text": "Aishah narrated:“Barfah’s husband was a free man, so the Messenger of Allah let her choose.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1155-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1155-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1155-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a7",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1156,
+      "bookHadithIndex": 11,
+      "text": "Ibn Abbas narrated:“Barfahs husband was a black slave belonging to Banu Al-Mughirah. On the day that Barirah was freed. By Allah! It is as if I can see him in the streets of Al-Madinah behind her. Indeed tears were flowing down his beard while he was trying to get her to chose to stay with him, but she did not do it.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1156-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1156-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1156-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1156-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a8",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1157,
+      "bookHadithIndex": 12,
+      "text": "Abu Hurairah narrated that The Messenger of Allah said:“The child is for the bed, and for the fornicator is the stone.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1157-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1157-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1157-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1157-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6a9",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1158,
+      "bookHadithIndex": 13,
+      "text": "Jabir (bin Abdullah) narrated:“The Prophet saw a woman, then he went to Zainab to fulfill his need and he left. He said: ‘Indeed when the woman enters, she enters in the image of Shaitan. So when one of you sees a woman that he is fascinated with, then let him go to his wife, for indeed with her (his wife) is the same as that which is with her.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1158-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1158-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6aa",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1159,
+      "bookHadithIndex": 14,
+      "text": "Abu Hurairah narrated that The Prophet said:“If I were to order anyone to prostrate to anyone, then I would order the wife to prostrate to her husband.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1159-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1159-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1159-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1159-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6ab",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1160,
+      "bookHadithIndex": 15,
+      "text": "Talq bin Ali narrated that The Messenger of Allah said:“When a man calls his wife to fulfill his need, then let her come, even if she is at the oven.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1160-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1160-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1160-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6ac",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1161,
+      "bookHadithIndex": 16,
+      "text": "Umm Salamah narrated that The Messenger of Allah said:“Whichever woman dies while her husband is pleased with her, then she enters Paradise.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1161-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1161-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1161-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1161-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6ad",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1162,
+      "bookHadithIndex": 17,
+      "text": "Abu Hurairah narrated that The Messenger of Allah said:“The most complete of the believers in faith, is the one with the best character among them. And the best of you are those who are best to your women.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1162-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1162-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1162-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1162-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6ae",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1163,
+      "bookHadithIndex": 18,
+      "text": "Sulaiman bin Amr bin Al-Ahwas said:“My father narrated to me that he witnessed the farewell Hajj with the Messenger of Allah. So he thanked and praised Allah and he reminded and gave admonition. He mentioned a story in his narration and he (the Prophet) said: “And indeed I order you to be good to the women, for they are but captives with you over whom you have no power than that, except if they come with manifest Fahishah (evil behavior). If they do that, then abandon their beds and beat them with a beating that is not harmful. And if they obey you then you have no cause against them. Indeed you have rights over your women, and your women have rights over you. As for your rights over your women, then they must not allow anyone whom you dislike to treat on your bedding (furniture), nor to admit anyone in your home that you dislike. And their rights over you are that you treat them well in clothing them and feeding them.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1163-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1163-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1163-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1163-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6af",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1164,
+      "bookHadithIndex": 19,
+      "text": "Ali bin Talq narrated that A Bedouin came to the Prophet and said:“O Messenger of Allah! A man among us would be in the desert and a small smell would come from him, (what should he do) while the water is scarce? So the Messenger of Allah said: “When one of you breaks wind then let him perform Wudu, and do not go into your women in their behinds for indeed Allah is not shy of the truth.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1164-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1164-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1164-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1164-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b0",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1165,
+      "bookHadithIndex": 20,
+      "text": "Ibn Abbas narrated that The Messenger of Allah said:“Allah will not look at a man who enters a man or a woman in the behind.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1165-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1165-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1165-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1165-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b1",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1166,
+      "bookHadithIndex": 21,
+      "text": "Ali narrated that The Messenger of Allah said:“When one of you breaks wind then let him perform Wudu, and do not go into your women through their behinds.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1166-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1166-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1166-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b2",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1167,
+      "bookHadithIndex": 22,
+      "text": "Maimunah bin Sa’d who was a servant for the Prophet, narrated that The Messenger of Allah said:“The parable of the woman who walks to impress others in adornments for other than her family, is that of darkness on the Day of Judgment: There is no light for her.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1167-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1167-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1167-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1167-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b3",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1168,
+      "bookHadithIndex": 23,
+      "text": "Abu Hurairah narrated that The Messenger of Allah said:“Allah becomes jealous and the believer becomes jealous. Allah’s jealousy occurs when a believer does what He has made unlawful for him.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1168-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1168-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1168-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b4",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1169,
+      "bookHadithIndex": 24,
+      "text": "Abu Sa’eed Al-Khudri narrated that The Messenger of Allah said:“It is not lawful for a woman who believers in Allah and the Last Day to travel on a trip that is three days or more, unless she is accompanied by her father, her brother, her husband, her son, or someone who is a Mahram to her.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1169-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1169-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1169-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1169-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b5",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1170,
+      "bookHadithIndex": 25,
+      "text": "Abu Hurairah narrated that The Messenger of Allah said:“A woman is not to travel the distance of a day and a night unless she is accompanied by someone who is a Mahram.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1170-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1170-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1170-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1170-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b6",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1171,
+      "bookHadithIndex": 26,
+      "text": "Uqbah bin Amir narrated that The Messenger of Allah said:“Beware of entering upon women.” So a man from the Ansar said: ‘”O Messenger of Allah! What do you think about Hamu? So he said: “The Hamu is death.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1171-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1171-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1171-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1171-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b7",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1172,
+      "bookHadithIndex": 27,
+      "text": "Jabir narrated that The Prophet said:“Do not enter upon Al-Mughibar (the women whose husband are absent), for indeed the Shaitan flows through one of you as the blood flows.” We said: “And you?” He said: “And me, but Allah helped me over him, so I am safe.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1172-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1172-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1172-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b8",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1173,
+      "bookHadithIndex": 28,
+      "text": "Abdullah narrated that The Prophet said:“The woman is Awrah, so when she goes out, the Shaitan seeks to tempt her.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1173-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1173-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1173-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1173-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b6b9",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 12,
+      "hadithIndex": 1174,
+      "bookHadithIndex": 29,
+      "text": "Mu’adh bin Jabal narrated that The Prophet said:“No woman annoys her husband in the world except that his wife among the Al-Huril-Ain said: ‘Do not annoy him, may Allah destroy you, he is only like a guest with, soon he will part from you for us.’”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1174-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1174-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1174-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-12-1174-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

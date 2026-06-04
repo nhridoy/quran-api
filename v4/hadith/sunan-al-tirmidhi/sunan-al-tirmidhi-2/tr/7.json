@@ -1,0 +1,113 @@
+{
+  "total": 304,
+  "totalPage": 7,
+  "page": 7,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e1",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 448,
+      "bookHadithIndex": 301,
+      "text": "Âişe (r.anha)’dan rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.) Kur’ân’dan bir ayet ile gece namazının tümünü kılmıştı.” (İbn Mâce rivâyetine göre bu ayet; Maide: 118. ayetidir.) Tirmîzî rivâyet etmiştir Tirmîzî: Bu hadis bu şekliyle hasen garibtir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-448-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-448-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-448-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e2",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 449,
+      "bookHadithIndex": 302,
+      "text": "Abdullah b. ebî Kays (r.a.)’den rivâyete göre, şöyle demiştir: “Âişe (r.anha)’ya sordum, Rasûlullah (s.a.v.)’in gece namazlarındaki okuyuşu açıktan mı yoksa gizli miydi? Âişe şöyle dedi: Her iki şekilde de yapmıştır, bazen gizli okur, bazen de sesli okurdu. Bunun üzerine ben de: Her türlü ibadet ve işlerimizde genişlik vererek kolaylık sağlayan Allah’a hamdolsun.” Diğer tahric: Ebû Dâvûd, Vitr; Müslim, Müsafirîn Tirmîzî: Bu hadis hasen sahih garibtir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-449-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-449-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-449-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e3",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 450,
+      "bookHadithIndex": 303,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-450-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-450-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-450-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e4",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 451,
+      "bookHadithIndex": 304,
+      "text": "İbn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Evlerinizde de sünnet namazlarını kılın ki evlerinizi namaz kılınmayan kabirlere çevirmeyin.” Diğer tahric: Müslim, Müsafirîn Tirmîzî: Bu hadis hasen sahihtir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    }
+  ]
+}

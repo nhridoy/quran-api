@@ -1,0 +1,63 @@
+{
+  "total": 352,
+  "totalPage": 8,
+  "page": 8,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c1bd",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 49,
+      "hadithIndex": 3955,
+      "bookHadithIndex": 355,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-49-3955-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-49-3955-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-49-3955-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-49-3955-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c1be",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 49,
+      "hadithIndex": 3956,
+      "bookHadithIndex": 356,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-49-3956-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-49-3956-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-49-3956-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ]
+    }
+  ]
+}

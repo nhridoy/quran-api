@@ -1,0 +1,93 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c55add1a4c9c86f093a8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3239,
+      "bookHadithIndex": 151,
+      "text": "حدثنا سليمان بن حرب، ومحمد بن عبيد، - المعنى - قالا حدثنا حماد، عن عمرو، وايوب، عن سعيد بن جبير، عن ابن عباس، نحوه قال \" وكفنوه في ثوبين \" . قال ابو داود قال سليمان قال ايوب \" ثوبيه \" . وقال عمرو \" ثوبين \" . وقال ابن عبيد قال ايوب \" في ثوبين \" . وقال عمرو \" في ثوبيه \" . زاد سليمان وحده \" ولا تحنطوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1849) Sahih Muslim (1206)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093a9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3240,
+      "bookHadithIndex": 152,
+      "text": "حدثنا مسدد، حدثنا حماد، عن ايوب، عن سعيد بن جبير، عن ابن عباس، نحوه بمعنى سليمان \" في ثوبين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093aa",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3241,
+      "bookHadithIndex": 153,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا جرير، عن منصور، عن الحكم، عن سعيد بن جبير، عن ابن عباس، قال وقصت برجل محرم ناقته فقتلته فاتي به رسول الله صلى الله عليه وسلم فقال \" اغسلوه وكفنوه ولا تغطوا راسه ولا تقربوه طيبا فانه يبعث يهل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1839)"
+        }
+      ]
+    }
+  ]
+}

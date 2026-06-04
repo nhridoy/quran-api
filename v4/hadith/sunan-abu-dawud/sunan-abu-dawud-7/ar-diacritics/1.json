@@ -1,0 +1,438 @@
+{
+  "total": 15,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c7a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1401,
+      "bookHadithIndex": 1,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ بْنِ الْبَرْقِيِّ، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، أَخْبَرَنَا نَافِعُ بْنُ يَزِيدَ، عَنِ الْحَارِثِ بْنِ سَعِيدٍ الْعُتَقِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مُنَيْنٍ، - مِنْ بَنِي عَبْدِ كُلاَلٍ - عَنْ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَقْرَأَهُ خَمْسَ عَشْرَةَ سَجْدَةً فِي الْقُرْآنِ مِنْهَا ثَلاَثٌ فِي الْمُفَصَّلِ وَفِي سُورَةِ الْحَجِّ سَجْدَتَانِ ‏.‏ قَالَ أَبُو دَاوُدَ رُوِيَ عَنْ أَبِي الدَّرْدَاءِ عَنِ النَّبِيِّ صلى الله عليه وسلم إِحْدَى عَشْرَةَ سَجْدَةً وَإِسْنَادُهُ وَاهٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1401-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1401-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1401-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1401-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c7b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1402,
+      "bookHadithIndex": 2,
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي ابْنُ لَهِيعَةَ، أَنَّ مِشْرَحَ بْنَ هَاعَانَ أَبَا الْمُصْعَبِ، حَدَّثَهُ أَنَّ عُقْبَةَ بْنَ عَامِرٍ حَدَّثَهُ قَالَ قُلْتُ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَفِي سُورَةِ الْحَجِّ سَجْدَتَانِ قَالَ ‏ \"‏ نَعَمْ وَمَنْ لَمْ يَسْجُدْهُمَا فَلاَ يَقْرَأْهُمَا ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1402-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1402-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1402-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1402-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c7c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1403,
+      "bookHadithIndex": 3,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَزْهَرُ بْنُ الْقَاسِمِ، - قَالَ مُحَمَّدٌ رَأَيْتُهُ بِمَكَّةَ - حَدَّثَنَا أَبُو قُدَامَةَ، عَنْ مَطَرٍ الْوَرَّاقِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يَسْجُدْ فِي شَىْءٍ مِنَ الْمُفَصَّلِ مُنْذُ تَحَوَّلَ إِلَى الْمَدِينَةِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1403-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1403-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1403-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1403-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c7d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1404,
+      "bookHadithIndex": 4,
+      "text": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا وَكِيعٌ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ قَرَأْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم النَّجْمَ فَلَمْ يَسْجُدْ فِيهَا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1404-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1404-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c7e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1405,
+      "bookHadithIndex": 5,
+      "text": "حَدَّثَنَا ابْنُ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنَا أَبُو صَخْرٍ، عَنِ ابْنِ قُسَيْطٍ، عَنْ خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏ قَالَ أَبُو دَاوُدَ كَانَ زَيْدٌ الإِمَامَ فَلَمْ يَسْجُدْ فِيهَا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1405-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1405-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1405-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c7f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1406,
+      "bookHadithIndex": 6,
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَرَأَ سُورَةَ النَّجْمِ فَسَجَدَ فِيهَا وَمَا بَقِيَ أَحَدٌ مِنَ الْقَوْمِ إِلاَّ سَجَدَ فَأَخَذَ رَجُلٌ مِنَ الْقَوْمِ كَفًّا مِنْ حَصًى أَوْ تُرَابٍ فَرَفَعَهُ إِلَى وَجْهِهِ وَقَالَ يَكْفِينِي هَذَا ‏.‏ قَالَ عَبْدُ اللَّهِ فَلَقَدْ رَأَيْتُهُ بَعْدَ ذَلِكَ قُتِلَ كَافِرًا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1406-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1406-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1406-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1406-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1070) Sahih Muslim (576)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c80",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1407,
+      "bookHadithIndex": 7,
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ عَطَاءِ بْنِ مِينَاءَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ سَجَدْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي ‏{‏ إِذَا السَّمَاءُ انْشَقَّتْ ‏}‏ وَ ‏{‏ اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ‏}‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1407-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1407-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1407-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1407-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (578)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c81",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1408,
+      "bookHadithIndex": 8,
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ أَبِي، حَدَّثَنَا بَكْرٌ، عَنْ أَبِي رَافِعٍ، قَالَ صَلَّيْتُ مَعَ أَبِي هُرَيْرَةَ الْعَتَمَةَ فَقَرَأَ ‏{‏ إِذَا السَّمَاءُ انْشَقَّتْ ‏}‏ فَسَجَدَ فَقُلْتُ مَا هَذِهِ السَّجْدَةُ قَالَ سَجَدْتُ بِهَا خَلْفَ أَبِي الْقَاسِمِ صلى الله عليه وسلم فَلاَ أَزَالُ أَسْجُدُ بِهَا حَتَّى أَلْقَاهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1408-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1408-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1408-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1408-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1078) Sahih Muslim (578)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c82",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1409,
+      "bookHadithIndex": 9,
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لَيْسَ ‏{‏ ص ‏}‏ مِنْ عَزَائِمِ السُّجُودِ وَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَسْجُدُ فِيهَا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1409-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1409-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1409-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1409-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1069)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c83",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1410,
+      "bookHadithIndex": 10,
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، - يَعْنِي ابْنَ الْحَارِثِ - عَنِ ابْنِ أَبِي هِلاَلٍ، عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ بْنِ سَعْدِ بْنِ أَبِي سَرْحٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ قَالَ قَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُوَ عَلَى الْمِنْبَرِ ‏{‏ ص ‏}‏ فَلَمَّا بَلَغَ السَّجْدَةَ نَزَلَ فَسَجَدَ وَسَجَدَ النَّاسُ مَعَهُ فَلَمَّا كَانَ يَوْمٌ آخَرُ قَرَأَهَا فَلَمَّا بَلَغَ السَّجْدَةَ تَشَزَّنَ النَّاسُ لِلسُّجُودِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّمَا هِيَ تَوْبَةُ نَبِيٍّ وَلَكِنِّي رَأَيْتُكُمْ تَشَزَّنْتُمْ لِلسُّجُودِ ‏\"‏ ‏.‏ فَنَزَلَ فَسَجَدَ وَسَجَدُوا ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1410-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1410-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1410-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1410-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c84",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1411,
+      "bookHadithIndex": 11,
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ أَبُو الْجُمَاهِرِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ مُصْعَبِ بْنِ ثَابِتِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَرَأَ عَامَ الْفَتْحِ سَجْدَةً فَسَجَدَ النَّاسُ كُلُّهُمْ مِنْهُمُ الرَّاكِبُ وَالسَّاجِدُ فِي الأَرْضِ حَتَّى إِنَّ الرَّاكِبَ لَيَسْجُدُ عَلَى يَدِهِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1411-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1411-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1411-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1411-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c85",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1412,
+      "bookHadithIndex": 12,
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ، حَدَّثَنَا ابْنُ نُمَيْرٍ، - الْمَعْنَى - عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْرَأُ عَلَيْنَا السُّورَةَ - قَالَ ابْنُ نُمَيْرٍ فِي غَيْرِ الصَّلاَةِ ثُمَّ اتَّفَقَا - فَيَسْجُدُ وَنَسْجُدُ مَعَهُ حَتَّى لاَ يَجِدُ أَحَدُنَا مَكَانًا لِمَوْضِعِ جَبْهَتِهِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1412-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1412-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1412-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1412-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1075) Sahih Muslim (575)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c86",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1413,
+      "bookHadithIndex": 13,
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ الْفُرَاتِ أَبُو مَسْعُودٍ الرَّازِيُّ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْرَأُ عَلَيْنَا الْقُرْآنَ فَإِذَا مَرَّ بِالسَّجْدَةِ كَبَّرَ وَسَجَدَ وَسَجَدْنَا ‏.‏ قَالَ عَبْدُ الرَّزَّاقِ وَكَانَ الثَّوْرِيُّ يُعْجِبُهُ هَذَا الْحَدِيثُ ‏.‏ قَالَ أَبُو دَاوُدَ يُعْجِبُهُ لأَنَّهُ كَبَّرَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1413-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1413-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1413-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c87",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1414,
+      "bookHadithIndex": 14,
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ رَجُلٍ، عَنْ أَبِي الْعَالِيَةِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي سُجُودِ الْقُرْآنِ بِاللَّيْلِ يَقُولُ فِي السَّجْدَةِ مِرَارًا ‏ \"‏ سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ ‏\"‏ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1414-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1414-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1414-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1414-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08c88",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 7,
+      "hadithIndex": 1415,
+      "bookHadithIndex": 15,
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الصَّبَّاحِ الْعَطَّارُ، حَدَّثَنَا أَبُو بَحْرٍ، حَدَّثَنَا ثَابِتُ بْنُ عُمَارَةَ، حَدَّثَنَا أَبُو تَمِيمَةَ الْهُجَيْمِيُّ، قَالَ لَمَّا بَعَثْنَا الرَّكْبَ - قَالَ أَبُو دَاوُدَ يَعْنِي إِلَى الْمَدِينَةِ قَالَ - كُنْتُ أَقُصُّ بَعْدَ صَلاَةِ الصُّبْحِ فَأَسْجُدُ فَنَهَانِي ابْنُ عُمَرَ فَلَمْ أَنْتَهِ ثَلاَثَ مِرَارٍ ثُمَّ عَادَ فَقَالَ إِنِّي صَلَّيْتُ خَلْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَمَعَ أَبِي بَكْرٍ وَعُمَرَ وَعُثْمَانَ - رضى الله عنهم - فَلَمْ يَسْجُدُوا حَتَّى تَطْلُعَ الشَّمْسُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1415-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1415-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1415-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-7-1415-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

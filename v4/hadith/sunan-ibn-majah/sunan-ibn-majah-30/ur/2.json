@@ -1,0 +1,453 @@
+{
+  "total": 65,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf45",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3421,
+      "bookHadithIndex": 51,
+      "text": "عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے اس بات سے منع فرمایا ہے کہ مشک کے منہ سے پانی پیا جائے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3421-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3421-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3421-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3421-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf46",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3422,
+      "bookHadithIndex": 52,
+      "text": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم کو زمزم کا پانی پلایا، تو آپ نے کھڑے کھڑے پیا ۱؎۔ شعبی کہتے ہیں: میں نے یہ حدیث عکرمہ سے بیان کی تو انہوں نے قسم کھا کر کہا کہ نبی اکرم صلی اللہ علیہ وسلم نے ایسا نہیں کیا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3422-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3422-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3422-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3422-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf47",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3423,
+      "bookHadithIndex": 53,
+      "text": "کبشہ انصاریہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم ان کے پاس تشریف لے گئے، ان کے پاس ایک پانی کی مشک لٹکی ہوئی تھی، آپ صلی اللہ علیہ وسلم نے کھڑ ے کھڑے اس کے منہ سے منہ لگا کر پانی پیا، تو انہوں نے مشک کے منہ کو جہاں رسول اللہ صلی اللہ علیہ وسلم کے منہ کا لمس ہوا تھا برکت کے لیے کاٹ کر رکھ لیا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3423-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3423-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3423-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3423-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf48",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3424,
+      "bookHadithIndex": 54,
+      "text": "انس رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے کھڑے ہو کر پینے سے منع فرمایا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3424-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3424-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3424-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3424-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf49",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3425,
+      "bookHadithIndex": 55,
+      "text": "انس بن مالک رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس دودھ آیا جس میں پانی ملا ہوا تھا، اس وقت آپ کے دائیں جانب ایک اعرابی اور آپ کے بائیں جانب ابوبکر رضی اللہ عنہ تھے، تو آپ صلی اللہ علیہ وسلم نے پیا، پھر اعرابی کو دیا اور فرمایا: دائیں طرف والے کو دینا چاہیئے، پھر وہ اپنے دائیں طرف والے کو دے ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3425-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3425-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3425-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3425-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf4a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3426,
+      "bookHadithIndex": 56,
+      "text": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس دودھ آیا، اس وقت آپ کے دائیں جانب ابن عباس رضی اللہ عنہما اور بائیں جانب خالد بن ولید رضی اللہ عنہ تھے، رسول اللہ صلی اللہ علیہ وسلم نے ابن عباس رضی اللہ عنہما سے پوچھا: کیا تم مجھے اس کی اجازت دیتے ہو کہ پہلے خالد کو پلاؤں؟ ابن عباس رضی اللہ عنہما نے کہا: میں رسول اللہ صلی اللہ علیہ وسلم کے جوٹھے کے لیے اپنے اوپر کسی کو ترجیح دینا پسند نہیں کرتا، چنانچہ ابن عباس رضی اللہ عنہما نے لیا، اور پیا، اور پھر خالد رضی اللہ عنہ نے پیا ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3426-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3426-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3426-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3426-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf4b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3427,
+      "bookHadithIndex": 57,
+      "text": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی کچھ پئے تو برتن میں سانس نہ لے، اور اگر سانس لینا چاہے تو برتن کو منہ سے علیحدہ کر لے، پھر اگر چاہے تو دوبارہ پئے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3427-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3427-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3427-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3427-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf4c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3428,
+      "bookHadithIndex": 58,
+      "text": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے برتن میں سانس لینے سے منع فرمایا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3428-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3428-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3428-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3428-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf4d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3429,
+      "bookHadithIndex": 59,
+      "text": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے برتن میں پھونک مارنے سے منع فرمایا ہے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3429-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3429-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3429-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3429-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf4e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3430,
+      "bookHadithIndex": 60,
+      "text": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مشروب میں پھونک نہیں مارتے تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3430-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3430-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3430-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3430-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf4f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3431,
+      "bookHadithIndex": 61,
+      "text": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں اوندھے منہ پیٹ کے بل لیٹ کر پینے سے منع فرمایا ہے، اور یہی «کرع» ہے، اور ہمیں اس بات سے بھی منع فرمایا کہ ایک ہاتھ سے چلو لیں، اور ارشاد فرمایا: تم میں سے کوئی کتے کی طرح برتن میں منہ نہ ڈالے، اور نہ ایک ہاتھ سے پئے، جیسا کہ وہ لوگ پیا کرتے تھے جن سے اللہ ناراض ہوا، رات میں برتن کو ہلائے بغیر اس میں سے نہ پئے مگر یہ کہ وہ ڈھکا ہوا ہو، اور جو شخص محض عاجزی و انکساری کی وجہ سے اپنے ہاتھ سے پانی پیتا ہے حالانکہ وہ برتن سے پینے کی استطاعت رکھتا ہے تو اللہ تعالیٰ اس کے لیے اس کی انگلیوں کی تعداد کے برابر نیکیاں لکھتا ہے، یہی عیسیٰ بن مریم علیہما السلام کا برتن تھا جب انہوں نے یہ کہہ کر پیالہ پھینک دیا: اف! یہ بھی دنیا کا سامان ہے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3431-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3431-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3431-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3431-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf50",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3432,
+      "bookHadithIndex": 62,
+      "text": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم انصار کے ایک شخص کے پاس تشریف لے گئے، وہ اپنے باغ میں پانی دے رہا تھا، رسول اللہ صلی اللہ علیہ وسلم نے اس سے فرمایا: اگر تمہارے پاس مشک میں باسی پانی ہو تو ہمیں پلاؤ، ورنہ ہم بہتے پانی میں منہ لگا کر پئیں گے، اس نے جواب دیا: میرے پاس مشک میں باسی پانی ہے، چنانچہ وہ اور اس کے ساتھ ساتھ ہم چھپر کی طرف گئے، تو اس نے نبی اکرم صلی اللہ علیہ وسلم کی خاطر بکری کا دودھ دوھ کر اس باسی پانی میں ملایا جو مشک میں رکھا ہوا تھا، چنانچہ آپ صلی اللہ علیہ وسلم نے اسے پیا، پھر اس نے ایسا ہی آپ کے ساتھ موجود صحابی کے ساتھ کیا ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3432-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3432-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3432-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf51",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3433,
+      "bookHadithIndex": 63,
+      "text": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ ایک حوض کے پاس سے ہمارا گزر ہوا تو ہم منہ لگا کے پانی پینے لگے، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: منہ لگا کر پانی نہ پیو، بلکہ اپنے ہاتھوں کو دھو لو پھر ان سے پیو، اس لیے کہ ہاتھ سے زیادہ پاکیزہ کوئی برتن نہیں ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3433-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3433-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3433-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3433-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf52",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3434,
+      "bookHadithIndex": 64,
+      "text": "ابوقتادہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: قوم کا ساقی ( پلانے والا ) سب سے آخر میں پیتا ہے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3434-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3434-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3434-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3434-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf53",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 30,
+      "hadithIndex": 3435,
+      "bookHadithIndex": 65,
+      "text": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس شیشے کا ایک پیالہ تھا جس میں آپ پیتے تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3435-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3435-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3435-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-30-3435-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "total": 14,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa1a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3706,
+      "bookHadithIndex": 1,
+      "text": "Hilal bin Al-'Ala' informed us:\"My father narrated to us: Ubaidullah -he is, Ibn 'Amr- narrated to us, from Sufyan, from Ibn Abi Najih, from Tawus, from Zaid bin Thabit, that the Prophet said: 'Ar-Ruqba is permissible",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3706-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3706-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3706-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa1b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3707,
+      "bookHadithIndex": 2,
+      "text": "Muhammad bin 'Ali bin Maimun informed us, he said:\"Muhammad -he is, Ibn Yusuf- narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, from a man, from Zaid bin Thabit that the Prophet ruled that the Ruqba belongs to the one to whom it is given",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3707-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3707-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3707-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa1c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3708,
+      "bookHadithIndex": 3,
+      "text": "Zakariyya bin Yahya informed us, he said:\"Abdul-Jabbar bin Al-'Ala' narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, and perhaps it is from Ibn 'Abbas, who said: There is no Ruqba, and whoever gives a gift on the basis of Ruqba, it is part of his estate",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3708-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3708-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3708-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa1d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3709,
+      "bookHadithIndex": 4,
+      "text": "Zaid narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas that the Messenger of Allah said:\"Do not give away your property on the basis of Ruqba, for whoever gives a gift on that basis, it belongs to the one to whom he gave it",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3709-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3709-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3709-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa1e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3710,
+      "bookHadithIndex": 5,
+      "text": "Hajjaj narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"The Messenger of Allah said: 'Umra (life-long gift) is permissible for the one to whom it is given, and Ruqba is permissible to the one to whom it is given, and the one who takes back his gift is like the one who goes back to his vomit",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3710-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3710-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3710-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa1f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3711,
+      "bookHadithIndex": 6,
+      "text": "Sufyan narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"'Umra and Ruqba are the same",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3711-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3711-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3711-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa20",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3712,
+      "bookHadithIndex": 7,
+      "text": "(A different chain) from Sufyan, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"Ruqba and 'Umra are not permissible; whoever is given something on the basis of 'Umra, it is his, and whoever is given something on the basis of Ruqba, it is his",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3712-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3712-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3712-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa21",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3713,
+      "bookHadithIndex": 8,
+      "text": "(A different chain) from Hajjaj, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"'Umra and Ruqba are not proper. Whoever gives something on the basis of 'Umra or Ruqba, it belongs to the one to whom he gave it on that basis, both during his lifetime and after his death.\" Hanzalah narrated it in Mursal form",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3713-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3713-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3713-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa22",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3714,
+      "bookHadithIndex": 9,
+      "text": "Hanzalah narrated that he heard Tawus say:\"The Messenger of Allah said: 'Ruqba is not permissible. Whoever is given something on the basis of Ruqba, it is part of his estate",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3714-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3714-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3714-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa23",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3715,
+      "bookHadithIndex": 10,
+      "text": "Sufyan narrated from Ibn Abi Najih, from Tawus, from Zaid bin Thabit, who said:\"The Messenger of Allah said: 'Umra (a gift given for life) is part of the estate",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3715-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3715-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3715-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa24",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3716,
+      "bookHadithIndex": 11,
+      "text": "Sufyan narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid, who said:\"The Messenger of Allah said: 'Umra (a gift given for life) is for the heir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3716-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3716-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3716-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa25",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3717,
+      "bookHadithIndex": 12,
+      "text": "Ma'mar narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid bin Thabit, from Prophet, who said:\"'Umra (a gift given for life) is permissible",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3717-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3717-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3717-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa26",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3718,
+      "bookHadithIndex": 13,
+      "text": "Ma'mar narrated from 'Amr bin Dinar, from Tawus, from Zaid bin Thabit, that the Prophet said:\"'Umra (a gift given for life) belongs to the heir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3718-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3718-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3718-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0aa27",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 33,
+      "hadithIndex": 3719,
+      "bookHadithIndex": 14,
+      "text": "(A different chain) from Ma'mar who said:\"I heard 'Amr bin Dinar, narrating from Tawus, from Hujr Al-Madari, from Zaid bin Thabit, that the Messenger of Allah said: \"'Umra (a gift given for life) belongs to the heir.\" And Allah knows best",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3719-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3719-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-33-3719-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    }
+  ]
+}

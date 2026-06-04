@@ -1,0 +1,483 @@
+{
+  "total": 117,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b73d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1305,
+      "bookHadithIndex": 108,
+      "text": "حدثنا هناد، ومحمود بن غيلان، قالا حدثنا وكيع، عن سفيان، عن سماك بن حرب، عن سويد بن قيس، قال جلبت انا ومخرفة العبدي، بزا من هجر فجاءنا النبي صلى الله عليه وسلم فساومنا بسراويل وعندي وزان يزن بالاجر فقال النبي صلى الله عليه وسلم للوزان \" زن وارجح \" . قال وفي الباب عن جابر وابي هريرة . قال ابو عيسى حديث سويد حديث حسن صحيح . واهل العلم يستحبون الرجحان في الوزن . وروى شعبة هذا الحديث عن سماك فقال عن ابي صفوان وذكر الحديث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1305-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1305-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1305-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1305-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b73e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1306,
+      "bookHadithIndex": 109,
+      "text": "حدثنا ابو كريب، حدثنا اسحاق بن سليمان الرازي، عن داود بن قيس، عن زيد بن اسلم، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من انظر معسرا او وضع له اظله الله يوم القيامة تحت ظل عرشه يوم لا ظل الا ظله \" . قال وفي الباب عن ابي اليسر وابي قتادة وحذيفة وابن مسعود وعبادة وجابر . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح غريب من هذا الوجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1306-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1306-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1306-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1306-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b73f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1307,
+      "bookHadithIndex": 110,
+      "text": "حدثنا هناد، حدثنا ابو معاوية، عن الاعمش، عن شقيق، عن ابي مسعود، قال قال رسول الله صلى الله عليه وسلم \" حوسب رجل ممن كان قبلكم فلم يوجد له من الخير شيء الا انه كان رجلا موسرا وكان يخالط الناس وكان يامر غلمانه ان يتجاوزوا عن المعسر فقال الله عز وجل نحن احق بذلك منه تجاوزوا عنه \" . قال ابو عيسى هذا حديث حسن صحيح . وابو اليسر كعب بن عمرو",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1307-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1307-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1307-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1307-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b740",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1308,
+      "bookHadithIndex": 111,
+      "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" مطل الغني ظلم واذا اتبع احدكم على ملي فليتبع \" . قال وفي الباب عن ابن عمر والشريد بن سويد الثقفي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1308-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1308-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1308-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b741",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1309,
+      "bookHadithIndex": 112,
+      "text": "حدثنا ابراهيم بن عبد الله الهروي، قال حدثنا هشيم، قال حدثنا يونس بن عبيد، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" مطل الغني ظلم واذا احلت على مليء فاتبعه ولا تبع بيعتين في بيعة \" . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . ومعناه انه اذا احيل احدكم على ملي فليتبع . فقال بعض اهل العلم اذا احيل الرجل على ملي فاحتاله فقد بري المحيل وليس له ان يرجع على المحيل . وهو قول الشافعي واحمد واسحاق . وقال بعض اهل العلم اذا توي مال هذا بافلاس المحال عليه فله ان يرجع على الاول . واحتجوا بقول عثمان وغيره حين قالوا ليس على مال مسلم توى . قال اسحاق معنى هذا الحديث \" ليس على مال مسلم توى \" . هذا اذا احيل الرجل على اخر وهو يرى انه ملي فاذا هو معدم فليس على مال مسلم توى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1309-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1309-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b742",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1310,
+      "bookHadithIndex": 113,
+      "text": "حدثنا ابو كريب، ومحمود بن غيلان، قالا حدثنا وكيع، عن سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم عن بيع المنابذة والملامسة . قال وفي الباب عن ابي سعيد وابن عمر . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . ومعنى هذا الحديث ان يقول اذا نبذت اليك الشىء فقد وجب البيع بيني وبينك . والملامسة ان يقول اذا لمست الشىء فقد وجب البيع وان كان لا يرى منه شييا مثل ما يكون في الجراب او غير ذلك وانما كان هذا من بيوع اهل الجاهلية فنهى عن ذلك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1310-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1310-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1310-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1310-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b743",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1311,
+      "bookHadithIndex": 114,
+      "text": "حدثنا احمد بن منيع، حدثنا سفيان، عن ابن ابي نجيح، عن عبد الله بن كثير، عن ابي المنهال، عن ابن عباس، قال قدم رسول الله صلى الله عليه وسلم المدينة وهم يسلفون في الثمر فقال \" من اسلف فليسلف في كيل معلوم ووزن معلوم الى اجل معلوم \" . قال وفي الباب عن ابن ابي اوفى وعبد الرحمن بن ابزى . قال ابو عيسى حديث ابن عباس حديث حسن صحيح . والعمل على هذا عند اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم اجازوا السلف في الطعام والثياب وغير ذلك مما يعرف حده وصفته واختلفوا في السلم في الحيوان فراى بعض اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم السلم في الحيوان جايزا . وهو قول الشافعي واحمد واسحاق . وكره بعض اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم السلم في الحيوان . وهو قول سفيان الثوري واهل الكوفة . ابو المنهال اسمه عبد الرحمن بن مطعم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1311-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1311-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1311-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1311-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b744",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1312,
+      "bookHadithIndex": 115,
+      "text": "حدثنا علي بن خشرم، حدثنا عيسى بن يونس، عن سعيد، عن قتادة، عن سليمان اليشكري، عن جابر بن عبد الله، ان نبي الله صلى الله عليه وسلم قال \" من كان له شريك في حايط فلا يبيع نصيبه من ذلك حتى يعرضه على شريكه \" . قال ابو عيسى هذا حديث اسناده ليس بمتصل . سمعت محمدا يقول سليمان اليشكري يقال انه مات في حياة جابر بن عبد الله . قال ولم يسمع منه قتادة ولا ابو بشر . قال محمد ولا نعرف لاحد منهم سماعا من سليمان اليشكري الا ان يكون عمرو بن دينار فلعله سمع منه في حياة جابر بن عبد الله . قال وانما يحدث قتادة عن صحيفة سليمان اليشكري وكان له كتاب عن جابر بن عبد الله . حدثنا ابو بكر العطار عبد القدوس قال قال علي بن المديني قال يحيى بن سعيد قال سليمان التيمي ذهبوا بصحيفة جابر بن عبد الله الى الحسن البصري فاخذها او قال فرواها وذهبوا بها الى قتادة فرواها واتوني بها فلم اروها . يقول رددتها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1312-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1312-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1312-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b745",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1313,
+      "bookHadithIndex": 116,
+      "text": "حدثنا محمد بن بشار، حدثنا عبد الوهاب الثقفي، حدثنا ايوب، عن ابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم نهى عن المحاقلة والمزابنة والمخابرة والمعاومة ورخص في العرايا . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1313-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1313-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1313-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1313-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b746",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1314,
+      "bookHadithIndex": 117,
+      "text": "حدثنا محمد بن بشار، حدثنا الحجاج بن منهال، حدثنا حماد بن سلمة، عن قتادة، وثابت، وحميد، عن انس، قال غلا السعر على عهد رسول الله صلى الله عليه وسلم فقالوا يا رسول الله سعر لنا . فقال \" ان الله هو المسعر القابض الباسط الرزاق واني لارجو ان القى ربي وليس احد منكم يطلبني بمظلمة في دم ولا مال \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1314-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1314-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1314-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1314-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b747",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1315,
+      "bookHadithIndex": 118,
+      "text": "حدثنا علي بن حجر، اخبرنا اسماعيل بن جعفر، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم مر على صبرة من طعام فادخل يده فيها فنالت اصابعه بللا فقال \" يا صاحب الطعام ما هذا \" . قال اصابته السماء يا رسول الله . قال \" افلا جعلته فوق الطعام حتى يراه الناس \" . ثم قال \" من غش فليس منا \" . قال وفي الباب عن ابن عمر وابي الحمراء وابن عباس وبريدة وابي بردة بن نيار وحذيفة بن اليمان . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . والعمل على هذا عند اهل العلم كرهوا الغش وقالوا الغش حرام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1315-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1315-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1315-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1315-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b748",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1316,
+      "bookHadithIndex": 119,
+      "text": "حدثنا ابو كريب، حدثنا وكيع، عن علي بن صالح، عن سلمة بن كهيل، عن ابي سلمة، عن ابي هريرة، قال استقرض رسول الله صلى الله عليه وسلم سنا فاعطاه سنا خيرا من سنه وقال \" خياركم احاسنكم قضاء \" . قال وفي الباب عن ابي رافع . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . وقد رواه شعبة وسفيان عن سلمة . والعمل على هذا عند بعض اهل العلم لم يروا باستقراض السن باسا من الابل . وهو قول الشافعي واحمد واسحاق . وكره بعضهم ذلك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1316-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1316-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1316-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1316-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b749",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1317,
+      "bookHadithIndex": 120,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1317-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1317-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1317-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b74a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1318,
+      "bookHadithIndex": 122,
+      "text": "حدثنا عبد بن حميد، حدثنا روح بن عبادة، حدثنا مالك بن انس، عن زيد بن اسلم، عن عطاء بن يسار، عن ابي رافع، مولى رسول الله صلى الله عليه وسلم قال استسلف رسول الله صلى الله عليه وسلم بكرا فجاءته ابل من الصدقة . قال ابو رافع فامرني رسول الله صلى الله عليه وسلم ان اقضي الرجل بكره . فقلت لا اجد في الابل الا جملا خيارا رباعيا . فقال رسول الله صلى الله عليه وسلم \" اعطه اياه فان خيار الناس احسنهم قضاء \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1318-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1318-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1318-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1318-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b74b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1319,
+      "bookHadithIndex": 123,
+      "text": "حدثنا ابو كريب، حدثنا اسحاق بن سليمان الرازي، عن مغيرة بن مسلم، عن يونس، عن الحسن، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" ان الله يحب سمح البيع سمح الشراء سمح القضاء \" . قال وفي الباب عن جابر . قال ابو عيسى هذا حديث غريب . وقد روى بعضهم هذا الحديث عن يونس عن سعيد المقبري عن ابي هريرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1319-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1319-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1319-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b74c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1320,
+      "bookHadithIndex": 124,
+      "text": "حدثنا عباس بن محمد الدوري، حدثنا عبد الوهاب بن عطاء، اخبرنا اسراييل، عن زيد بن عطاء بن السايب، عن محمد بن المنكدر، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" غفر الله لرجل كان قبلكم كان سهلا اذا باع سهلا اذا اشترى سهلا اذا اقتضى \" . قال هذا حديث صحيح حسن غريب من هذا الوجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1320-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1320-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1320-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1320-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b74d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 14,
+      "hadithIndex": 1321,
+      "bookHadithIndex": 125,
+      "text": "حدثنا الحسن بن علي الخلال، حدثنا عارم، حدثنا عبد العزيز بن محمد، اخبرنا يزيد بن خصيفة، عن محمد بن عبد الرحمن بن ثوبان، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" اذا رايتم من يبيع او يبتاع في المسجد فقولوا لا اربح الله تجارتك واذا رايتم من ينشد فيه ضالة فقولوا لا رد الله عليك \" . قال ابو عيسى حديث ابي هريرة حديث حسن غريب . والعمل على هذا عند بعض اهل العلم كرهوا البيع والشراء في المسجد . وهو قول احمد واسحاق . وقد رخص بعض اهل العلم في البيع والشراء في المسجد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1321-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1321-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-14-1321-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    }
+  ]
+}

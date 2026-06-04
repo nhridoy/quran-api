@@ -1,0 +1,618 @@
+{
+  "total": 21,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbb8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2512,
+      "bookHadithIndex": 1,
+      "text": "It was narrated from Jabir that:the Messenger of Allah (ﷺ) sold a Mudabbar",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbb9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2513,
+      "bookHadithIndex": 2,
+      "text": "It was narrated that Jabir bin 'Abdullah said:“A man among us promised freedom to a slave after his death, and he did not have any property other than him (this slave). So the Prophet (ﷺ) sold him, and Ibn (Nahham), a man from Banu 'Adi, bought him.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbba",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2514,
+      "bookHadithIndex": 3,
+      "text": "It was narrated from Ibn`Umar that the Prophet (ﷺ) said:“The Mudabbar is part of the one third of the estate.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2514-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2514-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2514-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2515,
+      "bookHadithIndex": 4,
+      "text": "It was narrated from Ibn`Abbas that the Messenger of Allah (ﷺ) said:“Any man whose slave won an bears him a child, she will be free after he dies.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2516,
+      "bookHadithIndex": 5,
+      "text": "It was narrated that Ibn`Abbas said:“Mention was made of the mother of Ibrahim in the presence of the Messenger of Allah (ﷺ), and he said: 'Her son set her free.'”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2517,
+      "bookHadithIndex": 6,
+      "text": "Jabir bin `Abdullah was heard to say:“We used to sell our slave women and the mothers of our children (Umahat Awaldina) when the Prophet (ﷺ) was still living among us, and we did not see anything wrong with that.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbe",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2518,
+      "bookHadithIndex": 7,
+      "text": "Abu Hurairah (ra) said that the Messenger of Allah (ﷺ) said \"Three who's support is a right upon Allah:the warrior in the path of Allah, the mukatab seeking to fulfill (his manumission debt), and the one getting married seeking chastity",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbf",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2519,
+      "bookHadithIndex": 8,
+      "text": "It was narrated from `Amr bin Shu'aib , from his father, from his grandfather that the Messenger of Allah (ﷺ) said:“Any slave who has made a contract to buy his freedom for one hundread Uqiyyah and pays it all except ten Uqiyyah; he is still a slave.” (One Uqiyyah is equal to 40 Dirham)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2520,
+      "bookHadithIndex": 9,
+      "text": "It was narrated from Umm Salamah that the Prophet (ﷺ) said:“If anyone of you (women) has a Mukatab, and he has enough (wealth) to pay off (his contact of manumission), she must veil herself from him.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2521,
+      "bookHadithIndex": 10,
+      "text": "It was narrated from Hisham bin 'Urwah, from his father, about 'Aishah the wife of the Prophet (ﷺ) - :that Barirah came to her when she was came to her when she was Muktabah, and her masters had written a contract of manumission for nine Uqiyyah. She (`Aishah) said: “If your masters wish I will pay them that in one sum, and the right of inheritance will belong to me.” He said: “So she went to her masters and told them about that, but they insisted that the right of inheritance should belong to them. `Aishah mentioned that to the Prophet (ﷺ) and he said: 'Do it.' Then the Prophet (ﷺ) stood up and addressed the people. He praised and glorified Allah (SWT), then he said: 'What is the matter with some people who stipulated conditions that are not in the Book of Allah (SWT)? Every conditions that is not in the Book of Allah (SWT) is invalid, even if there are one hundred conditions. The Book of Allah(SWT) is more deserving of being followed and the conditions of Allah (SWT) are more binding. And the Wala belongs to the one who manumits (the slave).”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2522,
+      "bookHadithIndex": 11,
+      "text": "It was narrated that Shurahbil bin Simt said:I said to Ka'b bin Murrah, tell us a Hadith from the Messenger of Allah (ﷺ), but be careful. He said: I heard the Messenger of Allah (ﷺ) say: “Whoever frees a Muslim man, he will be his ransom from the Fire; each of his bones will suffice (as a ransom) for each of his bones. Whoever frees two Muslim women, they will be his ransom from the Fire; each of their two bones will suffice (as a ransom) for each of his bones.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2523,
+      "bookHadithIndex": 12,
+      "text": "It was narrated that Abu Dharr said:“I said: 'O Messenger of Allah (ﷺ), which slave is best?' He said: ‘The one who is most precious to his master and most valuable in price.' ”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2524,
+      "bookHadithIndex": 13,
+      "text": "It was narrated from Samurah bin Jundub that the Prophet (ﷺ) said:“Whoever becomes the master of a Mahram relative (with whom marriage is not lawful), he becomes free.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2525,
+      "bookHadithIndex": 14,
+      "text": "It was narrated from Ibn`Umar that the Messenger of Allah (ﷺ) said:“Whoever becomes the master of a Mahram relative, he becomes free.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2525-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2525-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2525-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2526,
+      "bookHadithIndex": 15,
+      "text": "It was narrated from that Safinah - Abu 'Abdur-Rahman-said :“Umm Salamah freed me but stipulated that I should serve the Prophet (ﷺ) as long he lived.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2526-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2526-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2526-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2527,
+      "bookHadithIndex": 16,
+      "text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“Whoever frees his share of a slave or part of his share, must pay from his wealth if he has any wealth if he has any wealth (in order to buy the rest of the slave's freedom). If he does not have wealth, then the slave should be asked to work for the price (of his freedom), without that causing him too much hardship.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2528,
+      "bookHadithIndex": 17,
+      "text": "It was narrated from Ibn`Umar that the Messenger of Allah (ﷺ) said:“Whoever frees his share of a slave, the price of the slave should be fairly evaluated, and he (the partner who initiated this process) should free him (in full, by giving the rest of his price to the other co-owners), if he has enough wealth to do so. Otherwise, he will have freed whatever he freed.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2529,
+      "bookHadithIndex": 18,
+      "text": "It was narrated from Ibn`Umar that the Messenger of Allah (ﷺ) said:“Whoever frees a slave who has some wealth, the slave's wealth belongs to him, unless the master stipulates that it will belong to him.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2529-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2529-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2529-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbca",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2530,
+      "bookHadithIndex": 19,
+      "text": "It was narrated from Ishaq bin Ibrahim, from his grandfather 'Umair, who was the freed slave of Ibn Mas'ud, that `Abdullah said to him:“O Umair, I have set you free in a good way. I heard the Messenger of Allah (ﷺ) say: 'Any man who frees a slave and does not say anything about his (the slave's) wealth, it belongs to him (the slave).' So tell me, how much wealth do you have?” Another chain reports a similar hadith",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbcb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2531,
+      "bookHadithIndex": 20,
+      "text": "It was narrated from Maimunah bint Sa`d, the freed slave woman of the Prophet (ﷺ) that :the Messenger of Allah (ﷺ) was asked about illegitimate children. He said: “Two sandals in which I wage Jihad are better than freeing an illegitimate child.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbcc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2532,
+      "bookHadithIndex": 21,
+      "text": "It was narrated that :`Aishah had a male slave and a female slave who were married. She said: “O Messenger of Allah (ﷺ), I want to free them both.” The Messenger of Allah (ﷺ) said: “If you free them, then start with the man before the woman.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

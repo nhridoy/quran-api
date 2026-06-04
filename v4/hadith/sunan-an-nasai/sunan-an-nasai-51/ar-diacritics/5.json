@@ -1,0 +1,503 @@
+{
+  "total": 220,
+  "totalPage": 5,
+  "page": 5,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c702dd1a4c9c86f0b20d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5739,
+      "bookHadithIndex": 201,
+      "text": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، عَنِ ابْنِ فُضَيْلٍ، عَنِ الأَعْمَشِ، عَنْ يَحْيَى بْنِ أَبِي عُمَرَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُنْبَذُ لَهُ نَبِيذُ الزَّبِيبِ مِنَ اللَّيْلِ فَيَجْعَلُهُ فِي سِقَاءٍ فَيَشْرَبُهُ يَوْمَهُ ذَلِكَ وَالْغَدَ وَبَعْدَ الْغَدِ فَإِذَا كَانَ مِنْ آخِرِ الثَّالِثَةِ سَقَاهُ أَوْ شَرِبَهُ فَإِنْ أَصْبَحَ مِنْهُ شَىْءٌ أَهْرَاقَهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5739-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5739-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5739-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b20e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5740,
+      "bookHadithIndex": 202,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ كَانَ يُنْبَذُ لَهُ فِي سِقَاءِ الزَّبِيبِ غُدْوَةً فَيَشْرَبُهُ مِنَ اللَّيْلِ وَيُنْبَذُ لَهُ عَشِيَّةً فَيَشْرَبُهُ غُدْوَةً وَكَانَ يَغْسِلُ الأَسْقِيَةَ وَلاَ يَجْعَلُ فِيهَا دُرْدِيًّا وَلاَ شَيْئًا ‏.‏ قَالَ نَافِعٌ فَكُنَّا نَشْرَبُهُ مِثْلَ الْعَسَلِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5740-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5740-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5740-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b20f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5741,
+      "bookHadithIndex": 203,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ بَسَّامٍ، قَالَ سَأَلْتُ أَبَا جَعْفَرٍ عَنِ النَّبِيذِ، قَالَ كَانَ عَلِيُّ بْنُ حُسَيْنٍ رضى الله عنه يُنْبَذُ لَهُ مِنَ اللَّيْلِ فَيَشْرَبُهُ غُدْوَةً وَيُنْبَذُ لَهُ غُدْوَةً فَيَشْرَبُهُ مِنَ اللَّيْلِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5741-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5741-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5741-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b210",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5742,
+      "bookHadithIndex": 204,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، قَالَ سَمِعْتُ سُفْيَانَ، سُئِلَ عَنِ النَّبِيذِ، قَالَ انْتَبِذْ عَشِيًّا وَاشْرَبْهُ غُدْوَةً ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5742-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5742-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5742-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b211",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5743,
+      "bookHadithIndex": 205,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ، وَلَيْسَ، بِالنَّهْدِيِّ أَنَّ أُمَّ الْفَضْلِ، أَرْسَلَتْ إِلَى أَنَسِ بْنِ مَالِكٍ تَسْأَلُهُ عَنْ نَبِيذِ الْجَرِّ فَحَدَّثَهَا عَنِ النَّضْرِ ابْنِهِ أَنَّهُ كَانَ يُنْبَذُ فِي جَرٍّ يُنْبَذُ غُدْوَةً وَيَشْرَبُهُ عَشِيَّةً ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5743-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5743-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5743-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b212",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5744,
+      "bookHadithIndex": 206,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ كَانَ يَكْرَهُ أَنْ يَجْعَلَ، نَطْلَ النَّبِيذِ فِي النَّبِيذِ لِيَشْتَدَّ بِالنَّطْلِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5744-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5744-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5744-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b213",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5745,
+      "bookHadithIndex": 207,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ قَالَ فِي النَّبِيذِ خَمْرُهُ دُرْدِيُّهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5745-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5745-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b214",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5746,
+      "bookHadithIndex": 208,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ إِنَّمَا سُمِّيَتِ الْخَمْرُ لأَنَّهَا تُرِكَتْ حَتَّى مَضَى صَفْوُهَا وَبَقِيَ كَدَرُهَا ‏.‏ وَكَانَ يَكْرَهُ كُلَّ شَىْءٍ يُنْبَذُ عَلَى عَكَرٍ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5746-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5746-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5746-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b215",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5747,
+      "bookHadithIndex": 209,
+      "text": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا الْقَوَارِيرِيُّ، قَالَ حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، قَالَ حَدَّثَنَا حَسَنُ بْنُ عَمْرٍو، عَنْ فُضَيْلِ بْنِ عَمْرٍو، عَنْ إِبْرَاهِيمَ، قَالَ كَانُوا يَرَوْنَ أَنَّ مَنْ، شَرِبَ شَرَابًا فَسَكِرَ مِنْهُ لَمْ يَصْلُحْ لَهُ أَنْ يَعُودَ فِيهِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5747-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5747-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5747-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b216",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5748,
+      "bookHadithIndex": 210,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ مُغِيرَةَ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، قَالَ لاَ بَأْسَ بِنَبِيذِ الْبُخْتُجِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5748-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5748-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5748-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b217",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5749,
+      "bookHadithIndex": 211,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ أَبِي عَوَانَةَ، عَنْ أَبِي مِسْكِينٍ، قَالَ سَأَلْتُ إِبْرَاهِيمَ قُلْتُ إِنَّا نَأْخُذُ دُرْدِيَّ الْخَمْرِ أَوِ الطِّلاَءَ فَنُنَظِّفُهُ ثُمَّ نَنْقَعُ فِيهِ الزَّبِيبَ ثَلاَثًا ثُمَّ نُصَفِّيهِ ثُمَّ نَدَعُهُ حَتَّى يَبْلُغَ فَنَشْرَبُهُ قَالَ يُكْرَهُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5749-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5749-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5749-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b218",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5750,
+      "bookHadithIndex": 212,
+      "text": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ شُبْرُمَةَ، قَالَ رَحِمَ اللَّهُ إِبْرَاهِيمَ شَدَّدَ النَّاسُ فِي النَّبِيذِ وَرَخَّصَ فِيهِ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5750-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5750-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5750-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b219",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5751,
+      "bookHadithIndex": 213,
+      "text": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، عَنْ أَبِي أُسَامَةَ، قَالَ سَمِعْتُ ابْنَ الْمُبَارَكِ، يَقُولُ مَا وَجَدْتُ الرُّخْصَةَ فِي الْمُسْكِرِ عَنْ أَحَدٍ صَحِيحًا إِلاَّ عَنْ إِبْرَاهِيمَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5751-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5751-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5751-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5752,
+      "bookHadithIndex": 214,
+      "text": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ سَمِعْتُ أَبَا أُسَامَةَ، يَقُولُ مَا رَأَيْتُ رَجُلاً أَطْلَبَ لِلْعِلْمِ مِنْ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ الشَّامَاتِ وَمِصْرَ وَالْيَمَنَ وَالْحِجَازَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5752-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5752-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5752-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5753,
+      "bookHadithIndex": 215,
+      "text": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَسَدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، رضى الله عنه قَالَ كَانَ لأُمِّ سُلَيْمٍ قَدَحٌ مِنْ عَيْدَانٍ فَقَالَتْ سَقَيْتُ فِيهِ رَسُولَ اللَّهِ صلى الله عليه وسلم كُلَّ الشَّرَابِ الْمَاءَ وَالْعَسَلَ وَاللَّبَنَ وَالنَّبِيذَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5753-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5753-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5753-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5754,
+      "bookHadithIndex": 216,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ ذَرِّ بْنِ عَبْدِ اللَّهِ، عَنْ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، عَنْ أَبِيهِ، قَالَ سَأَلْتُ أُبَىَّ بْنَ كَعْبٍ عَنِ النَّبِيذِ، فَقَالَ اشْرَبِ الْمَاءَ وَاشْرَبِ الْعَسَلَ وَاشْرَبِ السَّوِيقَ وَاشْرَبِ اللَّبَنَ الَّذِي نُجِعَتْ بِهِ ‏.‏ فَعَاوَدْتُهُ فَقَالَ الْخَمْرَ تُرِيدُ الْخَمْرَ تُرِيدُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5754-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5754-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5754-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5755,
+      "bookHadithIndex": 217,
+      "text": "أَخْبَرَنِي أَحْمَدُ بْنُ عَلِيِّ بْنِ سَعِيدِ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا الْقَوَارِيرِيُّ، قَالَ حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ أَبِيهِ، عَنْ مُحَمَّدٍ، عَنْ عَبِيدَةَ، عَنِ ابْنِ مَسْعُودٍ، قَالَ أَحْدَثَ النَّاسُ أَشْرِبَةً مَا أَدْرِي مَا هِيَ فَمَا لِي شَرَابٌ مُنْذُ عِشْرِينَ سَنَةً أَوْ قَالَ أَرْبَعِينَ سَنَةً إِلاَّ الْمَاءُ وَالسَّوِيقُ غَيْرَ أَنَّهُ لَمْ يَذْكُرِ النَّبِيذَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5755-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5755-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5755-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5756,
+      "bookHadithIndex": 218,
+      "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ عَبِيدَةَ، قَالَ أَحْدَثَ النَّاسُ أَشْرِبَةً مَا أَدْرِي مَا هِيَ وَمَا لِي شَرَابٌ مُنْذُ عِشْرِينَ سَنَةً إِلاَّ الْمَاءُ وَاللَّبَنُ وَالْعَسَلُ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5756-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5756-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5756-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b21f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5757,
+      "bookHadithIndex": 219,
+      "text": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ شُبْرُمَةَ، قَالَ قَالَ طَلْحَةُ لأَهْلِ الْكُوفَةِ فِي النَّبِيذِ فِتْنَةٌ يَرْبُو فِيهَا الصَّغِيرُ وَيَهْرَمُ فِيهَا الْكَبِيرُ قَالَ وَكَانَ إِذَا كَانَ فِيهِمْ عُرْسٌ كَانَ طَلْحَةُ وَزُبَيْرٌ يَسْقِيَانِ اللَّبَنَ وَالْعَسَلَ ‏.‏ فَقِيلَ لِطَلْحَةَ أَلاَ تَسْقِيهِمُ النَّبِيذَ قَالَ إِنِّي أَكْرَهُ أَنْ يَسْكَرَ مُسْلِمٌ فِي سَبَبِي ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5757-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5757-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5757-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b220",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5758,
+      "bookHadithIndex": 220,
+      "text": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، قَالَ كَانَ ابْنُ شُبْرُمَةَ لاَ يَشْرَبُ إِلاَّ الْمَاءَ وَاللَّبَنَ ‏.‏",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5758-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5758-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5758-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1253 @@
+{
+  "total": 339,
+  "totalPage": 7,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af51",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5040,
+      "bookHadithIndex": 1,
+      "text": "Rapporté par 'Aishah : Le Messager d’Allah ﷺ a dit : « Dix choses font partie de la fitrah : tailler la moustache, couper les ongles, laver les articulations, laisser pousser la barbe, utiliser le siwak, se rincer le nez, épiler les aisselles, raser les poils pubiens et se laver à l’eau après être allé aux toilettes. » Mus’ab bin Shaibah a dit : « J’ai oublié la dixième, sauf si c’était se rincer la bouche. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5040-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5040-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5040-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af52",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5041,
+      "bookHadithIndex": 2,
+      "text": "Rapporté par Al-Mu'tamir, de la part de son père : J’ai entendu Talq mentionner dix choses liées à la fitrah : utiliser le siwak, tailler la moustache, couper les ongles, laver les articulations, raser les poils pubiens, se rincer le nez, et je ne suis pas sûr pour le rinçage de la bouche",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5041-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5041-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5041-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af53",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5042,
+      "bookHadithIndex": 3,
+      "text": "Rapporté par Talq bin Habib : Dix choses relèvent de la Sunna : utiliser le siwak, tailler la moustache, se rincer la bouche, se rincer le nez, laisser pousser la barbe, couper les ongles, épiler les aisselles, la circoncision, raser les poils pubiens et se laver les parties intimes",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5042-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5042-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5042-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af54",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5043,
+      "bookHadithIndex": 4,
+      "text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Cinq choses font partie de la fitrah : la circoncision, raser les poils pubiens, épiler les aisselles, couper les ongles et tailler la moustache. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5043-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5043-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5043-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af55",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5044,
+      "bookHadithIndex": 5,
+      "text": "Rapporté par Abu Hurairah : Cinq choses font partie de la fitrah : couper les ongles, tailler la moustache, épiler les aisselles, raser les poils pubiens et la circoncision. (Sahih Mawquf)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5044-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5044-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5044-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af56",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5045,
+      "bookHadithIndex": 6,
+      "text": "Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Taillez la moustache et laissez pousser la barbe. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5045-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5045-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5045-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af57",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5046,
+      "bookHadithIndex": 7,
+      "text": "Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « Laissez pousser la barbe et taillez la moustache. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5046-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5046-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5046-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af58",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5047,
+      "bookHadithIndex": 8,
+      "text": "Rapporté par Zaid bin Al-Arqam : J’ai entendu le Messager d’Allah ﷺ dire : « Celui qui ne taille pas sa moustache ne fait pas partie de nous. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5047-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5047-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5047-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af59",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5048,
+      "bookHadithIndex": 9,
+      "text": "Rapporté par Ibn 'Umar : Le Prophète ﷺ a vu un garçon dont une partie de la tête avait été rasée et une autre non. Il a interdit cela et a dit : « Rasez tout ou laissez tout. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5048-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5048-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5048-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5049,
+      "bookHadithIndex": 10,
+      "text": "Rapporté par 'Ali : Le Messager d’Allah ﷺ a interdit aux femmes de se raser la tête",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5049-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5049-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5049-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5050,
+      "bookHadithIndex": 11,
+      "text": "Rapporté par 'Abdullah bin 'Umar : Le Prophète ﷺ a dit : « Allah, le Puissant et Majestueux, m’a interdit Al-Qaza’ (raser une partie de la tête et laisser une autre). »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5050-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5050-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5050-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5051,
+      "bookHadithIndex": 12,
+      "text": "Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a interdit Al-Qaza’ (raser une partie de la tête et laisser une autre)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5051-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5051-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5051-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5052,
+      "bookHadithIndex": 13,
+      "text": "Rapporté par Wa’il bin Hujr : Je suis venu voir le Prophète ﷺ et j’avais les cheveux longs. Il a dit : « Ce n’est pas bien », et j’ai cru qu’il parlait de moi, alors j’ai coupé mes cheveux puis je suis revenu vers lui. Il m’a dit : « Je ne parlais pas de toi, mais ceci est mieux. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5052-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5052-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5052-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5053,
+      "bookHadithIndex": 14,
+      "text": "Rapporté par Anas : Les cheveux du Prophète ﷺ étaient ondulés, ni bouclés ni raides, et ils descendaient entre ses oreilles et ses épaules",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5053-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5053-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5053-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5054,
+      "bookHadithIndex": 15,
+      "text": "Rapporté par Humaid bin 'Abdur-Rahman Al-Himyari : J’ai rencontré un homme qui a accompagné le Prophète ﷺ aussi longtemps qu’Abu Hurairah, pendant quatre ans, et il a dit : « Le Messager d’Allah ﷺ nous a interdit de nous coiffer les cheveux tous les jours. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5054-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5054-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5054-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af60",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5055,
+      "bookHadithIndex": 16,
+      "text": "Rapporté par 'Abdullah bin Mughaffal : Le Messager d’Allah ﷺ a interdit de se coiffer les cheveux, sauf un jour sur deux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5055-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5055-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5055-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af61",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5056,
+      "bookHadithIndex": 17,
+      "text": "Rapporté par Al-Hasan : Le Prophète ﷺ a interdit de se coiffer les cheveux sauf un jour sur deux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5056-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5056-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5056-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af62",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5057,
+      "bookHadithIndex": 18,
+      "text": "Rapporté par Al-Hasan et Muhammad : \"Il faut se coiffer les cheveux un jour sur deux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5057-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5057-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5057-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af63",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5058,
+      "bookHadithIndex": 19,
+      "text": "Rapporté par 'Abdullah bin Shaqiq : \"Un des Compagnons du Prophète ﷺ était gouverneur en Égypte. Un de ses amis est venu le voir et l’a trouvé avec les cheveux en désordre. Il lui a dit : 'Pourquoi as-tu les cheveux ébouriffés alors que tu es gouverneur ?' Il a répondu : 'Le Prophète d’Allah ﷺ nous a interdit l’Al-Irfah.' Nous avons demandé : 'Qu’est-ce que l’Al-Irfah ?' Il a dit : 'C’est de se coiffer les cheveux tous les jours",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5058-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5058-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5058-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af64",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5059,
+      "bookHadithIndex": 20,
+      "text": "Rapporté par 'Aishah رضي الله عنها : \"Le Messager d’Allah ﷺ aimait commencer par la droite. Il acceptait avec sa main droite, donnait avec sa main droite, et préférait commencer par la droite dans toutes ses actions",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5059-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5059-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5059-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af65",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5060,
+      "bookHadithIndex": 21,
+      "text": "Rapporté par Al-Bara' : \"Je n’ai jamais vu quelqu’un de plus beau dans un habit rouge que le Messager d’Allah ﷺ, avec ses longs cheveux qui descendaient jusqu’à ses épaules",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5060-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5060-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5060-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af66",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5061,
+      "bookHadithIndex": 22,
+      "text": "Rapporté par Anas : \"Les cheveux du Messager d’Allah ﷺ descendaient jusqu’au milieu de ses oreilles",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5061-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5061-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5061-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af67",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5062,
+      "bookHadithIndex": 23,
+      "text": "Rapporté par Al-Bara' : \"Je n’ai jamais vu un homme plus beau dans un habit rouge que le Messager d’Allah ﷺ.\" Il a ajouté : \"Et j’ai vu ses longs cheveux qui arrivaient presque à ses épaules",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5062-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5062-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5062-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af68",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5063,
+      "bookHadithIndex": 24,
+      "text": "Rapporté par Abdullah bin Mas'ud : \"Selon quelle récitation voulez-vous que je récite ? J’ai récité plus de soixante-dix sourates au Messager d’Allah ﷺ alors que Zaid avait deux tresses et jouait avec les autres garçons",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5063-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5063-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5063-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af69",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5064,
+      "bookHadithIndex": 25,
+      "text": "Rapporté par Abu Wa'il : \"Ibn Mas'ud nous a adressé la parole et a dit : 'Comment voulez-vous que je récite ? Selon la récitation de Zaid bin Thabit, alors que j’ai appris plus de soixante-dix sourates de la bouche du Messager d’Allah ﷺ, et que Zaid était avec les autres garçons avec deux tresses ?",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5064-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5064-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5064-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5065,
+      "bookHadithIndex": 26,
+      "text": "Rapporté par Ziyad bin Al-Husain, de la part de son père : \"Quand il est venu voir le Prophète ﷺ à Médine, le Messager d’Allah ﷺ lui a dit : 'Approche-toi de moi.' Il s’est donc approché, et le Prophète a posé sa main sur sa tresse, a caressé sa tête et a fait une invocation pour lui",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5065-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5065-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5065-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5066,
+      "bookHadithIndex": 27,
+      "text": "Rapporté par Wa'il bin Hujr : \"Je suis venu voir le Prophète ﷺ et j’avais les cheveux longs. Il a dit : 'Ce n’est pas bien.' J’ai cru qu’il parlait de moi, alors j’ai coupé mes cheveux. Il a dit : 'Je ne parlais pas de toi, mais c’est mieux ainsi",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5066-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5066-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5066-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5067,
+      "bookHadithIndex": 28,
+      "text": "Rapporté par Ruwaifi' bin Thabit : \"Le Messager d’Allah ﷺ a dit : 'Ô Ruwaifi', il se peut que tu vives longtemps après moi, alors dis aux gens que celui qui attache sa barbe, la tord, porte un talisman, ou se nettoie (après être allé aux toilettes) avec des excréments d’animaux ou des os, Muhammad n’a rien à voir avec lui",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5067-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5067-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5067-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5068,
+      "bookHadithIndex": 29,
+      "text": "Rapporté par 'Amr bin Shu'aib, de la part de son père, de la part de son grand-père : Le Messager d’Allah ﷺ a interdit d’arracher les cheveux blancs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5068-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5068-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5068-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5069,
+      "bookHadithIndex": 30,
+      "text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : \"Les Juifs et les Chrétiens ne teignent pas leurs cheveux, alors soyez différents d’eux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5069-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5069-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5069-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5070,
+      "bookHadithIndex": 31,
+      "text": "Rapporté par Abu Hurairah : Un récit similaire a été rapporté par Abu Hurairah, venant du Messager d’Allah ﷺ",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5070-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5070-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af70",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5071,
+      "bookHadithIndex": 32,
+      "text": "Rapporté par Abu Hurairah : \"Le Messager d’Allah ﷺ a dit : 'Les Juifs et les Chrétiens ne teignent pas leurs cheveux, alors soyez différents d’eux et teignez vos cheveux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5071-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5071-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5071-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af71",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5072,
+      "bookHadithIndex": 33,
+      "text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : \"Les Juifs et les Chrétiens ne teignent pas leurs cheveux, alors soyez différents d’eux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5072-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5072-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5072-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af72",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5073,
+      "bookHadithIndex": 34,
+      "text": "Rapporté par Ibn 'Umar : \"Le Messager d’Allah ﷺ a dit : 'Changez les cheveux blancs, mais ne ressemblez pas aux Juifs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5073-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5073-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5073-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af73",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5074,
+      "bookHadithIndex": 35,
+      "text": "Rapporté par Az-Zubair : \"Le Messager d’Allah ﷺ a dit : 'Changez les cheveux blancs mais ne ressemblez pas aux Juifs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5074-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5074-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5074-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af74",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5075,
+      "bookHadithIndex": 36,
+      "text": "Rapporté par Ibn 'Abbas, qui l’attribue au Prophète ﷺ : \"À la fin des temps, certaines personnes teindront leurs cheveux en noir comme la poitrine des pigeons, mais elles ne sentiront même pas le parfum du Paradis",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5075-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5075-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5075-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af75",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5076,
+      "bookHadithIndex": 37,
+      "text": "Rapporté par Jabir : \"Abu Quhafah a été amené le jour de la conquête de La Mecque, et ses cheveux et sa barbe étaient blancs comme la plante Thaghamah. Le Messager d’Allah ﷺ a dit : 'Changez cela avec autre chose, mais évitez le noir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5076-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5076-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5076-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af76",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5077,
+      "bookHadithIndex": 38,
+      "text": "Rapporté par Abu Dharr : Le Prophète ﷺ a dit : \"Les meilleures choses pour changer les cheveux blancs sont le henné et le katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5077-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5077-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5077-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af77",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5078,
+      "bookHadithIndex": 39,
+      "text": "Rapporté par Abu Dharr : \"Le Messager d’Allah ﷺ a dit : 'Les meilleures choses pour changer les cheveux blancs sont le henné et le katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5078-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5078-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5078-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af78",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5079,
+      "bookHadithIndex": 40,
+      "text": "Rapporté par Abu Dharr : \"J’ai entendu le Prophète ﷺ dire : 'Parmi les meilleures choses pour changer les cheveux blancs, il y a le henné et le katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5079-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5079-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5079-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af79",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5080,
+      "bookHadithIndex": 41,
+      "text": "Rapporté par Abu Dharr : \"Le Messager d’Allah ﷺ a dit : 'Les meilleures choses pour changer les cheveux blancs sont le henné et le katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5080-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5080-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5080-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5081,
+      "bookHadithIndex": 42,
+      "text": "Rapporté par 'Abdullah bin Buraidah : Le Messager d'Allah ﷺ a dit : « Les meilleures choses pour changer les cheveux blancs sont le henné et le katam. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5081-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5081-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5081-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5082,
+      "bookHadithIndex": 43,
+      "text": "Rapporté par 'Abdullah bin Buraidah : Il a entendu que le Messager d'Allah ﷺ a dit : « Les meilleures choses pour changer les cheveux blancs sont le henné et le katam. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5082-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5082-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5082-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5083,
+      "bookHadithIndex": 44,
+      "text": "Rapporté par Abu Rimthah : Mon père et moi sommes allés voir le Prophète ﷺ et il avait teint sa barbe avec du henné",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5083-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5083-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5083-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5084,
+      "bookHadithIndex": 45,
+      "text": "Rapporté par Abu Rimthah : Je suis allé voir le Prophète ﷺ et j'ai vu qu'il avait teint sa barbe avec une teinture jaune",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5084-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5084-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5084-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5085,
+      "bookHadithIndex": 46,
+      "text": "Rapporté par Zaid bin Aslam : J'ai vu Ibn 'Umar teindre sa barbe en jaune avec du khaluq et je lui ai dit : « Ô Abu 'Abdur-Rahman, tu teins ta barbe en jaune avec du khaluq ? » Il a répondu : « J'ai vu le Messager d'Allah ﷺ teindre sa barbe en jaune avec cela, et il n'y avait pas de teinture qu'il aimait plus que celle-ci. Il teignait même tous ses vêtements avec, même son turban. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5085-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5085-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5085-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5086,
+      "bookHadithIndex": 47,
+      "text": "Rapporté par Qatadah : Il a demandé à Anas : « Le Messager d'Allah ﷺ a-t-il teint ses cheveux ? » Il a répondu : « Ses cheveux blancs n'étaient pas nombreux, il n'en avait qu'un peu sur les tempes. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5086-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5086-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5086-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af80",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5087,
+      "bookHadithIndex": 48,
+      "text": "Rapporté par Anas : Le Messager d'Allah ﷺ n'a pas teint ses cheveux ; il n'avait que quelques cheveux blancs sous la lèvre inférieure, sur les tempes et un peu sur la tête",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5087-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5087-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5087-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af81",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5088,
+      "bookHadithIndex": 49,
+      "text": "Rapporté par 'Abdullah bin Mas'ud : Le Prophète d'Allah ﷺ n'aimait pas dix choses : la teinture jaune, c'est-à-dire le khaluq, changer la couleur des cheveux blancs, traîner son izar, porter des bagues en or, jouer aux dés, qu'une femme montre ses parures à ceux à qui ce n'est pas permis, réciter la ruqya sauf avec les versets de protection, porter des amulettes, éjaculer ailleurs qu'à l'endroit approprié, et priver un bébé de lait en ayant des rapports avec sa mère — mais il n'a pas dit que c'était interdit",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5088-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5088-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5088-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af82",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5089,
+      "bookHadithIndex": 50,
+      "text": "Rapporté par 'Aishah رضي الله عنها : Une femme a tendu la main pour donner une lettre au Prophète ﷺ, et il a retiré sa main. Elle a dit : « Ô Messager d'Allah, j'ai tendu la main pour te donner une lettre et tu ne l'as pas prise. » Il a répondu : « Je ne savais pas si c'était la main d'une femme ou d'un homme. » Elle a dit : « C'est la main d'une femme. » Il a dit : « Si tu étais une femme, tu aurais changé la couleur de tes ongles avec du henné. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5089-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5089-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5089-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

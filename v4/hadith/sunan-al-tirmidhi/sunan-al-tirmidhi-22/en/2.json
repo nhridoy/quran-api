@@ -1,0 +1,38 @@
+{
+  "total": 51,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b8ae",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 22,
+      "hadithIndex": 1669,
+      "bookHadithIndex": 52,
+      "text": "Narrated Abu Umamah: That the Prophet (ﷺ) said: \"There is nothing more beloved to Allah than two drops and two traces: A teardrop shed out of fear of Allah, and a drop of blood shed in Allah's cause. As for the two traces: A trace resulting in Allah's cause, and and a trace resulting from one of the duties that Allah made obligatory.\" [Abu 'Eisa said:] This Hadith is Hasan Gharib",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

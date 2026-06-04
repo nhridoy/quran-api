@@ -1,0 +1,1463 @@
+{
+  "total": 171,
+  "totalPage": 4,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca41",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2137,
+      "bookHadithIndex": 1,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، واسحاق بن ابراهيم بن حبيب، قالوا حدثنا ابو معاوية، حدثنا الاعمش، عن ابراهيم، عن الاسود، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" ان اطيب ما اكل الرجل من كسبه وان ولده من كسبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2137-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2137-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2137-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca42",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2138,
+      "bookHadithIndex": 2,
+      "text": "حدثنا هشام بن عمار، حدثنا اسماعيل بن عياش، عن بحير بن سعد، عن خالد بن معدان، عن المقدام بن معديكرب الزبيدي، عن رسول الله صلى الله عليه وسلم قال \" ما كسب الرجل كسبا اطيب من عمل يده وما انفق الرجل على نفسه واهله وولده وخادمه فهو صدقة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2138-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2138-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2138-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2138-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca43",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2139,
+      "bookHadithIndex": 3,
+      "text": "حدثنا احمد بن سنان، حدثنا كثير بن هشام، حدثنا كلثوم بن جوشن القشيري، عن ايوب، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" التاجر الامين الصدوق المسلم مع الشهداء يوم القيامة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2139-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2139-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2139-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca44",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2140,
+      "bookHadithIndex": 4,
+      "text": "حدثنا يعقوب بن حميد بن كاسب، حدثنا عبد العزيز الدراوردي، عن ثور بن زيد الديلي، عن ابي الغيث، مولى ابن مطيع عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" الساعي على الارملة والمسكين كالمجاهد في سبيل الله وكالذي يقوم الليل ويصوم النهار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2140-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2140-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2140-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca45",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2141,
+      "bookHadithIndex": 5,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا خالد بن مخلد، حدثنا عبد الله بن سليمان، عن معاذ بن عبد الله بن خبيب، عن ابيه، عن عمه، قال كنا في مجلس فجاء النبي صلى الله عليه وسلم وعلى راسه اثر ماء فقال له بعضنا نراك اليوم طيب النفس . فقال \" اجل والحمد لله \" . ثم افاض القوم في ذكر الغنى فقال \" لا باس بالغنى لمن اتقى والصحة لمن اتقى خير من الغنى وطيب النفس من النعم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2141-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2141-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2141-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca46",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2142,
+      "bookHadithIndex": 6,
+      "text": "حدثنا هشام بن عمار، حدثنا اسماعيل بن عياش، عن عمارة بن غزية، عن ربيعة بن ابي عبد الرحمن، عن عبد الملك بن سعيد الانصاري، عن ابي حميد الساعدي، قال قال رسول الله صلى الله عليه وسلم \" اجملوا في طلب الدنيا فان كلا ميسر لما خلق له",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2142-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2142-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2142-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca47",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2143,
+      "bookHadithIndex": 7,
+      "text": "حدثنا اسماعيل بن بهرام، حدثنا الحسن بن محمد بن عثمان، زوج بنت الشعبي حدثنا سفيان، عن الاعمش، عن يزيد الرقاشي، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" اعظم الناس هما المومن الذي يهم بامر دنياه وامر اخرته \" . قال ابو عبد الله هذا حديث غريب تفرد به اسماعيل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2143-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2143-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2143-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2143-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca48",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2144,
+      "bookHadithIndex": 8,
+      "text": "حدثنا محمد بن المصفى الحمصي، حدثنا الوليد بن مسلم، عن ابن جريج، عن ابي الزبير، عن جابر بن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" ايها الناس اتقوا الله واجملوا في الطلب فان نفسا لن تموت حتى تستوفي رزقها وان ابطا عنها فاتقوا الله واجملوا في الطلب خذوا ما حل ودعوا ما حرم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2144-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2144-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2144-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2144-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca49",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2145,
+      "bookHadithIndex": 9,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا ابو معاوية، عن الاعمش، عن شقيق، عن قيس بن ابي غرزة، قال كنا نسمى في عهد رسول الله صلى الله عليه وسلم السماسرة فمر بنا رسول الله صلى الله عليه وسلم فسمانا باسم هو احسن منه فقال \" يا معشر التجار ان البيع يحضره الحلف واللغو فشوبوه بالصدقة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2145-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2145-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2145-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2145-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca4a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2146,
+      "bookHadithIndex": 10,
+      "text": "حدثنا يعقوب بن حميد بن كاسب، حدثنا يحيى بن سليم الطايفي، عن عبد الله بن عثمان بن خثيم، عن اسماعيل بن عبيد بن رفاعة، عن ابيه، عن جده، رفاعة قال خرجنا مع رسول الله صلى الله عليه وسلم فاذا الناس يتبايعون بكرة فناداهم \" يا معشر التجار \" . فلما رفعوا ابصارهم ومدوا اعناقهم قال \" ان التجار يبعثون يوم القيامة فجارا الا من اتقى الله وبر وصدق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2146-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2146-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2146-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2146-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca4b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2147,
+      "bookHadithIndex": 11,
+      "text": "حدثنا محمد بن بشار، حدثنا محمد بن عبد الله، حدثنا فروة ابو يونس، عن هلال بن جبير، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" من اصاب من شىء فليلزمه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2147-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2147-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2147-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2147-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca4c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2148,
+      "bookHadithIndex": 12,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابو عاصم، اخبرني ابي، عن الزبير بن عبيد، عن نافع، قال كنت اجهز الى الشام والى مصر فجهزت الى العراق فاتيت عايشة ام المومنين فقلت لها يا ام المومنين كنت اجهز الى الشام فجهزت الى العراق . فقالت لا تفعل مالك ولمتجرك فاني سمعت رسول الله صلى الله عليه وسلم يقول \" اذا سبب الله لاحدكم رزقا من وجه فلا يدعه حتى يتغير له او يتنكر له",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2148-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2148-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2148-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2148-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca4d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2149,
+      "bookHadithIndex": 13,
+      "text": "حدثنا سويد بن سعيد، حدثنا عمرو بن يحيى بن سعيد القرشي، عن جده، سعيد بن ابي احيحة عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ما بعث الله نبيا الا راعي غنم \" . قال له اصحابه وانت يا رسول الله . قال \" وانا كنت ارعاها لاهل مكة بالقراريط \" . قال سويد يعني كل شاة بقيراط",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2149-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2149-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2149-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2149-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca4e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2150,
+      "bookHadithIndex": 14,
+      "text": "حدثنا محمد بن يحيى، حدثنا محمد بن عبد الله الخزاعي، والحجاج، والهيثم بن جميل، قالوا حدثنا حماد، عن ثابت، عن ابي رافع، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" كان زكريا نجارا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2150-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2150-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2150-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2150-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca4f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2151,
+      "bookHadithIndex": 15,
+      "text": "حدثنا محمد بن رمح، حدثنا الليث بن سعد، عن نافع، عن القاسم بن محمد، عن عايشة، ان رسول الله صلى الله عليه وسلم قال \" ان اصحاب الصور يعذبون يوم القيامة يقال لهم احيوا ما خلقتم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2151-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2151-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2151-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2151-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca50",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2152,
+      "bookHadithIndex": 16,
+      "text": "حدثنا عمرو بن رافع، حدثنا عمر بن هارون، عن همام، عن فرقد السبخي، عن يزيد بن عبد الله بن الشخير، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اكذب الناس الصباغون والصواغون",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2152-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2152-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2152-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2152-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca51",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2153,
+      "bookHadithIndex": 17,
+      "text": "حدثنا نصر بن علي الجهضمي، حدثنا ابو احمد، حدثنا اسراييل، عن علي بن سالم بن ثوبان، عن علي بن زيد بن جدعان، عن سعيد بن المسيب، عن عمر بن الخطاب، قال قال رسول الله صلى الله عليه وسلم \" الجالب مرزوق والمحتكر ملعون",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2153-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2153-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2153-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2153-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca52",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2154,
+      "bookHadithIndex": 18,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، عن محمد بن اسحاق، عن محمد بن ابراهيم، عن سعيد بن المسيب، عن معمر بن عبد الله بن نضلة، قال قال رسول الله صلى الله عليه وسلم \" لا يحتكر الا خاطي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2154-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2154-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2154-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2154-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca53",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2155,
+      "bookHadithIndex": 19,
+      "text": "حدثنا يحيى بن حكيم، حدثنا ابو بكر الحنفي، حدثنا الهيثم بن رافع، حدثني ابو يحيى المكي، عن فروخ، مولى عثمان بن عفان عن عمر بن الخطاب، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من احتكر على المسلمين طعامهم ضربه الله بالجذام والافلاس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2155-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2155-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2155-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2155-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca54",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2156,
+      "bookHadithIndex": 20,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا ابو معاوية، حدثنا الاعمش، عن جعفر بن اياس، عن ابي نضرة، عن ابي سعيد الخدري، قال بعثنا رسول الله صلى الله عليه وسلم ثلاثين راكبا في سرية فنزلنا بقوم فسالناهم ان يقرونا فابوا فلدغ سيدهم فاتونا فقالوا افيكم احد يرقي من العقرب فقلت نعم انا ولكن لا ارقيه حتى تعطونا غنما . قالوا فانا نعطيكم ثلاثين شاة . فقبلناها فقرات عليه ( الحمد ) سبع مرات فبري وقبضنا الغنم فعرض في انفسنا منها شىء فقلنا لا تعجلوا حتى ناتي النبي صلى الله عليه وسلم فلما قدمنا ذكرت له الذي صنعت فقال \" او ما علمت انها رقية اقتسموها واضربوا لي معكم سهما \" . حدثنا ابو كريب، حدثنا هشيم، حدثنا ابو بشر، عن ابي المتوكل، عن ابي سعيد، عن النبي صلى الله عليه وسلم بنحوه ح وحدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن ابي بشر، عن ابي المتوكل، عن ابي سعيد، عن النبي صلى الله عليه وسلم بنحوه . قال ابو عبد الله والصواب هو ابو المتوكل ان شاء الله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2156-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2156-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2156-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2156-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca55",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2157,
+      "bookHadithIndex": 21,
+      "text": "حدثنا علي بن محمد، ومحمد بن اسماعيل، قالا حدثنا وكيع، حدثنا مغيرة بن زياد الموصلي، عن عبادة بن نسى، عن الاسود بن ثعلبة، عن عبادة بن الصامت، قال علمت ناسا من اهل الصفة القران والكتابة فاهدى الى رجل منهم قوسا فقلت ليست بمال وارمي عنها في سبيل الله فسالت رسول الله صلى الله عليه وسلم عنها فقال \" ان سرك ان تطوق بها طوقا من نار فاقبلها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2157-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2157-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2157-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca56",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2158,
+      "bookHadithIndex": 22,
+      "text": "حدثنا سهل بن ابي سهل، حدثنا يحيى بن سعيد، عن ثور بن يزيد، حدثنا خالد بن معدان، حدثني عبد الرحمن بن سلم، عن عطية الكلاعي، عن ابى بن كعب، قال علمت رجلا القران فاهدى الى قوسا فذكرت ذلك لرسول الله صلى الله عليه وسلم فقال \" ان اخذتها اخذت قوسا من نار \" . فرددتها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2158-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2158-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2158-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2158-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca57",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2159,
+      "bookHadithIndex": 23,
+      "text": "حدثنا هشام بن عمار، ومحمد بن الصباح، قالا حدثنا سفيان بن عيينة، عن الزهري، عن ابي بكر بن عبد الرحمن، عن ابي مسعود، ان النبي صلى الله عليه وسلم نهى عن ثمن الكلب ومهر البغي وحلوان الكاهن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2159-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2159-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2159-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2159-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca58",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2160,
+      "bookHadithIndex": 24,
+      "text": "حدثنا علي بن محمد، ومحمد بن طريف، قالا حدثنا محمد بن فضيل، حدثنا الاعمش، عن ابي حازم، عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم عن ثمن الكلب وعسب الفحل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2160-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2160-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2160-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2160-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca59",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2161,
+      "bookHadithIndex": 25,
+      "text": "حدثنا هشام بن عمار، حدثنا الوليد، انبانا ابن لهيعة، عن ابي الزبير، عن جابر، قال نهى رسول الله صلى الله عليه وسلم عن ثمن السنور",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2161-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2161-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2161-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca5a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2162,
+      "bookHadithIndex": 26,
+      "text": "حدثنا محمد بن ابي عمر العدني، حدثنا سفيان بن عيينة، عن ابن طاوس، عن ابيه، عن ابن عباس، ان النبي صلى الله عليه وسلم احتجم واعطاه اجره . قال ابن ماجه تفرد به ابن ابي عمر وحده",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2162-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2162-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2162-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2162-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca5b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2163,
+      "bookHadithIndex": 27,
+      "text": "حدثنا عمرو بن علي ابو حفص الصيرفي، حدثنا ابو داود، ح وحدثنا محمد بن عبادة الواسطي، حدثنا يزيد بن هارون، قالا حدثنا ورقاء، عن عبد الاعلى، عن ابي جميلة عن علي، قال احتجم رسول الله صلى الله عليه وسلم وامرني فاعطيت الحجام اجره",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2163-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2163-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2163-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2163-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca5c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2164,
+      "bookHadithIndex": 28,
+      "text": "حدثنا عبد الحميد بن بيان الواسطي، حدثنا خالد بن عبد الله، عن يونس، عن ابن سيرين، عن انس بن مالك، ان النبي صلى الله عليه وسلم احتجم واعطى الحجام اجره",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2164-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2164-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2164-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2164-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca5d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2165,
+      "bookHadithIndex": 29,
+      "text": "حدثنا هشام بن عمار، حدثنا يحيى بن حمزة، حدثني الاوزاعي، عن الزهري، عن ابي بكر بن عبد الرحمن بن الحارث بن هشام، عن ابي مسعود، عقبة بن عمرو قال نهى رسول الله صلى الله عليه وسلم عن كسب الحجام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2165-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2165-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2165-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2165-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca5e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2166,
+      "bookHadithIndex": 30,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شبابة بن سوار، عن ابن ابي ذيب، عن الزهري، عن حرام بن محيصة، عن ابيه، انه سال النبي صلى الله عليه وسلم عن كسب الحجام فنهاه عنه فذكر له الحاجة فقال \" اعلفه نواضحك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2166-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2166-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2166-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2166-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca5f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2167,
+      "bookHadithIndex": 31,
+      "text": "حدثنا عيسى بن حماد المصري، انبانا الليث بن سعد، عن يزيد بن ابي حبيب، انه قال قال عطاء بن ابي رباح سمعت جابر بن عبد الله، يقول قال رسول الله صلى الله عليه وسلم عام الفتح وهو بمكة \" ان الله ورسوله حرم بيع الخمر والميتة والخنزير والاصنام \" . فقيل له عند ذلك يا رسول الله ارايت شحوم الميتة فانه يدهن بها السفن ويدهن بها الجلود ويستصبح بها الناس قال \" لا هن حرام \" . ثم قال رسول الله صلى الله عليه وسلم \" قاتل الله اليهود ان الله حرم عليهم الشحوم فاجملوه ثم باعوه فاكلوا ثمنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2167-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2167-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2167-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2167-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca60",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2168,
+      "bookHadithIndex": 32,
+      "text": "حدثنا احمد بن محمد بن يحيى بن سعيد القطان، حدثنا هاشم بن القاسم، حدثنا ابو جعفر الرازي، عن عاصم، عن ابي المهلب، عن عبيد الله الافريقي، عن ابي امامة، قال نهى رسول الله صلى الله عليه وسلم عن بيع المغنيات وعن شرايهن وعن كسبهن وعن اكل اثمانهن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2168-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2168-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2168-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2168-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca61",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2169,
+      "bookHadithIndex": 33,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن نمير، وابو اسامة عن عبيد الله بن عمر، عن خبيب بن عبد الرحمن، عن حفص بن عاصم، عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم عن بيعتين عن الملامسة والمنابذة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2169-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2169-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2169-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2169-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca62",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2170,
+      "bookHadithIndex": 34,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وسهل بن ابي سهل، قالا حدثنا سفيان بن عيينة، عن الزهري، عن عطاء بن يزيد الليثي، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم نهى عن الملامسة والمنابذة . زاد سهل قال سفيان الملامسة ان يلمس الرجل الشىء بيده ولا يراه والمنابذة ان يقول الق الى ما معك والقي اليك ما معي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2170-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2170-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2170-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2170-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca63",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2171,
+      "bookHadithIndex": 35,
+      "text": "حدثنا سويد بن سعيد، حدثنا مالك بن انس، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" لا يبيع بعضكم على بيع بعض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2171-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2171-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2171-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2171-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca64",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2172,
+      "bookHadithIndex": 36,
+      "text": "حدثنا هشام بن عمار، حدثنا سفيان، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا يبيع الرجل على بيع اخيه ولا يسوم على سوم اخيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2172-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2172-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2172-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2172-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca65",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2173,
+      "bookHadithIndex": 37,
+      "text": "قرات على مصعب بن عبد الله الزبيري عن مالك، ح وحدثنا ابو حذافة، حدثنا مالك بن انس، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم نهى عن النجش",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2173-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2173-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2173-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca66",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2174,
+      "bookHadithIndex": 38,
+      "text": "حدثنا هشام بن عمار، وسهل بن ابي سهل، قالا حدثنا سفيان، عن الزهري، عن سعيد، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا تناجشوا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2174-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2174-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2174-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2174-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca67",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2175,
+      "bookHadithIndex": 39,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" لا يبيع حاضر لباد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2175-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2175-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2175-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2175-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca68",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2176,
+      "bookHadithIndex": 40,
+      "text": "حدثنا هشام بن عمار، حدثنا سفيان بن عيينة، عن ابي الزبير، عن جابر بن عبد الله، ان النبي صلى الله عليه وسلم قال \" لا يبيع حاضر لباد دعوا الناس يرزق الله بعضهم من بعض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2176-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2176-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2176-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2176-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca69",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2177,
+      "bookHadithIndex": 41,
+      "text": "حدثنا العباس بن عبد العظيم العنبري، حدثنا عبد الرزاق، انبانا معمر، عن ابن طاوس، عن ابيه، عن ابن عباس، قال نهى رسول الله صلى الله عليه وسلم ان يبيع حاضر لباد . قلت لابن عباس ما قوله حاضر لباد قال لا يكون له سمسارا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2177-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2177-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2177-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2177-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca6a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2178,
+      "bookHadithIndex": 42,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا ابو اسامة، عن هشام بن حسان، عن محمد بن سيرين، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا تلقوا الاجلاب فمن تلقى منه شييا فاشترى فصاحبه بالخيار اذا اتى السوق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2178-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2178-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2178-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2178-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca6b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2179,
+      "bookHadithIndex": 43,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا عبدة بن سليمان، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، قال نهى رسول الله صلى الله عليه وسلم عن تلقي الجلب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2179-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2179-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2179-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2179-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca6c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2180,
+      "bookHadithIndex": 44,
+      "text": "حدثنا يحيى بن حكيم، حدثنا يحيى بن سعيد، وحماد بن مسعدة، عن سليمان التيمي، ح وحدثنا اسحاق بن ابراهيم بن حبيب بن الشهيد، حدثنا معتمر بن سليمان، قال سمعت ابي قال، حدثنا ابو عثمان النهدي، عن عبد الله بن مسعود، قال نهى رسول الله صلى الله عليه وسلم عن تلقي البيوع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2180-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2180-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2180-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2180-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca6d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2181,
+      "bookHadithIndex": 45,
+      "text": "حدثنا محمد بن رمح المصري، انبانا الليث بن سعد، عن نافع، عن عبد الله بن عمر، عن رسول الله صلى الله عليه وسلم قال \" اذا تبايع الرجلان فكل واحد منهما بالخيار ما لم يتفرقا وكانا جميعا او يخير احدهما الاخر فان خير احدهما الاخر فتبايعا على ذلك فقد وجب البيع . وان تفرقا بعد ان تبايعا ولم يترك واحد منهما البيع فقد وجب البيع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2181-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2181-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2181-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2181-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca6e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2182,
+      "bookHadithIndex": 46,
+      "text": "حدثنا احمد بن عبدة، واحمد بن المقدام، قالا حدثنا حماد بن زيد، عن جميل بن مرة، عن ابي الوضيء، عن ابي برزة الاسلمي، قال قال رسول الله صلى الله عليه وسلم \" البيعان بالخيار ما لم يتفرقا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2182-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2182-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2182-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2182-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca6f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2183,
+      "bookHadithIndex": 47,
+      "text": "حدثنا محمد بن يحيى، واسحاق بن منصور، قالا حدثنا عبد الصمد، حدثنا شعبة، عن قتادة، عن الحسن، عن سمرة، قال قال رسول الله صلى الله عليه وسلم \" البيعان بالخيار ما لم يتفرقا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2183-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2183-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2183-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2183-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca70",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2184,
+      "bookHadithIndex": 48,
+      "text": "حدثنا حرملة بن يحيى، واحمد بن عيسى المصريان، قالا حدثنا عبد الله بن وهب، اخبرني ابن جريج، عن ابي الزبير، عن جابر بن عبد الله، قال اشترى رسول الله صلى الله عليه وسلم من رجل من الاعراب حمل خبط فلما وجب البيع قال رسول الله صلى الله عليه وسلم \" اختر \" . فقال الاعرابي عمرك الله بيعا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2184-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2184-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2184-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2184-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca71",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2185,
+      "bookHadithIndex": 49,
+      "text": "حدثنا العباس بن الوليد الدمشقي، حدثنا مروان بن محمد، حدثنا عبد العزيز بن محمد، عن داود بن صالح المدني، عن ابيه، قال سمعت ابا سعيد الخدري، يقول قال رسول الله صلى الله عليه وسلم \" انما البيع عن تراض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2185-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2185-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2185-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2185-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ca72",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 12,
+      "hadithIndex": 2186,
+      "bookHadithIndex": 50,
+      "text": "حدثنا عثمان بن ابي شيبة، ومحمد بن الصباح، قالا حدثنا هشيم، انبانا ابن ابي ليلى، عن القاسم بن عبد الرحمن، عن ابيه، ان عبد الله بن مسعود، باع من الاشعث بن قيس رقيقا من رقيق الامارة فاختلفا في الثمن . فقال ابن مسعود بعتك بعشرين الفا . وقال الاشعث بن قيس انما اشتريت منك بعشرة الاف . فقال عبد الله ان شيت حدثتك بحديث سمعته من رسول الله صلى الله عليه وسلم . فقال هاته . قال فاني سمعت رسول الله صلى الله عليه وسلم يقول \" اذا اختلف البيعان وليس بينهما بينة والبيع قايم بعينه فالقول ما قال البايع او يترادان البيع \" . قال فاني ارى ان ارد البيع . فرده",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2186-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2186-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-12-2186-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    }
+  ]
+}

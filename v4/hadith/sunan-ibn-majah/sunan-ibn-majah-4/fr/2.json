@@ -1,0 +1,528 @@
+{
+  "total": 68,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c4f9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 785,
+      "bookHadithIndex": 51,
+      "text": "Rapporté par Ibn 'Abbas : Les maisons des Ansar étaient loin de la mosquée et ils voulaient se rapprocher. Puis ce verset a été révélé : « Nous écrivons ce qu’ils ont avancé et les traces qu’ils laissent. » [Ya-Sin : 12] Il a dit : Ainsi, ils sont restés là où ils étaient",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-785-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-785-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-785-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-785-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c4fa",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 786,
+      "bookHadithIndex": 52,
+      "text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « La prière d’un homme en groupe vaut plus de vingt niveaux de plus que sa prière chez lui ou au marché. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-786-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-786-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-786-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-786-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c4fb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 787,
+      "bookHadithIndex": 53,
+      "text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « La prière en groupe est vingt-cinq fois plus vertueuse que la prière de chacun de vous seul. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-787-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-787-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-787-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-787-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c4fc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 788,
+      "bookHadithIndex": 54,
+      "text": "Rapporté par Abu Sa'eed Al-Khudri : Le Messager d’Allah ﷺ a dit : « La prière d’un homme en groupe vaut vingt-cinq degrés de plus que sa prière chez lui. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-788-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-788-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-788-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-788-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c4fd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 789,
+      "bookHadithIndex": 55,
+      "text": "Rapporté par Ibn 'Umar : Le Messager d’Allah ﷺ a dit : « La prière d’un homme en groupe est vingt-sept fois plus vertueuse que la prière d’un homme seul. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-789-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-789-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-789-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-789-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c4fe",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 790,
+      "bookHadithIndex": 56,
+      "text": "Rapporté par Ubayy bin Ka'b : Le Messager d’Allah ﷺ a dit : « La prière d’un homme en groupe est supérieure à sa prière seul de vingt-quatre ou vingt-cinq degrés. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-790-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-790-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-790-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c4ff",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 791,
+      "bookHadithIndex": 57,
+      "text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « J’ai pensé ordonner que l’appel à la prière soit lancé, puis demander à un homme de diriger la prière, et ensuite sortir avec d’autres hommes portant des fagots de bois pour aller chez ceux qui n’assistent pas à la prière et brûler leurs maisons autour d’eux. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-791-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-791-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-791-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-791-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c500",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 792,
+      "bookHadithIndex": 58,
+      "text": "Rapporté par Ibn Umm Maktum : J’ai dit au Prophète ﷺ : « Je suis un vieil homme et je suis aveugle ; ma maison est loin et je n’ai personne pour me guider. Y a-t-il une dispense pour moi de ne pas venir à la mosquée ? » Il a dit : « Entends-tu l’appel ? » J’ai répondu : « Oui. » Il a dit : « Alors je ne trouve aucune dispense pour toi. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-792-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-792-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-792-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-792-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c501",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 793,
+      "bookHadithIndex": 59,
+      "text": "Rapporté par Ibn 'Abbas : Le Prophète ﷺ a dit : « Celui qui entend l’appel et ne vient pas, sa prière n’est pas valable, sauf s’il a une excuse. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-793-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-793-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-793-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c502",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 794,
+      "bookHadithIndex": 60,
+      "text": "Rapporté par Ibn 'Abbas et Ibn 'Umar : Ils ont entendu le Prophète ﷺ dire sur sa chaire : « Que les gens cessent de délaisser la prière en groupe, sinon Allah scellera leurs cœurs et ils feront partie des insouciants. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-794-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-794-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-794-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-794-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c503",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 795,
+      "bookHadithIndex": 61,
+      "text": "Rapporté par Usamah bin Zaid : Le Messager d’Allah ﷺ a dit : « Que les hommes cessent de délaisser la prière en groupe, sinon je brûlerai leurs maisons. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-795-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-795-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-795-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c504",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 796,
+      "bookHadithIndex": 62,
+      "text": "Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Si les gens savaient quelle récompense il y a dans la prière du ‘Isha et du Fajr, ils viendraient même en rampant. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-796-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-796-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-796-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-796-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c505",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 797,
+      "bookHadithIndex": 63,
+      "text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Les prières les plus difficiles pour les hypocrites sont celles du ‘Isha et du Fajr. S’ils savaient quelle récompense elles contiennent, ils viendraient même en rampant. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-797-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-797-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-797-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-797-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c506",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 798,
+      "bookHadithIndex": 64,
+      "text": "Rapporté par 'Umar bin Khattab : Le Prophète ﷺ disait : « Celui qui prie en groupe à la mosquée pendant quarante nuits sans manquer la première unité de la prière du ‘Isha, Allah lui accordera le salut contre le Feu. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-798-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-798-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-798-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c507",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 799,
+      "bookHadithIndex": 65,
+      "text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Quand l’un de vous entre dans la mosquée, il est considéré comme en prière tant que la prière le retient, et les anges prient pour lui tant qu’il reste à l’endroit où il a prié, en disant : “Ô Allah, pardonne-lui ; ô Allah, fais-lui miséricorde ; ô Allah, accepte son repentir”, tant qu’il ne commet pas d’impureté et ne dérange personne. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-799-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-799-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-799-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-799-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c508",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 800,
+      "bookHadithIndex": 66,
+      "text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Un musulman qui fréquente régulièrement les mosquées pour prier et se souvenir d’Allah, Allah est content de lui comme la famille d’un absent est heureuse de son retour. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-800-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-800-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-800-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-800-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c509",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 801,
+      "bookHadithIndex": 67,
+      "text": "Rapporté par ‘Abdullah bin ‘Amr : Nous avons accompli la prière du Maghrib avec le Messager d’Allah, puis certains sont repartis et d’autres sont restés. Ensuite, le Messager d’Allah est revenu rapidement, essoufflé, son vêtement relevé jusqu’aux genoux, et il a dit : « Réjouissez-vous, car votre Seigneur a ouvert une des portes du Paradis et Il se vante de vous devant les anges, en disant : “Regardez Mes serviteurs ; ils ont accompli un devoir obligatoire et attendent le suivant.” »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-801-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-801-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-801-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-801-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c50a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 4,
+      "hadithIndex": 802,
+      "bookHadithIndex": 68,
+      "text": "Rapporté par Abu Sa’eed : Le Messager d’Allah a dit : « Si vous voyez un homme fréquenter régulièrement les mosquées, alors témoignez de sa foi. Allah dit : “Les mosquées d’Allah ne sont entretenues que par ceux qui croient en Allah et au Jour dernier.” [At-Tawbah :] »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-802-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-802-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-802-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-4-802-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

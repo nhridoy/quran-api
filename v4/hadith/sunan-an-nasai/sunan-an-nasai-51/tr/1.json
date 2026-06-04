@@ -1,0 +1,1253 @@
+{
+  "total": 220,
+  "totalPage": 5,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b145",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5540,
+      "bookHadithIndex": 1,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5540-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5540-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5540-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b146",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5541,
+      "bookHadithIndex": 2,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5541-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5541-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5541-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b147",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5542,
+      "bookHadithIndex": 3,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5542-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5542-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5542-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b148",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5543,
+      "bookHadithIndex": 4,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5543-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5543-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5543-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b149",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5544,
+      "bookHadithIndex": 5,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5544-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5544-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5544-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b14a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5545,
+      "bookHadithIndex": 6,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5545-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5545-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5545-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b14b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5546,
+      "bookHadithIndex": 7,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5546-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5546-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5546-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b14c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5547,
+      "bookHadithIndex": 8,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5547-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5547-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5547-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b14d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5548,
+      "bookHadithIndex": 9,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5548-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5548-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5548-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b14e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5549,
+      "bookHadithIndex": 10,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5549-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5549-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5549-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b14f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5550,
+      "bookHadithIndex": 11,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5550-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5550-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5550-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b150",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5551,
+      "bookHadithIndex": 12,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5551-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5551-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5551-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b151",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5552,
+      "bookHadithIndex": 13,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5552-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5552-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5552-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b152",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5553,
+      "bookHadithIndex": 14,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5553-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5553-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5553-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b153",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5554,
+      "bookHadithIndex": 15,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5554-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5554-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5554-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b154",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5555,
+      "bookHadithIndex": 16,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5555-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5555-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5555-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b155",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5556,
+      "bookHadithIndex": 17,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5556-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5556-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5556-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b156",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5557,
+      "bookHadithIndex": 18,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5557-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5557-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5557-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b157",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5558,
+      "bookHadithIndex": 19,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5558-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5558-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5558-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b158",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5559,
+      "bookHadithIndex": 20,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5559-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5559-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5559-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b159",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5560,
+      "bookHadithIndex": 21,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5560-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5560-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5560-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b15a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5561,
+      "bookHadithIndex": 22,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5561-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5561-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5561-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b15b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5562,
+      "bookHadithIndex": 23,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5562-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5562-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5562-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b15c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5563,
+      "bookHadithIndex": 24,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5563-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5563-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5563-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b15d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5564,
+      "bookHadithIndex": 25,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5564-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5564-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5564-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b15e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5564,
+      "bookHadithIndex": 26,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5564-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5564-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b15f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5565,
+      "bookHadithIndex": 27,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5565-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5565-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5565-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b160",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5566,
+      "bookHadithIndex": 28,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5566-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5566-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5566-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b161",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5567,
+      "bookHadithIndex": 29,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5567-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5567-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5567-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b162",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5568,
+      "bookHadithIndex": 30,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5568-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5568-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5568-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b163",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5569,
+      "bookHadithIndex": 31,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5569-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5569-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5569-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b164",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5570,
+      "bookHadithIndex": 32,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5570-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5570-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5570-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b165",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5571,
+      "bookHadithIndex": 33,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5571-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5571-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5571-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b166",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5572,
+      "bookHadithIndex": 34,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5572-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5572-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5572-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b167",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5573,
+      "bookHadithIndex": 35,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5573-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5573-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5573-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b168",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5574,
+      "bookHadithIndex": 36,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5574-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5574-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5574-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b169",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5575,
+      "bookHadithIndex": 37,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5575-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5575-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5575-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b16a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5576,
+      "bookHadithIndex": 38,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5576-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5576-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5576-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b16b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5577,
+      "bookHadithIndex": 39,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5577-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5577-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5577-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b16c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5578,
+      "bookHadithIndex": 40,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5578-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5578-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5578-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b16d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5579,
+      "bookHadithIndex": 41,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5579-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5579-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5579-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b16e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5580,
+      "bookHadithIndex": 42,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5580-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5580-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5580-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b16f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5581,
+      "bookHadithIndex": 43,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5581-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5581-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5581-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b170",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5582,
+      "bookHadithIndex": 44,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5582-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5582-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5582-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b171",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5583,
+      "bookHadithIndex": 45,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5583-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5583-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5583-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b172",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5584,
+      "bookHadithIndex": 46,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5584-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5584-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5584-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b173",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5585,
+      "bookHadithIndex": 47,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5585-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5585-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5585-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b174",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5586,
+      "bookHadithIndex": 48,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5586-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5586-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5586-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b175",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5587,
+      "bookHadithIndex": 49,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5587-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5587-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5587-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0b176",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 51,
+      "hadithIndex": 5588,
+      "bookHadithIndex": 50,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5588-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5588-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-51-5588-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

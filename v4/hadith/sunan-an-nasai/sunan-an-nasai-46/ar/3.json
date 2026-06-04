@@ -1,0 +1,378 @@
+{
+  "total": 115,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af0b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4970,
+      "bookHadithIndex": 100,
+      "text": "اخبرنا عمرو بن علي، قال حدثنا بشر، قال حدثنا يحيى بن سعيد، ان رجلا، من قومه حدثه عن عم، له ان رافع بن خديج، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4970-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4970-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4970-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af0c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4971,
+      "bookHadithIndex": 101,
+      "text": "اخبرنا عبد الله بن عبد الصمد بن علي، عن مخلد، عن سفيان، عن ابي الزبير، عن جابر، عن رسول الله صلى الله عليه وسلم قال \" ليس على خاين ولا منتهب ولا مختلس قطع \" . لم يسمعه سفيان من ابي الزبير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4971-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4971-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4971-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af0d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4972,
+      "bookHadithIndex": 102,
+      "text": "اخبرنا محمود بن غيلان، قال حدثنا ابو داود الحفري، عن سفيان، عن ابن جريج، عن ابي الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" ليس على خاين ولا منتهب ولا مختلس قطع \" . ولم يسمعه ايضا ابن جريج من ابي الزبير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4972-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4972-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4972-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af0e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4973,
+      "bookHadithIndex": 103,
+      "text": "اخبرني ابراهيم بن الحسن، عن حجاج، قال قال ابن جريج قال ابو الزبير عن جابر، عن رسول الله صلى الله عليه وسلم \" ليس على المختلس قطع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4973-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4973-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4973-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af0f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4974,
+      "bookHadithIndex": 104,
+      "text": "اخبرني ابراهيم بن الحسن، عن حجاج، قال قال ابن جريج قال ابو الزبير قال جابر ليس على الخاين قطع . قال ابو عبد الرحمن وقد روى هذا الحديث عن ابن جريج عيسى بن يونس والفضل بن موسى وابن وهب ومحمد بن ربيعة ومخلد بن يزيد وسلمة بن سعيد - بصري ثقة - قال ابن ابي صفوان وكان خير اهل زمانه . فلم يقل احد منهم حدثني ابو الزبير ولا احسبه سمعه من ابي الزبير والله تعالى اعلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4974-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4974-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4974-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af10",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4975,
+      "bookHadithIndex": 105,
+      "text": "اخبرنا خالد بن روح الدمشقي، قال حدثنا يزيد، - يعني ابن خالد بن يزيد بن عبد الله بن موهب - قال حدثنا شبابة، عن المغيرة بن مسلم، عن ابي الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" ليس على مختلس ولا منتهب ولا خاين قطع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4975-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4975-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4975-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af11",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4976,
+      "bookHadithIndex": 106,
+      "text": "اخبرنا محمد بن العلاء، قال حدثنا ابو خالد، عن اشعث، عن ابي الزبير، عن جابر، قال ليس على خاين قطع . قال ابو عبد الرحمن اشعث بن سوار ضعيف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4976-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4976-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4976-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af12",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4977,
+      "bookHadithIndex": 107,
+      "text": "اخبرنا سليمان بن سلم المصاحفي البلخي، قال حدثنا النضر بن شميل، قال حدثنا حماد، قال انبانا يوسف، عن الحارث بن حاطب، ان رسول الله صلى الله عليه وسلم اتي بلص فقال \" اقتلوه \" . فقالوا يا رسول الله انما سرق . فقال \" اقتلوه \" . قالوا يا رسول الله انما سرق . قال \" اقطعوا يده \" . قال ثم سرق فقطعت رجله ثم سرق على عهد ابي بكر رضى الله عنه حتى قطعت قوايمه كلها ثم سرق ايضا الخامسة فقال ابو بكر رضى الله عنه كان رسول الله صلى الله عليه وسلم اعلم بهذا حين قال \" اقتلوه \" . ثم دفعه الى فتية من قريش ليقتلوه منهم عبد الله بن الزبير - وكان يحب الامارة - فقال امروني عليكم . فامروه عليهم فكان اذا ضرب ضربوه حتى قتلوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4977-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4977-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4977-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af13",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4978,
+      "bookHadithIndex": 108,
+      "text": "اخبرنا محمد بن عبد الله بن عبيد بن عقيل، قال حدثنا جدي، قال حدثنا مصعب بن ثابت، عن محمد بن المنكدر، عن جابر بن عبد الله، قال جيء بسارق الى رسول الله صلى الله عليه وسلم فقال \" اقتلوه \" . فقالوا يا رسول الله انما سرق . قال \" اقطعوه \" . فقطع ثم جيء به الثانية فقال \" اقتلوه \" . فقالوا يا رسول الله انما سرق . قال \" اقطعوه \" . فقطع فاتي به الثالثة فقال \" اقتلوه \" . قالوا يا رسول الله انما سرق . فقال \" اقطعوه \" . ثم اتي به الرابعة فقال \" اقتلوه \" . قالوا يا رسول الله انما سرق . قال \" اقطعوه \" . فاتي به الخامسة قال \" اقتلوه \" . قال جابر فانطلقنا به الى مربد النعم وحملناه فاستلقى على ظهره ثم كشر بيديه ورجليه فانصدعت الابل ثم حملوا عليه الثانية ففعل مثل ذلك ثم حملوا عليه الثالثة فرميناه بالحجارة فقتلناه ثم القيناه في بير ثم رمينا عليه بالحجارة . قال ابو عبد الرحمن وهذا حديث منكر ومصعب بن ثابت ليس بالقوي في الحديث والله تعالى اعلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4978-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4978-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af14",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4979,
+      "bookHadithIndex": 109,
+      "text": "اخبرنا عمرو بن عثمان، قال حدثني بقية، قال حدثني نافع بن يزيد، قال حدثني حيوة بن شريح، عن عياش بن عباس، عن جنادة بن ابي امية، قال سمعت بسر بن ابي ارطاة، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا تقطع الايدي في السفر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4979-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4979-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4979-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af15",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4980,
+      "bookHadithIndex": 110,
+      "text": "اخبرنا الحسن بن مدرك، قال حدثنا يحيى بن حماد، قال حدثنا ابو عوانة، عن عمر، - وهو ابن ابي سلمة - عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" اذا سرق العبد فبعه ولو بنش \" . قال ابو عبد الرحمن عمر بن ابي سلمة ليس بالقوي في الحديث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4980-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4980-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4980-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af16",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4981,
+      "bookHadithIndex": 111,
+      "text": "اخبرنا اسماعيل بن مسعود، قال حدثنا خالد، قال حدثنا شعبة، عن عبد الملك بن عمير، عن عطية، انه اخبره قال كنت في سبى قريظة وكان ينظر فمن خرج شعرته قتل ومن لم تخرج استحيي ولم يقتل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4981-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4981-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4981-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af17",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4982,
+      "bookHadithIndex": 112,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن ابي بكر بن علي، عن الحجاج، عن مكحول، عن ابن محيريز، قال سالت فضالة بن عبيد عن تعليق، يد السارق في عنقه قال سنة قطع رسول الله صلى الله عليه وسلم يد سارق وعلق يده في عنقه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4982-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4982-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4982-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af18",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4983,
+      "bookHadithIndex": 113,
+      "text": "اخبرنا محمد بن بشار، قال حدثني عمر بن علي المقدمي، قال حدثنا الحجاج، عن مكحول، عن عبد الرحمن بن محيريز، قال قلت لفضالة بن عبيد ارايت تعليق اليد في عنق السارق من السنة هو قال نعم اتي رسول الله صلى الله عليه وسلم بسارق فقطع يده وعلقه في عنقه . قال ابو عبد الرحمن الحجاج بن ارطاة ضعيف ولا يحتج بحديثه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4983-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4983-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4983-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af19",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 46,
+      "hadithIndex": 4984,
+      "bookHadithIndex": 114,
+      "text": "اخبرني عمرو بن منصور، قال حدثنا حسان بن عبد الله، قال حدثنا المفضل بن فضالة، عن يونس بن يزيد، قال سمعت سعد بن ابراهيم، يحدث عن المسور بن ابراهيم، عن عبد الرحمن بن عوف، ان رسول الله صلى الله عليه وسلم قال \" لا يغرم صاحب سرقة اذا اقيم عليه الحد \" . قال ابو عبد الرحمن وهذا مرسل وليس بثابت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4984-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4984-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-46-4984-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "total": 54,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c788dd1a4c9c86f0ba52",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2086,
+      "bookHadithIndex": 51,
+      "text": "حدثنا علي بن حجر، قال اخبرنا الوليد بن محمد الموقري، عن الزهري، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" انما مثل المريض اذا برا وصح كالبردة تقع من السماء في صفايها ولونها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2086-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba53",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2087,
+      "bookHadithIndex": 52,
+      "text": "حدثنا عبد الله بن سعيد الاشج، قال حدثنا عقبة بن خالد السكوني، عن موسى بن محمد بن ابراهيم التيمي، عن ابيه، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم \" اذا دخلتم على المريض فنفسوا له في اجله فان ذلك لا يرد شييا ويطيب نفسه \" . قال ابو عيسى هذا حديث غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba54",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2088,
+      "bookHadithIndex": 53,
+      "text": "حدثنا هناد، ومحمود بن غيلان، قالا حدثنا ابو اسامة، عن عبد الرحمن بن يزيد بن جابر، عن اسماعيل بن عبيد الله، عن ابي صالح الاشعري، عن ابي هريرة، ان النبي صلى الله عليه وسلم عاد رجلا من وعك كان به فقال \" ابشر فان الله يقول هي ناري اسلطها على عبدي المذنب لتكون حظه من النار \" . حدثنا اسحاق بن منصور قال اخبرنا عبد الرحمن بن مهدي عن سفيان الثوري عن هشام بن حسان عن الحسن قال كانوا يرتجون الحمى ليلة كفارة لما نقص من الذنوب . تم كتاب الطب ويليه كتاب الفرايض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2088-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba55",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2089,
+      "bookHadithIndex": 54,
+      "text": "",
+      "grades": []
+    }
+  ]
+}

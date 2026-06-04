@@ -1,0 +1,803 @@
+{
+  "total": 132,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c5dbdd1a4c9c86f09def",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 594,
+      "bookHadithIndex": 101,
+      "text": "اخبرني عمرو بن سواد بن الاسود بن عمرو، قال انبانا ابن وهب، قال حدثنا جابر بن اسماعيل، عن عقيل، عن ابن شهاب، عن انس، عن رسول الله صلى الله عليه وسلم انه كان اذا عجل به السير يوخر الظهر الى وقت العصر فيجمع بينهما ويوخر المغرب حتى يجمع بينها وبين العشاء حين يغيب الشفق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-594-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-594-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-594-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 595,
+      "bookHadithIndex": 102,
+      "text": "اخبرنا محمود بن خالد، قال حدثنا الوليد، قال حدثنا ابن جابر، قال حدثني نافع، قال خرجت مع عبد الله بن عمر في سفر يريد ارضا له فاتاه ات فقال ان صفية بنت ابي عبيد لما بها فانظر ان تدركها . فخرج مسرعا ومعه رجل من قريش يسايره وغابت الشمس فلم يصل الصلاة وكان عهدي به وهو يحافظ على الصلاة فلما ابطا قلت الصلاة يرحمك الله . فالتفت الى ومضى حتى اذا كان في اخر الشفق نزل فصلى المغرب ثم اقام العشاء وقد توارى الشفق فصلى بنا ثم اقبل علينا فقال ان رسول الله صلى الله عليه وسلم كان اذا عجل به السير صنع هكذا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-595-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-595-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-595-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 596,
+      "bookHadithIndex": 103,
+      "text": "اخبرنا قتيبة بن سعيد، حدثنا العطاف، عن نافع، قال اقبلنا مع ابن عمر من مكة فلما كان تلك الليلة سار بنا حتى امسينا فظننا انه نسي الصلاة فقلنا له الصلاة . فسكت وسار حتى كاد الشفق ان يغيب ثم نزل فصلى وغاب الشفق فصلى العشاء ثم اقبل علينا فقال هكذا كنا نصنع مع رسول الله صلى الله عليه وسلم اذا جد به السير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-596-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-596-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-596-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df2",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 597,
+      "bookHadithIndex": 104,
+      "text": "اخبرنا عبدة بن عبد الرحيم، قال حدثنا ابن شميل، قال حدثنا كثير بن قاروندا، قال سالنا سالم بن عبد الله عن الصلاة، في السفر فقلنا اكان عبد الله يجمع بين شىء من الصلوات في السفر فقال لا الا بجمع ثم اتيته فقال كانت عنده صفية فارسلت اليه اني في اخر يوم من الدنيا واول يوم من الاخرة . فركب وانا معه فاسرع السير حتى حانت الصلاة فقال له الموذن الصلاة يا ابا عبد الرحمن . فسار حتى اذا كان بين الصلاتين نزل فقال للموذن اقم فاذا سلمت من الظهر فاقم مكانك . فاقام فصلى الظهر ركعتين ثم سلم ثم اقام مكانه فصلى العصر ركعتين ثم ركب فاسرع السير حتى غابت الشمس فقال له الموذن الصلاة يا ابا عبد الرحمن . فقال كفعلك الاول . فسار حتى اذا اشتبكت النجوم نزل فقال اقم فاذا سلمت فاقم . فصلى المغرب ثلاثا ثم اقام مكانه فصلى العشاء الاخرة ثم سلم واحدة تلقاء وجهه ثم قال قال رسول الله صلى الله عليه وسلم \" اذا حضر احدكم امر يخشى فوته فليصل هذه الصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-597-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-597-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-597-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df3",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 598,
+      "bookHadithIndex": 105,
+      "text": "اخبرنا قتيبة بن سعيد، عن مالك، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم كان اذا جد به السير جمع بين المغرب والعشاء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-598-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-598-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-598-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df4",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 599,
+      "bookHadithIndex": 106,
+      "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا عبد الرزاق، قال حدثنا معمر، عن موسى بن عقبة، عن نافع، عن ابن عمر، قال كان رسول الله صلى الله عليه وسلم اذا جد به السير او حزبه امر جمع بين المغرب والعشاء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-599-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-599-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-599-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 600,
+      "bookHadithIndex": 107,
+      "text": "اخبرنا محمد بن منصور، قال انبانا سفيان، قال سمعت الزهري، قال اخبرني سالم، عن ابيه، قال رايت النبي صلى الله عليه وسلم اذا جد به السير جمع بين المغرب والعشاء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-600-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-600-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-600-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df6",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 601,
+      "bookHadithIndex": 108,
+      "text": "اخبرنا قتيبة، عن مالك، عن ابي الزبير، عن سعيد بن جبير، عن ابن عباس، قال صلى رسول الله صلى الله عليه وسلم الظهر والعصر جميعا والمغرب والعشاء جميعا من غير خوف ولا سفر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-601-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-601-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-601-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df7",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 602,
+      "bookHadithIndex": 109,
+      "text": "اخبرنا محمد بن عبد العزيز بن ابي رزمة، - واسمه غزوان - قال حدثنا الفضل بن موسى، عن الاعمش، عن حبيب بن ابي ثابت، عن سعيد بن جبير، عن ابن عباس، ان النبي صلى الله عليه وسلم كان يصلي بالمدينة يجمع بين الصلاتين بين الظهر والعصر والمغرب والعشاء من غير خوف ولا مطر . قيل له لم قال ليلا يكون على امته حرج",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-602-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "-"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-602-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df8",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 603,
+      "bookHadithIndex": 110,
+      "text": "اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، قال حدثنا ابن جريج، عن عمرو بن دينار، عن ابي الشعثاء، عن ابن عباس، قال صليت وراء رسول الله صلى الله عليه وسلم ثمانيا جميعا وسبعا جميعا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-603-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-603-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-603-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09df9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 604,
+      "bookHadithIndex": 111,
+      "text": "اخبرني ابراهيم بن هارون، قال حدثنا حاتم بن اسماعيل، قال حدثنا جعفر بن محمد، عن ابيه، ان جابر بن عبد الله، قال سار رسول الله صلى الله عليه وسلم حتى اتى عرفة فوجد القبة قد ضربت له بنمرة فنزل بها حتى اذا زاغت الشمس امر بالقصواء فرحلت له حتى اذا انتهى الى بطن الوادي خطب الناس ثم اذن بلال ثم اقام فصلى الظهر ثم اقام فصلى العصر ولم يصل بينهما شييا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-604-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-604-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-604-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09dfa",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 605,
+      "bookHadithIndex": 112,
+      "text": "اخبرنا قتيبة بن سعيد، عن مالك، عن يحيى بن سعيد، عن عدي بن ثابت، عن عبد الله بن يزيد، ان ابا ايوب الانصاري، اخبره انه، صلى مع رسول الله صلى الله عليه وسلم في حجة الوداع المغرب والعشاء بالمزدلفة جميعا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-605-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-605-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-605-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09dfb",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 606,
+      "bookHadithIndex": 113,
+      "text": "اخبرنا يعقوب بن ابراهيم، قال حدثنا هشيم، عن اسماعيل بن ابي خالد، قال حدثنا ابو اسحاق، عن سعيد بن جبير، قال كنت مع ابن عمر حيث افاض من عرفات فلما اتى جمعا جمع بين المغرب والعشاء فلما فرغ قال فعل رسول الله صلى الله عليه وسلم في هذا المكان مثل هذا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-606-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-606-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-606-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09dfc",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 607,
+      "bookHadithIndex": 114,
+      "text": "اخبرنا عبيد الله بن سعيد، قال حدثنا عبد الرحمن، عن مالك، عن الزهري، عن سالم، عن ابن عمر، ان النبي صلى الله عليه وسلم صلى المغرب والعشاء بالمزدلفة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-607-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-607-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-607-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09dfd",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 608,
+      "bookHadithIndex": 115,
+      "text": "اخبرنا قتيبة، قال حدثنا سفيان، عن الاعمش، عن عمارة، عن عبد الرحمن بن يزيد، عن عبد الله، قال ما رايت النبي صلى الله عليه وسلم جمع بين صلاتين الا بجمع وصلى الصبح يوميذ قبل وقتها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-608-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-608-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-608-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09dfe",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 609,
+      "bookHadithIndex": 116,
+      "text": "اخبرنا الحسين بن حريث، قال حدثنا سفيان، عن ابراهيم بن عقبة، ومحمد بن ابي حرملة، عن كريب، عن ابن عباس، عن اسامة بن زيد، وكان النبي، صلى الله عليه وسلم اردفه من عرفة فلما اتى الشعب نزل فبال ولم يقل اهراق الماء قال فصببت عليه من اداوة فتوضا وضوءا خفيفا . فقلت له الصلاة . فقال \" الصلاة امامك \" . فلما اتى المزدلفة صلى المغرب ثم نزعوا رحالهم ثم صلى العشاء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-609-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-609-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-609-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09dff",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 610,
+      "bookHadithIndex": 117,
+      "text": "اخبرنا عمرو بن علي، قال حدثنا يحيى، قال حدثنا شعبة، قال اخبرني الوليد بن العيزار، قال سمعت ابا عمرو الشيباني، يقول حدثنا صاحب، هذه الدار واشار الى دار عبد الله قال سالت رسول الله صلى الله عليه وسلم اى العمل احب الى الله تعالى قال \" الصلاة على وقتها وبر الوالدين والجهاد في سبيل الله عز وجل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-610-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-610-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-610-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e00",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 611,
+      "bookHadithIndex": 118,
+      "text": "اخبرنا عبد الله بن محمد بن عبد الرحمن، قال حدثنا سفيان، قال حدثنا ابو معاوية النخعي، سمعه من ابي عمرو، عن عبد الله بن مسعود، قال سالت رسول الله صلى الله عليه وسلم اى العمل احب الى الله عز وجل قال \" اقام الصلاة لوقتها وبر الوالدين والجهاد في سبيل الله عز وجل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-611-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-611-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-611-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e01",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 612,
+      "bookHadithIndex": 119,
+      "text": "اخبرنا يحيى بن حكيم، وعمرو بن يزيد، قالا حدثنا ابن ابي عدي، عن شعبة، عن ابراهيم بن محمد بن المنتشر، عن ابيه، انه كان في مسجد عمرو بن شرحبيل فاقيمت الصلاة فجعلوا ينتظرونه فقال اني كنت اوتر . قال وسيل عبد الله هل بعد الاذان وتر قال نعم وبعد الاقامة وحدث عن النبي صلى الله عليه وسلم انه نام عن الصلاة حتى طلعت الشمس ثم صلى . واللفظ ليحيى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-612-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-612-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-612-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e02",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 613,
+      "bookHadithIndex": 120,
+      "text": "اخبرنا قتيبة، قال حدثنا ابو عوانة، عن قتادة، عن انس، قال قال رسول الله صلى الله عليه وسلم \" من نسي صلاة فليصلها اذا ذكرها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-613-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-613-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-613-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e03",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 614,
+      "bookHadithIndex": 121,
+      "text": "اخبرنا حميد بن مسعدة، عن يزيد، قال حدثنا حجاج الاحول، عن قتادة، عن انس، قال سيل رسول الله صلى الله عليه وسلم عن الرجل يرقد عن الصلاة او يغفل عنها قال \" كفارتها ان يصليها اذا ذكرها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-614-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-614-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-614-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e04",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 615,
+      "bookHadithIndex": 122,
+      "text": "اخبرنا قتيبة، قال حدثنا حماد بن زيد، عن ثابت، عن عبد الله بن رباح، عن ابي قتادة، قال ذكروا للنبي صلى الله عليه وسلم نومهم عن الصلاة فقال \" انه ليس في النوم تفريط انما التفريط في اليقظة فاذا نسي احدكم صلاة او نام عنها فليصلها اذا ذكرها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-615-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-615-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-615-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e05",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 616,
+      "bookHadithIndex": 123,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، - وهو ابن المبارك - عن سليمان بن المغيرة، عن ثابت، عن عبد الله بن رباح، عن ابي قتادة، قال قال رسول الله صلى الله عليه وسلم \" ليس في النوم تفريط انما التفريط فيمن لم يصل الصلاة حتى يجيء وقت الصلاة الاخرى حين ينتبه لها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-616-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-616-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-616-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e06",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 617,
+      "bookHadithIndex": 124,
+      "text": "اخبرنا عمرو بن علي، قال حدثنا ابو داود، قال حدثنا شعبة، عن ثابت البناني، عن عبد الله بن رباح، عن ابي قتادة، ان رسول الله صلى الله عليه وسلم لما ناموا عن الصلاة حتى طلعت الشمس قال رسول الله صلى الله عليه وسلم \" فليصلها احدكم من الغد لوقتها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-617-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-617-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-617-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e07",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 618,
+      "bookHadithIndex": 125,
+      "text": "اخبرنا عبد الاعلى بن واصل بن عبد الاعلى، قال حدثنا يعلى، قال حدثنا محمد بن اسحاق، عن الزهري، عن سعيد، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا نسيت الصلاة فصل اذا ذكرت فان الله تعالى يقول { اقم الصلاة لذكري } \" . قال عبد الاعلى حدثنا به يعلى مختصرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-618-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-618-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-618-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e08",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 619,
+      "bookHadithIndex": 126,
+      "text": "اخبرنا عمرو بن سواد بن الاسود بن عمرو، قال انبانا ابن وهب، قال انبانا يونس، عن ابن شهاب، عن سعيد بن المسيب، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" من نسي صلاة فليصلها اذا ذكرها فان الله تعالى قال { اقم الصلاة لذكري}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-619-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-619-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-619-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e09",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 620,
+      "bookHadithIndex": 127,
+      "text": "اخبرنا سويد بن نصر، قال حدثنا عبد الله، عن معمر، عن الزهري، عن سعيد بن المسيب، قال قال رسول الله صلى الله عليه وسلم \" من نسي صلاة فليصلها اذا ذكرها فان الله تعالى يقول { اقم الصلاة للذكرى } \" . قلت للزهري هكذا قراها رسول الله صلى الله عليه وسلم قال نعم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-620-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-620-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-620-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e0a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 621,
+      "bookHadithIndex": 128,
+      "text": "اخبرنا هناد بن السري، عن ابي الاحوص، عن عطاء بن السايب، عن بريد بن ابي مريم، عن ابيه، قال كنا مع رسول الله صلى الله عليه وسلم في سفر فاسرينا ليلة فلما كان في وجه الصبح نزل رسول الله صلى الله عليه وسلم فنام ونام الناس فلم نستيقظ الا بالشمس قد طلعت علينا فامر رسول الله صلى الله عليه وسلم الموذن فاذن ثم صلى الركعتين قبل الفجر ثم امره فاقام فصلى بالناس ثم حدثنا بما هو كاين حتى تقوم الساعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-621-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-621-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-621-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e0b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 622,
+      "bookHadithIndex": 129,
+      "text": "اخبرنا سويد بن نصر، قال حدثنا عبد الله، عن هشام الدستوايي، عن ابي الزبير، عن نافع بن جبير بن مطعم، عن ابي عبيدة بن عبد الله، عن عبد الله بن مسعود، قال كنا مع رسول الله صلى الله عليه وسلم فحبسنا عن صلاة الظهر والعصر والمغرب والعشاء فاشتد ذلك على فقلت في نفسي نحن مع رسول الله صلى الله عليه وسلم وفي سبيل الله فامر رسول الله صلى الله عليه وسلم بلالا فاقام فصلى بنا الظهر ثم اقام فصلى بنا العصر ثم اقام فصلى بنا المغرب ثم اقام فصلى بنا العشاء ثم طاف علينا فقال \" ما على الارض عصابة يذكرون الله عز وجل غيركم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-622-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-622-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-622-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e0c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 623,
+      "bookHadithIndex": 130,
+      "text": "اخبرنا يعقوب بن ابراهيم، قال حدثنا يحيى، عن يزيد بن كيسان، قال حدثني ابو حازم، عن ابي هريرة، قال عرسنا مع رسول الله صلى الله عليه وسلم فلم نستيقظ حتى طلعت الشمس فقال رسول الله صلى الله عليه وسلم \" لياخذ كل رجل براس راحلته فان هذا منزل حضرنا فيه الشيطان \" . قال ففعلنا فدعا بالماء فتوضا ثم صلى سجدتين ثم اقيمت الصلاة فصلى الغداة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-623-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-623-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-623-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e0d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 624,
+      "bookHadithIndex": 131,
+      "text": "اخبرنا ابو عاصم، خشيش بن اصرم قال حدثنا يحيى بن حسان، قال حدثنا حماد بن سلمة، عن عمرو بن دينار، عن نافع بن جبير، عن ابيه، ان رسول الله صلى الله عليه وسلم قال في سفر له \" من يكلونا الليلة لا نرقد عن صلاة الصبح \" . قال بلال انا . فاستقبل مطلع الشمس فضرب على اذانهم حتى ايقظهم حر الشمس فقاموا فقال \" توضيوا \" . ثم اذن بلال فصلى ركعتين وصلوا ركعتى الفجر ثم صلوا الفجر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-624-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-624-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-624-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09e0e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 6,
+      "hadithIndex": 625,
+      "bookHadithIndex": 132,
+      "text": "اخبرنا ابو عاصم، قال حدثنا حبان بن هلال، حدثنا حبيب، عن عمرو بن هرم، عن جابر بن زيد، عن ابن عباس، قال ادلج رسول الله صلى الله عليه وسلم ثم عرس فلم يستيقظ حتى طلعت الشمس او بعضها فلم يصل حتى ارتفعت الشمس فصلى وهي صلاة الوسطى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-625-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-625-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-6-625-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

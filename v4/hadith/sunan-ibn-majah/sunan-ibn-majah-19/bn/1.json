@@ -1,0 +1,618 @@
+{
+  "total": 21,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbb8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2512,
+      "bookHadithIndex": 1,
+      "text": "। জাবির (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুদাব্বার গোলাম বিক্রয় করেছেন।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2512-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbb9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2513,
+      "bookHadithIndex": 2,
+      "text": "। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমাদের মধ্যকার এক ব্যক্তি একটি দাসকে মুদাববার বানালো। এ দাসটি ছাড়া তার আর কোন সম্পত্তি ছিলো না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা বিক্রয় করেন এবং আদী গোত্রের ইবনুন নাহ্হাম তা কিনে নেন।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2513-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbba",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2514,
+      "bookHadithIndex": 3,
+      "text": "। ইবনে উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুদাববার (মৃতের) সম্পদের এক-তৃতীয়াশের অন্তভুক্ত। ইমাম ইবনে মাজা (রাঃ) বলেন, আমি উছমান ইবনে আবূ শায়বা (রাঃ) কে বলতে শুনেছি যে, ‘‘মুদাববার মৃতের (সম্পদের) এক-তৃতীয়াংশের অন্তর্ভূক্ত’’ শীর্ষক হাদীছটি ভুল। আবূ আবদুল্লাহ ইবনে মাজা (রাঃ) বলেন, এ হাদীসের কোন ভিত্তি নেই।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2514-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2514-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2514-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2515,
+      "bookHadithIndex": 4,
+      "text": "। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির ঔরসে তার বাঁদীর গর্ভে সন্তান হলে, সে বাঁদী তার (মালিকের) মৃত্যুর পর স্বয়ং দাসত্বমুক্ত হয়ে যাবে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2515-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2516,
+      "bookHadithIndex": 5,
+      "text": "। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট (তাঁর পুত্র) ইবরাহীমের মা (মারিয়া কিবতিয়া) ‘র কথা উত্থাপিত হলে তিনি বলেনঃ তার সন্তান তাকে দাসত্বমুক্ত করেছে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2516-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2517,
+      "bookHadithIndex": 6,
+      "text": "। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের মাঝে জীবিত থাকা অবস্থায় আমরা আমাদের যুদ্ধবন্দিনী ক্রীতদাসী ও উম্মু ওয়ালাদ বিক্রয় করতাম। আমরা এটাকে দূষণীয় মনে করতাম না।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2517-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbe",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2518,
+      "bookHadithIndex": 7,
+      "text": "। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন শ্রেণীর লোকের প্রত্যেককে সাহায্য করা আল্লাহর কর্তব্য (যদিও কোন কাজ তাঁর জন্য বাধ্যতামূলক নয়) আল্লাহর রাস্তায় জিহাদকারী, মুকাতাব চুক্তিবদ্ধ দাস যে তার চুক্তিকৃত অর্থ পরিশোধ করতে সংকল্পবদ্ধ এবং যে বিবাহকারী পূত-পবিত্র থাকতে ইচ্ছুক।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2518-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbbf",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2519,
+      "bookHadithIndex": 8,
+      "text": "। ‘আমর ইবনে শু‘আইব (রাঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে গোলাম এক শত উকিয়ার বিনিময়ে মুক্তিলাভ করতে চুক্তিবদ্ধ, দশ উকিয়া ব্যতীত বাকিটা পরিশোধ করতে পারলে সে আযাদ।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2519-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2520,
+      "bookHadithIndex": 9,
+      "text": "। উম্মু সালামা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের (মহিলাদের) কারো মালিকানায় মুকাতাব দাস থাকলে এবং তার নিকট চুক্তিকৃত অর্থের সম-পরিমাণ সম্পদ থাকলে তার থেকে তোমাদের পর্দা করা উচিত।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2520-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2521,
+      "bookHadithIndex": 10,
+      "text": "। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী আয়েশা (রাঃ) থেকে বর্ণিত। বারীরা (রাঃ) তার নিকট এলেন, তিনি ছিলেন মুকাতাবা। তিনি তার মালিকের সাথে নয় উকিয়া পরিশোধে চুক্তিবদ্ধ হয়েছিলেন। আয়েশা (রাঃ) তাকে বলেন, তোমার মালিক চাইলে আমি এককালীন তাদেরকে তা পরিশোধ করে দিতে পারি এই শর্তে যে, ওয়ালার মালিক হবো আমি। রাবী বলেন, বারীরা তার মালিকের নিকট এসে একথা জানালে তারা এতে অসম্মতি জানায় এবং ওয়ালার মালিকানা তাদের থাকার শর্ত আরোপ করে। আয়েশা (রাঃ) বিষয়টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উল্লেখ করলে তিনি বলেনঃ তুমি তাকে ক্রয় করো। রাবী বলেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকেদের উদ্দেশে দাঁড়িয়ে খুতবা দিলেন। তিনি প্রথমে আল্লাহর প্রশংসা ও গুণগান করেন, তারপর বলেনঃ লোকেদের কী হলো যে, তারা এমন সব শর্ত আরোপ করে, যা আল্লাহর কিতাবে নাই। যেসব শর্ত আল্লাহর কিতাবে নেই তা বাতিল, যদিও তা সংখ্যায় এক শত হয়। আল্লাহর কিতাবই যথার্থ এবং আল্লাহর শর্তই অধিক মজবুত। ওয়ালার মালিক হবে আযাদকারী।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2521-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2522,
+      "bookHadithIndex": 11,
+      "text": "। শুরাহবীল ইবনুস সিমত (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি কা‘ব (রাঃ)-কে বললাম, হে কাব ইবনে মুররা! আমাদের নিকট রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাদীস বর্ণনা করুন এবং সাবধানতা অবলম্বন করুন। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ যে ব্যক্তি একটি মুসলিম গোলাম আযাদ করলো, সে তার জন্য জাহান্নাম থেকে মুক্তিলাভের বিনিময় হবে। আজাদকৃত দাসের প্রতিটি হাড় তার হাড়ের প্রতিদান হবে। যে ব্যক্তি দু’জন মুসলিম দাসীকে আযাদ করবে তারা তার জন্য জাহান্নাম থেকে মুক্তিলাভের বিনিময় হবে। তাদের দু’টি হাড় তার একটি হাড়ের প্রতিদান হবে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2522-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2523,
+      "bookHadithIndex": 12,
+      "text": "। আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি বললাম, ইয়া রাসূলাল্লাহ! কোন্ গোলাম আযাদ করা অধিক উত্তম? তিনি বলেনঃ যে গোলাম তার মনিবের বেশি পছন্দনীয় এবং বেশি মূল্যবান।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2523-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2524,
+      "bookHadithIndex": 13,
+      "text": "। সামুরা ইবনে জুনদুব (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কেউ নিজের সাথে রক্তের সম্পর্কযুক্ত দাসের মালিক হলে সে স্বয়ং আযাদ হয়ে যাবে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2524-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2525,
+      "bookHadithIndex": 14,
+      "text": "। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ নিজের সাথে রক্তের সম্পর্কযুক্ত দাসের মালিক হলে, সে আপনা আপনি আযাদ হয়ে যাবে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2525-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2525-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2525-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2526,
+      "bookHadithIndex": 15,
+      "text": "। আবূ আবদুর রহমান সাঈদ ইবনে জুমহান ইবনে সাফীনা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমাকে উম্মু সালামা (রাঃ) দাসত্বমুক্ত করেন এবং এই শর্ত আরোপ করেন যে, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খেদমত করবো, যাবত তিনি জীবিত থাকেন।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2526-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2526-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2526-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2527,
+      "bookHadithIndex": 16,
+      "text": "। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মালদার ব্যক্তি এজমালি গোলামের নিজ অংশ আযাদ করলে তার বাকী অংশও নিজের মাল দিয়ে আযাদ করে দেয়া উচিত। সে মালদার না হলে উক্ত গোলামকে (অবশিষ্ট মূল্য পরিশোধের জন্য) তার সামর্থ্য অনুযায়ী আয়াসসাধ্য কাজে মজুরী খাটাবে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2527-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2528,
+      "bookHadithIndex": 17,
+      "text": "। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি এজমালি গোলামের তার নিজ অংশ আযাদ করে দিলে সে তার ন্যায়সংগত মূল্য নির্ধারণপূর্বক তার মাল দ্বারা অন্যান্য শরীকের অংশের মূল্যও পরিশোধ করবে। অন্যথায় যতটুকু আযাদ করা হয়েছে সে ততটুকুই আযাদ গণ্য হবে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2528-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbc9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2529,
+      "bookHadithIndex": 18,
+      "text": "। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি মালদার গোলাম আযাদ করলে গোলামই উক্ত মালের মালিক। তবে মনিব নিজের জন্য তার মালের জন্য শর্ত যুক্ত করলে তা তারই হবে। ইবনে লাহীআ (রাঃ)-এর রিওয়ায়াতে আছেঃ তবে মনিব যদি সেই মাল (নিজের জন্য) নির্দিষ্ট করে নেয়।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2529-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2529-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2529-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbca",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2530,
+      "bookHadithIndex": 19,
+      "text": "। ইবনে মাউদ (রাঃ) এর আযাদকৃত দাস উমাইর (রাঃ) থেকে বর্ণিত। আবদুল্লাহ ইবনে মাসউদ (রাঃ) তাকে বললেন, হে উমাইর! আমি তোমাকে সন্তোষের সাথে আযাদ করতে চাই। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ কোন ব্যক্তি তার এমন গোলাস আযাদ করল যে গোলাম নিজ মালের বিষয় উল্লেখ করেনি, তাহলে উক্ত মাল তারই (অর্থৎ আযাদকারীর) অতএব আমাকে বলো, তোমার কী মাল আছে? ৩/২৫৩০(১)। মুহাম্মাদ ইবনে আবদুল্লাহ ইবনে নুমাইর-মুত্তালিব ইবনে যিয়াদ-ইসহাক ইবনে ইবরাহীম (রাঃ) থেকে বর্ণিত। তিনি বলেন, আবদুল্লাহ ইবনে মাসউদ (রাঃ) আমার দাদা (উমায়র)-কে বললেন ... পূর্বোক্ত হাদীসের অনুরূপ।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2530-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbcb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2531,
+      "bookHadithIndex": 20,
+      "text": "। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আযাদকৃত দাসী মায়মূনা বিনতে সা'দ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট জারজ সন্তান আযাদ করা সম্পর্কে জিজ্ঞেস করা হলো। তিনি বলেনঃ আমি যে জুতাজোড়া পরে জিহাদ করি তা, আমা কর্তৃক জারজ সন্তান আযাদ করার তুলনায় অধিক উত্তম।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2531-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbcc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 19,
+      "hadithIndex": 2532,
+      "bookHadithIndex": 21,
+      "text": "। আয়েশা (রাঃ) থেকে বর্ণিত। তার একজোড়া দাস-দাসী দম্পতি ছিল। তিনি বলেন, ইয়া রাসূলুল্লাহ! আমি এদের দু’জনকেই আযাদ করতে চাই। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি ওদের উভয়কে আযাদ করতে চাইলে স্ত্রী লোকটির পূর্বে পুরুষ লোকটিকে আযাদ করো।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-19-2532-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

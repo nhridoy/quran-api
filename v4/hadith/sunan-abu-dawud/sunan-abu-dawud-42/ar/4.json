@@ -1,0 +1,728 @@
+{
+  "total": 177,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c59add1a4c9c86f0998b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4746,
+      "bookHadithIndex": 151,
+      "text": "حدثنا حفص بن عمر النمري، حدثنا شعبة، عن عمرو بن مرة، عن ابي حمزة، عن زيد بن ارقم، قال : كنا مع رسول الله صلى الله عليه وسلم فنزلنا منزلا فقال : \" ما انتم جزء من ماية الف جزء ممن يرد على الحوض \" . قال قلت : كم كنتم يوميذ قال : سبعماية او ثمانماية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4746-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4746-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4746-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0998c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4747,
+      "bookHadithIndex": 152,
+      "text": "حدثنا هناد بن السري، حدثنا محمد بن فضيل، عن المختار بن فلفل، قال سمعت انس بن مالك، يقول : اغفى رسول الله صلى الله عليه وسلم اغفاءة فرفع راسه متبسما، فاما قال لهم واما قالوا له : يا رسول الله لم ضحكت فقال : \" انه انزلت على انفا سورة \" . فقرا بسم الله الرحمن الرحيم {انا اعطيناك الكوثر} حتى ختمها فلما قراها قال : \" هل تدرون ما الكوثر \" . قالوا : الله ورسوله اعلم . قال : \" فانه نهر وعدنيه ربي عز وجل في الجنة، وعليه خير كثير عليه حوض ترد عليه امتي يوم القيامة انيته عدد الكواكب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4747-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4747-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4747-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (400)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0998d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4748,
+      "bookHadithIndex": 153,
+      "text": "حدثنا عاصم بن النضر، حدثنا المعتمر، قال سمعت ابي قال، حدثنا قتادة، عن انس بن مالك، قال : لما عرج بنبي الله صلى الله عليه وسلم في الجنة - او كما قال - عرض له نهر حافتاه الياقوت المجيب او قال المجوف، فضرب الملك الذي معه يده فاستخرج مسكا فقال محمد صلى الله عليه وسلم للملك الذي معه : \" ما هذا \" . قال : هذا الكوثر الذي اعطاك الله عز وجل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4748-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4748-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4748-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4748-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4964)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0998e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4749,
+      "bookHadithIndex": 154,
+      "text": "حدثنا مسلم بن ابراهيم، حدثنا عبد السلام بن ابي حازم ابو طالوت، قال شهدت ابا برزة دخل على عبيد الله بن زياد فحدثني فلان، سماه مسلم وكان في السماط فلما راه عبيد الله قال : ان محمديكم هذا الدحداح، ففهمها الشيخ فقال ما كنت احسب اني ابقى في قوم يعيروني بصحبة محمد صلى الله عليه وسلم فقال له عبيد الله ان صحبة محمد صلى الله عليه وسلم لك زين غير شين ثم قال : انما بعثت اليك لاسالك عن الحوض سمعت رسول الله صلى الله عليه وسلم يذكر فيه شييا فقال ابو برزة : نعم لا مرة ولا ثنتين ولا ثلاثا ولا اربعا ولا خمسا، فمن كذب به فلا سقاه الله منه ثم خرج مغضبا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4749-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4749-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4749-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0998f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4750,
+      "bookHadithIndex": 155,
+      "text": "حدثنا ابو الوليد الطيالسي، حدثنا شعبة، عن علقمة بن مرثد، عن سعد بن عبيدة، عن البراء بن عازب، ان رسول الله صلى الله عليه وسلم قال : \" ان المسلم اذا سيل في القبر فشهد ان لا اله الا الله وان محمدا رسول الله صلى الله عليه وسلم فذلك قول الله عز وجل { يثبت الله الذين امنوا بالقول الثابت}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4750-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4750-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4750-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4699) Sahih Muslim (2871)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09990",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4751,
+      "bookHadithIndex": 156,
+      "text": "حدثنا محمد بن سليمان الانباري، حدثنا عبد الوهاب بن عطاء الخفاف ابو نصر، عن سعيد، عن قتادة، عن انس بن مالك، قال : ان نبي الله صلى الله عليه وسلم دخل نخلا لبني النجار فسمع صوتا ففزع فقال : \" من اصحاب هذه القبور \" . قالوا : يا رسول الله ناس ماتوا في الجاهلية . فقال : \" تعوذوا بالله من عذاب النار ومن فتنة الدجال \" . قالوا : ومم ذاك يا رسول الله قال : \" ان المومن اذا وضع في قبره اتاه ملك فيقول له : ما كنت تعبد فان الله هداه قال : كنت اعبد الله . فيقال له : ما كنت تقول في هذا الرجل فيقول : هو عبد الله ورسوله فما يسال عن شىء غيرها فينطلق به الى بيت كان له في النار، فيقال له : هذا بيتك كان لك في النار ولكن الله عصمك ورحمك فابدلك به بيتا في الجنة فيقول : دعوني حتى اذهب فابشر اهلي . فيقال له : اسكن . وان الكافر اذا وضع في قبره اتاه ملك فينتهره فيقول له : ما كنت تعبد فيقول : لا ادري . فيقال له : لا دريت ولا تليت . فيقال له : فما كنت تقول في هذا الرجل فيقول : كنت اقول ما يقول الناس . فيضربه بمطراق من حديد بين اذنيه فيصيح صيحة يسمعها الخلق غير الثقلين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4751-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4751-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4751-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4751-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1338) Sahih Muslim (2870)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09991",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4752,
+      "bookHadithIndex": 157,
+      "text": "حدثنا محمد بن سليمان، حدثنا عبد الوهاب، بمثل هذا الاسناد نحوه قال : \" ان العبد اذا وضع في قبره وتولى عنه اصحابه انه ليسمع قرع نعالهم، فياتيه ملكان فيقولان له \" . فذكر قريبا من حديث الاول قال فيه : \" واما الكافر والمنافق فيقولان له \" . زاد : \" المنافق \" . وقال : \" يسمعها من يليه غير الثقلين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4752-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4752-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4752-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4752-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1338) Sahih Muslim (2870)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09992",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4753,
+      "bookHadithIndex": 158,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا جرير، ح وحدثنا هناد بن السري، حدثنا ابو معاوية، - وهذا لفظ هناد - عن الاعمش، عن المنهال، عن زاذان، عن البراء بن عازب، قال : خرجنا مع رسول الله صلى الله عليه وسلم في جنازة رجل من الانصار، فانتهينا الى القبر ولما يلحد، فجلس رسول الله صلى الله عليه وسلم وجلسنا حوله كانما على رءوسنا الطير، وفي يده عود ينكت به في الارض، فرفع راسه فقال : \" استعيذوا بالله من عذاب القبر \" . مرتين او ثلاثا - زاد في حديث جرير ها هنا - وقال : \" وانه ليسمع خفق نعالهم اذا ولوا مدبرين حين يقال له : يا هذا من ربك وما دينك ومن نبيك \" . قال هناد قال : \" وياتيه ملكان فيجلسانه فيقولان له : من ربك فيقول : ربي الله . فيقولان له : ما دينك فيقول : ديني الاسلام . فيقولان له : ما هذا الرجل الذي بعث فيكم قال فيقول : هو رسول الله صلى الله عليه وسلم . فيقولان : وما يدريك فيقول : قرات كتاب الله فامنت به وصدقت \" . زاد في حديث جرير : \" فذلك قول الله عز وجل { يثبت الله الذين امنوا } \" . الاية . ثم اتفقا قال : \" فينادي مناد من السماء : ان قد صدق عبدي فافرشوه من الجنة، وافتحوا له بابا الى الجنة والبسوه من الجنة \" . قال : \" فياتيه من روحها وطيبها \" . قال : \" ويفتح له فيها مد بصره \" . قال : \" وان الكافر \" . فذكر موته قال : \" وتعاد روحه في جسده وياتيه ملكان فيجلسانه فيقولان : من ربك فيقول : هاه هاه هاه لا ادري . فيقولان له : ما دينك فيقول : هاه هاه لا ادري . فيقولان : ما هذا الرجل الذي بعث فيكم فيقول : هاه هاه لا ادري . فينادي مناد من السماء : ان كذب فافرشوه من النار والبسوه من النار، وافتحوا له بابا الى النار \" . قال : \" فياتيه من حرها وسمومها \" . قال : \" ويضيق عليه قبره حتى تختلف فيه اضلاعه \" . زاد في حديث جرير قال : \" ثم يقيض له اعمى ابكم معه مرزبة من حديد، لو ضرب بها جبل لصار ترابا \" . قال : \" فيضربه بها ضربة يسمعها ما بين المشرق والمغرب الا الثقلين فيصير ترابا \" . قال : \" ثم تعاد فيه الروح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4753-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4753-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09993",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4754,
+      "bookHadithIndex": 159,
+      "text": "حدثنا هناد بن السري، حدثنا عبد الله بن نمير، حدثنا الاعمش، حدثنا المنهال، عن ابي عمر، : زاذان قال سمعت البراء، عن النبي صلى الله عليه وسلم قال فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4754-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4754-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4754-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09994",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4755,
+      "bookHadithIndex": 160,
+      "text": "حدثنا يعقوب بن ابراهيم، وحميد بن مسعدة، ان اسماعيل بن ابراهيم، حدثهم قال اخبرنا يونس، عن الحسن، عن عايشة، : انها ذكرت النار فبكت فقال رسول الله صلى الله عليه وسلم : \" ما يبكيك \" . قالت : ذكرت النار فبكيت، فهل تذكرون اهليكم يوم القيامة قال رسول الله صلى الله عليه وسلم : \" اما في ثلاثة مواطن فلا يذكر احد احدا : عند الميزان حتى يعلم ايخف ميزانه او يثقل، وعند الكتاب حين يقال { هاوم اقرءوا كتابيه } حتى يعلم اين يقع كتابه افي يمينه ام في شماله ام من وراء ظهره، وعند الصراط اذا وضع بين ظهرى جهنم \" . قال يعقوب : عن يونس وهذا لفظ حديثه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4755-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4755-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4755-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09995",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4756,
+      "bookHadithIndex": 161,
+      "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن خالد الحذاء، عن عبد الله بن شقيق، عن عبد الله بن سراقة، عن ابي عبيدة بن الجراح، قال سمعت النبي صلى الله عليه وسلم يقول : \" انه لم يكن نبي بعد نوح الا وقد انذر الدجال قومه، واني انذركموه \" . فوصفه لنا رسول الله صلى الله عليه وسلم وقال : \" لعله سيدركه من قد راني وسمع كلامي \" . قالوا : يا رسول الله كيف قلوبنا يوميذ امثلها اليوم قال : \" او خير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4756-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4756-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4756-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09996",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4757,
+      "bookHadithIndex": 162,
+      "text": "حدثنا مخلد بن خالد، حدثنا عبد الرزاق، اخبرنا معمر، عن الزهري، عن سالم، عن ابيه، قال : قام النبي صلى الله عليه وسلم في الناس فاثنى على الله بما هو اهله، فذكر الدجال فقال : \" اني لانذركموه، وما من نبي الا قد انذره قومه، لقد انذره نوح قومه، ولكني ساقول لكم فيه قولا لم يقله نبي لقومه : انه اعور وان الله ليس باعور",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4757-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4757-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4757-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3055) Sahih Muslim (2930)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09997",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4758,
+      "bookHadithIndex": 163,
+      "text": "حدثنا احمد بن يونس، حدثنا زهير، وابو بكر بن عياش ومندل عن مطرف، عن ابي جهم، عن خالد بن وهبان، عن ابي ذر، قال قال رسول الله صلى الله عليه وسلم : \" من فارق الجماعة شبرا فقد خلع ربقة الاسلام من عنقه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4758-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4758-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4758-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09998",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4759,
+      "bookHadithIndex": 164,
+      "text": "حدثنا عبد الله بن محمد النفيلي، حدثنا زهير، حدثنا مطرف بن طريف، عن ابي الجهم، عن خالد بن وهبان، عن ابي ذر، قال قال رسول الله صلى الله عليه وسلم : \" كيف انتم وايمة من بعدي يستاثرون بهذا الفىء \" . قلت : اذا والذي بعثك بالحق اضع سيفي على عاتقي، ثم اضرب به حتى القاك او الحقك . قال : \" اولا ادلك على خير من ذلك تصبر حتى تلقاني",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4759-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4759-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4759-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4759-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09999",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4760,
+      "bookHadithIndex": 165,
+      "text": "حدثنا مسدد، وسليمان بن داود، - المعنى - قالا حدثنا حماد بن زيد، عن المعلى بن زياد، وهشام بن حسان، عن الحسن، عن ضبة بن محصن، عن ام سلمة، زوج النبي صلى الله عليه وسلم قالت قال رسول الله صلى الله عليه وسلم : \" ستكون عليكم ايمة تعرفون منهم وتنكرون فمن انكر \" . قال ابو داود قال هشام : \" بلسانه فقد بري، ومن كره بقلبه فقد سلم ولكن من رضي وتابع \" . فقيل : يا رسول الله افلا نقتلهم قال ابن داود : \" افلا نقاتلهم \" . قال : \" لا ما صلوا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4760-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4760-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4760-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1854)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0999a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4761,
+      "bookHadithIndex": 166,
+      "text": "حدثنا ابن بشار، حدثنا معاذ بن هشام، قال حدثني ابي، عن قتادة، قال حدثنا الحسن، عن ضبة بن محصن العنزي، عن ام سلمة، عن النبي صلى الله عليه وسلم بمعناه قال : \" فمن كره فقد بري، ومن انكر فقد سلم \" . قال قتادة : يعني من انكر بقلبه، ومن كره بقلبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4761-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4761-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4761-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0999b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4762,
+      "bookHadithIndex": 167,
+      "text": "حدثنا مسدد، حدثنا يحيى، عن شعبة، عن زياد بن علاقة، عن عرفجة، قال سمعت رسول الله صلى الله عليه وسلم يقول : \" ستكون في امتي هنات وهنات وهنات، فمن اراد ان يفرق امر المسلمين وهم جميع فاضربوه بالسيف كاينا من كان",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4762-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4762-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4762-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4762-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1852)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0999c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4763,
+      "bookHadithIndex": 168,
+      "text": "حدثنا محمد بن عبيد، ومحمد بن عيسى، - المعنى - قالا حدثنا حماد، عن ايوب، عن محمد، عن عبيدة، : ان عليا، ذكر اهل النهروان فقال : فيهم رجل مودن اليد او مخدج اليد، او مثدون اليد لولا ان تبطروا لنباتكم ما وعد الله الذين يقتلونهم على لسان محمد صلى الله عليه وسلم . قال قلت : انت سمعت هذا منه قال : اي ورب الكعبة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4763-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4763-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4763-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4763-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1066)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0999d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4764,
+      "bookHadithIndex": 169,
+      "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن ابيه، عن ابن ابي نعم، عن ابي سعيد الخدري، قال : بعث علي عليه السلام الى النبي صلى الله عليه وسلم بذهيبة في تربتها، فقسمها بين اربعة بين : الاقرع بن حابس الحنظلي ثم المجاشعي، وبين عيينة بن بدر الفزاري وبين زيد الخيل الطايي ثم احد بني نبهان وبين علقمة بن علاثة العامري ثم احد بني كلاب قال فغضبت قريش والانصار وقالت : يعطي صناديد اهل نجد ويدعنا . فقال : \" انما اتالفهم \" . قال : فاقبل رجل غاير العينين مشرف الوجنتين ناتي الجبين كث اللحية محلوق قال : اتق الله يا محمد . فقال : \" من يطع الله اذا عصيته ايامنني الله على اهل الارض ولا تامنوني \" . قال : فسال رجل قتله احسبه خالد بن الوليد - قال - فمنعه . قال : فلما ولى قال : \" ان من ضيضي هذا او في عقب هذا قوما يقرءون القران لا يجاوز حناجرهم يمرقون من الاسلام مروق السهم من الرمية، يقتلون اهل الاسلام ويدعون اهل الاوثان لين انا ادركتهم قتلتهم قتل عاد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4764-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4764-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4764-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3344) Sahih Muslim (1064)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0999e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4765,
+      "bookHadithIndex": 170,
+      "text": "حدثنا نصر بن عاصم الانطاكي، حدثنا الوليد، ومبشر، - يعني ابن اسماعيل الحلبي عن ابي عمرو، قال - يعني الوليد - حدثنا ابو عمرو، قال حدثني قتادة، عن ابي سعيد الخدري، وانس بن مالك، عن رسول الله صلى الله عليه وسلم قال : \" سيكون في امتي اختلاف وفرقة، قوم يحسنون القيل ويسييون الفعل ويقرءون القران لا يجاوز تراقيهم، يمرقون من الدين مروق السهم من الرمية لا يرجعون حتى يرتد على فوقه هم شر الخلق والخليقة طوبى لمن قتلهم وقتلوه، يدعون الى كتاب الله وليسوا منه في شىء، من قاتلهم كان اولى بالله منهم \" . قالوا : يا رسول الله ما سيماهم قال : \" التحليق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4765-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4765-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4765-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0999f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4766,
+      "bookHadithIndex": 171,
+      "text": "حدثنا الحسن بن علي، حدثنا عبد الرزاق، اخبرنا معمر، عن قتادة، عن انس، ان رسول الله صلى الله عليه وسلم نحوه قال : \" سيماهم التحليق والتسبيد، فاذا رايتموهم فانيموهم \" . قال ابو داود : التسبيد استيصال الشعر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4766-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4766-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4766-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f099a0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4767,
+      "bookHadithIndex": 172,
+      "text": "حدثنا محمد بن كثير، اخبرنا سفيان، حدثنا الاعمش، عن خيثمة، عن سويد بن غفلة، قال قال علي : اذا حدثتكم عن رسول الله صلى الله عليه وسلم حديثا فلان اخر من السماء احب الى من ان اكذب عليه واذا حدثتكم فيما بيني وبينكم فانما الحرب خدعة سمعت رسول الله صلى الله عليه وسلم يقول : \" ياتي في اخر الزمان قوم حدثاء الاسنان سفهاء الاحلام، يقولون من قول خير البرية يمرقون من الاسلام كما يمرق السهم من الرمية، لا يجاوز ايمانهم حناجرهم، فاينما لقيتموهم فاقتلوهم، فان قتلهم اجر لمن قتلهم يوم القيامة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4767-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4767-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4767-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4767-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3611) Sahih Muslim (1066)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f099a1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4768,
+      "bookHadithIndex": 173,
+      "text": "حدثنا الحسن بن علي، حدثنا عبد الرزاق، عن عبد الملك بن ابي سليمان، عن سلمة بن كهيل، قال اخبرني زيد بن وهب الجهني، : انه كان في الجيش الذين كانوا مع علي عليه السلام الذين ساروا الى الخوارج فقال علي عليه السلام : ايها الناس اني سمعت رسول الله صلى الله عليه وسلم يقول : \" يخرج قوم من امتي يقرءون القران ليست قراءتكم الى قراءتهم شييا ولا صلاتكم الى صلاتهم شييا ولا صيامكم الى صيامهم شييا، يقرءون القران يحسبون انه لهم وهو عليهم، لا تجاوز صلاتهم تراقيهم يمرقون من الاسلام كما يمرق السهم من الرمية، لو يعلم الجيش الذين يصيبونهم ما قضي لهم على لسان نبيهم صلى الله عليه وسلم لنكلوا على العمل، واية ذلك ان فيهم رجلا له عضد وليست له ذراع، على عضده مثل حلمة الثدى عليه شعرات بيض \" . افتذهبون الى معاوية واهل الشام وتتركون هولاء يخلفونكم في ذراريكم واموالكم والله اني لارجو ان يكونوا هولاء القوم، فانهم قد سفكوا الدم الحرام، واغاروا في سرح الناس فسيروا على اسم الله . قال : سلمة بن كهيل : فنزلني زيد بن وهب منزلا منزلا حتى مر بنا على قنطرة قال فلما التقينا وعلى الخوارج عبد الله بن وهب الراسبي فقال لهم : القوا الرماح وسلوا السيوف من جفونها، فاني اخاف ان يناشدوكم كما ناشدوكم يوم حروراء قال : فوحشوا برماحهم واستلوا السيوف وشجرهم الناس برماحهم - قال - وقتلوا بعضهم على بعضهم . قال : وما اصيب من الناس يوميذ الا رجلان فقال علي عليه السلام : التمسوا فيهم المخدج فلم يجدوا قال : فقام علي رضى الله عنه بنفسه حتى اتى ناسا قد قتل بعضهم على بعض فقال : اخرجوهم فوجدوه مما يلي الارض فكبر وقال : صدق الله وبلغ رسوله . فقام اليه عبيدة السلماني فقال : يا امير المومنين والله الذي لا اله الا هو لقد سمعت هذا من رسول الله صلى الله عليه وسلم فقال : اي والله الذي لا اله الا هو حتى استحلفه ثلاثا وهو يحلف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4768-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4768-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4768-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4768-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1066)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f099a2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4769,
+      "bookHadithIndex": 174,
+      "text": "حدثنا محمد بن عبيد، حدثنا حماد بن زيد، عن جميل بن مرة، قال حدثنا ابو الوضيء، قال قال علي عليه السلام : اطلبوا المخدج . فذكر الحديث فاستخرجوه من تحت القتلى في طين، قال ابو الوضيء : فكاني انظر اليه حبشي عليه قريطق له احدى يدين مثل ثدى المراة عليها شعيرات مثل شعيرات التي تكون على ذنب اليربوع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4769-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4769-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4769-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4769-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f099a3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4770,
+      "bookHadithIndex": 175,
+      "text": "حدثنا بشر بن خالد، حدثنا شبابة بن سوار، عن نعيم بن حكيم، عن ابي مريم، قال : ان كان ذلك المخدج لمعنا يوميذ في المسجد نجالسه بالليل والنهار، وكان فقيرا ورايته مع المساكين يشهد طعام علي عليه السلام مع الناس وقد كسوته برنسا لي . قال ابو مريم : وكان المخدج يسمى نافعا ذا الثدية، وكان في يده مثل ثدى المراة على راسه حلمة مثل حلمة الثدى عليه شعيرات مثل سبالة السنور . قال ابو داود : وهو عند الناس اسمه حرقوس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4770-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4770-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4770-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4770-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f099a4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4771,
+      "bookHadithIndex": 176,
+      "text": "حدثنا مسدد، حدثنا يحيى، عن سفيان، قال حدثني عبد الله بن حسن، قال حدثني عمي، ابراهيم بن محمد بن طلحة عن عبد الله بن عمرو، عن النبي صلى الله عليه وسلم قال : \" من اريد ماله بغير حق فقاتل فقتل فهو شهيد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4771-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4771-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4771-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f099a5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 42,
+      "hadithIndex": 4772,
+      "bookHadithIndex": 177,
+      "text": "حدثنا هارون بن عبد الله، حدثنا ابو داود الطيالسي، وسليمان بن داود، - يعني ابا ايوب الهاشمي - عن ابراهيم بن سعد، عن ابيه، عن ابي عبيدة بن محمد بن عمار بن ياسر، عن طلحة بن عبد الله بن عوف، عن سعيد بن زيد، عن النبي صلى الله عليه وسلم قال : \" من قتل دون ماله فهو شهيد، ومن قتل دون اهله او دون دمه او دون دينه فهو شهيد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4772-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4772-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-42-4772-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    }
+  ]
+}

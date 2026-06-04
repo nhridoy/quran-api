@@ -1,0 +1,93 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c55add1a4c9c86f093a8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3239,
+      "bookHadithIndex": 151,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3239-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1849) Sahih Muslim (1206)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093a9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3240,
+      "bookHadithIndex": 152,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3240-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f093aa",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3241,
+      "bookHadithIndex": 153,
+      "text": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Al Hakam] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; terdapat seorang laki-laki yang terjatuh dari untanya hingga lehernya patah dan membunuhnya, kemudian orang tersebut dibawa kepada Rasulullah shallallahu 'alaihi wasallam, kemudian beliau berkata: \"Mandikan serta kafanilah dia, dan jangan kalian tutup kepalanya, serta jangan kalian dekatkan minyak wangi kepadanya. Karena sesungguhnya ia akan dibangkitkan dalam keadaan bertalbiyah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3241-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1839)"
+        }
+      ]
+    }
+  ]
+}

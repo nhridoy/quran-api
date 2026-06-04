@@ -1,0 +1,593 @@
+{
+  "total": 120,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c8bfdd1a4c9c86f0ceff",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3351,
+      "bookHadithIndex": 101,
+      "text": "Telah menceritakan kepada kami [Daud bin Sulaiman Al 'Askari] dan [Muhammad bin Ash Shabah] keduanya berkata; telah menceritakan kepada kami [Sa'id bin Muhammad As Tsaqafi] dari [Musa Al Juhani] dari [Zaid bin Wahb] dari ['Athiyah bin 'Amir Al Juhani] dia berkata, \"Aku mendengar [Salman] dipaksa untuk memakan makanan, maka dia berkata, \"Cukuplah bagiku, sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya manusia yang paling banyak kenyang di dunia adalah manusia yang paling lapar di hari kiamat",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3351-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3351-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3351-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3351-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf00",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3352,
+      "bookHadithIndex": 102,
+      "text": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] dan [Suwaid bin Sa'id] serta [Yahya bin Utsman bin Sa'id bin Katsir bin Dinar Al Himshi] mereka berkata; telah menceritakan kepada kami [Baqiyah bin Al Walid] telah menceritakan kepada kami [Yusuf bin Abu Katsir] dari [Nuh bin Dzakwan] dari [Al Hasan] dari [Anas bin Malik] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Termasuk berlebih-lebihan adalah kamu memakan semua yang kamu inginkan",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3352-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3352-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3352-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3352-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf01",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3353,
+      "bookHadithIndex": 103,
+      "text": "Telah menceritakan kepada kami [Ibrahim bin Muhammad bin Yusuf Al Firyabi] telah menceritakan kepada kami [Wassaj bin 'Uqbah bin Wassaj] telah menceritakan kepada kami [Al Walid bin Muhammad Al Muwaqqari] telah menceritakan kepada kami [Az Zuhri] dari ['Urwah] dari [Aisyah] dia berkata, \"Nabi shallallahu 'alaihi wasallam masuk ke dalam rumah dan melihat remukan roti yang terbuang, maka beliau mengambilnya lalu mengusap dan memakannya, beliau bersabda: \"Wahai Aisyah, muliakanlah sesuatu yang mulia, tidaklah remukan roti itu pergi dari suatu kaum kecuali ia akan kembali kepada mereka",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3353-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3353-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3353-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3353-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf02",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3354,
+      "bookHadithIndex": 104,
+      "text": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Huraim] dari [Laits] dari [Ka'b] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam berdo'a: \"Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelaparan, karena kelaparan adalah seburuk-buruk teman tidur. Dan aku berlindung kepada-Mu dari khianat, karena dia adalah seburuk-buruk sesuatu yang tersembunyi",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3354-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3354-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3354-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf03",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3355,
+      "bookHadithIndex": 105,
+      "text": "Telah menceritakan kepada kami [Muhammad bin Abdullah Ar Raqqi] telah menceritakan kepada kami [Ibrahim bin Abdussalam bin Abdullah bin Babah Al Mahzumi] telah menceritakan kepada kami [Abdullah bin Maimun] dari [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian meninggalkan makan malam meski dengan segenggam kurma, sesungguhnya meninggalkannya itu akan mempercepat tua",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3355-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3355-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3355-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sanad Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3355-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf04",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3356,
+      "bookHadithIndex": 106,
+      "text": "Telah menceritakan kepada kami [Jubarah bin Al Mughallis] telah menceritakan kepada kami [Katsir bin Sulaim] dari [Anas bin Malik] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kebaikan itu lebih cepat masuk ke dalam rumah yang di dalamnya tamu dijamu, dari cepatnya pisau ke punuk unta",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3356-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3356-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3356-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3356-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf05",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3357,
+      "bookHadithIndex": 107,
+      "text": "Telah menceritakan kepada kami [Jubarah bin Al Mughallis] telah menceritakan kepada kami [Al Muharibi] telah menceritakan kepada kami [Abdurrahman bin Nahsyal] dari [Adl Dlahak bin Muzahim] dari [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kebaikan itu lebih cepat masuk ke dalam rumah yang di dalamnya tamu dijamu, dari cepatnya pisau ke punuk unta",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3357-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3357-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3357-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3357-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf06",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3358,
+      "bookHadithIndex": 108,
+      "text": "Telah menceritakan kepada kami [Ali bin Maimun Ar Raqi] telah menceritakan kepada kami [Utsman bin Abdurrahman] dari [Ali bin 'Urwah] dari [Abdul Malik] dari ['Atha] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya termasuk dari perkara yang sunnah adalah seseorang keluar bersama tamunya sampai ke pintu rumah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3358-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3358-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3358-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3358-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf07",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3359,
+      "bookHadithIndex": 109,
+      "text": "Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dari [Hisyam Ad Dastuwa`i] dari [Qatadah] dari [Sa'id bin Al Musayyab] dari [Ali] dia berkata, \"Aku membuat makanan kemudian mengundang Rasulullah shallallahu 'alaihi wasallam lalu beliau pun, tetapi beliau kembali pulang setelah melihat gambar yang ada di rumah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3359-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3359-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3359-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3359-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf08",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3360,
+      "bookHadithIndex": 110,
+      "text": "Telah menceritakan kepada kami [Abdurrahman bin Abdullah Al Jazari] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Sa'id bin Jumhan] telah menceritakan kepada kami [Safinah Abu Abdurrahman], bahwa seorang laki-laki bertamu kepada Ali bin Abu Thalib, lantas Ali membuat makanan untuknya. Fatimah pun berkata, \"Bagaimana kalau kita undang juga Nabi shallallahu 'alaihi wasallam dan makan bersama kita?\" Lalu beliau dipanggil, beliau datang lalu dan meletakkan tangannya di tiang pintu. Ketika melihat tabir tipis di bagian rumah, maka beliau pun kembali pulang. Fatimah lantas berkata kepada Ali, \"Kejar dan tanyakanlah kepada beliau 'Apa yang membuatmu bergegas pulang wahai Rasulullah? ' beliau menjawab: \"Sesungguhnya tidak layak bagiku untuk masuk ke dalam rumah yang dihias (lukisan)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3360-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3360-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3360-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3360-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf09",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3361,
+      "bookHadithIndex": 111,
+      "text": "Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Yahya bin Abdurrahman Al Arhabi] telah menceritakan kepada kami [Yunus bin Abu Al Ya'fur] dari [Ayahnya] dari [Ibnu Umar] mengatakan, bahwa Umar datang kepadanya saat ia berada di meja makannya. Ia lalu memberi tempat duduk kepadanya, Umar lalu mengucapkan 'Bismillah' seraya mengambil satu suapan dan mengambil lagi. Kemudian Umar berkata, \"Sesungguhnya aku merasakan rasa lemak, tetapi bukan lemak daging.\" Abdullah berkata, \"Wahai Amirul Mukminin, tadi aku keluar ke pasar untuk membeli minyak samin, namun aku mendapatkan harganya terlalu mahal, maka aku membeli tulang yang ada sedikit daging dengan harga satu dirham dan mencampurnya dengan sedirham samin, karena aku ingin anak-anakku bergantian mendapatkan satu tulang-satu tulang.\" Maka [Umar] berkata, \"Tidak pernah sama sekali Rasulullah shallallahu 'alaihi wasallam mendapatkan ini kecuali beliau memakan salah satunya dan bersedekah dengan yang lainnya.\" Maka Abdullah berkata, \"Ambillah wahai Amirul Mukminin, sekali-kali tidak akan menjadi satu di hadapanku kecuali aku akan melakukan seperti itu.\" Umar berkata, \"Aku tidak akan melakukannya",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3361-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3361-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3361-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3361-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf0a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3362,
+      "bookHadithIndex": 112,
+      "text": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Utsman bin Umar] telah menceritakan kepada kami [Abu Amir Al Khazzaz] dari [Abu Imran Al Jauni] dari [Abdullah bin Ash Shamit] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Jika kamu masak sayur perbanyaklah kuahnya, lalu bagikanlah kepada tetanggamu",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3362-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3362-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3362-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3362-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf0b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3363,
+      "bookHadithIndex": 113,
+      "text": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [Salim bin Abu Al Ja'd Al Ghathafani] dari [Ma'dan bin Abu Thalhah Al Ya'mari], bahwa [Umar bin Al Khaththab] berkhutbah pada hari Jum'at, setelah memuji Allah dan mengagungkan-Nya dia berkata, \"Wahai sekalian manusia, sesungguhnya kalian kerap memakan dua pohon yang aku kira keduanya adalah pohon yang buruk. Pohon tersebut adalah bawang putih dan bawang merah. Dan aku pernah menyaksikan seorang laki-laki pada masa Rasulullah shallallahu 'alaihi wasallam yang tercium darinya aroma pohon tersebut, sehingga ia ditarik dan dikeluarkan dari Baqi'. Oleh sebab itu, barangsiapa hendak makan keduanya, hendaknya ia memasaknya terlebih dahulu hingga keduanya benar-benar masak",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3363-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3363-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3363-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3363-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf0c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3364,
+      "bookHadithIndex": 114,
+      "text": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Ubaidullah bin Abu Yazid] dari [Ayahnya] dari [Ummu Ayyub] dia berkata, \"Aku membuatkan makanan yang di dalamnya ada beberapa kubis untuk Nabi shallallahu 'alaihi wasallam, namun beliau tidak memakannya. Beliau bersabda: \"Aku tidak ingin menyakiti sahabatku (yaitu Jibril)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3364-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3364-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3364-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3364-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf0d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3365,
+      "bookHadithIndex": 115,
+      "text": "Telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] telah memberitakan kepada kami [Abu Syuraih] dari [Abdurrahman bin Nimran Al Hajri] dari [Abu Az Zubair] dari [Jabir], bahwa sekelompok orang datang menemui Nabi shallallahu 'alaihi wasallam, lantas beliau mendapati aroma bawang bakung (barang perai) dari mereka, beliau lalu bersabda: \"Bukankah aku telah melarang kalian untuk memakan pohon ini? Sesungguhnya para Malaikat terganggu sebagaimana manusia terganggu dari bau aromanya",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3365-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3365-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3365-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf0e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3366,
+      "bookHadithIndex": 116,
+      "text": "Telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Ibnu Lahi'ah] dari [Utsman bin Nu'aim] dari [Al Mughirah bin Nahik] dari [Dukhain Al Hajri] bahwa dia mendengar ['Uqbah bin 'Amir Al Juhani] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: \"Janganlah kalian makan bawang merah.\" Kemudian beliau berkata dengan suara lirih: \"Yang mentah",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3366-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3366-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3366-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3366-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf0f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3367,
+      "bookHadithIndex": 117,
+      "text": "Telah menceritakan kepada kami [Isma'il bin Musa As Suddi] telah menceritakan kepada kami [Saif bin Harun] dari [Sulaiman At Taimi] dari [Abu Utsman An Nahdi] dari [Salman Al Farisi] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam ditanya tentang minyak samin dan keju serta bulu binatang, beliau menjawab: \"Yang halal adalah apa yang dihalalkan Allah di dalam kitab-Nya, dan yang haram adalah apa yang diharamkan Allah di dalam kitab-Nya, dan apa yang Dia diamkan adalah sesuatu yang Dia maafkan",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3367-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3367-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3367-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf10",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3368,
+      "bookHadithIndex": 118,
+      "text": "Telah menceritakan kepada kami ['Amru bin Utsman bin Sa'id bin Katsir bin Dinar Al Himshi] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Muhammad bin Abdurrahman bin 'Irq] dari [Ayahnya] dari [An Nu'man bin Basyir] dia berkata, \"Nabi shallallahu 'alaihi wasallam diberi hadiah anggur dari negeri Tha`if, kemudian beliau memanggilku dan bersabda: \"Ambilah setangkai ini, dan berikan kepada ibumu.\" Maka aku memakannya sebelum aku menyampaikan kepada ibuku. Setelah lewat beberapa malam, beliau bertanya kepadaku: \"Apa yang terjadi dengan setangkai anggur itu? Apakah sudah kamu berikan kepada ibumu.\" Aku menjawab, \"Belum, \" maka beliau pun menyebutku Ghudar (penghianat)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3368-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3368-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3368-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sanad Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3368-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf11",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3369,
+      "bookHadithIndex": 119,
+      "text": "Telah menceritakan kepada kami [Isma'il bin Muhammad At Thalhi] telah menceritakan kepada kami [Nuqaib bin Hajib] dari [Abu Sa'id] dari [Abdul Malik Az Zubairi] dari [Thalhah] dia berkata, \"Aku menemui Nabi shallallahu 'alaihi wasallam, dan di tangannya ada buah safarjal (sejenis jambu), beliau lalu bersabda: \"Ambillah buah ini wahai Thalhah, sesungguhnya ia membuat hati bahagia",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3369-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3369-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3369-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3369-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cf12",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 29,
+      "hadithIndex": 3370,
+      "bookHadithIndex": 120,
+      "text": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Katsir bin Hisyam] telah menceritakan kepada kami [Ja'far bin Burqan] dari [Az Zuhri] dari [Salim] dari [Ayahnya] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang seseorang makan sambil telungkup",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3370-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3370-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3370-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-29-3370-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

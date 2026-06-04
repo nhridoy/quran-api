@@ -1,0 +1,1403 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c55add1a4c9c86f09344",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3139,
+      "bookHadithIndex": 51,
+      "text": "حدثنا سليمان بن داود المهري، حدثنا ابن وهب، عن الليث، بهذا الحديث بمعناه قال يجمع بين الرجلين من قتلى احد في ثوب واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3139-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3139-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3139-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3139-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09345",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3140,
+      "bookHadithIndex": 52,
+      "text": "حدثنا علي بن سهل الرملي، حدثنا حجاج، عن ابن جريج، قال اخبرت عن حبيب بن ابي ثابت، عن عاصم بن ضمرة، عن علي، ان النبي صلى الله عليه وسلم قال \" لا تبرز فخذك ولا تنظرن الى فخذ حى ولا ميت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3140-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3140-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3140-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09346",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3141,
+      "bookHadithIndex": 53,
+      "text": "حدثنا النفيلي، حدثنا محمد بن سلمة، عن محمد بن اسحاق، حدثني يحيى بن عباد، عن ابيه، عباد بن عبد الله بن الزبير قال سمعت عايشة، تقول لما ارادوا غسل النبي صلى الله عليه وسلم قالوا والله ما ندري انجرد رسول الله صلى الله عليه وسلم من ثيابه كما نجرد موتانا ام نغسله وعليه ثيابه فلما اختلفوا القى الله عليهم النوم حتى ما منهم رجل الا وذقنه في صدره ثم كلمهم مكلم من ناحية البيت لا يدرون من هو ان اغسلوا النبي صلى الله عليه وسلم وعليه ثيابه فقاموا الى رسول الله صلى الله عليه وسلم فغسلوه وعليه قميصه يصبون الماء فوق القميص ويدلكونه بالقميص دون ايديهم وكانت عايشة تقول لو استقبلت من امري ما استدبرت ما غسله الا نساوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3141-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3141-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3141-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3141-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09347",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3142,
+      "bookHadithIndex": 54,
+      "text": "حدثنا القعنبي، عن مالك، ح وحدثنا مسدد، حدثنا حماد بن زيد، - المعنى - عن ايوب، عن محمد بن سيرين، عن ام عطية، قالت دخل علينا رسول الله صلى الله عليه وسلم حين توفيت ابنته فقال \" اغسلنها ثلاثا او خمسا او اكثر من ذلك - ان رايتن ذلك - بماء وسدر واجعلن في الاخرة كافورا او شييا من كافور فاذا فرغتن فاذنني \" . فلما فرغنا اذناه فاعطانا حقوه فقال \" اشعرنها اياه \" . قال عن مالك يعني ازاره ولم يقل مسدد دخل علينا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3142-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3142-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3142-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1253) Sahih Muslim (939)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09348",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3143,
+      "bookHadithIndex": 55,
+      "text": "حدثنا احمد بن عبدة، وابو كامل - بمعنى الاسناد - ان يزيد بن زريع، حدثهم حدثنا ايوب، عن محمد بن سيرين، عن حفصة، اخته عن ام عطية، قالت مشطناها ثلاثة قرون",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3143-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3143-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3143-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3143-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (939)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09349",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3144,
+      "bookHadithIndex": 56,
+      "text": "حدثنا محمد بن المثنى، حدثنا عبد الاعلى، حدثنا هشام، عن حفصة بنت سيرين، عن ام عطية، قالت وضفرنا راسها ثلاثة قرون ثم القيناها خلفها مقدم راسها وقرنيها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3144-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3144-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3144-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3144-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1263) Sahih Muslim (939)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0934a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3145,
+      "bookHadithIndex": 57,
+      "text": "حدثنا ابو كامل، وحدثنا اسماعيل، حدثنا خالد، عن حفصة بنت سيرين، عن ام عطية، ان رسول الله صلى الله عليه وسلم قال لهن في غسل ابنته \" ابدان بميامنها ومواضع الوضوء منها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3145-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3145-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3145-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (167) Sahih Muslim (939)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0934b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3146,
+      "bookHadithIndex": 58,
+      "text": "حدثنا محمد بن عبيد، حدثنا حماد، عن ايوب، عن محمد بن سيرين، عن ام عطية، بمعنى حديث مالك زاد في حديث حفصة عن ام عطية بنحو هذا وزادت فيه \" او سبعا او اكثر من ذلك ان رايتنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3146-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3146-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3146-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3146-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1253) Sahih Muslim (939)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0934c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3147,
+      "bookHadithIndex": 59,
+      "text": "حدثنا هدبة بن خالد، حدثنا همام، حدثنا قتادة، عن محمد بن سيرين، انه كان ياخذ الغسل عن ام عطية، يغسل بالسدر مرتين والثالثة بالماء والكافور",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3147-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3147-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3147-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3147-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0934d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3148,
+      "bookHadithIndex": 60,
+      "text": "حدثنا احمد بن حنبل، حدثنا عبد الرزاق، اخبرنا ابن جريج، عن ابي الزبير، انه سمع جابر بن عبد الله، يحدث عن النبي صلى الله عليه وسلم انه خطب يوما فذكر رجلا من اصحابه قبض فكفن في كفن غير طايل وقبر ليلا فزجر النبي صلى الله عليه وسلم ان يقبر الرجل بالليل حتى يصلى عليه الا ان يضطر انسان الى ذلك وقال النبي صلى الله عليه وسلم \" اذا كفن احدكم اخاه فليحسن كفنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3148-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3148-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3148-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (943)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0934e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3149,
+      "bookHadithIndex": 61,
+      "text": "حدثنا احمد بن حنبل، حدثنا الوليد بن مسلم، حدثنا الاوزاعي، حدثنا الزهري، عن القاسم بن محمد، عن عايشة، قالت ادرج رسول الله صلى الله عليه وسلم في ثوب حبرة ثم اخر عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3149-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3149-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3149-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3149-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0934f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3150,
+      "bookHadithIndex": 62,
+      "text": "حدثنا الحسن بن الصباح البزار، حدثنا اسماعيل، - يعني ابن عبد الكريم - حدثني ابراهيم بن عقيل بن معقل، عن ابيه، عن وهب، - يعني ابن منبه - عن جابر، قال سمعت رسول الله صلى الله عليه وسلم يقول \" اذا توفي احدكم فوجد شييا فليكفن في ثوب حبرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3150-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3150-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3150-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3150-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09350",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3151,
+      "bookHadithIndex": 63,
+      "text": "حدثنا احمد بن حنبل، حدثنا يحيى بن سعيد، عن هشام، قال اخبرني ابي، اخبرتني عايشة، قالت كفن رسول الله صلى الله عليه وسلم في ثلاثة اثواب يمانية بيض ليس فيها قميص ولا عمامة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3151-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3151-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3151-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3151-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1272) Sahih Muslim (941)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09351",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3152,
+      "bookHadithIndex": 64,
+      "text": "حدثنا قتيبة بن سعيد، حدثنا حفص، عن هشام بن عروة، عن ابيه، عن عايشة، مثله زاد من كرسف . قال فذكر لعايشة قولهم في ثوبين وبرد حبرة فقالت قد اتي بالبرد ولكنهم ردوه ولم يكفنوه فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3152-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3152-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3152-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3152-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1271) Sahih Muslim (941)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09352",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3153,
+      "bookHadithIndex": 65,
+      "text": "حدثنا احمد بن حنبل، وعثمان بن ابي شيبة، قالا حدثنا ابن ادريس، عن يزيد، - يعني ابن ابي زياد - عن مقسم، عن ابن عباس، قال كفن رسول الله صلى الله عليه وسلم في ثلاثة اثواب نجرانية الحلة ثوبان وقميصه الذي مات فيه . قال ابو داود قال عثمان في ثلاثة اثواب حلة حمراء وقميصه الذي مات فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3153-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3153-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3153-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3153-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09353",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3154,
+      "bookHadithIndex": 66,
+      "text": "حدثنا محمد بن عبيد المحاربي، حدثنا عمرو بن هاشم ابو مالك الجنبي، عن اسماعيل بن ابي خالد، عن عامر، عن علي بن ابي طالب، قال لا تغال لي في كفن فاني سمعت رسول الله صلى الله عليه وسلم يقول \" لا تغالوا في الكفن فانه يسلبه سلبا سريعا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3154-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3154-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3154-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09354",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3155,
+      "bookHadithIndex": 67,
+      "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن الاعمش، عن ابي وايل، عن خباب، قال ان مصعب بن عمير قتل يوم احد ولم يكن له الا نمرة كنا اذا غطينا بها راسه خرج رجلاه واذا غطينا رجليه خرج راسه فقال رسول الله صلى الله عليه وسلم \" غطوا بها راسه واجعلوا على رجليه شييا من الاذخر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3155-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3155-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3155-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3155-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3913، 6432) Sahih Muslim (940)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09355",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3156,
+      "bookHadithIndex": 68,
+      "text": "حدثنا احمد بن صالح، حدثني ابن وهب، حدثني هشام بن سعد، عن حاتم بن ابي نصر، عن عبادة بن نسى، عن ابيه، عن عبادة بن الصامت، عن رسول الله صلى الله عليه وسلم قال \" خير الكفن الحلة وخير الاضحية الكبش الاقرن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3156-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3156-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3156-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3156-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09356",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3157,
+      "bookHadithIndex": 69,
+      "text": "حدثنا احمد بن حنبل، حدثنا يعقوب بن ابراهيم، حدثنا ابي، عن ابن اسحاق، حدثني نوح بن حكيم الثقفي، - وكان قاريا للقران - عن رجل، من بني عروة بن مسعود يقال له داود قد ولدته ام حبيبة بنت ابي سفيان زوج النبي صلى الله عليه وسلم عن ليلى بنت قانف الثقفية قالت كنت فيمن غسل ام كلثوم بنت رسول الله صلى الله عليه وسلم عند وفاتها فكان اول ما اعطانا رسول الله صلى الله عليه وسلم الحقاء ثم الدرع ثم الخمار ثم الملحفة ثم ادرجت بعد في الثوب الاخر قالت ورسول الله صلى الله عليه وسلم جالس عند الباب معه كفنها يناولناها ثوبا ثوبا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3157-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3157-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3157-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3157-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09357",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3158,
+      "bookHadithIndex": 70,
+      "text": "حدثنا مسلم بن ابراهيم، حدثنا المستمر بن الريان، عن ابي نضرة، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم \" اطيب طيبكم المسك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3158-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3158-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3158-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3158-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09358",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3159,
+      "bookHadithIndex": 71,
+      "text": "حدثنا عبد الرحيم بن مطرف الرواسي ابو سفيان، واحمد بن جناب، قالا حدثنا عيسى، - قال ابو داود هو ابن يونس - عن سعيد بن عثمان البلوي، عن عزرة، - وقال عبد الرحيم عروة بن سعيد الانصاري - عن ابيه، عن الحصين بن وحوح، ان طلحة بن البراء، مرض فاتاه النبي صلى الله عليه وسلم يعوده فقال \" اني لا ارى طلحة الا قد حدث فيه الموت فاذنوني به وعجلوا فانه لا ينبغي لجيفة مسلم ان تحبس بين ظهرانى اهله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3159-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3159-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3159-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3159-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09359",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3160,
+      "bookHadithIndex": 72,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا محمد بن بشر، حدثنا زكريا، حدثنا مصعب بن شيبة، عن طلق بن حبيب العنزي، عن عبد الله بن الزبير، عن عايشة، انها حدثته ان النبي صلى الله عليه وسلم كان يغتسل من اربع من الجنابة ويوم الجمعة ومن الحجامة وغسل الميت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3160-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3160-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3160-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3160-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0935a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3161,
+      "bookHadithIndex": 73,
+      "text": "حدثنا احمد بن صالح، حدثنا ابن ابي فديك، حدثني ابن ابي ذيب، عن القاسم بن عباس، عن عمرو بن عمير، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" من غسل الميت فليغتسل ومن حمله فليتوضا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3161-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3161-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3161-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0935b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3162,
+      "bookHadithIndex": 74,
+      "text": "حدثنا حامد بن يحيى، عن سفيان، عن سهيل بن ابي صالح، عن ابيه، عن اسحاق، مولى زايدة عن ابي هريرة، عن النبي صلى الله عليه وسلم بمعناه . قال ابو داود هذا منسوخ سمعت احمد بن حنبل وسيل عن الغسل من غسل الميت فقال يجزيه الوضوء . قال ابو داود ادخل ابو صالح بينه وبين ابي هريرة في هذا الحديث - يعني اسحاق مولى زايدة - قال وحديث مصعب ضعيف فيه خصال ليس العمل عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3162-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3162-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3162-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3162-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0935c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3163,
+      "bookHadithIndex": 75,
+      "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن عاصم بن عبيد الله، عن القاسم، عن عايشة، قالت رايت رسول الله صلى الله عليه وسلم يقبل عثمان بن مظعون وهو ميت حتى رايت الدموع تسيل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3163-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3163-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3163-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3163-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0935d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3164,
+      "bookHadithIndex": 76,
+      "text": "حدثنا محمد بن حاتم بن بزيع، حدثنا ابو نعيم، عن محمد بن مسلم، عن عمرو بن دينار، اخبرني جابر بن عبد الله، - او سمعت جابر بن عبد الله، - قال راى ناس نارا في المقبرة فاتوها فاذا رسول الله صلى الله عليه وسلم في القبر واذا هو يقول \" ناولوني صاحبكم \" . فاذا هو الرجل الذي كان يرفع صوته بالذكر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3164-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3164-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3164-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0935e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3165,
+      "bookHadithIndex": 77,
+      "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن الاسود بن قيس، عن نبيح، عن جابر بن عبد الله، قال كنا حملنا القتلى يوم احد لندفنهم فجاء منادي النبي صلى الله عليه وسلم فقال ان رسول الله صلى الله عليه وسلم يامركم ان تدفنوا القتلى في مضاجعهم فرددناهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3165-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3165-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3165-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3165-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0935f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3166,
+      "bookHadithIndex": 78,
+      "text": "حدثنا محمد بن عبيد، حدثنا حماد، عن محمد بن اسحاق، عن يزيد بن ابي حبيب، عن مرثد اليزني، عن مالك بن هبيرة، قال قال رسول الله صلى الله عليه وسلم \" ما من مسلم يموت فيصلي عليه ثلاثة صفوف من المسلمين الا اوجب \" . قال فكان مالك اذا استقل اهل الجنازة جزاهم ثلاثة صفوف للحديث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3166-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3166-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3166-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09360",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3167,
+      "bookHadithIndex": 79,
+      "text": "حدثنا سليمان بن حرب، حدثنا حماد، عن ايوب، عن حفصة، عن ام عطية، قالت نهينا ان نتبع، الجنايز ولم يعزم علينا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3167-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3167-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3167-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (313) Sahih Muslim (938 After  1491)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09361",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3168,
+      "bookHadithIndex": 80,
+      "text": "حدثنا مسدد، حدثنا سفيان، عن سمى، عن ابي صالح، عن ابي هريرة، يرويه قال من تبع جنازة فصلى عليها فله قيراط ومن تبعها حتى يفرغ منها فله قيراطان اصغرهما مثل احد او احدهما مثل احد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3168-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3168-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3168-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3168-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09362",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3169,
+      "bookHadithIndex": 81,
+      "text": "حدثنا هارون بن عبد الله، وعبد الرحمن بن حسين الهروي، قالا حدثنا المقري، حدثنا حيوة، حدثني ابو صخر، - وهو حميد بن زياد - ان يزيد بن عبد الله بن قسيط، حدثه ان داود بن عامر بن سعد بن ابي وقاص حدثه عن ابيه، انه كان عند ابن عمر بن الخطاب اذ طلع خباب صاحب المقصورة فقال يا عبد الله بن عمر الا تسمع ما يقول ابو هريرة انه سمع رسول الله صلى الله عليه وسلم يقول \" من خرج مع جنازة من بيتها وصلى عليها \" . فذكر معنى حديث سفيان فارسل ابن عمر الى عايشة فقالت صدق ابو هريرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3169-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3169-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3169-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (945)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09363",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3170,
+      "bookHadithIndex": 82,
+      "text": "حدثنا الوليد بن شجاع السكوني، حدثنا ابن وهب، اخبرني ابو صخر، عن شريك بن عبد الله بن ابي نمر، عن كريب، عن ابن عباس، قال سمعت النبي صلى الله عليه وسلم يقول \" ما من مسلم يموت فيقوم على جنازته اربعون رجلا لا يشركون بالله شييا الا شفعوا فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3170-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3170-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3170-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (948)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09364",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3171,
+      "bookHadithIndex": 83,
+      "text": "حدثنا هارون بن عبد الله، حدثنا عبد الصمد، ح وحدثنا ابن المثنى، حدثنا ابو داود، قالا حدثنا حرب، - يعني ابن شداد - حدثنا يحيى، حدثني باب بن عمير، حدثني رجل، من اهل المدينة عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا تتبع الجنازة بصوت ولا نار \" . زاد هارون \" ولا يمشى بين يديها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3171-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3171-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3171-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09365",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3172,
+      "bookHadithIndex": 84,
+      "text": "حدثنا مسدد، حدثنا سفيان، عن الزهري، عن سالم، عن ابيه، عن عامر بن ربيعة، يبلغ به النبي صلى الله عليه وسلم \" اذا رايتم الجنازة فقوموا لها حتى تخلفكم او توضع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3172-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3172-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3172-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1307) Sahih Muslim (958)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09366",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3173,
+      "bookHadithIndex": 85,
+      "text": "حدثنا احمد بن يونس، حدثنا زهير، حدثنا سهيل بن ابي صالح، عن ابن ابي سعيد الخدري، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" اذا تبعتم الجنازة فلا تجلسوا حتى توضع \" . قال ابو داود روى هذا الحديث الثوري عن سهيل عن ابيه عن ابي هريرة قال فيه حتى توضع بالارض ورواه ابو معاوية عن سهيل قال حتى توضع في اللحد . قال ابو داود وسفيان احفظ من ابي معاوية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3173-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3173-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3173-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09367",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3174,
+      "bookHadithIndex": 86,
+      "text": "حدثنا مومل بن الفضل الحراني، حدثنا الوليد، حدثنا ابو عمرو، عن يحيى بن ابي كثير، عن عبيد الله بن مقسم، حدثني جابر، قال كنا مع النبي صلى الله عليه وسلم اذ مرت بنا جنازة فقام لها فلما ذهبنا لنحمل اذا هي جنازة يهودي فقلنا يا رسول الله انما هي جنازة يهودي . فقال \" ان الموت فزع فاذا رايتم جنازة فقوموا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3174-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3174-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3174-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3174-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1311) Sahih Muslim (960)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09368",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3175,
+      "bookHadithIndex": 87,
+      "text": "حدثنا القعنبي، عن مالك، عن يحيى بن سعيد، عن واقد بن عمرو بن سعد بن معاذ الانصاري، عن نافع بن جبير بن مطعم، عن مسعود بن الحكم، عن علي بن ابي طالب، ان النبي صلى الله عليه وسلم قام في الجنايز ثم قعد بعد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3175-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3175-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3175-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3175-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (962)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09369",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3176,
+      "bookHadithIndex": 88,
+      "text": "حدثنا هشام بن بهرام المدايني، اخبرنا حاتم بن اسماعيل، حدثنا ابو الاسباط الحارثي، عن عبد الله بن سليمان بن جنادة بن ابي امية، عن ابيه، عن جده، عن عبادة بن الصامت، قال كان رسول الله صلى الله عليه وسلم يقوم في الجنازة حتى توضع في اللحد فمر به حبر من اليهود فقال هكذا نفعل . فجلس النبي صلى الله عليه وسلم وقال \" اجلسوا خالفوهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3176-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3176-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3176-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3176-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0936a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3177,
+      "bookHadithIndex": 89,
+      "text": "حدثنا يحيى بن موسى البلخي، اخبرنا عبد الرزاق، اخبرنا معمر، عن يحيى بن ابي كثير، عن ابي سلمة بن عبد الرحمن بن عوف، عن ثوبان، ان رسول الله صلى الله عليه وسلم اتي بدابة وهو مع الجنازة فابى ان يركبها فلما انصرف اتي بدابة فركب فقيل له فقال \" ان الملايكة كانت تمشي فلم اكن لاركب وهم يمشون فلما ذهبوا ركبت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3177-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3177-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3177-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0936b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3178,
+      "bookHadithIndex": 90,
+      "text": "حدثنا عبيد الله بن معاذ، حدثنا ابي، حدثنا شعبة، عن سماك، سمع جابر بن سمرة، قال صلى النبي صلى الله عليه وسلم على ابن الدحداح ونحن شهود ثم اتي بفرس فعقل حتى ركبه فجعل يتوقص به ونحن نسعى حوله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3178-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3178-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3178-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (965)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0936c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3179,
+      "bookHadithIndex": 91,
+      "text": "حدثنا القعنبي، حدثنا سفيان بن عيينة، عن الزهري، عن سالم، عن ابيه، قال رايت النبي صلى الله عليه وسلم وابا بكر وعمر يمشون امام الجنازة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3179-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3179-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3179-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0936d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3180,
+      "bookHadithIndex": 92,
+      "text": "حدثنا وهب بن بقية، عن خالد، عن يونس، عن زياد بن جبير، عن ابيه، عن المغيرة بن شعبة، - واحسب ان اهل، زياد اخبروني انه، رفعه الى النبي صلى الله عليه وسلم - قال \" الراكب يسير خلف الجنازة والماشي يمشي خلفها وامامها وعن يمينها وعن يسارها قريبا منها والسقط يصلى عليه ويدعى لوالديه بالمغفرة والرحمة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3180-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3180-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3180-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0936e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3181,
+      "bookHadithIndex": 93,
+      "text": "حدثنا مسدد، حدثنا سفيان، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، يبلغ به النبي صلى الله عليه وسلم قال \" اسرعوا بالجنازة فان تك صالحة فخير تقدمونها اليه وان تك سوى ذلك فشر تضعونه عن رقابكم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3181-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3181-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3181-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3181-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1315) Sahih Muslim (944)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0936f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3182,
+      "bookHadithIndex": 94,
+      "text": "حدثنا مسلم بن ابراهيم، حدثنا شعبة، عن عيينة بن عبد الرحمن، عن ابيه، انه كان في جنازة عثمان بن ابي العاص وكنا نمشي مشيا خفيفا فلحقنا ابو بكرة فرفع سوطه فقال لقد رايتنا ونحن مع رسول الله صلى الله عليه وسلم نرمل رملا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3182-alalbani",
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3182-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3182-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3182-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09370",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3183,
+      "bookHadithIndex": 95,
+      "text": "حدثنا حميد بن مسعدة، حدثنا خالد بن الحارث، ح وحدثنا ابراهيم بن موسى، حدثنا عيسى، - يعني ابن يونس - عن عيينة، بهذا الحديث قالا في جنازة عبد الرحمن بن سمرة وقال فحمل عليهم بغلته واهوى بالسوط",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3183-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3183-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3183-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3183-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09371",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3184,
+      "bookHadithIndex": 96,
+      "text": "حدثنا مسدد، حدثنا ابو عوانة، عن يحيى المجبر، - قال ابو داود وهو يحيى بن عبد الله التيمي - عن ابي ماجدة، عن ابن مسعود، قال سالنا نبينا صلى الله عليه وسلم عن المشى مع الجنازة فقال \" ما دون الخبب ان يكن خيرا تعجل اليه وان يكن غير ذلك فبعدا لاهل النار والجنازة متبوعة ولا تتبع ليس معها من تقدمها \" . قال ابو داود وهو ضعيف هو يحيى بن عبد الله وهو يحيى الجابر . قال ابو داود وهذا كوفي وابو ماجدة بصري . قال ابو داود ابو ماجدة هذا لا يعرف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3184-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3184-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3184-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3184-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09372",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3185,
+      "bookHadithIndex": 97,
+      "text": "حدثنا ابن نفيل، حدثنا زهير، حدثنا سماك، حدثني جابر بن سمرة، قال مرض رجل فصيح عليه فجاء جاره الى رسول الله صلى الله عليه وسلم فقال له انه قد مات . قال \" وما يدريك \" . قال انا رايته . قال رسول الله صلى الله عليه وسلم \" انه لم يمت \" . قال فرجع فصيح عليه فجاء الى رسول الله صلى الله عليه وسلم فقال انه قد مات . فقال النبي صلى الله عليه وسلم \" انه لم يمت \" . فرجع فصيح عليه فقالت امراته انطلق الى رسول الله صلى الله عليه وسلم فاخبره . فقال الرجل اللهم العنه . قال ثم انطلق الرجل فراه قد نحر نفسه بمشقص معه فانطلق الى النبي صلى الله عليه وسلم فاخبره انه قد مات فقال \" ما يدريك \" . قال رايته ينحر نفسه بمشاقص معه . قال \" انت رايته \" . قال نعم . قال \" اذا لا اصلي عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3185-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3185-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3185-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (978)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09373",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3186,
+      "bookHadithIndex": 98,
+      "text": "حدثنا ابو كامل، حدثنا ابو عوانة، عن ابي بشر، حدثني نفر، من اهل البصرة عن ابي برزة الاسلمي، ان رسول الله صلى الله عليه وسلم لم يصل على ماعز بن مالك ولم ينه عن الصلاة عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3186-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3186-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3186-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3186-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09374",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3187,
+      "bookHadithIndex": 99,
+      "text": "حدثنا محمد بن يحيى بن فارس، حدثنا يعقوب بن ابراهيم بن سعد، حدثنا ابي، عن ابن اسحاق، حدثني عبد الله بن ابي بكر، عن عمرة بنت عبد الرحمن، عن عايشة، قالت مات ابراهيم ابن النبي صلى الله عليه وسلم وهو ابن ثمانية عشر شهرا فلم يصل عليه رسول الله صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3187-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3187-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3187-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09375",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 21,
+      "hadithIndex": 3188,
+      "bookHadithIndex": 100,
+      "text": "حدثنا هناد بن السري، حدثنا محمد بن عبيد، عن وايل بن داود، قال سمعت البهي، قال لما مات ابراهيم ابن النبي صلى الله عليه وسلم صلى عليه رسول الله صلى الله عليه وسلم في المقاعد . قال ابو داود قرات على سعيد بن يعقوب الطالقاني قيل له حدثكم ابن المبارك عن يعقوب بن القعقاع عن عطاء ان النبي صلى الله عليه وسلم صلى على ابنه ابراهيم وهو ابن سبعين ليلة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3188-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3188-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-21-3188-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

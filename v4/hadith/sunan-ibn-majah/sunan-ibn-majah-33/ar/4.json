@@ -1,0 +1,598 @@
+{
+  "total": 170,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0c7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3807,
+      "bookHadithIndex": 151,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عفان، حدثنا حماد بن سلمة، عن ابي سنان، عن عثمان بن ابي سودة، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم مر به وهو يغرس غرسا فقال \" يا ابا هريرة ما الذي تغرس \" . قلت غراسا لي . قال \" الا ادلك على غراس خير لك من هذا \" . قال بلى يا رسول الله . قال \" قل سبحان الله والحمد لله ولا اله الا الله والله اكبر يغرس لك بكل واحدة شجرة في الجنة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3807-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3807-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3807-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0c8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3808,
+      "bookHadithIndex": 152,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن بشر، حدثنا مسعر، حدثني محمد بن عبد الرحمن، عن ابي رشدين، عن ابن عباس، عن جويرية، قالت مر بها رسول الله صلى الله عليه وسلم حين صلى الغداة او بعد ما صلى الغداة وهي تذكر الله فرجع حين ارتفع النهار - او قال انتصف - وهي كذلك فقال \" لقد قلت منذ قمت عنك اربع كلمات ثلاث مرات هي اكثر وارجح - او اوزن - مما قلت سبحان الله عدد خلقه سبحان الله رضا نفسه سبحان الله زنة عرشه سبحان الله مداد كلماته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3808-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3808-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3808-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3808-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0c9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3809,
+      "bookHadithIndex": 153,
+      "text": "حدثنا ابو بشر، بكر بن خلف حدثني يحيى بن سعيد، عن موسى بن ابي عيسى الطحان، عن عون بن عبد الله، عن ابيه، او عن اخيه، عن النعمان بن بشير، قال قال رسول الله صلى الله عليه وسلم \" ان مما تذكرون من جلال الله التسبيح والتهليل والتحميد ينعطفن حول العرش لهن دوي كدوي النحل تذكر بصاحبها اما يحب احدكم ان يكون له - او لا يزال له - من يذكر به",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3809-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3809-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3809-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3809-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0ca",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3810,
+      "bookHadithIndex": 154,
+      "text": "حدثنا ابراهيم بن المنذر الحزامي، حدثنا ابو يحيى، زكريا بن منظور حدثني محمد بن عقبة بن ابي مالك، عن ام هاني، قالت اتيت الى رسول الله صلى الله عليه وسلم فقلت يا رسول الله دلني على عمل فاني قد كبرت وضعفت وبدنت . فقال \" كبري الله ماية مرة واحمدي الله ماية مرة وسبحي الله ماية مرة خير من ماية فرس ملجم مسرج في سبيل الله وخير من ماية بدنة وخير من ماية رقبة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3810-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3810-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3810-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3810-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0cb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3811,
+      "bookHadithIndex": 155,
+      "text": "حدثنا ابو عمر، حفص بن عمرو حدثنا عبد الرحمن بن مهدي، حدثنا سفيان، عن سلمة بن كهيل، عن هلال بن يساف، عن سمرة بن جندب، عن النبي صلى الله عليه وسلم قال \" اربع افضل الكلام لا يضرك بايهن بدات سبحان الله والحمد لله ولا اله الا الله والله اكبر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3811-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3811-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3811-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3811-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0cc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3812,
+      "bookHadithIndex": 156,
+      "text": "حدثنا نصر بن عبد الرحمن الوشاء، حدثنا عبد الرحمن المحاربي، عن مالك بن انس، عن سمى، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من قال سبحان الله وبحمده ماية مرة غفرت له ذنوبه ولو كانت مثل زبد البحر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3812-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3812-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3812-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3812-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0cd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3813,
+      "bookHadithIndex": 157,
+      "text": "حدثنا علي بن محمد، حدثنا ابو معاوية، عن عمر بن راشد، عن يحيى بن ابي كثير، عن ابي سلمة بن عبد الرحمن، عن ابي الدرداء، قال قال لي رسول الله صلى الله عليه وسلم \" عليك بسبحان الله والحمد لله ولا اله الا الله والله اكبر فانها - يعني - يحططن الخطايا كما تحط الشجرة ورقها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3813-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3813-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3813-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3813-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0ce",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3814,
+      "bookHadithIndex": 158,
+      "text": "حدثنا علي بن محمد، حدثنا ابو اسامة، والمحاربي، عن مالك بن مغول، عن محمد بن سوقة، عن نافع، عن ابن عمر، قال ان كنا لنعد لرسول الله صلى الله عليه وسلم في المجلس يقول \" رب اغفر لي وتب على انك انت التواب الرحيم \" . ماية مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3814-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3814-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3814-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3814-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0cf",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3815,
+      "bookHadithIndex": 159,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن بشر، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اني لاستغفر الله واتوب اليه في اليوم ماية مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3815-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3815-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3815-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3815-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3816,
+      "bookHadithIndex": 160,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن مغيرة بن ابي الحر، عن سعيد بن ابي بردة بن ابي موسى، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" اني لاستغفر الله واتوب اليه في اليوم سبعين مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3816-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3816-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3816-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3816-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3817,
+      "bookHadithIndex": 161,
+      "text": "حدثنا علي بن محمد، حدثنا ابو بكر بن عياش، عن ابي اسحاق، عن ابي المغيرة، عن حذيفة، قال كان في لساني ذرب على اهلي وكان لا يعدوهم الى غيرهم فذكرت ذلك للنبي صلى الله عليه وسلم فقال \" اين انت من الاستغفار تستغفر الله في اليوم سبعين مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3817-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3817-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3817-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3817-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3818,
+      "bookHadithIndex": 162,
+      "text": "حدثنا عمرو بن عثمان بن سعيد بن كثير بن دينار الحمصي، حدثنا ابي، حدثنا محمد بن عبد الرحمن بن عرق، سمعت عبد الله بن بسر، يقول قال النبي صلى الله عليه وسلم \" طوبى لمن وجد في صحيفته استغفارا كثيرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3818-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3818-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3818-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3818-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3819,
+      "bookHadithIndex": 163,
+      "text": "حدثنا هشام بن عمار، حدثنا الوليد بن مسلم، حدثنا الحكم بن مصعب، عن محمد بن علي بن عبد الله بن عباس، انه حدثه عن عبد الله بن عباس، قال قال رسول الله صلى الله عليه وسلم \" من لزم الاستغفار جعل الله له من كل هم فرجا ومن كل ضيق مخرجا ورزقه من حيث لا يحتسب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3819-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3819-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3819-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3819-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3820,
+      "bookHadithIndex": 164,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، عن حماد بن سلمة، عن على بن زيد، عن ابي عثمان، عن عايشة، ان النبي صلى الله عليه وسلم كان يقول \" اللهم اجعلني من الذين اذا احسنوا استبشروا واذا اساءوا استغفروا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3820-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3820-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3820-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3820-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3821,
+      "bookHadithIndex": 165,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن الاعمش، عن المعرور بن سويد، عن ابي ذر، قال قال رسول الله صلى الله عليه وسلم \" يقول الله تبارك وتعالى من جاء بالحسنة فله عشر امثالها وازيد ومن جاء بالسيية فجزاء سيية مثلها او اغفر ومن تقرب مني شبرا تقربت منه ذراعا ومن تقرب مني ذراعا تقربت منه باعا ومن اتاني يمشي اتيته هرولة ومن لقيني بقراب الارض خطيية ثم لا يشرك بي شييا لقيته بمثلها مغفرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3821-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3821-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3821-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3821-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3822,
+      "bookHadithIndex": 166,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا ابو معاوية، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" يقول الله سبحانه انا عند ظن عبدي بي وانا معه حين يذكرني فان ذكرني في نفسه ذكرته في نفسي وان ذكرني في ملا ذكرته في ملا خير منهم وان اقترب الى شبرا اقتربت اليه ذراعا وان اتاني يمشي اتيته هرولة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3822-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3822-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3822-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3822-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3823,
+      "bookHadithIndex": 167,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو معاوية، ووكيع، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" كل عمل ابن ادم يضاعف له الحسنة بعشر امثالها الى سبعماية ضعف . قال الله سبحانه الا الصوم فانه لي وانا اجزي به",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3823-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3823-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3823-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3823-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3824,
+      "bookHadithIndex": 168,
+      "text": "حدثنا محمد بن الصباح، انبانا جرير، عن عاصم الاحول، عن ابي عثمان، عن ابي موسى، قال سمعني النبي صلى الله عليه وسلم وانا اقول، لا حول ولا قوة الا بالله . قال \" يا عبد الله بن قيس الا ادلك على كلمة من كنوز الجنة \" . قلت بلى يا رسول الله . قال \" قل لا حول ولا قوة الا بالله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3824-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3824-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3824-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3824-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0d9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3825,
+      "bookHadithIndex": 169,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن الاعمش، عن مجاهد، عن عبد الرحمن بن ابي ليلى، عن ابي ذر، قال قال لي رسول الله صلى الله عليه وسلم \" الا ادلك على كنز من كنوز الجنة \" . قلت بلى يا رسول الله . قال \" لا حول ولا قوة الا بالله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3825-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3825-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3825-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3825-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0d0da",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 33,
+      "hadithIndex": 3826,
+      "bookHadithIndex": 170,
+      "text": "حدثنا يعقوب بن حميد المدني، حدثنا محمد بن معن، حدثنا خالد بن سعيد، عن ابي زينب، مولى حازم بن حرملة عن حازم بن حرملة، قال مررت بالنبي صلى الله عليه وسلم فقال لي \" يا حازم اكثر من قول لا حول ولا قوة الا بالله فانها من كنوز الجنة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3826-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3826-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-33-3826-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    }
+  ]
+}

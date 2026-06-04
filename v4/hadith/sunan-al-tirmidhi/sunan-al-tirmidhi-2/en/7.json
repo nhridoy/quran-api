@@ -1,0 +1,113 @@
+{
+  "total": 304,
+  "totalPage": 7,
+  "page": 7,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e1",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 448,
+      "bookHadithIndex": 301,
+      "text": "Aishah narrated:\"The Prophet (S) stood (in prayer) with an Ayah from the Qur'an at night",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-448-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-448-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-448-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e2",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 449,
+      "bookHadithIndex": 302,
+      "text": "Abdullah bin Abi Qais narrated:\"I asked Aishah how the recitation of the Prophet (S) was at night. [Would he recite silently o audibly?] So she said: 'He would do both of those. Sometimes he was silent with his recitation and sometimes it was audible.' So I said: 'All praise is due to Allah, the One who made the matter broad",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-449-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-449-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-449-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e3",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 450,
+      "bookHadithIndex": 303,
+      "text": "Zaid bin Thabit narrated that:The Prophet (S) said: \"The most virtuous prayer of yours is in your homes, except for the obligatory",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-450-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-450-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-450-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c702dd1a4c9c86f0b3e4",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 2,
+      "hadithIndex": 451,
+      "bookHadithIndex": 304,
+      "text": "Ibn Umar narrated that :The Prophet (S) said: \"Offer Salat in your homes and do not turn them into graves",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-2-451-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    }
+  ]
+}

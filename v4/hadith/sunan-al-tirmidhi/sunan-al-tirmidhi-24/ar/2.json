@@ -1,0 +1,488 @@
+{
+  "total": 68,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b913",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1770,
+      "bookHadithIndex": 54,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1770-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1770-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1770-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b914",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1771,
+      "bookHadithIndex": 59,
+      "text": "حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن يزيد الرشك، عن ابي المليح، عن النبي صلى الله عليه وسلم انه نهى عن جلود السباع . وهذا اصح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1771-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1771-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b915",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1772,
+      "bookHadithIndex": 60,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو داود، حدثنا همام، عن قتادة، قال قلت لانس بن مالك كيف كان نعل رسول الله صلى الله عليه وسلم قال لهما قبالان . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1772-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1772-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1772-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1772-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b916",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1773,
+      "bookHadithIndex": 61,
+      "text": "حدثنا اسحاق بن منصور، اخبرنا حبان بن هلال، حدثنا همام، حدثنا قتادة، عن انس، ان رسول الله صلى الله عليه وسلم كان نعلاه لهما قبالان . قال ابو عيسى هذا حديث حسن صحيح . قال وفي الباب عن ابن عباس وابي هريرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1773-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1773-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1773-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1773-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b917",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1774,
+      "bookHadithIndex": 62,
+      "text": "حدثنا قتيبة، عن مالك، ح وحدثنا الانصاري، حدثنا معن، حدثنا مالك، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" لا يمشي احدكم في نعل واحدة لينعلهما جميعا او ليحفهما جميعا \" . قال ابو عيسى هذا حديث حسن صحيح . قال وفي الباب عن جابر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1774-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1774-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1774-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1774-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b918",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1775,
+      "bookHadithIndex": 63,
+      "text": "حدثنا ازهر بن مروان البصري، حدثنا الحارث بن نبهان، عن معمر، عن عمار بن ابي عمار، عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم ان ينتعل الرجل وهو قايم . قال ابو عيسى هذا حديث غريب . وروى عبيد الله بن عمرو الرقي هذا الحديث عن معمر عن قتادة عن انس وكلا الحديثين لا يصح عند اهل الحديث . والحارث بن نبهان ليس عندهم بالحافظ ولا نعرف لحديث قتادة عن انس اصلا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1775-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1775-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1775-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b919",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1776,
+      "bookHadithIndex": 64,
+      "text": "حدثنا ابو جعفر السمناني، حدثنا سليمان بن عبيد الله الرقي، حدثنا عبيد الله بن عمرو الرقي، عن معمر، عن قتادة، عن انس، ان رسول الله صلى الله عليه وسلم نهى ان ينتعل الرجل وهو قايم . قال ابو عيسى هذا حديث غريب . وقال محمد بن اسماعيل ولا يصح هذا الحديث ولا حديث معمر عن عمار بن ابي عمار عن ابي هريرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1776-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1776-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1776-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b91a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1777,
+      "bookHadithIndex": 65,
+      "text": "حدثنا القاسم بن دينار، حدثنا اسحاق بن منصور السلولي، كوفي حدثنا هريم بن سفيان البجلي الكوفي، عن ليث، عن عبد الرحمن بن القاسم، عن ابيه، عن عايشة، قالت ربما مشى النبي صلى الله عليه وسلم في نعل واحدة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1777-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1777-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1777-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b91b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1778,
+      "bookHadithIndex": 66,
+      "text": "حدثنا احمد بن منيع، حدثنا سفيان بن عيينة، عن عبد الرحمن بن القاسم، عن ابيه، عن عايشة، انها مشت بنعل واحدة . وهذا اصح . قال ابو عيسى وهكذا رواه سفيان الثوري وغير واحد عن عبد الرحمن بن القاسم موقوفا وهذا اصح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1778-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1778-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1778-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b91c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1779,
+      "bookHadithIndex": 67,
+      "text": "حدثنا الانصاري، حدثنا معن، حدثنا مالك، ح وحدثنا قتيبة، عن مالك، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" اذا انتعل احدكم فليبدا باليمين واذا نزع فليبدا بالشمال فلتكن اليمنى اولهما تنعل واخرهما تنزع \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1779-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1779-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1779-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1779-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b91d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1780,
+      "bookHadithIndex": 68,
+      "text": "حدثنا يحيى بن موسى، حدثنا سعيد بن محمد الوراق، وابو يحيى الحماني قالا حدثنا صالح بن حسان، عن عروة، عن عايشة، قالت قال لي رسول الله صلى الله عليه وسلم \" اذا اردت اللحوق بي فليكفيك من الدنيا كزاد الراكب واياك ومجالسة الاغنياء ولا تستخلقي ثوبا حتى ترقعيه \" . قال ابو عيسى هذا حديث غريب لا نعرفه الا من حديث صالح بن حسان . قال وسمعت محمدا يقول صالح بن حسان منكر الحديث وصالح بن ابي حسان الذي روى عنه ابن ابي ذيب ثقة . قال ابو عيسى ومعنى قوله \" واياك ومجالسة الاغنياء \" . هو نحو ما روي عن ابي هريرة عن النبي صلى الله عليه وسلم انه قال \" من راى من فضل عليه في الخلق والرزق فلينظر الى من هو اسفل منه ممن فضل هو عليه فانه اجدر ان لا يزدري نعمة الله عليه \" . ويروى عن عون بن عبد الله بن عتبة قال صحبت الاغنياء فلم ار احدا اكثر هما مني ارى دابة خيرا من دابتي وثوبا خيرا من ثوبي وصحبت الفقراء فاسترحت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1780-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1780-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1780-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b91e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1781,
+      "bookHadithIndex": 69,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1781-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1781-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b91f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1782,
+      "bookHadithIndex": 71,
+      "text": "حدثنا حميد بن مسعدة، حدثنا محمد بن حمران، عن ابي سعيد، وهو عبد الله بن بسر قال سمعت ابا كبشة الانماري، يقول كانت كمام اصحاب رسول الله صلى الله عليه وسلم بطحا . قال ابو عيسى هذا حديث منكر . وعبد الله بن بسر بصري هو ضعيف عند اهل الحديث ضعفه يحيى بن سعيد وغيره . وبطح يعني واسعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1782-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1782-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1782-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1782-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b920",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1783,
+      "bookHadithIndex": 72,
+      "text": "حدثنا قتيبة، حدثنا ابو الاحوص، عن ابي اسحاق، عن مسلم بن نذير، عن حذيفة، قال اخذ رسول الله صلى الله عليه وسلم بعضلة ساقي او ساقه فقال \" هذا موضع الازار فان ابيت فاسفل فان ابيت فلا حق للازار في الكعبين \" . قال ابو عيسى هذا حديث حسن صحيح . رواه الثوري وشعبة عن ابي اسحاق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1783-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1783-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1783-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1783-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b921",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1784,
+      "bookHadithIndex": 73,
+      "text": "حدثنا قتيبة، حدثنا محمد بن ربيعة، عن ابي الحسن العسقلاني، عن ابي جعفر بن محمد بن ركانة، عن ابيه، ان ركانة، صارع النبي صلى الله عليه وسلم فصرعه النبي صلى الله عليه وسلم قال ركانة سمعت رسول الله صلى الله عليه وسلم يقول \" ان فرق ما بيننا وبين المشركين العمايم على القلانس \" . قال ابو عيسى هذا حديث غريب واسناده ليس بالقايم . ولا نعرف ابا الحسن العسقلاني ولا ابن ركانة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1784-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1784-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1784-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b922",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1785,
+      "bookHadithIndex": 74,
+      "text": "حدثنا محمد بن حميد، حدثنا زيد بن حباب، وابو تميلة يحيى بن واضح عن عبد الله بن مسلم، عن عبد الله بن بريدة، عن ابيه، قال جاء رجل الى النبي صلى الله عليه وسلم وعليه خاتم من حديد فقال \" ما لي ارى عليك حلية اهل النار \" . ثم جاءه وعليه خاتم من صفر فقال \" ما لي اجد منك ريح الاصنام \" . ثم اتاه وعليه خاتم من ذهب فقال \" ما لي ارى عليك حلية اهل الجنة \" . قال من اى شيء اتخذه قال \" من ورق ولا تتمه مثقالا \" . قال ابو عيسى هذا حديث غريب . وفي الباب عن عبد الله بن عمرو . وعبد الله بن مسلم يكنى ابا طيبة وهو مروزي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1785-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1785-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1785-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b923",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1786,
+      "bookHadithIndex": 75,
+      "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن عاصم بن كليب، عن ابن ابي موسى، قال سمعت عليا، يقول نهاني رسول الله صلى الله عليه وسلم عن القسي والميثرة الحمراء وان البس خاتمي في هذه وفي هذه . واشار الى السبابة والوسطى . قال ابو عيسى هذا حديث حسن صحيح . وابن ابي موسى هو ابو بردة بن ابي موسى واسمه عامر بن عبد الله بن قيس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1786-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1786-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1786-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1786-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b924",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 24,
+      "hadithIndex": 1787,
+      "bookHadithIndex": 76,
+      "text": "حدثنا محمد بن بشار، حدثنا معاذ بن هشام، حدثني ابي، عن قتادة، عن انس، قال كان احب الثياب الى رسول الله صلى الله عليه وسلم يلبسها الحبرة . قال ابو عيسى هذا حديث حسن صحيح غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1787-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1787-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1787-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-24-1787-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    }
+  ]
+}

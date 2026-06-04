@@ -1,0 +1,318 @@
+{
+  "total": 311,
+  "totalPage": 7,
+  "page": 7,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c518dd1a4c9c86f091da",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2777,
+      "bookHadithIndex": 301,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا جرير، عن مغيرة، عن الشعبي، عن جابر، عن النبي صلى الله عليه وسلم قال \" ان احسن ما دخل الرجل على اهله اذا قدم من سفر اول الليل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2777-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2777-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2777-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2777-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5244) Sahih Muslim (715 After 1928)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091db",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2778,
+      "bookHadithIndex": 302,
+      "text": "حدثنا احمد بن حنبل، حدثنا هشيم، اخبرنا سيار، عن الشعبي، عن جابر بن عبد الله، قال كنا مع النبي صلى الله عليه وسلم في سفر فلما ذهبنا لندخل قال \" امهلوا حتى ندخل ليلا لكى تمتشط الشعثة وتستحد المغيبة \" . قال ابو داود قال الزهري الطروق بعد العشاء . قال ابو داود وبعد المغرب لا باس به",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2778-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2778-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2778-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2778-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5247) Sahih Muslim (715 After 1928)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091dc",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2779,
+      "bookHadithIndex": 303,
+      "text": "حدثنا ابن السرح، حدثنا سفيان، عن الزهري، عن السايب بن يزيد، قال لما قدم النبي صلى الله عليه وسلم المدينة من غزوة تبوك تلقاه الناس فلقيته مع الصبيان على ثنية الوداع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2779-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2779-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2779-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2779-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4427)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091dd",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2780,
+      "bookHadithIndex": 304,
+      "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، اخبرنا ثابت البناني، عن انس بن مالك، ان فتى، من اسلم قال يا رسول الله اني اريد الجهاد وليس لي مال اتجهز به . قال \" اذهب الى فلان الانصاري فانه كان قد تجهز فمرض فقل له ان رسول الله صلى الله عليه وسلم يقريك السلام وقل له ادفع الى ما تجهزت به \" . فاتاه فقال له ذلك فقال لامراته يا فلانة ادفعي له ما جهزتني به ولا تحبسي منه شييا فوالله لا تحبسين منه شييا فيبارك الله فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2780-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2780-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2780-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2780-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1894)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091de",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2781,
+      "bookHadithIndex": 305,
+      "text": "حدثنا محمد بن المتوكل العسقلاني، والحسن بن علي، قالا حدثنا عبد الرزاق، اخبرني ابن جريج، قال اخبرني ابن شهاب، قال اخبرني عبد الرحمن بن عبد الله بن كعب بن مالك، عن ابيه عبد الله بن كعب، وعمه، عبيد الله بن كعب عن ابيهما، كعب بن مالك ان النبي صلى الله عليه وسلم كان لا يقدم من سفر الا نهارا . قال الحسن في الضحى فاذا قدم من سفر اتى المسجد فركع فيه ركعتين ثم جلس فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2781-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2781-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2781-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih Sahih Bukhari (3088) Sahih Muslim (3769)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091df",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2782,
+      "bookHadithIndex": 306,
+      "text": "حدثنا محمد بن منصور الطوسي، حدثنا يعقوب، حدثنا ابي، عن ابن اسحاق، حدثني نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم حين اقبل من حجته دخل المدينة فاناخ على باب مسجده ثم دخله فركع فيه ركعتين ثم انصرف الى بيته . قال نافع فكان ابن عمر كذلك يصنع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2782-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2782-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2782-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091e0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2783,
+      "bookHadithIndex": 307,
+      "text": "حدثنا جعفر بن مسافر التنيسي، حدثنا ابن ابي فديك، حدثنا الزمعي، عن الزبير بن عثمان بن عبد الله بن سراقة، ان محمد بن عبد الرحمن بن ثوبان، اخبره ان ابا سعيد الخدري اخبره ان رسول الله صلى الله عليه وسلم قال \" اياكم والقسامة \" . قال فقلنا وما القسامة قال \" الشىء يكون بين الناس فيجيء فينتقص منه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2783-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2783-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2783-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091e1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2784,
+      "bookHadithIndex": 308,
+      "text": "حدثنا عبد الله القعنبي، حدثنا عبد العزيز، - يعني ابن محمد - عن شريك، - يعني ابن ابي نمر - عن عطاء بن يسار، عن النبي صلى الله عليه وسلم نحوه . قال \" الرجل يكون على الفيام من الناس فياخذ من حظ هذا وحظ هذا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2784-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2784-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2784-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091e2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2785,
+      "bookHadithIndex": 309,
+      "text": "حدثنا الربيع بن نافع، حدثنا معاوية، - يعني ابن سلام - عن زيد، - يعني ابن سلام - انه سمع ابا سلام، يقول حدثني عبيد الله بن سلمان، ان رجلا، من اصحاب النبي صلى الله عليه وسلم حدثه قال لما فتحنا خيبر اخرجوا غنايمهم من المتاع والسبى فجعل الناس يتبايعون غنايمهم فجاء رجل حين صلى رسول الله صلى الله عليه وسلم فقال يا رسول الله لقد ربحت ربحا ما ربح اليوم مثله احد من اهل هذا الوادي قال \" ويحك وما ربحت \" . قال ما زلت ابيع وابتاع حتى ربحت ثلاثماية اوقية فقال رسول الله صلى الله عليه وسلم \" انا انبيك بخير رجل ربح \" . قال ما هو يا رسول الله قال \" ركعتين بعد الصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2785-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2785-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2785-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2785-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091e3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2786,
+      "bookHadithIndex": 310,
+      "text": "حدثنا مسدد، حدثنا عيسى بن يونس، اخبرني ابي، عن ابي اسحاق، عن ذي الجوشن، - رجل من الضباب - قال اتيت النبي صلى الله عليه وسلم بعد ان فرغ من اهل بدر بابن فرس لي يقال لها القرحاء فقلت يا محمد اني قد جيتك بابن القرحاء لتتخذه قال \" لا حاجة لي فيه وان شيت ان اقيضك به المختارة من دروع بدر فعلت \" . قلت ما كنت اقيضه اليوم بغرة . قال \" فلا حاجة لي فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2786-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2786-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2786-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2786-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f091e4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 15,
+      "hadithIndex": 2787,
+      "bookHadithIndex": 311,
+      "text": "حدثنا محمد بن داود بن سفيان، حدثنا يحيى بن حسان، اخبرنا سليمان بن موسى ابو داود، حدثنا جعفر بن سعد بن سمرة بن جندب، حدثني خبيب بن سليمان، عن ابيه، سليمان بن سمرة عن سمرة بن جندب، اما بعد قال رسول الله صلى الله عليه وسلم \" من جامع المشرك وسكن معه فانه مثله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2787-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2787-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2787-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-15-2787-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "total": 51,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b8ae",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 22,
+      "hadithIndex": 1669,
+      "bookHadithIndex": 52,
+      "text": "Telah menceritakan kepada kami [Ziyad bin Ayyub] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah memberitakan kepada kami [Al Walid bin Jamil Al Filasthini] dari [Al Qasim bin 'Abdurrahman] dari [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak ada sesuatu yang dicintai oleh Allah kecuali dua tetas air dan dua bekas; tetesan air mata karena takut kepada Allah dan tetesan darah yang tertumpah di jalan Allah. Adapun dua bekas itu adalah; bekas karena di jalan Allah dan bekas karena melaksanakan kewajiban Allah.\" Ia berkata, \"Hadits derajatnya hasan gharib",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

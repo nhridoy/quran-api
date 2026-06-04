@@ -1,0 +1,38 @@
+{
+  "total": 51,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c8bfdd1a4c9c86f0ce9a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 28,
+      "hadithIndex": 3250,
+      "bookHadithIndex": 51,
+      "text": "। জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিড়াল ও তার ক্রয়মূল্য ভোগ করতে নিষেধ করেছেন।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-28-3250-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-28-3250-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-28-3250-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-28-3250-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

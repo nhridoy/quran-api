@@ -1,0 +1,1333 @@
+{
+  "total": 502,
+  "totalPage": 11,
+  "page": 8,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b04",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5123,
+      "bookHadithIndex": 351,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5123-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5123-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5123-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b05",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5124,
+      "bookHadithIndex": 352,
+      "text": "Передают со слов аль-Микдама бин Ма‘дикариба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если человек полюбит брата своего, пусть сообщит ему о том, что он любит его»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5124-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5124-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5124-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b06",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5125,
+      "bookHadithIndex": 353,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5125-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5125-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5125-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b07",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5126,
+      "bookHadithIndex": 354,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5126-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5126-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5126-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5126-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b08",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5127,
+      "bookHadithIndex": 355,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5127-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5127-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5127-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5127-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b09",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5128,
+      "bookHadithIndex": 356,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5128-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5128-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5128-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5128-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b0a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5129,
+      "bookHadithIndex": 357,
+      "text": "Абу Мас‘уд ‘Укба бин Амр аль-Ансари аль-Бадри, да будет доволен им Аллах, сказал: «... Посланник Аллаха ﷺ сказал: “Указавшему на благое (полагается) такая же награда как и совершившему его”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5129-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5129-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5129-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5129-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1893)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b0b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5130,
+      "bookHadithIndex": 358,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5130-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5130-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5130-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b0c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5131,
+      "bookHadithIndex": 359,
+      "text": "Сообщается, что Абу Муса, да будет доволен им Аллах, что Посланник Аллаха ﷺ говорил: «Ходатайствуйте (за просящих) и вы получите награду, а Аллах объявит об угодном Ему решении через Своего пророка»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5131-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5131-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5131-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6027) Sahih Muslim (2627)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b0d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5132,
+      "bookHadithIndex": 360,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5132-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5132-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5132-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b0e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5133,
+      "bookHadithIndex": 361,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5133-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5133-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5133-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b0f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5134,
+      "bookHadithIndex": 362,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5134-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5134-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5134-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b10",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5135,
+      "bookHadithIndex": 363,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5135-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5135-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5135-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b11",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5136,
+      "bookHadithIndex": 364,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5136-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5136-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5136-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (7) Sahih Muslim (1773)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b12",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5137,
+      "bookHadithIndex": 365,
+      "text": "Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Ребёнок не сможет отплатить своему родителю сполна, если только не найдёт его (чьим-нибудь) невольником, после чего выкупит и освободит его»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5137-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5137-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5137-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1510)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b13",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5138,
+      "bookHadithIndex": 366,
+      "text": "Сообщается, что Ибн Умар, да будет доволен Аллах ими обоими, сказал: (В своё время) у меня была жена, которую я любил, но которая не нравилась Умару, да будет доволен им Аллах. В конце концов он сказал мне: «Разведись с ней!», но я отказался, и тогда Умар, да будет доволен им Аллах, пришёл к Пророку ﷺ рассказал ему обо всём и Пророк ﷺ сказал: «Разведись с ней!»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5138-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5138-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5138-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b14",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5139,
+      "bookHadithIndex": 367,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5139-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5139-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5139-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b15",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5140,
+      "bookHadithIndex": 368,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5140-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5140-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b16",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5141,
+      "bookHadithIndex": 369,
+      "text": "Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Поношение человеком своих родителей относится к числу тягчайших грехов». Люди спросили: «О Посланник Аллаха, да разве (может) человек поносить собственных родителей?» Он сказал: «Да, (так может получиться, если) станет он поносить отца (другого) человека, а тот примется ругать его отца, и (если) станет он поносить мать (другого) человека, а тот примется ругать его мать!»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5141-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5141-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5141-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5141-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5973) Sahih Muslim (90)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b17",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5142,
+      "bookHadithIndex": 370,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5142-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5142-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5142-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b18",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5143,
+      "bookHadithIndex": 371,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5143-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5143-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5143-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5143-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2552)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b19",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5144,
+      "bookHadithIndex": 372,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5144-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5144-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5144-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5144-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b1a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5145,
+      "bookHadithIndex": 373,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5145-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5145-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5145-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b1b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5146,
+      "bookHadithIndex": 374,
+      "text": "Рассказали нам вместе (два брата) ‘Усман и Абу Бакр ибн Абу Шейба, которые сказали: Рассказал нам Абу Му‘авия от Абу Малика аль-Ашджа‘и, передавший от Ибн Худайра, передавший, что Ибн ‘Аббас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Того, у кого была дочь, которую он не закопал заживо, не унижал, и не отдавал сыну предпочтение перед ней, Аллах заведёт в рай”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5146-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5146-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5146-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5146-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b1c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5147,
+      "bookHadithIndex": 375,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5147-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5147-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5147-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b1d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5148,
+      "bookHadithIndex": 376,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5148-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5148-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b1e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5149,
+      "bookHadithIndex": 377,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5149-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5149-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5149-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b1f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5150,
+      "bookHadithIndex": 378,
+      "text": "Передают со слов Сахля (бин Са‘да ас-Са‘иди), да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «В раю мы с опекающим сироту будем (столь же близки друг к другу)», и(, сказав это,) он сделал знак указательным и средним пальцами, немного отведя их друг от друга",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5150-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5150-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5150-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5150-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6005)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b20",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5151,
+      "bookHadithIndex": 379,
+      "text": "Передают со слов ‘Аиши, да будет доволен Аллах ею обоими, что Посланник Аллаха ﷺ сказал: «Джибрил не прекращал давать мне наставления о необходимости хорошего отношения к соседу (так долго), что я даже подумал, что он включит его и в число наследников»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5151-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5151-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5151-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5151-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6014) Sahih Muslim (2624)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b21",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5152,
+      "bookHadithIndex": 380,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5152-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5152-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5152-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b22",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5153,
+      "bookHadithIndex": 381,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5153-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5153-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5153-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b23",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5154,
+      "bookHadithIndex": 382,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5154-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5154-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5154-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6138) Sahih Muslim (47)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b24",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5155,
+      "bookHadithIndex": 383,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5155-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5155-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5155-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1661)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b25",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5156,
+      "bookHadithIndex": 384,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5156-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5156-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5156-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b26",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5157,
+      "bookHadithIndex": 385,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5157-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5157-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b27",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5158,
+      "bookHadithIndex": 386,
+      "text": "Сообщается, что аль-Ма‘рур бин Сувайд сказал: (Однажды) я увидел Абу Зарра, да будет доволен им Аллах, который был одет в такую же одежду как и его раб... ...Пророк ﷺ сказал (ему): «Поистине, ты человек, в котором (сохранились остатки) невежества! Поистине, (ваши рабы) являются вашими братьями и вашими слугами, которых Аллах сделал подвластными вам, так пусть же тот, кто владеет братом своим, кормит его тем же, что ест сам, и одевает его в то же, что носит сам, и не поручайте им ничего непосильного для них, а если поручите, то оказывайте им помощь!»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5158-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5158-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5158-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b28",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5159,
+      "bookHadithIndex": 387,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5159-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5159-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5159-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5159-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b29",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5160,
+      "bookHadithIndex": 388,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5160-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5160-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5160-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b2a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5161,
+      "bookHadithIndex": 389,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5161-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5161-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b2b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5162,
+      "bookHadithIndex": 390,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5162-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5162-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5162-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5162-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b2c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5163,
+      "bookHadithIndex": 391,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5163-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5163-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5163-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5163-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b2d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5164,
+      "bookHadithIndex": 392,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5164-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5164-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5164-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5164-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b2e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5165,
+      "bookHadithIndex": 393,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5165-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5165-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5165-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5165-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6858) Sahih Muslim (1660)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b2f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5166,
+      "bookHadithIndex": 394,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5166-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5166-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5166-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1658)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b30",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5167,
+      "bookHadithIndex": 395,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5167-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5167-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5167-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5167-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1658)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b31",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5168,
+      "bookHadithIndex": 396,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5168-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5168-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5168-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5168-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1657)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b32",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5169,
+      "bookHadithIndex": 397,
+      "text": "Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Поистине, если раб будет проявлять искренность по отношению к своему хозяину и станет поклоняться Аллаху должным образом, он получит двойную награду»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5169-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5169-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5169-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2546) Sahih Muslim (1664)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b33",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5170,
+      "bookHadithIndex": 398,
+      "text": "Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не имеет к нам отношения тот, кто настраивает женщину против мужа или раба против господина»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5170-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5170-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5170-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b34",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5171,
+      "bookHadithIndex": 399,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5171-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5171-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5171-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5171-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6242) Sahih Muslim (2157)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b35",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5172,
+      "bookHadithIndex": 400,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5172-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5172-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5172-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5172-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2158)"
+        }
+      ]
+    }
+  ]
+}

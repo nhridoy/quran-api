@@ -1,0 +1,198 @@
+{
+  "total": 157,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b5e0",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 9,
+      "hadithIndex": 958,
+      "bookHadithIndex": 152,
+      "text": "Ali narrated:\"They day of Al-Hajj Al-Akbar is the Day of An-Nahr",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-958-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-958-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-958-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b5e1",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 9,
+      "hadithIndex": 959,
+      "bookHadithIndex": 153,
+      "text": "Ibn Ubaid bin Umair narrated from his father:\"Ibn Umar was clinging on the two corners (in a manner that I had not seen any of the Companions of the Prophet doing) so I said: 'O Abu Abdur-Rahman! You are clinging on the two corners in a manner that I have not seen any of the Companions of the Prophet clining.' So he said: 'I do it because I heard the Messenger of Allah saying: \"Touching them atones for sins.\" And I heard him saying: \"Whoever performs Tawaf around this House seven times and he keeps track of it, then it is as if he freed a slave.\" And I heard him saying: \"One foot is not put down, nor another raised except that Allah removes a sin from him and records a good merit for him",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-959-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-959-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-959-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-959-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b5e2",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 9,
+      "hadithIndex": 960,
+      "bookHadithIndex": 154,
+      "text": "Ibn Abbas narrated that :the Prophet said: \"Tawaf around the House is similar to Salat except that you talk during it. So whoever talks in it, then let him not say but good",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-960-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-960-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-960-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b5e3",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 9,
+      "hadithIndex": 961,
+      "bookHadithIndex": 155,
+      "text": "Ibn Abbas narrated that:The Messenger of Allah said about the (Black) Stone: \"By Allah! Allah will raise it on the Day of Resurrection with two eyes by which it sees and a tongue that it speaks with, testifying to whoever touched it in truth",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-961-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-961-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-961-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-961-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b5e4",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 9,
+      "hadithIndex": 962,
+      "bookHadithIndex": 156,
+      "text": "Ibn Umar narrated:\"The Prophet would apply oil that is not scented (Ghair Muqattat) while he was a Muhrim",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-962-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-962-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-962-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b5e5",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 9,
+      "hadithIndex": 963,
+      "bookHadithIndex": 157,
+      "text": "Hisham bin Urwah narrated :from his father about Aishah, that she would carry some Zamzam water, and she would say: \"Indeed the Messenger of Allah would carry it",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-963-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-963-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-963-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b5e6",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 9,
+      "hadithIndex": 964,
+      "bookHadithIndex": 158,
+      "text": "Abdul-Aziz bin Rufai narrated:\"I said to Anas bin Malik: 'Narrated something to me that you understand about where the Messenger of Allah performed Zuhr on the Day of Tarwiyah.' He said: 'In Mina.'\" \"I said: 'So where did he pray Asr on the day of departure?' He said: 'In Al-Abtab.' Then he said: 'Do what your leaders do",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-964-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-964-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-964-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-9-964-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "total": 114,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfb8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3536,
+      "bookHadithIndex": 101,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا عبدة بن سليمان، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، قال كان النبي صلى الله عليه وسلم يعجبه الفال الحسن ويكره الطيرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3536-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3536-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3536-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3536-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfb9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3537,
+      "bookHadithIndex": 102,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، انبانا شعبة، عن قتادة، عن انس، قال قال النبي صلى الله عليه وسلم \" لا عدوى ولا طيرة واحب الفال الصالح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3537-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3537-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfba",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3538,
+      "bookHadithIndex": 103,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، عن سفيان، عن سلمة، عن عيسى بن عاصم، عن زر، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" الطيرة شرك وما منا الا ولكن الله يذهبه بالتوكل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3538-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3538-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3538-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3538-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfbb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3539,
+      "bookHadithIndex": 104,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن سماك، عن عكرمة، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" لا عدوى ولا طيرة ولا هامة ولا صفر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3539-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3539-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3539-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3539-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfbc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3540,
+      "bookHadithIndex": 105,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، عن ابي جناب، عن ابيه، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" لا عدوى ولا طيرة ولا هامة \" . فقام اليه رجل فقال يا رسول الله البعير يكون به الجرب فتجرب به الابل . قال \" ذلك القدر فمن اجرب الاول",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3540-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3540-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3540-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3540-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfbd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3541,
+      "bookHadithIndex": 106,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا علي بن مسهر، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا يورد الممرض على المصح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3541-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3541-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3541-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3541-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfbe",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3542,
+      "bookHadithIndex": 107,
+      "text": "حدثنا ابو بكر، ومجاهد بن موسى، ومحمد بن خلف العسقلاني، قالوا حدثنا يونس بن محمد، حدثنا مفضل بن فضالة، عن حبيب بن الشهيد، عن محمد بن المنكدر، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم اخذ بيد رجل مجذوم فادخلها معه في القصعة ثم قال \" كل ثقة بالله وتوكلا على الله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3542-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3542-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3542-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3542-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfbf",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3543,
+      "bookHadithIndex": 108,
+      "text": "حدثنا عبد الرحمن بن ابراهيم، حدثنا عبد الله بن نافع، عن ابن ابي الزناد، ح وحدثنا علي بن ابي الخصيب، حدثنا وكيع، عن عبد الله بن سعيد بن ابي هند، جميعا عن محمد بن عبد الله بن عمرو بن عثمان، عن امه، فاطمة بنت الحسين عن ابن عباس، ان النبي صلى الله عليه وسلم قال \" لا تديموا النظر الى المجذومين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3543-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3543-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3543-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfc0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3544,
+      "bookHadithIndex": 109,
+      "text": "حدثنا عمرو بن رافع، حدثنا هشيم، عن يعلى بن عطاء، عن رجل، من ال الشريد يقال له عمرو عن ابيه قال كان في وفد ثقيف رجل مجذوم فارسل اليه النبي صلى الله عليه وسلم \" ارجع فقد بايعناك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3544-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3544-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3544-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3544-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfc1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3545,
+      "bookHadithIndex": 110,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن نمير، عن هشام، عن ابيه، عن عايشة، قالت سحر النبي صلى الله عليه وسلم يهودي من يهود بني زريق يقال له لبيد بن الاعصم حتى كان النبي صلى الله عليه وسلم يخيل اليه انه يفعل الشىء ولا يفعله . قالت حتى اذا كان ذات يوم او كان ذات ليلة دعا رسول الله صلى الله عليه وسلم ثم دعا ثم دعا ثم قال \" يا عايشة اشعرت ان الله قد افتاني فيما استفتيته فيه جاءني رجلان فجلس احدهما عند راسي والاخر عند رجلي فقال الذي عند راسي للذي عند رجلي او الذي عند رجلي للذي عند راسي ما وجع الرجل قال مطبوب . قال من طبه قال لبيد بن الاعصم . قال في اى شىء قال في مشط ومشاطة وجف طلعة ذكر . قال واين هو قال في بير ذي اروان \" . قالت فاتاه النبي صلى الله عليه وسلم في اناس من اصحابه ثم جاء فقال \" والله يا عايشة لكان ماءها نقاعة الحناء ولكان نخلها رءوس الشياطين \" . قالت قلت يا رسول الله افلا احرقته قال \" لا اما انا فقد عافاني الله وكرهت ان اثير على الناس منه شرا \" . فامر بها فدفنت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3545-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3545-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3545-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3545-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfc2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3546,
+      "bookHadithIndex": 111,
+      "text": "حدثنا يحيى بن عثمان بن سعيد بن كثير بن دينار الحمصي، حدثنا بقية، حدثنا ابو بكر العنسي، عن يزيد بن ابي حبيب، ومحمد بن يزيد المصريين، قالا حدثنا نافع، عن ابن عمر، قال قالت ام سلمة يا رسول الله لا يزال يصيبك كل عام وجع من الشاة المسمومة التي اكلت . قال \" ما اصابني شىء منها الا وهو مكتوب على وادم في طينته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3546-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3546-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3546-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3546-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfc3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3547,
+      "bookHadithIndex": 112,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عفان، حدثنا وهيب، حدثنا محمد بن عجلان، عن يعقوب بن عبد الله بن الاشج، عن سعيد بن المسيب، عن سعد بن مالك، عن خولة بنت حكيم، ان النبي صلى الله عليه وسلم قال \" لو ان احدكم اذا نزل منزلا قال اعوذ بكلمات الله التامة من شر ما خلق - لم يضره في ذلك المنزل شىء حتى يرتحل منه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3547-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3547-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3547-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfc4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3548,
+      "bookHadithIndex": 113,
+      "text": "حدثنا محمد بن بشار، حدثنا محمد بن عبد الله الانصاري، حدثني عيينة بن عبد الرحمن، حدثني ابي، عن عثمان بن ابي العاص، قال لما استعملني رسول الله صلى الله عليه وسلم على الطايف جعل يعرض لي شىء في صلاتي حتى ما ادري ما اصلي فلما رايت ذلك رحلت الى رسول الله صلى الله عليه وسلم فقال \" ابن ابي العاص \" . قلت نعم يا رسول الله . قال \" ما جاء بك \" . قلت يا رسول الله عرض لي شىء في صلاتي حتى ما ادري ما اصلي . قال \" ذاك الشيطان ادنه \" . فدنوت منه فجلست على صدور قدمى . قال فضرب صدري بيده وتفل في فمي وقال \" اخرج عدو الله \" . ففعل ذلك ثلاث مرات ثم قال \" الحق بعملك \" . قال فقال عثمان فلعمري ما احسبه خالطني بعد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3548-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3548-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3548-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8bfdd1a4c9c86f0cfc5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 31,
+      "hadithIndex": 3549,
+      "bookHadithIndex": 114,
+      "text": "حدثنا هارون بن حيان، حدثنا ابراهيم بن موسى، انبانا عبدة بن سليمان، حدثنا ابو جناب، عن عبد الرحمن بن ابي ليلى، عن ابيه ابي ليلى، قال كنت جالسا عند النبي صلى الله عليه وسلم اذ جاءه اعرابي فقال ان لي اخا وجعا . قال \" ما وجع اخيك \" . قال به لمم . قال \" اذهب فاتني به \" . قال فذهب فجاء به فاجلسه بين يديه فسمعته عوذه بفاتحة الكتاب واربع ايات من اول البقرة وايتين من وسطها والهكم اله واحد واية الكرسي وثلاث ايات من خاتمتها واية من ال عمران - احسبه قال {شهد الله انه لا اله الا هو} - واية من الاعراف {ان ربكم الله الذي خلق} الاية واية من المومنين {ومن يدع مع الله الها اخر لا برهان له به } واية من الجن {وانه تعالى جد ربنا ما اتخذ صاحبة ولا ولدا} وعشر ايات من اول الصافات وثلاث ايات من اخر الحشر و {قل هو الله احد } والمعوذتين . فقام الاعرابي قد برا ليس به باس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3549-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3549-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3549-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-31-3549-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "total": 502,
+  "totalPage": 11,
+  "page": 11,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b9a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5273,
+      "bookHadithIndex": 501,
+      "text": "। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষ লোককে দু’ মহিলার মাঝখান দিয়ে চলাচল করতে বারণ করেছেন।[1] বানোয়াটঃ যঈফাহ হা/৩৭৫।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5273-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5273-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5273-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5273-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09b9b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 43,
+      "hadithIndex": 5274,
+      "bookHadithIndex": 502,
+      "text": "। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহামহিম আল্লাহ বলেনঃ আদম সন্তান আমাকে কষ্ট দেয়। সে যুগকে (সময়কে) গালি দেয়। অথচ যুগ আমারই নিয়ন্ত্রণে। আমিই রাত ও দিন পরিবর্তন করি।[1] সহীহ।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5274-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5274-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5274-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-43-5274-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4826) Sahih Muslim (2246)"
+        }
+      ]
+    }
+  ]
+}

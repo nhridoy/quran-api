@@ -1,0 +1,1253 @@
+{
+  "total": 339,
+  "totalPage": 7,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af51",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5040,
+      "bookHadithIndex": 1,
+      "text": "It was narrated from 'Aishah that:The Messenger of Allah [SAW] said: \"Ten things are part of the Fitrah: Trimming the mustache, trimming the nails, washing the joints, letting the beard grow, using the Siwak, rinsing the nose, plucking the armpit hairs, shaving the pubes, and washing with water (after relieving oneself).\" Mus'ab bin Shaibah said: \"I have forgotten the tenth, unless it was rinsing the mouth",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5040-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5040-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5040-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af52",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5041,
+      "bookHadithIndex": 2,
+      "text": "Al-Mu'tamir narrated that his father said:\"I heard Talq mentioning ten things that have to do with the Fitrah: Using the Siwak, trimming the mustache, clipping the nails, washing the joints, shaving the pubes, rinsing the nose, and I am not sure about rinsing the mouth",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5041-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5041-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5041-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af53",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5042,
+      "bookHadithIndex": 3,
+      "text": "It was narrated that Talq bin Habib said:\"Ten things are from the Sunnah: Using the Siwak, trimming the mustache, rinsing the mouth, rinsing the nose, letting the beard grow, trimming the nails, plucking the armpit hairs, circumcision, shaving the pubes and washing one's backside",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5042-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5042-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5042-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af54",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5043,
+      "bookHadithIndex": 4,
+      "text": "It was narrated that Abu Hurairah said:\"The Messenger of Allah [SAW] said: 'Five things are of the Fitrah: Circumcision, shaving the pubes, plucking the armpit hair, clipping the nails and trimming the mustache",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5043-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5043-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5043-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af55",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5044,
+      "bookHadithIndex": 5,
+      "text": "It was narrated that Abu Hurairah said:\"Five things are of the Fitrah: Clipping the nails, trimming the mustache, plucking the armpit hairs, shaving the pubes, and circumcision.\" (Sahih Mawquf)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5044-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5044-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5044-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af56",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5045,
+      "bookHadithIndex": 6,
+      "text": "It was narrated from Ibn 'Umar:That the Messenger of Allah [SAW] said: \"Trim the mustache and let the beard grow",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5045-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5045-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5045-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af57",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5046,
+      "bookHadithIndex": 7,
+      "text": "Ibn 'Umar said:\"The Messenger of Allah [SAW] said: 'Let the beard grow and trim the mustache",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5046-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5046-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5046-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af58",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5047,
+      "bookHadithIndex": 8,
+      "text": "It was narrated that Zaid bin Al-Arqam said:\"I heard the Messenger of Allah [SAW] say: 'Whoever does not take from his mustache, he is not one of us",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5047-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5047-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5047-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af59",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5048,
+      "bookHadithIndex": 9,
+      "text": "It was narrated from Ibn 'Umar that :The Prophet [SAW] saw a boy, part of whose head had been shaven and part had been left. He forbade that and said: \"Shave all of it, or leave all of it",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5048-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5048-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5048-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5049,
+      "bookHadithIndex": 10,
+      "text": "It was narrated from 'Ali:\"The Messenger of Allah [SAW] forbade women to shave their heads",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5049-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5049-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5049-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5050,
+      "bookHadithIndex": 11,
+      "text": "It was narrated from 'Abdullah bin 'Umar that :The Prophet [SAW] said: \"Allah, the Mighty and Sublime, has forbidden me from Al-Qaza' (to shave part of the head and leave part)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5050-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5050-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5050-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5051,
+      "bookHadithIndex": 12,
+      "text": "It was narrated that Ibn 'Umar said:\"The Messenger of Allah [SAW] forbade Al-Qaza' (to shave part of the head and leave part)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5051-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5051-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5051-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5052,
+      "bookHadithIndex": 13,
+      "text": "It was narrated that Wa'il bin Hujr said:\"I came to the Prophet [SAW] and I had hair. He said: 'This is bad,' and I thought he meant me, so I cut my hair then I came to him. He said to me: 'I didn't mean you, but this is better",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5052-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5052-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5052-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5053,
+      "bookHadithIndex": 14,
+      "text": "It was narrated that Anas said:\"The hair of the Prophet [SAW] was wavy, neither curly nor straight, and (hung down) between his ears and his shoulders",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5053-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5053-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5053-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af5f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5054,
+      "bookHadithIndex": 15,
+      "text": "It was narrated that Humaid bin 'Abdur-Rahman Al-Himyari said:\"I met a man who accompanied the Prophet [SAW] as Abu Hurairah accompanied him for four years, who said: 'The Messenger of Allah [SAW] forbade us from combing our hair everyday",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5054-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5054-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5054-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af60",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5055,
+      "bookHadithIndex": 16,
+      "text": "It was narrated that 'Abdullah bin Mughaffal said:\"The Messenger of Allah [SAW] forbade combing one's hair, except every other day",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5055-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5055-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5055-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af61",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5056,
+      "bookHadithIndex": 17,
+      "text": "It was narrated from Al-Hasan that:The Prophet [SAW] forbade coming one's hair except every other day",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5056-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5056-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5056-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af62",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5057,
+      "bookHadithIndex": 18,
+      "text": "It was narrated that Al-Hasan and Muhammad said:\"Combing one's hair (should be done) every other day",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5057-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5057-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5057-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af63",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5058,
+      "bookHadithIndex": 19,
+      "text": "It was narrated that 'Abdullah bin Shaqiq said:\"One of the Companions of the Prophet [SAW] was a governor in Egypt, and one of his companions came to him and found him with unkempt, wild hair. He said: 'How come I see you with wild hair when you are a governor?' He said: 'The Prophet of Allah [SAW] forbade us from Al-Irfah,' and we said: 'What is Al-Irfah?' He said: 'To comb your hair every day",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5058-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5058-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5058-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af64",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5059,
+      "bookHadithIndex": 20,
+      "text": "It was narrated that 'Aishah said:\"The Messenger of Allah [SAW] used to like to start in the right. He would accept with his right hand and give with his right hand, and he liked to start on the right in all his affairs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5059-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5059-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5059-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af65",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5060,
+      "bookHadithIndex": 21,
+      "text": "It was narrated that Al-Bara' said:\"I have never seen anyone who looked more handsome in a red Hullah than the Messenger of Allah [SAW], with his long hair that came down to his shoulders",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5060-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5060-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5060-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af66",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5061,
+      "bookHadithIndex": 22,
+      "text": "It was narrated that Anas said:\"The hair of the Messenger of Allah [SAW] came halfway down his ears",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5061-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5061-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5061-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af67",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5062,
+      "bookHadithIndex": 23,
+      "text": "Al-Bara' said:\"I have never seen any man more handsome in a red Hullah than the Messenger of Allah [SAW].\" He said: \"And I saw his long hair, coming almost to his shoulders",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5062-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5062-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5062-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af68",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5063,
+      "bookHadithIndex": 24,
+      "text": "Abdullah bin Mas'ud said:\"According to whose recitation do you want me to recite? Because I recited seventy-odd Surahs to the Messenger of Allah [SAW] when Zaid had two braids, and was playing with the other boys",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5063-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5063-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5063-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af69",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5064,
+      "bookHadithIndex": 25,
+      "text": "It was narrated that Abu Wa'il said:\"Ibn Mas'ud addressed us and said: 'How do you want me to recite? According to the recitation of Zaid bin Thabit, when I learned seventy-odd Surahs from the mouth of the Messenger of Allah [SAW] while Zaid was with the other boys with two braids?",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5064-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5064-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5064-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5065,
+      "bookHadithIndex": 26,
+      "text": "Ziyad bin Al-Husain narrated that his father said:\"When he came to the Prophet [SAW] in Al-Madinah, the Messenger of Allah [SAW] said to him: 'Come closer to me.' So he came closer to him, and he put his hand on his braid and wiped his head and prayed for him",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5065-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5065-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5065-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5066,
+      "bookHadithIndex": 27,
+      "text": "It was narrated that Wa'il bin Hujr said:\"I came to the Prophet [SAW] and I had long hair. He said: 'It is not good,' and I thought he meant me, so I went and cut my hair. He said: 'I did not mean you, but this is better",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5066-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5066-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5066-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5067,
+      "bookHadithIndex": 28,
+      "text": "Ruwaifi' bin Thabit said:\"The Messenger of Allah [SAW] said: 'O Ruwaifi', you may live for a long time after me, so tell the people that whoever ties up his beard, or twists it, or hangs an amulet, or cleans himself (after relieving himself) with animal dung or bones, Muhammad has nothing to do with him",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5067-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5067-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5067-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5068,
+      "bookHadithIndex": 29,
+      "text": "It was narrated from 'Amr bin Shu'aib, from his father, from his grandfather, that:The Messenger of Allah [SAW] forbade plucking gray hairs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5068-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5068-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5068-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5069,
+      "bookHadithIndex": 30,
+      "text": "It was narrated from Abu Hurairah that:The Messenger of Allah [SAW] said: \"The Jews and Christians do not dye their hair, so be different from them",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5069-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5069-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5069-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af6f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5070,
+      "bookHadithIndex": 31,
+      "text": "Narrated from Abu Hurairah:A similar report was narrated from Abu Hurairah, from the Messenger of Allah [SAW]",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5070-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5070-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af70",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5071,
+      "bookHadithIndex": 32,
+      "text": "It was narrated that Abu Hurairah said:\"The Messenger of Allah [SAW] said: 'The Jews and the Christians do not dye their hair, so be different from them and dye your hair",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5071-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5071-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5071-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af71",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5072,
+      "bookHadithIndex": 33,
+      "text": "It was narrated from Abu Hurairah that:The Prophet [SAW] said: \"The Jews and Christians do not dye their hair, so be different from them",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5072-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5072-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5072-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af72",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5073,
+      "bookHadithIndex": 34,
+      "text": "It was narrated that Ibn 'Umar said:\"The Messenger of Allah [SAW] said: 'Change gray hair, but do not imitate the Jews",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5073-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5073-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5073-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af73",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5074,
+      "bookHadithIndex": 35,
+      "text": "It was narrated that Az-Zubair said:\"The Messenger of Allah [SAW] said: 'Change gray hair but do not imitate the Jews",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5074-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5074-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5074-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af74",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5075,
+      "bookHadithIndex": 36,
+      "text": "It was narrated that Ibn 'Abbas, who attributed it to the Prophet [SAW], said:\"Some people will dye their hair black like the breasts of pigeons at the end of time, but they will not even smell the fragrance of Paradise",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5075-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5075-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5075-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af75",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5076,
+      "bookHadithIndex": 37,
+      "text": "It was narrated that Jabir said:\"Abu Quhafah was brought on the Day of the Conquest of Makkah, and his hair and beard were white like the Thaghamah. The Messenger of Allah [SAW] said: 'Change this with something, but avoid black",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5076-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5076-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5076-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af76",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5077,
+      "bookHadithIndex": 38,
+      "text": "It was narrated from Abu Dharr that:The Prophet [SAW] said: \"The best things with which you can change gray hair are Henna and Katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5077-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5077-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5077-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af77",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5078,
+      "bookHadithIndex": 39,
+      "text": "It was narrated that Abu Dharr said:\"The Messenger of Allah [SAW] said: 'The best things with which you can change gray hair are Henna and Katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5078-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5078-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5078-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af78",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5079,
+      "bookHadithIndex": 40,
+      "text": "It was narrated that Abu Dharr said:\"I heard the Prophet [SAW] say: 'Some of the best things with which you can change gray hair are Henna and Katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5079-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5079-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5079-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af79",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5080,
+      "bookHadithIndex": 41,
+      "text": "It was narrated that Abu Dharr said:\"The Messenger of Allah [SAW] said: 'The best things with which you can change gray hair are Henna and Katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5080-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5080-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5080-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5081,
+      "bookHadithIndex": 42,
+      "text": "It was narrated that 'Abdullah bin Buraidah said:\"The Messenger of Allah [SAW] said: 'The best things with which you can change gray hair are Henna and Katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5081-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5081-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5081-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5082,
+      "bookHadithIndex": 43,
+      "text": "It was narrated from 'Abdullah bin Buraidah that:He heard that the Messenger of Allah [SAW] said: \"The best things with which you can change gray hair are Henna and Katam",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5082-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5082-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5082-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5083,
+      "bookHadithIndex": 44,
+      "text": "It was narrated that Abu Rimthah said:\"My father and I came to the Prophet [SAW] and he had dyed his beard with Henna",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5083-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5083-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5083-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7d",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5084,
+      "bookHadithIndex": 45,
+      "text": "It was narrated that Abu Rimthah said:\"I came to the Prophet [SAW] and I saw that he had dyed his beard with yellow dye",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5084-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5084-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5084-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7e",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5085,
+      "bookHadithIndex": 46,
+      "text": "It was narrated that Zaid bin Aslam said:\"I saw Ibn 'Umar dyeing his beard yellow with Khaluq and I said: 'O Abu 'Abdur-Rahman, are you dyeing your beard yellow with Khaluq?' He said: 'I saw the Messenger of Allah [SAW] dyeing his beard yellow with it, and there was no other kind of dye that was dearer to him than this. He used to dye all of his clothes with it, even his 'Imamah (turban)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5085-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5085-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5085-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af7f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5086,
+      "bookHadithIndex": 47,
+      "text": "It was narrated from Qatadah :That he asked Anas: \"Did the Messenger of Allah [SAW] dye his hair? He said: \"His gray hair didn't go far, it was only a little at his temples",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5086-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5086-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5086-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af80",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5087,
+      "bookHadithIndex": 48,
+      "text": "It was narrated from Anas that:The Messenger of Allah [SAW] did not dye his hair; his gray hair were only a little beneath his lower lip and at his temples, and a little on his head",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5087-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5087-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5087-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af81",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5088,
+      "bookHadithIndex": 49,
+      "text": "It was narrated from 'Abdullah bin Mas'ud that:The Prophet of Allah [SAW] disliked ten things: Yellow dye, meaning Khaluq, changing gray hair, dragging one's Izar, wearing gold rings, playing with dice (Ki'ab), (a woman) showing her adornment to people to whom it is not permissible for her to show it, reciting Ruqyah, unless it is with Al-Mu'awidhat (Verses seeking refuge with Allah), hanging amulets, removing to ejaculate in other than the right place, and taking away the milk of an infant boy (by having intercourse with his mother)- but he did not say that this is Haram",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5088-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5088-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5088-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0af82",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 48,
+      "hadithIndex": 5089,
+      "bookHadithIndex": 50,
+      "text": "It was narrated from 'Aishah that:A woman reached out her hand (to give) a letter to the Prophet [SAW], and he withdrew his hand. She said: \"O Messenger of Allah, I reached out my hand (to give you) a letter and you did not take it.\" He said: \"I did not know whether it was the hand of a woman or a man.\" She said: \"It is the hand of a woman.\" He said: \"If you were a woman, you would change your nails (by dyeing them with Henna)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5089-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5089-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-48-5089-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

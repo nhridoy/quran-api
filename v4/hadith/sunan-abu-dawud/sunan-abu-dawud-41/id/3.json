@@ -1,0 +1,63 @@
+{
+  "total": 102,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c59add1a4c9c86f098f3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4594,
+      "bookHadithIndex": 101,
+      "text": "Telah menceritakan kepada kami [Muhammad Ibnul Mutawakkil Al 'Asqalani] berkata, telah menceritakan kepada kami [Abdurrazaq]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] berkata, telah menceritakan kepada kami [Zaid Ibnul Mubarak] berkata, telah menceritakan kepada kami [Abdul Malik Ash Shan'ani] keduanya dari [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Api adalah sia-sia (tidak ada tebusan bagi apa yang dirusak oleh api yang menjalar)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f098f4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4595,
+      "bookHadithIndex": 102,
+      "text": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Al Mu'tamir] dari [Humaid Ath Thawil] dari [Anas bin Malik] ia berkata, \"Ruba' -saudara wanita Anas bin An Nadhr- memecahkan gigi seorang wanita, mereka lalu mendatangi Nabi shallallahu 'alaihi wasallam, lantas beliau memutuskan dengan kitab Allah, yakni qishas. Anas bin An Nadhr berkata, \"Demi Dzat yang mengutusmu dengan kebenaran, hari ini giginya tidak akan dipecah (qishas)!\" beliau bersabda: \"Wahai Anas, ketentuan Kitabullah adalah qishas!\" Kemudian mereka pun rela dengan mengambil diyatnya. Dengan ta'ajub Nabi shallallahu 'alaihi wasallam bersabda: \"Sungguh, di antara hamba Allah ada seseorang yang jika ia bersumpah pasti akan dikabulkan.\" Abu Dawud berkata, \"Aku mendengar Ahmad bin Hanbal ditanya, \"Bagaimana mengqishas gigi?\" Ia menjawab, \"Dirampalkan",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2703)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "total": 34,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc87",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2719,
+      "bookHadithIndex": 1,
+      "text": "حدثنا ابراهيم بن المنذر الحزامي، حدثنا حفص بن عمر بن ابي العطاف، حدثنا ابو الزناد، عن الاعرج، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" يا ابا هريرة تعلموا الفرايض وعلموها فانه نصف العلم وهو ينسى وهو اول شىء ينتزع من امتي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2719-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2719-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2719-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2719-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc88",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2720,
+      "bookHadithIndex": 2,
+      "text": "حدثنا محمد بن ابي عمر العدني، حدثنا سفيان بن عيينة، عن عبد الله بن محمد بن عقيل، عن جابر بن عبد الله، قال جاءت امراة سعد بن الربيع بابنتى سعد الى النبي صلى الله عليه وسلم فقالت يا رسول الله هاتان ابنتا سعد قتل معك يوم احد وان عمهما اخذ جميع ما ترك ابوهما وان المراة لا تنكح الا على مالها . فسكت رسول الله صلى الله عليه وسلم حتى انزلت اية الميراث فدعا رسول الله صلى الله عليه وسلم اخا سعد بن الربيع فقال \" اعط ابنتى سعد ثلثى ماله واعط امراته الثمن وخذ انت ما بقي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2720-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2720-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2720-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc89",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2721,
+      "bookHadithIndex": 3,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا سفيان، عن ابي قيس الاودي، عن الهزيل بن شرحبيل، قال جاء رجل الى ابي موسى الاشعري وسلمان بن ربيعة الباهلي فسالهما عن ابنة وابنة ابن واخت، لاب وام فقالا للابنة النصف وما بقي فللاخت وايت ابن مسعود فسيتابعنا . فاتى الرجل ابن مسعود فساله واخبره بما قالا فقال عبد الله قد ضللت اذا وما انا من المهتدين ولكني ساقضي بما قضى به رسول الله صلى الله عليه وسلم للابنة النصف ولابنة الابن السدس تكملة الثلثين وما بقي فللاخت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2721-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2721-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2721-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2721-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc8a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2722,
+      "bookHadithIndex": 4,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شبابة، حدثنا يونس بن ابي اسحاق، عن ابي اسحاق، عن عمرو بن ميمون، عن معقل بن يسار المزني، قال سمعت النبي صلى الله عليه وسلم اتي بفريضة فيها جد فاعطاه ثلثا او سدسا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2722-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2722-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2722-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc8b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2723,
+      "bookHadithIndex": 5,
+      "text": "قال ابو الحسن القطان حدثنا ابو حاتم، حدثنا ابن الطباع، حدثنا هشيم، عن يونس، عن الحسن، عن معقل بن يسار، قال قضى رسول الله صلى الله عليه وسلم في جد كان فينا بالسدس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2723-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2723-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2723-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc8c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2724,
+      "bookHadithIndex": 6,
+      "text": "حدثنا احمد بن عمرو بن السرح المصري، انبانا عبد الله بن وهب، انبانا يونس، عن ابن شهاب، حدثه عن قبيصة بن ذويب، ح وحدثنا سويد بن سعيد، حدثنا مالك بن انس، عن ابن شهاب، عن عثمان بن اسحاق بن خرشة، عن ابن ذويب، قال جاءت الجدة الى ابي بكر الصديق تساله ميراثها فقال لها ابو بكر ما لك في كتاب الله شىء وما علمت لك في سنة رسول الله صلى الله عليه وسلم شييا فارجعي حتى اسال الناس . فسال الناس فقال المغيرة بن شعبة حضرت رسول الله صلى الله عليه وسلم اعطاها السدس فقال ابو بكر هل معك غيرك فقام محمد بن مسلمة الانصاري فقال مثل ما قال المغيرة بن شعبة فانفذه لها ابو بكر . ثم جاءت الجدة الاخرى من قبل الاب الى عمر تساله ميراثها فقال ما لك في كتاب الله شىء وما كان القضاء الذي قضي به الا لغيرك وما انا بزايد في الفرايض شييا ولكن هو ذاك السدس فان اجتمعتما فيه فهو بينكما وايتكما خلت به فهو لها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2724-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2724-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2724-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2724-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc8d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2725,
+      "bookHadithIndex": 7,
+      "text": "حدثنا عبد الرحمن بن عبد الوهاب، حدثنا سلم بن قتيبة، عن شريك، عن ليث، عن طاوس، عن ابن عباس، ان رسول الله صلى الله عليه وسلم ورث جدة سدسا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2725-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2725-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2725-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc8e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2726,
+      "bookHadithIndex": 8,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا اسماعيل ابن علية، عن سعيد، عن قتادة، عن سالم بن ابي الجعد، عن معدان بن ابي طلحة اليعمري، ان عمر بن الخطاب، قام خطيبا يوم الجمعة او خطبهم يوم الجمعة فحمد الله واثنى عليه وقال اني والله ما ادع بعدي شييا هو اهم الى من امر الكلالة وقد سالت رسول الله صلى الله عليه وسلم فما اغلظ لي في شىء ما اغلظ لي فيها حتى طعن باصبعه في جنبي او في صدري ثم قال \" يا عمر تكفيك اية الصيف التي نزلت في اخر سورة النساء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2726-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2726-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2726-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2726-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc8f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2727,
+      "bookHadithIndex": 9,
+      "text": "حدثنا علي بن محمد، وابو بكر بن ابي شيبة قالا حدثنا وكيع، حدثنا سفيان، حدثنا عمرو بن مرة، عن مرة بن شراحيل، قال قال عمر بن الخطاب ثلاث لان يكون رسول الله صلى الله عليه وسلم بينهن احب الى من الدنيا وما فيها الكلالة والربا والخلافة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2727-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2727-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2727-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc90",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2728,
+      "bookHadithIndex": 10,
+      "text": "حدثنا هشام بن عمار، حدثنا سفيان، عن محمد بن المنكدر، سمع جابر بن عبد الله، يقول مرضت فاتاني رسول الله صلى الله عليه وسلم يعودني هو وابو بكر معه وهما ماشيان وقد اغمي على فتوضا رسول الله صلى الله عليه وسلم فصب على من وضويه فقلت يا رسول الله كيف اصنع كيف اقضي في مالي حتى نزلت اية الميراث في اخر النساء {وان كان رجل يورث كلالة} الاية و {يستفتونك قل الله يفتيكم في الكلالة} الاية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2728-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2728-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2728-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2728-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc91",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2729,
+      "bookHadithIndex": 11,
+      "text": "حدثنا هشام بن عمار، ومحمد بن الصباح، قالا حدثنا سفيان بن عيينة، عن الزهري، عن علي بن الحسين، عن عمرو بن عثمان، عن اسامة بن زيد، رفعه الى النبي صلى الله عليه وسلم قال \" لا يرث المسلم الكافر ولا الكافر المسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2729-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2729-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2729-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc92",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2730,
+      "bookHadithIndex": 12,
+      "text": "حدثنا احمد بن عمرو بن السرح، حدثنا عبد الله بن وهب، انبانا يونس، عن ابن شهاب، عن علي بن الحسين، انه حدثه ان عمرو بن عثمان اخبره عن اسامة بن زيد، انه قال يا رسول الله اتنزل في دارك بمكة قال \" وهل ترك لنا عقيل من رباع او دور \" . وكان عقيل ورث ابا طالب هو وطالب ولم يرث جعفر ولا علي شييا لانهما كانا مسلمين وكان عقيل وطالب كافرين . فكان عمر من اجل ذلك يقول لا يرث المومن الكافر . وقال اسامة قال رسول الله صلى الله عليه وسلم \" لا يرث المسلم الكافر ولا الكافر المسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2730-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2730-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2730-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2730-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc93",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2731,
+      "bookHadithIndex": 13,
+      "text": "حدثنا محمد بن رمح، انبانا ابن لهيعة، عن خالد بن يزيد، ان المثنى بن الصباح، اخبره عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال \" لا يتوارث اهل ملتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2731-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2731-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2731-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc94",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2732,
+      "bookHadithIndex": 14,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، حدثنا حسين المعلم، عن عمرو بن شعيب، عن ابيه، عن جده، قال تزوج رياب بن حذيفة بن سعيد بن سهم ام وايل بنت معمر الجمحية فولدت له ثلاثة فتوفيت امهم فورثها بنوها رباعا وولاء مواليها فخرج بهم عمرو بن العاص معه الى الشام فماتوا في طاعون عمواس فورثهم عمرو وكان عصبتهم فلما رجع عمرو بن العاص جاء بنو معمر يخاصمونه في ولاء اختهم الى عمر فقال عمر اقضي بينكم بما سمعت من رسول الله صلى الله عليه وسلم سمعته يقول \" ما احرز الولد او الوالد فهو لعصبته من كان \" . قال فقضى لنا به وكتب لنا به كتابا فيه شهادة عبد الرحمن بن عوف وزيد بن ثابت واخر حتى اذا استخلف عبد الملك بن مروان توفي مولى لها وترك الفى دينار فبلغني ان ذلك القضاء قد غير فخاصموه الى هشام بن اسماعيل فرفعنا الى عبد الملك فاتيناه بكتاب عمر فقال ان كنت لارى ان هذا من القضاء الذي لا يشك فيه وما كنت ارى ان امر اهل المدينة بلغ هذا ان يشكوا في هذا القضاء . فقضى لنا به فلم نزل فيه بعد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2732-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2732-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2732-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2732-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc95",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2733,
+      "bookHadithIndex": 15,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، حدثنا سفيان، عن عبد الرحمن بن الاصبهاني، عن مجاهد بن وردان، عن عروة بن الزبير، عن عايشة، ان مولى، للنبي صلى الله عليه وسلم وقع من نخلة فمات وترك مالا ولم يترك ولدا ولا حميما فقال النبي صلى الله عليه وسلم \" اعطوا ميراثه رجلا من اهل قريته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2733-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2733-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2733-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2733-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc96",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2734,
+      "bookHadithIndex": 16,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا حسين بن علي، عن زايدة، عن محمد بن عبد الرحمن بن ابي ليلى، عن الحكم، عن عبد الله بن شداد، عن بنت حمزة، - قال محمد يعني ابن ابي ليلى وهي اخت ابن شداد لامه - قالت مات مولاى وترك ابنة فقسم رسول الله صلى الله عليه وسلم ماله بيني وبين ابنته فجعل لي النصف ولها النصف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2734-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2734-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2734-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2734-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc97",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2735,
+      "bookHadithIndex": 17,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن اسحاق بن ابي فروة، عن ابن شهاب، عن حميد بن عبد الرحمن بن عوف، عن ابي هريرة، عن رسول الله صلى الله عليه وسلم انه قال \" القاتل لا يرث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2735-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2735-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2735-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc98",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2736,
+      "bookHadithIndex": 18,
+      "text": "حدثنا علي بن محمد، ومحمد بن يحيى، قالا حدثنا عبيد الله بن موسى، عن الحسن بن صالح، عن محمد بن سعيد، - وقال محمد بن يحيى عن عمر بن سعيد، - عن عمرو بن شعيب، حدثني ابي، عن جدي عبد الله بن عمرو، ان رسول الله صلى الله عليه وسلم قام يوم فتح مكة فقال \" المراة ترث من دية زوجها وماله وهو يرث من ديتها ومالها ما لم يقتل احدهما صاحبه فاذا قتل احدهما صاحبه عمدا لم يرث من ديته وماله شييا وان قتل احدهما صاحبه خطا ورث من ماله ولم يرث من ديته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2736-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2736-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2736-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc99",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2737,
+      "bookHadithIndex": 19,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن سفيان، عن عبد الرحمن بن الحارث بن عياش بن ابي ربيعة الزرقي، عن حكيم بن حكيم بن عباد بن حنيف الانصاري، عن ابي امامة بن سهل بن حنيف، ان رجلا، رمى رجلا بسهم فقتله وليس له وارث الا خال فكتب في ذلك ابو عبيدة بن الجراح الى عمر فكتب اليه عمر ان النبي صلى الله عليه وسلم قال \" الله ورسوله مولى من لا مولى له والخال وارث من لا وارث له",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2737-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2737-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2737-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2737-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc9a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2738,
+      "bookHadithIndex": 20,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شبابة، ح وحدثنا محمد بن الوليد، حدثنا محمد بن جعفر، قالا حدثنا شعبة، حدثني بديل بن ميسرة العقيلي، عن علي بن ابي طلحة، عن راشد بن سعد، عن ابي عامر الهوزني، عن المقدام ابي كريمة، - رجل من اهل الشام من اصحاب رسول الله صلى الله عليه وسلم قال - قال رسول الله صلى الله عليه وسلم \" من ترك مالا فلورثته ومن ترك كلا فالينا - وربما قال فالى الله والى رسوله - وانا وارث من لا وارث له اعقل عنه وارثه والخال وارث من لا وارث له يعقل عنه ويرثه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2738-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2738-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2738-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2738-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc9b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2739,
+      "bookHadithIndex": 21,
+      "text": "حدثنا يحيى بن حكيم، حدثنا ابو بحر البكراوي، حدثنا اسراييل، عن ابي اسحاق، عن الحارث، عن علي بن ابي طالب، قال قضى رسول الله صلى الله عليه وسلم ان اعيان بني الام يتوارثون دون بني العلات يرث الرجل اخاه لابيه وامه دون اخوته لابيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2739-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2739-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2739-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2739-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc9c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2740,
+      "bookHadithIndex": 22,
+      "text": "حدثنا العباس بن عبد العظيم العنبري، حدثنا عبد الرزاق، انبانا معمر، عن ابن طاوس، عن ابيه، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" اقسموا المال بين اهل الفرايض على كتاب الله فما تركت الفرايض فلاولى رجل ذكر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2740-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2740-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2740-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc9d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2741,
+      "bookHadithIndex": 23,
+      "text": "حدثنا اسماعيل بن موسى، حدثنا سفيان بن عيينة، عن عمرو بن دينار، عن عوسجة، عن ابن عباس، قال مات رجل على عهد رسول الله صلى الله عليه وسلم ولم يدع له وارثا الا عبدا هو اعتقه فدفع النبي صلى الله عليه وسلم ميراثه اليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2741-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2741-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2741-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2741-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc9e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2742,
+      "bookHadithIndex": 24,
+      "text": "حدثنا هشام بن عمار، حدثنا محمد بن حرب، حدثنا عمر بن روبة التغلبي، عن عبد الواحد بن عبد الله النصري، عن واثلة بن الاسقع، عن النبي صلى الله عليه وسلم قال \" المراة تحوز ثلاث مواريث عتيقها ولقيطها وولدها الذي لاعنت عليه \" . قال محمد بن يزيد ما روى هذا الحديث غير هشام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2742-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2742-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2742-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2742-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc9f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2743,
+      "bookHadithIndex": 25,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، عن موسى بن عبيدة، حدثني يحيى بن حرب، عن سعيد بن ابي سعيد المقبري، عن ابي هريرة، قال لما نزلت اية اللعان قال رسول الله صلى الله عليه وسلم \" ايما امراة الحقت بقوم من ليس منهم فليست من الله في شىء ولن يدخلها جنته وايما رجل انكر ولده وقد عرفه احتجب الله منه يوم القيامة وفضحه على رءوس الاشهاد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2743-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2743-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2743-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2743-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2744,
+      "bookHadithIndex": 26,
+      "text": "حدثنا محمد بن يحيى، حدثنا عبد العزيز بن عبد الله، حدثنا سليمان بن بلال، عن يحيى بن سعيد، عن عمرو بن شعيب، عن ابيه، عن جده، ان النبي صلى الله عليه وسلم قال \" كفر بامري ادعاء نسب لا يعرفه او جحده وان دق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2744-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2744-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2744-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2745,
+      "bookHadithIndex": 27,
+      "text": "حدثنا ابو كريب، حدثنا يحيى بن اليمان، عن المثنى بن الصباح، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" من عاهر امة او حرة فولده ولد زنا لا يرث ولا يورث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2745-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2745-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2745-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2746,
+      "bookHadithIndex": 28,
+      "text": "حدثنا محمد بن يحيى، حدثنا محمد بن بكار بن بلال الدمشقي، انبانا محمد بن راشد، عن سليمان بن موسى، عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال \" كل مستلحق استلحق بعد ابيه الذي يدعى له ادعاه ورثته من بعده فقضى ان من كان من امة يملكها يوم اصابها فقد لحق بمن استلحقه وليس له فيما قسم قبله من الميراث شىء وما ادرك من ميراث لم يقسم فله نصيبه ولا يلحق اذا كان ابوه الذي يدعى له انكره وان كان من امة لا يملكها او من حرة عاهر بها فانه لا يلحق ولا يورث وان كان الذي يدعى له هو ادعاه فهو ولد زنا لاهل امه من كانوا حرة او امة \" . قال محمد بن راشد يعني بذلك ما قسم في الجاهلية قبل الاسلام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2746-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2746-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2746-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2746-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2747,
+      "bookHadithIndex": 29,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا شعبة، وسفيان، عن عبد الله بن دينار، عن ابن عمر، قال نهى رسول الله صلى الله عليه وسلم عن بيع الولاء وعن هبته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2747-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2747-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2747-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2747-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2748,
+      "bookHadithIndex": 30,
+      "text": "حدثنا محمد بن عبد الملك بن ابي الشوارب، حدثنا يحيى بن سليم الطايفي، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، قال نهى رسول الله صلى الله عليه وسلم عن بيع الولاء وعن هبته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2748-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2748-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2748-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2749,
+      "bookHadithIndex": 31,
+      "text": "حدثنا محمد بن رمح، انبانا عبد الله بن لهيعة، عن عقيل، انه سمع نافعا، يخبر عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم قال \" ما كان من ميراث قسم في الجاهلية فهو على قسمة الجاهلية وما كان من ميراث ادركه الاسلام فهو على قسمة الاسلام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2749-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2749-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2749-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2749-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2750,
+      "bookHadithIndex": 32,
+      "text": "حدثنا هشام بن عمار، حدثنا الربيع بن بدر، حدثنا ابو الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" اذا استهل الصبي صلي عليه وورث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2750-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2750-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2750-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2750-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2751,
+      "bookHadithIndex": 33,
+      "text": "حدثنا العباس بن الوليد الدمشقي، حدثنا مروان بن محمد، حدثنا سليمان بن بلال، حدثني يحيى بن سعيد، عن سعيد بن المسيب، عن جابر بن عبد الله، والمسور بن مخرمة، قالا قال رسول الله صلى الله عليه وسلم \" لا يرث الصبي حتى يستهل صارخا \" . قال واستهلاله ان يبكي ويصيح او يعطس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2751-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2751-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2751-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2751-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cca8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 23,
+      "hadithIndex": 2752,
+      "bookHadithIndex": 34,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، عن عبد العزيز بن عمر، عن عبد الله بن موهب، قال سمعت تميما الداري، يقول قلت يا رسول الله ما السنة في الرجل من اهل الكتاب يسلم على يدى الرجل قال \" هو اولى الناس بمحياه ومماته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2752-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2752-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-23-2752-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    }
+  ]
+}

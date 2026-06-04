@@ -1,0 +1,38 @@
+{
+  "total": 51,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b8ae",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 22,
+      "hadithIndex": 1669,
+      "bookHadithIndex": 52,
+      "text": "Ebû Umâme (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurmuştur: “Hiçbir şey Allah’a iki damla ve iki iz’den daha sevimli değildir. Allah’ın azabından korkarak ağlayan kişinin gözünden akan damla ile Allah yolunda savaş meydanında akıtılan kan damlası, iz’e gelince: Biri Allah yolunda savaşırken meydana gelen sakatlanma ve yara izi diğeri de Allah’ın farz kıldığı ibadetleri yaparken meydana gelen secde izi gibi.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen garibtir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-22-1669-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

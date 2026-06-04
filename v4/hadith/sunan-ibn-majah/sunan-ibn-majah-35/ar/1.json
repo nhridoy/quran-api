@@ -1,0 +1,983 @@
+{
+  "total": 34,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c8eedd1a4c9c86f0d11d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3893,
+      "bookHadithIndex": 1,
+      "text": "حدثنا هشام بن عمار، حدثنا مالك بن انس، حدثني اسحاق بن عبد الله بن ابي طلحة، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" الرويا الحسنة من الرجل الصالح جزء من ستة واربعين جزءا من النبوة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3893-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3893-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3893-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d11e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3894,
+      "bookHadithIndex": 2,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الاعلى، عن معمر، عن الزهري، عن سعيد، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" رويا المومن جزء من ستة واربعين جزءا من النبوة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3894-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3894-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3894-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3894-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d11f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3895,
+      "bookHadithIndex": 3,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وابو كريب قالا حدثنا عبيد الله بن موسى، انبانا شيبان، عن فراس، عن عطية، عن ابي سعيد الخدري، عن النبي صلى الله عليه وسلم قال \" رويا الرجل المسلم الصالح جزء من سبعين جزءا من النبوة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3895-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3895-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3895-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3895-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d120",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3896,
+      "bookHadithIndex": 4,
+      "text": "حدثنا هارون بن عبد الله الحمال، حدثنا سفيان بن عيينة، عن عبيد الله بن ابي يزيد، عن ابيه، عن سباع بن ثابت، عن ام كرز الكعبية، قالت سمعت رسول الله صلى الله عليه وسلم يقول \" ذهبت النبوة وبقيت المبشرات",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3896-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3896-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3896-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3896-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d121",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3897,
+      "bookHadithIndex": 5,
+      "text": "حدثنا علي بن محمد، حدثنا ابو اسامة، وعبد الله بن نمير، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" الرويا الصالحة جزء من سبعين جزءا من النبوة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3897-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3897-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3897-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3897-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d122",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3898,
+      "bookHadithIndex": 6,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن علي بن المبارك، عن يحيى بن ابي كثير، عن ابي سلمة، عن عبادة بن الصامت، قال سالت رسول الله صلى الله عليه وسلم عن قول الله سبحانه {لهم البشرى في الحياة الدنيا وفي الاخرة} . قال \" هي الرويا الصالحة يراها المسلم او ترى له",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3898-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d123",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3899,
+      "bookHadithIndex": 7,
+      "text": "حدثنا اسحاق بن اسماعيل الايلي، حدثنا سفيان بن عيينة، عن سليمان بن سحيم، عن ابراهيم بن عبد الله بن معبد بن عباس، عن ابيه، عن ابن عباس، قال كشف رسول الله صلى الله عليه وسلم الستارة في مرضه والناس صفوف خلف ابي بكر فقال \" ايها الناس انه لم يبق من مبشرات النبوة الا الرويا الصالحة يراها المسلم او ترى له",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3899-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3899-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3899-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d124",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3900,
+      "bookHadithIndex": 8,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن ابي اسحاق، عن ابي الاحوص، عن عبد الله، عن النبي صلى الله عليه وسلم قال \" من راني في المنام فقد راني في اليقظة فان الشيطان لا يتمثل على صورتي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3900-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3900-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3900-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3900-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d125",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3901,
+      "bookHadithIndex": 9,
+      "text": "حدثنا ابو مروان العثماني، قال حدثنا عبد العزيز بن ابي حازم، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من راني في المنام فقد راني فان الشيطان لا يتمثل بي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3901-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3901-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3901-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3901-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d126",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3902,
+      "bookHadithIndex": 10,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابي الزبير، عن جابر، عن رسول الله صلى الله عليه وسلم انه قال \" من راني في المنام فقد راني انه لا ينبغي للشيطان ان يتمثل في صورتي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3902-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3902-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3902-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3902-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d127",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3903,
+      "bookHadithIndex": 11,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وابو كريب قالا حدثنا بكر بن عبد الرحمن، حدثنا عيسى بن المختار، عن ابن ابي ليلى، عن عطية، عن ابي سعيد، عن النبي صلى الله عليه وسلم قال \" من راني في المنام فقد راني فان الشيطان لا يتمثل بي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3903-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3903-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3903-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d128",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3904,
+      "bookHadithIndex": 12,
+      "text": "حدثنا محمد بن يحيى، حدثنا سليمان بن عبد الرحمن الدمشقي، حدثنا سعدان بن يحيى بن صالح اللخمي، حدثنا صدقة بن ابي عمران، عن عون بن ابي جحيفة، عن ابيه، عن رسول الله صلى الله عليه وسلم قال \" من راني في المنام فكانما راني في اليقظة ان الشيطان لا يستطيع ان يتمثل بي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3904-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3904-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3904-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3904-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d129",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3905,
+      "bookHadithIndex": 13,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابو الوليد، قال ابو عوانة حدثنا عن جابر، عن عمار، - هو الدهني - عن سعيد بن جبير، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" من راني في المنام فقد راني فان الشيطان لا يتمثل بي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3905-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3905-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3905-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3905-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d12a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3906,
+      "bookHadithIndex": 14,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا هوذة بن خليفة، حدثنا عوف، عن محمد بن سيرين، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" الرويا ثلاث فبشرى من الله وحديث النفس وتخويف من الشيطان فاذا راى احدكم رويا تعجبه فليقصها ان شاء وان راى شييا يكرهه فلا يقصه على احد وليقم يصلي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3906-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3906-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3906-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d12b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3907,
+      "bookHadithIndex": 15,
+      "text": "حدثنا هشام بن عمار، حدثنا يحيى بن حمزة، حدثنا يزيد بن عبيدة، حدثني ابو عبيد الله، مسلم بن مشكم عن عوف بن مالك، عن رسول الله صلى الله عليه وسلم قال \" ان الرويا ثلاث منها اهاويل من الشيطان ليحزن بها ابن ادم ومنها ما يهم به الرجل في يقظته فيراه في منامه ومنها جزء من ستة واربعين جزءا من النبوة \" . قال قلت له انت سمعت هذا من رسول الله صلى الله عليه وسلم قال نعم انا سمعته من رسول الله صلى الله عليه وسلم انا سمعته من رسول الله صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3907-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3907-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3907-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3907-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d12c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3908,
+      "bookHadithIndex": 16,
+      "text": "حدثنا محمد بن رمح المصري، انبانا الليث بن سعد، عن ابي الزبير، عن جابر بن عبد الله، عن رسول الله صلى الله عليه وسلم انه قال \" اذا راى احدكم الرويا يكرهها فليبصق عن يساره ثلاثا وليستعذ بالله من الشيطان ثلاثا وليتحول عن جنبه الذي كان عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3908-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3908-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3908-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3908-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d12d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3909,
+      "bookHadithIndex": 17,
+      "text": "حدثنا محمد بن رمح، حدثنا الليث بن سعد، عن يحيى بن سعيد، عن ابي سلمة بن عبد الرحمن بن عوف، عن ابي قتادة، ان رسول الله صلى الله عليه وسلم قال \" الرويا من الله والحلم من الشيطان فان راى احدكم شييا يكرهه فليبصق عن يساره ثلاثا وليستعذ بالله من الشيطان الرجيم ثلاثا وليتحول عن جنبه الذي كان عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3909-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3909-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3909-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3909-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d12e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3910,
+      "bookHadithIndex": 18,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن العمري، عن سعيد المقبري، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا راى احدكم رويا يكرهها فليتحول وليتفل عن يساره ثلاثا وليسال الله من خيرها وليتعوذ بالله من شرها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3910-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3910-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3910-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3910-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d12f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3911,
+      "bookHadithIndex": 19,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن عبد الله بن الزبير، عن عمر بن سعيد بن ابي حسين، حدثني عطاء بن ابي رباح، عن ابي هريرة، قال جاء رجل الى النبي صلى الله عليه وسلم فقال اني رايت راسي ضرب فرايته يتدهده فقال رسول الله صلى الله عليه وسلم \" يعمد الشيطان الى احدكم فيتهول له ثم يغدو يخبر الناس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3911-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3911-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3911-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3911-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d130",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3912,
+      "bookHadithIndex": 20,
+      "text": "حدثنا علي بن محمد، حدثنا ابو معاوية، عن الاعمش، عن ابي سفيان، عن جابر، قال اتى النبي صلى الله عليه وسلم رجل وهو يخطب فقال يا رسول الله رايت البارحة فيما يرى النايم كان عنقي ضربت وسقط راسي فاتبعته فاخذته فاعدته فقال رسول الله صلى الله عليه وسلم \" اذا لعب الشيطان باحدكم في منامه فلا يحدثن به الناس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3912-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3912-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3912-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3912-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d131",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3913,
+      "bookHadithIndex": 21,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابي الزبير، عن جابر، عن رسول الله صلى الله عليه وسلم قال \" اذا حلم احدكم فلا يخبر الناس بتلعب الشيطان به في المنام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3913-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3913-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3913-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3913-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d132",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3914,
+      "bookHadithIndex": 22,
+      "text": "حدثنا ابو بكر، حدثنا هشيم، عن يعلى بن عطاء، عن وكيع بن عدس العقيلي، عن عمه ابي رزين، انه سمع النبي صلى الله عليه وسلم يقول \" الرويا على رجل طاير ما لم تعبر فاذا عبرت وقعت \" . قال \" والرويا جزء من ستة واربعين جزءا من النبوة \" . قال واحسبه قال \" لا يقصها الا على واد او ذي راى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3914-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3914-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3914-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3914-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d133",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3915,
+      "bookHadithIndex": 23,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا ابي، حدثنا الاعمش، عن يزيد الرقاشي، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" اعتبروها باسمايها وكنوها بكناها والرويا لاول عابر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3915-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3915-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3915-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3915-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d134",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3916,
+      "bookHadithIndex": 24,
+      "text": "حدثنا بشر بن هلال الصواف، حدثنا عبد الوارث بن سعيد، عن ايوب، عن عكرمة، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" من تحلم حلما كاذبا كلف ان يعقد بين شعيرتين ويعذب على ذلك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3916-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3916-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3916-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3916-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d135",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3917,
+      "bookHadithIndex": 25,
+      "text": "حدثنا احمد بن عمرو بن السرح المصري، حدثنا بشر بن بكر، حدثنا الاوزاعي، عن ابن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا قرب الزمان لم تكد رويا المومن تكذب واصدقهم رويا اصدقهم حديثا ورويا المسلم جزء من ستة واربعين جزءا من النبوة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3917-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3917-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3917-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3917-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d136",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3918,
+      "bookHadithIndex": 26,
+      "text": "حدثنا يعقوب بن حميد بن كاسب المدني، حدثنا سفيان بن عيينة، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، قال اتى النبي صلى الله عليه وسلم رجل منصرفه من احد فقال يا رسول الله اني رايت في المنام ظلة تنطف سمنا وعسلا ورايت الناس يتكففون منها فالمستكثر والمستقل ورايت سببا واصلا الى السماء رايتك اخذت به فعلوت به ثم اخذ به رجل بعدك فعلا به ثم اخذ به رجل بعده فعلا به ثم اخذ به رجل بعده فانقطع به ثم وصل له فعلا به . فقال ابو بكر دعني اعبرها يا رسول الله . قال \" اعبرها \" . قال اما الظلة فالاسلام واما ما ينطف منها من العسل والسمن فهو القران حلاوته ولينه واما ما يتكفف منه الناس فالاخذ من القران كثيرا وقليلا واما السبب الواصل الى السماء فما انت عليه من الحق اخذت به فعلا بك ثم ياخذه رجل من بعدك فيعلو به ثم اخر فيعلو به ثم اخر فينقطع به ثم يوصل له فيعلو به . قال \" اصبت بعضا واخطات بعضا \" . قال ابو بكر اقسمت عليك يا رسول الله لتخبرني بالذي اصبت من الذي اخطات . فقال النبي صلى الله عليه وسلم \" لا تقسم يا ابا بكر \" . حدثنا محمد بن يحيى، حدثنا عبد الرزاق، انبانا معمر، عن الزهري، عن عبيد الله، عن ابن عباس، قال كان ابو هريرة يحدث ان رجلا، اتى رسول الله صلى الله عليه وسلم فقال يا رسول الله رايت ظلة بين السماء والارض تنطف سمنا وعسلا فذكر الحديث نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3918-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3918-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3918-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3918-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d137",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3919,
+      "bookHadithIndex": 27,
+      "text": "حدثنا ابراهيم بن المنذر الحزامي، حدثنا عبد الله بن معاذ الصنعاني، عن معمر، عن الزهري، عن سالم، عن ابن عمر، قال كنت غلاما شابا عزبا في عهد رسول الله صلى الله عليه وسلم فكنت ابيت في المسجد فكان من راى منا رويا يقصها على النبي صلى الله عليه وسلم فقلت اللهم ان كان لي عندك خير فارني رويا يعبرها لي النبي صلى الله عليه وسلم . فنمت فرايت ملكين اتياني فانطلقا بي فلقيهما ملك اخر فقال لم ترع . فانطلقا بي الى النار فاذا هي مطوية كطى البير واذا فيها ناس قد عرفت بعضهم فاخذوا بي ذات اليمين فلما اصبحت ذكرت ذلك لحفصة فزعمت حفصة انها قصتها على رسول الله صلى الله عليه وسلم فقال \" ان عبد الله رجل صالح لو كان يكثر الصلاة من الليل \" . قال فكان عبد الله يكثر الصلاة من الليل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3919-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3919-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3919-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3919-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d138",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3920,
+      "bookHadithIndex": 28,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا الحسن بن موسى الاشيب، حدثنا حماد بن سلمة، عن عاصم بن بهدلة، عن المسيب بن رافع، عن خرشة بن الحر، قال قدمت المدينة فجلست الى اشيخة في مسجد النبي صلى الله عليه وسلم فجاء شيخ يتوكا على عصا له فقال القوم من سره ان ينظر الى رجل من اهل الجنة فلينظر الى هذا . فقام خلف سارية فصلى ركعتين فقمت اليه فقلت له قال بعض القوم كذا وكذا . قال الحمد لله الجنة لله يدخلها من يشاء واني رايت على عهد رسول الله صلى الله عليه وسلم رويا رايت كان رجلا اتاني فقال لي انطلق . فذهبت معه فسلك بي في منهج عظيم فعرضت على طريق على يساري فاردت ان اسلكها فقال انك لست من اهلها . ثم عرضت على طريق عن يميني فسلكتها حتى اذا انتهيت الى جبل زلق فاخذ بيدي فزجل بي فاذا انا على ذروته فلم اتقار ولم اتماسك واذا عمود من حديد في ذروته حلقة من ذهب فاخذ بيدي فزجل بي حتى اخذت بالعروة فقال استمسكت قلت نعم فضرب العمود برجله . فاستمسكت بالعروة . فقال قصصتها على النبي صلى الله عليه وسلم . قال \" رايت خيرا اما المنهج العظيم فالمحشر واما الطريق التي عرضت عن يسارك فطريق اهل النار ولست من اهلها واما الطريق التي عرضت عن يمينك فطريق اهل الجنة واما الجبل الزلق فمنزل الشهداء واما العروة التي استمسكت بها فعروة الاسلام فاستمسك بها حتى تموت \" . فانا ارجو ان اكون من اهل الجنة فاذا هو عبد الله بن سلام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3920-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3920-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3920-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3920-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d139",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3921,
+      "bookHadithIndex": 29,
+      "text": "حدثنا محمود بن غيلان، حدثنا ابو اسامة، حدثنا بريد، عن ابي بردة، عن ابي موسى، عن النبي صلى الله عليه وسلم قال \" رايت في المنام اني اهاجر من مكة الى ارض بها نخل فذهب وهلي الى انها يمامة او هجر فاذا هي المدينة يثرب ورايت في روياى هذه اني هززت سيفا فانقطع صدره فاذا هو ما اصيب من المومنين يوم احد ثم هززته فعاد احسن ما كان فاذا هو ما جاء الله به من الفتح واجتماع المومنين ورايت فيها ايضا بقرا والله خير فاذا هم النفر من المومنين يوم احد واذا الخير ما جاء الله به من الخير بعد وثواب الصدق الذي اتانا الله به يوم بدر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3921-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3921-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3921-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3921-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d13a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3922,
+      "bookHadithIndex": 30,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن بشر، حدثنا محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" رايت في يدي سوارين من ذهب فنفختهما . فاولتهما هذين الكذابين مسيلمة والعنسي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3922-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3922-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3922-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3922-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d13b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3923,
+      "bookHadithIndex": 31,
+      "text": "حدثنا ابو بكر، حدثنا معاوية بن هشام، حدثنا علي بن صالح، عن سماك، عن قابوس، قال قالت ام الفضل يا رسول الله رايت كان في بيتي عضوا من اعضايك قال \" خيرا رايت تلد فاطمة غلاما فترضعيه \" . فولدت حسينا او حسنا فارضعته بلبن قثم قالت فجيت به الى النبي صلى الله عليه وسلم فوضعته في حجره فبال فضربت كتفه فقال النبي صلى الله عليه وسلم \" اوجعت ابني رحمك الله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3923-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3923-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3923-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d13c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3924,
+      "bookHadithIndex": 32,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو عامر، اخبرني ابن جريج، اخبرني موسى بن عقبة، اخبرني سالم بن عبد الله، عن عبد الله بن عمر، عن رويا النبي، صلى الله عليه وسلم قال \" رايت امراة سوداء ثايرة الراس خرجت من المدينة حتى قامت بالمهيعة وهي الجحفة . فاولتها وباء بالمدينة فنقل الى الجحفة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3924-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3924-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3924-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3924-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d13d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3925,
+      "bookHadithIndex": 33,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابن الهاد، عن محمد بن ابراهيم التيمي، عن ابي سلمة بن عبد الرحمن، عن طلحة بن عبيد الله، ان رجلين، من بلي قدما على رسول الله صلى الله عليه وسلم وكان اسلامهما جميعا فكان احدهما اشد اجتهادا من الاخر فغزا المجتهد منهما فاستشهد ثم مكث الاخر بعده سنة ثم توفي . قال طلحة فرايت في المنام بينا انا عند باب الجنة اذا انا بهما فخرج خارج من الجنة فاذن للذي توفي الاخر منهما ثم خرج فاذن للذي استشهد ثم رجع الى فقال ارجع فانك لم يان لك بعد . فاصبح طلحة يحدث به الناس فعجبوا لذلك فبلغ ذلك رسول الله صلى الله عليه وسلم . وحدثوه الحديث فقال \" من اى ذلك تعجبون \" فقالوا يا رسول الله هذا كان اشد الرجلين اجتهادا ثم استشهد ودخل هذا الاخر الجنة قبله . فقال رسول الله صلى الله عليه وسلم \" اليس قد مكث هذا بعده سنة \" . قالوا بلى . قال \" وادرك رمضان فصامه وصلى كذا وكذا من سجدة في السنة \" . قالوا بلى قال رسول الله صلى الله عليه وسلم \" فما بينهما ابعد مما بين السماء والارض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3925-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3925-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3925-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c8eedd1a4c9c86f0d13e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 35,
+      "hadithIndex": 3926,
+      "bookHadithIndex": 34,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا ابو بكر الهذلي، عن ابن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اكره الغل واحب القيد القيد ثبات في الدين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3926-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3926-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3926-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-35-3926-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

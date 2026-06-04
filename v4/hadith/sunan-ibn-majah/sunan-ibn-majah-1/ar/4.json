@@ -1,0 +1,1403 @@
+{
+  "total": 400,
+  "totalPage": 8,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c389",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 417,
+      "bookHadithIndex": 151,
+      "text": "حدثنا محمد بن يحيى، حدثنا محمد بن يوسف، عن سفيان، عن ليث، عن شهر بن حوشب، عن ابي مالك الاشعري، قال كان رسول الله صلى الله عليه وسلم يتوضا ثلاثا ثلاثا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-417-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-417-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-417-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c38a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 418,
+      "bookHadithIndex": 152,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن سفيان، عن عبد الله بن محمد بن عقيل، عن الربيع بنت معوذ بن عفراء، ان رسول الله صلى الله عليه وسلم توضا ثلاثا ثلاثا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-418-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-418-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-418-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-418-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c38b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 419,
+      "bookHadithIndex": 153,
+      "text": "حدثنا ابو بكر بن خلاد الباهلي، حدثني مرحوم بن عبد العزيز العطار، حدثني عبد الرحيم بن زيد العمي، عن ابيه، عن معاوية بن قرة، عن ابن عمر، قال توضا رسول الله صلى الله عليه وسلم واحدة واحدة فقال \" هذا وضوء من لا يقبل الله منه صلاة الا به \" . ثم توضا ثنتين ثنتين فقال \" هذا وضوء القدر من الوضوء \" . وتوضا ثلاثا ثلاثا وقال \" هذا اسبغ الوضوء وهو وضويي ووضوء خليل الله ابراهيم ومن توضا هكذا ثم قال عند فراغه اشهد ان لا اله الا الله واشهد ان محمدا عبده ورسوله فتح له ثمانية ابواب الجنة يدخل من ايها شاء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-419-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-419-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-419-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-419-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c38c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 420,
+      "bookHadithIndex": 154,
+      "text": "حدثنا جعفر بن مسافر، حدثنا اسماعيل بن قعنب ابو بشر، حدثنا عبد الله بن عرادة الشيباني، عن زيد بن الحواري، عن معاوية بن قرة، عن عبيد بن عمير، عن ابى بن كعب، ان رسول الله صلى الله عليه وسلم دعا بماء فتوضا مرة مرة فقال \" هذا وظيفة الوضوء \" . او قال \" وضوء من لم يتوضاه لم يقبل الله له صلاة \" . ثم توضا مرتين مرتين ثم قال \" هذا وضوء من توضاه اعطاه الله كفلين من الاجر \" . ثم توضا ثلاثا ثلاثا فقال \" هذا وضويي ووضوء المرسلين من قبلي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-420-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-420-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-420-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-420-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c38d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 421,
+      "bookHadithIndex": 155,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو داود، حدثنا خارجة بن مصعب، عن يونس بن عبيد، عن الحسن، عن عتى بن ضمرة السعدي، عن ابى بن كعب، قال قال رسول الله صلى الله عليه وسلم \" ان للوضوء شيطانا يقال له ولهان فاتقوا وسواس الماء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-421-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-421-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-421-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-421-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c38e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 422,
+      "bookHadithIndex": 156,
+      "text": "حدثنا علي بن محمد، حدثنا خالي، يعلى عن سفيان، عن موسى بن ابي عايشة، عن عمرو بن شعيب، عن ابيه، عن جده، قال جاء اعرابي الى النبي صلى الله عليه وسلم فساله عن الوضوء فاراه ثلاثا ثلاثا ثم قال \" هذا الوضوء فمن زاد على هذا فقد اساء وتعدى او ظلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-422-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-422-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-422-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c38f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 423,
+      "bookHadithIndex": 157,
+      "text": "حدثنا ابو اسحاق الشافعي، ابراهيم بن محمد بن العباس حدثنا سفيان، عن عمرو، سمع كريبا، يقول سمعت ابن عباس، يقول بت عند خالتي ميمونة فقام النبي صلى الله عليه وسلم فتوضا من شنة وضوءا يقلله فقمت فصنعت كما صنع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-423-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-423-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-423-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-423-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c390",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 424,
+      "bookHadithIndex": 158,
+      "text": "حدثنا محمد بن المصفى الحمصي، حدثنا بقية، عن محمد بن الفضل، عن ابيه، عن سالم، عن ابن عمر، قال راى رسول الله صلى الله عليه وسلم رجلا يتوضا فقال \" لا تسرف لا تسرف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-424-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-424-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-424-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c391",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 425,
+      "bookHadithIndex": 159,
+      "text": "حدثنا محمد بن يحيى، حدثنا قتيبة، حدثنا ابن لهيعة، عن حيى بن عبد الله المعافري، عن ابي عبد الرحمن الحبلي، عن عبد الله بن عمرو، ان رسول الله صلى الله عليه وسلم مر بسعد وهو يتوضا فقال \" ما هذا السرف \" . فقال افي الوضوء اسراف قال \" نعم وان كنت على نهر جار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-425-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-425-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-425-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-425-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c392",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 426,
+      "bookHadithIndex": 160,
+      "text": "حدثنا احمد بن عبدة، حدثنا حماد بن زيد، حدثنا موسى بن سالم ابو جهضم، حدثنا عبد الله بن عبيد الله بن عباس، عن ابن عباس، قال امرنا رسول الله صلى الله عليه وسلم باسباغ الوضوء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-426-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-426-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-426-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-426-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c393",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 427,
+      "bookHadithIndex": 161,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يحيى بن ابي بكير، حدثنا زهير بن محمد، عن عبد الله بن محمد بن عقيل، عن سعيد بن المسيب، عن ابي سعيد الخدري، انه سمع رسول الله صلى الله عليه وسلم قال \" الا ادلكم على ما يكفر الله به الخطايا ويزيد به في الحسنات \" . قالوا بلى يا رسول الله . قال \" اسباغ الوضوء على المكاره وكثرة الخطا الى المساجد وانتظار الصلاة بعد الصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-427-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-427-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-427-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c394",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 428,
+      "bookHadithIndex": 162,
+      "text": "حدثنا يعقوب بن حميد بن كاسب، حدثنا سفيان بن حمزة، عن كثير بن زيد، عن الوليد بن رباح، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" كفارات الخطايا اسباغ الوضوء على المكاره واعمال الاقدام الى المساجد وانتظار الصلاة بعد الصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-428-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-428-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-428-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c395",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 429,
+      "bookHadithIndex": 163,
+      "text": "حدثنا محمد بن ابي عمر العدني، حدثنا سفيان، عن عبد الكريم ابي امية، عن حسان بن بلال، عن عمار بن ياسر، ح وحدثنا ابن ابي عمر، قال حدثنا سفيان، عن سعيد بن ابي عروبة، عن قتادة، عن حسان بن بلال، عن عمار بن ياسر، قال رايت رسول الله صلى الله عليه وسلم يخلل لحيته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-429-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-429-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-429-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-429-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c396",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 430,
+      "bookHadithIndex": 164,
+      "text": "حدثنا محمد بن ابي خالد القزويني، حدثنا عبد الرزاق، عن اسراييل، عن عامر بن شقيق الاسدي، عن ابي وايل، عن عثمان، ان رسول الله صلى الله عليه وسلم توضا فخلل لحيته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-430-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-430-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-430-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-430-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c397",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 431,
+      "bookHadithIndex": 165,
+      "text": "حدثنا محمد بن عبد الله بن حفص بن هشام بن زيد بن انس بن مالك، حدثنا يحيى بن كثير ابو النضر، صاحب البصري عن يزيد الرقاشي، عن انس بن مالك، قال كان رسول الله صلى الله عليه وسلم اذا توضا خلل لحيته وفرج اصابعه مرتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-431-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-431-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-431-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c398",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 432,
+      "bookHadithIndex": 166,
+      "text": "حدثنا هشام بن عمار، حدثنا عبد الحميد بن حبيب، حدثنا الاوزاعي، حدثنا عبد الواحد بن قيس، حدثني نافع، عن ابن عمر، قال كان رسول الله صلى الله عليه وسلم اذا توضا عرك عارضيه بعض العرك ثم شبك لحيته باصابعه من تحتها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-432-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-432-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-432-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c399",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 433,
+      "bookHadithIndex": 167,
+      "text": "حدثنا اسماعيل بن عبد الله الرقي، حدثنا محمد بن ربيعة الكلابي، حدثنا واصل بن السايب الرقاشي، عن ابي سورة، عن ابي ايوب الانصاري، قال رايت رسول الله صلى الله عليه وسلم توضا فخلل لحيته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-433-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-433-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-433-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-433-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c39a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 434,
+      "bookHadithIndex": 168,
+      "text": "حدثنا الربيع بن سليمان، وحرملة بن يحيى، قالا اخبرنا محمد بن ادريس الشافعي، قال انبانا مالك بن انس، عن عمرو بن يحيى، عن ابيه، انه قال لعبد الله بن زيد - وهو جد عمرو بن يحيى - هل تستطيع ان تريني، كيف كان رسول الله صلى الله عليه وسلم يتوضا فقال عبد الله بن زيد نعم . فدعا بوضوء فافرغ على يديه فغسل يديه مرتين ثم تمضمض واستنثر ثلاثا ثم غسل وجهه ثلاثا ثم غسل يديه مرتين مرتين الى المرفقين ثم مسح راسه بيديه فاقبل بهما وادبر بدا بمقدم راسه ثم ذهب بهما الى قفاه ثم ردهما حتى رجع الى المكان الذي بدا منه ثم غسل رجليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-434-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-434-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-434-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-434-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c39b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 435,
+      "bookHadithIndex": 169,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عباد بن العوام، عن حجاج، عن عطاء، عن عثمان بن عفان، قال رايت رسول الله صلى الله عليه وسلم توضا فمسح راسه مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-435-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-435-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-435-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c39c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 436,
+      "bookHadithIndex": 170,
+      "text": "حدثنا هناد بن السري، حدثنا ابو الاحوص، عن ابي اسحاق، عن ابي حية، عن علي، ان رسول الله صلى الله عليه وسلم مسح راسه مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-436-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-436-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-436-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c39d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 437,
+      "bookHadithIndex": 171,
+      "text": "حدثنا محمد بن الحارث المصري، حدثنا يحيى بن راشد البصري، عن يزيد، مولى سلمة عن سلمة بن الاكوع، قال رايت رسول الله صلى الله عليه وسلم توضا فمسح راسه مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-437-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-437-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-437-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-437-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c39e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 438,
+      "bookHadithIndex": 172,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن سفيان، عن عبد الله بن محمد بن عقيل، عن الربيع بنت معوذ ابن عفراء، قالت توضا رسول الله صلى الله عليه وسلم فمسح راسه مرتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-438-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-438-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-438-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-438-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c39f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 439,
+      "bookHadithIndex": 173,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن ادريس، عن ابن عجلان، عن زيد بن اسلم، عن عطاء بن يسار، عن ابن عباس، ان رسول الله صلى الله عليه وسلم مسح اذنيه داخلهما بالسبابتين وخالف ابهاميه الى ظاهر اذنيه فمسح ظاهرهما وباطنهما",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-439-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-439-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-439-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-439-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 440,
+      "bookHadithIndex": 174,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شريك، حدثنا عبد الله بن محمد بن عقيل، عن الربيع، ان النبي صلى الله عليه وسلم توضا فمسح ظاهر اذنيه وباطنهما",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-440-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-440-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-440-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 441,
+      "bookHadithIndex": 175,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن الحسن بن صالح، عن عبد الله بن محمد بن عقيل، عن الربيع بنت معوذ ابن عفراء، قالت توضا النبي صلى الله عليه وسلم فادخل اصبعيه في جحرى اذنيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-441-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-441-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-441-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 442,
+      "bookHadithIndex": 176,
+      "text": "حدثنا هشام بن عمار، حدثنا الوليد، حدثنا حريز بن عثمان، عن عبد الرحمن بن ميسرة، عن المقدام بن معديكرب، ان رسول الله صلى الله عليه وسلم توضا فمسح براسه واذنيه ظاهرهما وباطنهما",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-442-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-442-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-442-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-442-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 443,
+      "bookHadithIndex": 177,
+      "text": "حدثنا سويد بن سعيد، حدثنا يحيى بن زكريا بن ابي زايدة، عن شعبة، عن حبيب بن زيد، عن عباد بن تميم، عن عبد الله بن زيد، قال قال رسول الله صلى الله عليه وسلم \" الاذنان من الراس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-443-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-443-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-443-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 444,
+      "bookHadithIndex": 178,
+      "text": "حدثنا محمد بن زياد، انبانا حماد بن زيد، عن سنان بن ربيعة، عن شهر بن حوشب، عن ابي امامة، ان رسول الله صلى الله عليه وسلم قال \" الاذنان من الراس \" . وكان يمسح راسه مرة وكان يمسح الماقين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-444-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-444-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-444-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 445,
+      "bookHadithIndex": 179,
+      "text": "حدثنا محمد بن يحيى، حدثنا عمرو بن الحصين، حدثنا محمد بن عبد الله بن علاثة، عن عبد الكريم الجزري، عن سعيد بن المسيب، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" الاذنان من الراس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-445-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-445-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-445-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 446,
+      "bookHadithIndex": 180,
+      "text": "حدثنا محمد بن المصفى الحمصي، حدثنا محمد بن حمير، عن ابن لهيعة، حدثني يزيد بن عمرو المعافري، عن ابي عبد الرحمن الحبلي، عن المستورد بن شداد، قال رايت رسول الله صلى الله عليه وسلم توضا فخلل اصابع رجليه بخنصره . قال ابو الحسن بن سلمة حدثنا خازم بن يحيى الحلواني، حدثنا قتيبة، حدثنا ابن لهيعة، فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-446-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-446-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-446-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-446-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 447,
+      "bookHadithIndex": 181,
+      "text": "حدثنا ابراهيم بن سعيد الجوهري، حدثنا سعد بن عبد الحميد بن جعفر، عن ابن ابي الزناد، عن موسى بن عقبة، عن صالح، مولى التوامة عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" اذا قمت الى الصلاة فاسبغ الوضوء واجعل الماء بين اصابع يديك ورجليك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-447-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-447-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-447-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-447-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 448,
+      "bookHadithIndex": 182,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يحيى بن سليم الطايفي، عن اسماعيل بن كثير، عن عاصم بن لقيط بن صبرة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" اسبغ الوضوء وخلل بين الاصابع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-448-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-448-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-448-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3a9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 449,
+      "bookHadithIndex": 183,
+      "text": "حدثنا عبد الملك بن محمد الرقاشي، حدثنا معمر بن محمد بن عبيد الله بن ابي رافع، حدثني ابي، عن عبيد الله بن ابي رافع، عن ابيه، ان رسول الله صلى الله عليه وسلم كان اذا توضا حرك خاتمه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-449-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-449-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-449-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-449-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3aa",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 450,
+      "bookHadithIndex": 184,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن سفيان، عن منصور، عن هلال بن يساف، عن ابي يحيى، عن عبد الله بن عمر، قال راى رسول الله صلى الله عليه وسلم قوما يتوضيون واعقابهم تلوح فقال \" ويل للاعقاب من النار اسبغوا الوضوء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-450-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-450-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-450-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3ab",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 451,
+      "bookHadithIndex": 185,
+      "text": "قال القطان حدثنا ابو حاتم، حدثنا عبد المومن بن علي، حدثنا عبد السلام بن حرب، عن هشام بن عروة، عن ابيه، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" ويل للاعقاب من النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-451-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-451-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-451-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3ac",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 452,
+      "bookHadithIndex": 186,
+      "text": "حدثنا محمد بن الصباح، حدثنا عبد الله بن رجاء المكي، عن ابن عجلان، ح وحدثنا ابو بكر بن ابي شيبة، حدثنا يحيى بن سعيد، وابو خالد الاحمر عن محمد بن عجلان، عن سعيد بن ابي سعيد، عن ابي سلمة، قال رات عايشة عبد الرحمن وهو يتوضا فقالت اسبغ الوضوء فاني سمعت رسول الله صلى الله عليه وسلم يقول \" ويل للعراقيب من النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-452-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-452-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-452-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-452-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3ad",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 453,
+      "bookHadithIndex": 187,
+      "text": "حدثنا محمد بن عبد الملك بن ابي الشوارب، حدثنا عبد العزيز بن المختار، حدثنا سهيل، عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" ويل للاعقاب من النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-453-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-453-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-453-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-453-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3ae",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 454,
+      "bookHadithIndex": 188,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن ابي اسحاق، عن سعيد بن ابي كرب، عن جابر بن عبد الله، قال سمعت رسول الله صلى الله عليه وسلم يقول \" ويل للعراقيب من النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-454-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-454-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-454-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-454-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3af",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 455,
+      "bookHadithIndex": 189,
+      "text": "حدثنا العباس بن عثمان، وعثمان بن اسماعيل الدمشقيان، قالا حدثنا الوليد بن مسلم، حدثنا شيبة بن الاحنف، عن ابي سلام الاسود، عن ابي صالح الاشعري، حدثني ابو عبد الله الاشعري، عن خالد بن الوليد، ويزيد بن ابي سفيان، وشرحبيل ابن حسنة، وعمرو بن العاص، كل هولاء سمعوا من، رسول الله صلى الله عليه وسلم قال \" اتموا الوضوء ويل للاعقاب من النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-455-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-455-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-455-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-455-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 456,
+      "bookHadithIndex": 190,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن ابي اسحاق، عن ابي حية، قال رايت عليا توضا فغسل قدميه الى الكعبين ثم قال اردت ان اريكم طهور نبيكم صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-456-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-456-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-456-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 457,
+      "bookHadithIndex": 191,
+      "text": "حدثنا هشام بن عمار، حدثنا الوليد بن مسلم، حدثنا حريز بن عثمان، عن عبد الرحمن بن ميسرة، عن المقدام بن معديكرب، ان رسول الله صلى الله عليه وسلم توضا فغسل رجليه ثلاثا ثلاثا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-457-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-457-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-457-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-457-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 458,
+      "bookHadithIndex": 192,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابن علية، عن روح بن القاسم، عن عبد الله بن محمد بن عقيل، عن الربيع، قالت اتاني ابن عباس فسالني عن هذا الحديث، - تعني حديثها الذي ذكرت ان رسول الله صلى الله عليه وسلم توضا وغسل رجليه - فقال ابن عباس ان الناس ابوا الا الغسل ولا اجد في كتاب الله الا المسح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-458-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-458-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-458-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-458-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 459,
+      "bookHadithIndex": 193,
+      "text": "حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن جامع بن شداد ابي صخرة، قال سمعت حمران، يحدث ابا بردة في المسجد انه سمع عثمان بن عفان، يحدث عن النبي صلى الله عليه وسلم قال \" من اتم الوضوء كما امره الله فالصلوات المكتوبات كفارات لما بينهن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-459-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-459-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-459-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-459-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 460,
+      "bookHadithIndex": 194,
+      "text": "حدثنا محمد بن يحيى، حدثنا حجاج، حدثنا همام، حدثنا اسحاق بن عبد الله بن ابي طلحة، حدثني علي بن يحيى بن خلاد، عن ابيه، عن عمه، رفاعة بن رافع انه كان جالسا عند النبي صلى الله عليه وسلم فقال \" انها لا تتم صلاة لاحد حتى يسبغ الوضوء كما امره الله تعالى يغسل وجهه ويديه الى المرفقين ويمسح براسه ورجليه الى الكعبين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-460-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-460-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-460-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-460-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 461,
+      "bookHadithIndex": 195,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن بشر، حدثنا زكريا بن ابي زايدة، قال قال منصور حدثنا مجاهد، عن الحكم بن سفيان الثقفي، انه راى رسول الله صلى الله عليه وسلم توضا ثم اخذ كفا من ماء فنضح به فرجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-461-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-461-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-461-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 462,
+      "bookHadithIndex": 196,
+      "text": "حدثنا ابراهيم بن محمد الفريابي، حدثنا حسان بن عبد الله، حدثنا ابن لهيعة، عن عقيل، عن الزهري، عن عروة، قال حدثنا اسامة بن زيد، عن ابيه، زيد بن حارثة قال قال رسول الله صلى الله عليه وسلم \" علمني جبراييل الوضوء وامرني ان انضح تحت ثوبي لما يخرج من البول بعد الوضوء \" . قال ابو الحسن بن سلمة حدثنا ابو حاتم، حدثنا عبد الله بن يوسف التنيسي، حدثنا ابن لهيعة، فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-462-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-462-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-462-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 463,
+      "bookHadithIndex": 197,
+      "text": "حدثنا الحسين بن سلمة اليحمدي، حدثنا سلم بن قتيبة، حدثنا الحسن بن علي الهاشمي، عن عبد الرحمن الاعرج، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا توضات فانتضح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-463-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-463-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-463-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-463-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 464,
+      "bookHadithIndex": 198,
+      "text": "حدثنا محمد بن يحيى، حدثنا عاصم بن علي، حدثنا قيس، عن ابن ابي ليلى، عن ابي الزبير، عن جابر، قال توضا رسول الله صلى الله عليه وسلم فنضح فرجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-464-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-464-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-464-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3b9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 465,
+      "bookHadithIndex": 199,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن يزيد بن ابي حبيب، عن سعيد بن ابي هند، ان ابا مرة، مولى عقيل حدثه ان ام هاني بنت ابي طالب حدثته انه، لما كان عام الفتح قام رسول الله صلى الله عليه وسلم الى غسله فسترت عليه فاطمة ثم اخذ ثوبه فالتحف به",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-465-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-465-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-465-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-465-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c3ba",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 466,
+      "bookHadithIndex": 200,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا ابن ابي ليلى، عن محمد بن عبد الرحمن بن سعد بن زرارة، عن محمد بن شرحبيل، عن قيس بن سعد، قال اتانا النبي صلى الله عليه وسلم فوضعنا له ماء فاغتسل ثم اتيناه بملحفة ورسية فاشتمل بها فكاني انظر الى اثر الورس على عكنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-466-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-466-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-466-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-466-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

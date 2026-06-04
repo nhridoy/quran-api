@@ -1,0 +1,1428 @@
+{
+  "total": 400,
+  "totalPage": 8,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c357",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 367,
+      "bookHadithIndex": 101,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، انبانا مالك بن انس، اخبرني اسحاق بن عبد الله بن ابي طلحة الانصاري، عن حميدة بنت عبيد بن رفاعة، عن كبشة بنت كعب، وكانت، تحت بعض ولد ابي قتادة انها صبت لابي قتادة ماء يتوضا به فجاءت هرة تشرب فاصغى لها الاناء فجعلت انظر اليه فقال يا ابنة اخي اتعجبين قال رسول الله صلى الله عليه وسلم \" انها ليست بنجس هي من الطوافين او الطوافات",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-367-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c358",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 368,
+      "bookHadithIndex": 102,
+      "text": "حدثنا عمرو بن رافع، واسماعيل بن توبة، قالا حدثنا يحيى بن زكريا بن ابي زايدة، عن حارثة، عن عمرة، عن عايشة، قالت كنت اتوضا انا ورسول الله، صلى الله عليه وسلم من اناء واحد قد اصابت منه الهرة قبل ذلك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-368-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c359",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 369,
+      "bookHadithIndex": 103,
+      "text": "حدثنا محمد بن بشار، حدثنا عبيد الله بن عبد المجيد، حدثنا عبد الرحمن بن ابي الزناد، عن ابيه، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" الهرة لا تقطع الصلاة لانها من متاع البيت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-369-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-369-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-369-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 370,
+      "bookHadithIndex": 104,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن سماك بن حرب، عن عكرمة، عن ابن عباس، قال اغتسل بعض ازواج النبي صلى الله عليه وسلم في جفنة فجاء النبي صلى الله عليه وسلم ليغتسل او يتوضا فقالت يا رسول الله اني كنت جنبا . فقال \" الماء لا يجنب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-370-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 371,
+      "bookHadithIndex": 105,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن سماك بن حرب، عن عكرمة، عن ابن عباس، ان امراة، من ازواج النبي صلى الله عليه وسلم اغتسلت من جنابة فتوضا او اغتسل النبي صلى الله عليه وسلم من فضل وضويها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-371-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 372,
+      "bookHadithIndex": 106,
+      "text": "حدثنا محمد بن المثنى، ومحمد بن يحيى، واسحاق بن منصور، قالوا حدثنا ابو داود، حدثنا شريك، عن سماك، عن عكرمة، عن ابن عباس، عن ميمونة، زوج النبي صلى الله عليه وسلم ان النبي صلى الله عليه وسلم توضا بفضل غسلها من الجنابة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-372-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 373,
+      "bookHadithIndex": 107,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو داود، حدثنا شعبة، عن عاصم الاحول، عن ابي حاجب، عن الحكم بن عمرو، ان رسول الله صلى الله عليه وسلم نهى ان يتوضا الرجل بفضل وضوء المراة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-373-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 374,
+      "bookHadithIndex": 108,
+      "text": "حدثنا محمد بن يحيى، حدثنا المعلى بن اسد، حدثنا عبد العزيز بن المختار، حدثنا عاصم الاحول، عن عبد الله بن سرجس، قال نهى رسول الله صلى الله عليه وسلم ان يغتسل الرجل بفضل وضوء المراة والمراة بفضل الرجل ولكن يشرعان جميعا . قال ابو عبد الله بن ماجه الصحيح هو الاول والثاني وهم . قال ابو الحسن بن سلمة حدثنا ابو حاتم، وابو عثمان البخاري قالا حدثنا المعلى بن اسد، نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-374-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-374-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-374-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c35f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 375,
+      "bookHadithIndex": 109,
+      "text": "حدثنا محمد بن يحيى، حدثنا عبيد الله، عن اسراييل، عن ابي اسحاق، عن الحارث، عن علي، قال كان النبي صلى الله عليه وسلم واهله يغتسلون من اناء واحد ولا يغتسل احدهما بفضل صاحبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-375-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c360",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 376,
+      "bookHadithIndex": 110,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابن شهاب، ح وحدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن الزهري، عن عروة، عن عايشة، قالت كنت اغتسل انا ورسول الله، صلى الله عليه وسلم من اناء واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-376-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c361",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 377,
+      "bookHadithIndex": 111,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن عمرو بن دينار، عن جابر بن زيد، عن ابن عباس، عن خالته، ميمونة قالت كنت اغتسل انا ورسول الله، صلى الله عليه وسلم من اناء واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-377-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c362",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 378,
+      "bookHadithIndex": 112,
+      "text": "حدثنا ابو عامر الاشعري عبد الله بن عامر، حدثنا يحيى بن ابي بكير، حدثنا ابراهيم بن نافع، عن ابن ابي نجيح، عن مجاهد، عن ام هاني، ان النبي صلى الله عليه وسلم اغتسل وميمونة من اناء واحد في قصعة فيها اثر العجين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-378-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c363",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 379,
+      "bookHadithIndex": 113,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن الحسن الاسدي، حدثنا شريك، عن عبد الله بن محمد بن عقيل، عن جابر بن عبد الله، قال كان رسول الله صلى الله عليه وسلم وازواجه يغتسلون من اناء واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-379-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c364",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 380,
+      "bookHadithIndex": 114,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا اسماعيل ابن علية، عن هشام الدستوايي، عن يحيى بن ابي كثير، عن ابي سلمة، عن زينب بنت ام سلمة، عن ام سلمة، انها كانت ورسول الله صلى الله عليه وسلم يغتسلان من اناء واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-380-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c365",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 381,
+      "bookHadithIndex": 115,
+      "text": "حدثنا هشام بن عمار، حدثنا مالك بن انس، حدثني نافع، عن ابن عمر، قال كان الرجال والنساء يتوضيون على عهد رسول الله صلى الله عليه وسلم من اناء واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-381-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c366",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 382,
+      "bookHadithIndex": 116,
+      "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا انس بن عياض، حدثنا اسامة بن زيد، عن سالم ابي النعمان، - وهو ابن سرج - عن ام صبية الجهنية، قالت ربما اختلفت يدي ويد رسول الله صلى الله عليه وسلم في الوضوء من اناء واحد . قال ابو عبد الله ابن ماجه سمعت محمدا يقول ام صبية هي خولة بنت قيس . فذكرت لابي زرعة فقال صدق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-382-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c367",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 383,
+      "bookHadithIndex": 117,
+      "text": "حدثنا محمد بن يحيى، حدثنا داود بن شبيب، حدثنا حبيب بن ابي حبيب، عن عمرو بن هرم، عن عكرمة، عن عايشة، عن النبي صلى الله عليه وسلم انهما كانا يتوضان جميعا للصلاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-383-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-383-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-383-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c368",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 384,
+      "bookHadithIndex": 118,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن ابيه، ح وحدثنا محمد بن يحيى، حدثنا عبد الرزاق، عن سفيان، عن ابي فزارة العبسي، عن ابي زيد، مولى عمرو بن حريث عن عبد الله بن مسعود، ان رسول الله صلى الله عليه وسلم قال له ليلة الجن \" عندك طهور \" . قال لا الا شىء من نبيذ في اداوة . قال \" تمرة طيبة وماء طهور \" . فتوضا . هذا حديث وكيع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-384-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c369",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 385,
+      "bookHadithIndex": 119,
+      "text": "حدثنا العباس بن الوليد الدمشقي، حدثنا مروان بن محمد، حدثنا ابن لهيعة، حدثنا قيس بن الحجاج، عن حنش الصنعاني، عن عبد الله بن عباس، ان رسول الله صلى الله عليه وسلم قال لابن مسعود ليلة الجن \" معك ماء \" . قال لا الا نبيذا في سطيحة . فقال رسول الله صلى الله عليه وسلم \" تمرة طيبة وماء طهور صب على \" . قال فصببت عليه فتوضا به",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-385-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 386,
+      "bookHadithIndex": 120,
+      "text": "حدثنا هشام بن عمار، حدثنا مالك بن انس، حدثني صفوان بن سليم، عن سعيد بن سلمة، - هو من ال ابن الازرق - ان المغيرة بن ابي بردة، - وهو من بني عبد الدار - حدثه انه، سمع ابا هريرة، يقول جاء رجل الى رسول الله صلى الله عليه وسلم فقال يا رسول الله انا نركب البحر ونحمل معنا القليل من الماء فان توضانا به عطشنا افنتوضا من ماء البحر فقال رسول الله صلى الله عليه وسلم \" هو الطهور ماوه الحل ميتته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-386-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 387,
+      "bookHadithIndex": 121,
+      "text": "حدثنا سهل بن ابي سهل، حدثنا يحيى بن بكير، حدثني الليث بن سعد، عن جعفر بن ربيعة، عن بكر بن سوادة، عن مسلم بن مخشي، عن ابن الفراسي، قال كنت اصيد وكانت لي قربة اجعل فيها ماء واني توضات بماء البحر فذكرت ذلك لرسول الله صلى الله عليه وسلم فقال \" هو الطهور ماوه الحل ميتته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-387-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 388,
+      "bookHadithIndex": 122,
+      "text": "حدثنا محمد بن يحيى، حدثنا احمد بن حنبل، حدثنا ابو القاسم بن ابي الزناد، قال حدثني اسحاق بن حازم، عن عبيد الله، - هو ابن مقسم - عن جابر، ان النبي صلى الله عليه وسلم سيل عن ماء البحر فقال \" هو الطهور ماوه الحل ميتته \" . قال ابو الحسن بن سلمة حدثنا علي بن الحسن الهسنجاني، حدثنا احمد بن حنبل، حدثنا ابو القاسم بن ابي الزناد، حدثني اسحاق بن حازم، عن عبيد الله، - هو ابن مقسم - عن جابر بن عبد الله، ان النبي صلى الله عليه وسلم فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-388-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 389,
+      "bookHadithIndex": 123,
+      "text": "حدثنا هشام بن عمار، حدثنا عيسى بن يونس، حدثنا الاعمش، عن مسلم بن صبيح، عن مسروق، عن المغيرة بن شعبة، قال خرج النبي صلى الله عليه وسلم لبعض حاجته فلما رجع تلقيته بالاداوة فصببت عليه فغسل يديه ثم غسل وجهه ثم ذهب يغسل ذراعيه فضاقت الجبة فاخرجهما من تحت الجبة فغسلهما ومسح على خفيه ثم صلى بنا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-389-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 390,
+      "bookHadithIndex": 124,
+      "text": "حدثنا محمد بن يحيى، حدثنا الهيثم بن جميل، حدثنا شريك، عن عبد الله بن محمد بن عقيل، عن الربيع بنت معوذ، قالت اتيت النبي صلى الله عليه وسلم بميضاة فقال \" اسكبي \" . فسكبت فغسل وجهه وذراعيه واخذ ماء جديدا فمسح به راسه مقدمه وموخره وغسل قدميه ثلاثا ثلاثا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-390-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-390-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-390-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c36f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 391,
+      "bookHadithIndex": 125,
+      "text": "حدثنا بشر بن ادم، حدثنا زيد بن الحباب، حدثني الوليد بن عقبة، حدثني حذيفة بن ابي حذيفة الازدي، عن صفوان بن عسال، قال صببت على النبي صلى الله عليه وسلم الماء في السفر والحضر في الوضوء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-391-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c370",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 392,
+      "bookHadithIndex": 126,
+      "text": "حدثنا كردوس بن ابي عبد الله الواسطي، حدثنا عبد الكريم بن روح، حدثنا ابي روح بن عنبسة بن سعيد بن ابي عياش، مولى عثمان بن عفان عن ابيه، عنبسة بن سعيد عن جدته ام ابيه ام عياش، وكانت، امة لرقية بنت رسول الله صلى الله عليه وسلم قالت كنت اوضي رسول الله صلى الله عليه وسلم انا قايمة وهو قاعد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-392-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c371",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 393,
+      "bookHadithIndex": 127,
+      "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا الوليد بن مسلم، حدثنا الاوزاعي، حدثني الزهري، عن سعيد بن المسيب، وابي، سلمة بن عبد الرحمن انهما حدثاه ان ابا هريرة كان يقول قال رسول الله صلى الله عليه وسلم \" اذا استيقظ احدكم من الليل فلا يدخل يده في الاناء حتى يفرغ عليها مرتين او ثلاثا فان احدكم لا يدري فيم باتت يده",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-393-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c372",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 394,
+      "bookHadithIndex": 128,
+      "text": "حدثنا حرملة بن يحيى، حدثنا عبد الله بن وهب، اخبرني ابن لهيعة، وجابر بن اسماعيل، عن عقيل، عن ابن شهاب، عن سالم، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" اذا استيقظ احدكم من نومه فلا يدخل يده في الاناء حتى يغسلها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-394-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-394-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-394-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c373",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 395,
+      "bookHadithIndex": 129,
+      "text": "حدثنا اسماعيل بن توبة، حدثنا زياد بن عبد الله البكايي، عن عبد الملك بن ابي سليمان، عن ابي الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" اذا قام احدكم من النوم فاراد ان يتوضا فلا يدخل يده في وضويه حتى يغسلها فانه لا يدري اين باتت يده ولا على ما وضعها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-395-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-395-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-395-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c374",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 396,
+      "bookHadithIndex": 130,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو بكر بن عياش، عن ابي اسحاق، عن الحارث، قال دعا علي بماء فغسل يديه قبل ان يدخلهما الاناء ثم قال هكذا رايت رسول الله صلى الله عليه وسلم صنع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-396-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-396-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-396-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c375",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 397,
+      "bookHadithIndex": 131,
+      "text": "حدثنا ابو كريب، محمد بن العلاء حدثنا زيد بن الحباب، ح وحدثنا محمد بن بشار، حدثنا ابو عامر العقدي، ح وحدثنا احمد بن منيع، حدثنا ابو احمد الزبيري، قالوا حدثنا كثير بن زيد، عن ربيح بن عبد الرحمن بن ابي سعيد، عن ابيه، عن ابي سعيد، ان النبي صلى الله عليه وسلم قال \" لا وضوء لمن لم يذكر اسم الله عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-397-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-397-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-397-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c376",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 398,
+      "bookHadithIndex": 132,
+      "text": "حدثنا الحسن بن علي الخلال، حدثنا يزيد بن هارون، انبانا يزيد بن عياض، حدثنا ابو ثفال، عن رباح بن عبد الرحمن بن ابي سفيان، انه سمع جدته بنت سعيد بن زيد، تذكر انها سمعت اباها، سعيد بن زيد يقول قال رسول الله صلى الله عليه وسلم \" لا صلاة لمن لا وضوء له ولا وضوء لمن لم يذكر اسم الله عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-398-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-398-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-398-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c377",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 399,
+      "bookHadithIndex": 133,
+      "text": "حدثنا ابو كريب، وعبد الرحمن بن ابراهيم، قالا حدثنا ابن ابي فديك، حدثنا محمد بن موسى بن ابي عبد الله، عن يعقوب بن سلمة الليثي، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا صلاة لمن لا وضوء له ولا وضوء لمن لم يذكر اسم الله عليه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-399-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-399-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-399-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c378",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 400,
+      "bookHadithIndex": 134,
+      "text": "حدثنا عبد الرحمن بن ابراهيم، حدثنا ابن ابي فديك، عن عبد المهيمن بن عباس بن سهل بن سعد الساعدي، عن ابيه، عن جده، عن النبي صلى الله عليه وسلم قال \" لا صلاة لمن لا وضوء له ولا وضوء لمن لم يذكر اسم الله عليه ولا صلاة لمن لا يصلي على النبي صلى الله عليه وسلم ولا صلاة لمن لا يحب الانصار \" . قال ابو الحسن بن سلمة حدثنا ابو حاتم، حدثنا عبيس بن مرحوم العطار، حدثنا عبد المهيمن بن عباس، فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-400-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c379",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 401,
+      "bookHadithIndex": 135,
+      "text": "حدثنا هناد بن السري، حدثنا ابو الاحوص، عن اشعث بن ابي الشعثاء، ح وحدثنا سفيان بن وكيع، حدثنا عمر بن عبيد الطنافسي، عن اشعث بن ابي الشعثاء، عن ابيه، عن مسروق، عن عايشة، ان رسول الله صلى الله عليه وسلم كان يحب التيمن في الطهور اذا تطهر وفي ترجله اذا ترجل وفي انتعاله اذا انتعل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-401-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 402,
+      "bookHadithIndex": 136,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابو جعفر النفيلي، حدثنا زهير بن معاوية، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا توضاتم فابدءوا بميامنكم \" . قال ابو الحسن بن سلمة حدثنا ابو حاتم، حدثنا يحيى بن صالح، وابن، نفيل وغيرهما قالوا حدثنا زهير، فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-402-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 403,
+      "bookHadithIndex": 137,
+      "text": "حدثنا عبد الله بن الجراح، وابو بكر بن خلاد الباهلي حدثنا عبد العزيز بن محمد، عن زيد بن اسلم، عن عطاء بن يسار، عن ابن عباس، ان رسول الله صلى الله عليه وسلم مضمض واستنشق من غرفة واحدة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-403-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 404,
+      "bookHadithIndex": 138,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شريك، عن خالد بن علقمة، عن عبد خير، عن علي، ان رسول الله صلى الله عليه وسلم توضا فمضمض ثلاثا واستنشق ثلاثا من كف واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-404-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-404-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-404-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 405,
+      "bookHadithIndex": 139,
+      "text": "حدثنا علي بن محمد، حدثنا ابو الحسين العكلي، عن خالد بن عبد الله، عن عمرو بن يحيى، عن ابيه، عن عبد الله بن زيد الانصاري، قال اتانا رسول الله صلى الله عليه وسلم فسالنا وضوءا فاتيته بماء فمضمض واستنشق من كف واحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-405-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 406,
+      "bookHadithIndex": 140,
+      "text": "حدثنا احمد بن عبدة، حدثنا حماد بن زيد، عن منصور، ح وحدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن منصور، عن هلال بن يساف، عن سلمة بن قيس، قال قال لي رسول الله صلى الله عليه وسلم \" اذا توضات فانثر واذا استجمرت فاوتر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-406-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c37f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 407,
+      "bookHadithIndex": 141,
+      "text": "حدثنا ابو بكر بن ابي شي��ة، حدثنا يحيى بن سليم الطايفي، عن اسماعيل بن كثير، عن عاصم بن لقيط بن صبرة، عن ابيه، قال قلت يا رسول الله اخبرني عن الوضوء، . قال \" اسبغ الوضوء وبالغ في الاستنشاق الا ان تكون صايما",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-407-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-407-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-407-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c380",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 408,
+      "bookHadithIndex": 142,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا اسحاق بن سليمان، ح وحدثنا علي بن محمد، حدثنا وكيع، عن ابن ابي ذيب، عن قارظ بن شيبة، عن ابي غطفان المري، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" استنثروا مرتين بالغتين او ثلاثا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-408-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-408-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-408-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c381",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 409,
+      "bookHadithIndex": 143,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، وداود بن عبد الله، قالا حدثنا مالك بن انس، عن ابن شهاب، عن ابي ادريس الخولاني، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من توضا فليستنثر ومن استجمر فليوتر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-409-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c382",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 410,
+      "bookHadithIndex": 144,
+      "text": "حدثنا عبد الله بن عامر بن زرارة، حدثنا شريك بن عبد الله النخعي، عن ثابت بن ابي صفية الثمالي، قال سالت ابا جعفر قلت له حدثت عن جابر بن عبد الله، ان النبي صلى الله عليه وسلم توضا مرة مرة قال نعم . قلت ومرتين مرتين وثلاثا ثلاثا قال نعم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-410-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-410-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-410-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c383",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 411,
+      "bookHadithIndex": 145,
+      "text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا يحيى بن سعيد القطان، عن سفيان، عن زيد بن اسلم، عن عطاء بن يسار، عن ابن عباس، قال رايت رسول الله صلى الله عليه وسلم توضا غرفة غرفة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-411-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c384",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 412,
+      "bookHadithIndex": 146,
+      "text": "حدثنا ابو كريب، حدثنا رشدين بن سعد، انبانا الضحاك بن شرحبيل، عن زيد بن اسلم، عن ابيه، عن عمر، قال رايت رسول الله صلى الله عليه وسلم في غزوة تبوك توضا واحدة واحدة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-412-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-412-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-412-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c385",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 413,
+      "bookHadithIndex": 147,
+      "text": "حدثنا محمود بن خالد الدمشقي، حدثنا الوليد بن مسلم الدمشقي، عن ابن ثوبان، عن عبدة بن ابي لبابة، عن شقيق بن سلمة، قال رايت عثمان وعليا يتوضان ثلاثا ثلاثا ويقولان هكذا كان وضوء رسول الله صلى الله عليه وسلم . قال ابو الحسن بن سلمة حدثناه ابو حاتم، حدثنا ابو نعيم، حدثنا عبد الرحمن بن ثابت بن ثوبان، فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-413-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c386",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 414,
+      "bookHadithIndex": 148,
+      "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا الوليد بن مسلم، حدثنا الاوزاعي، عن المطلب بن عبد الله بن حنطب، عن ابن عمر، انه توضا ثلاثا ثلاثا ورفع ذلك الى النبي صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-414-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c387",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 415,
+      "bookHadithIndex": 149,
+      "text": "حدثنا ابو كريب، حدثنا خالد بن حيان، عن سالم ابي المهاجر، عن ميمون بن مهران، عن عايشة، وابي، هريرة ان النبي صلى الله عليه وسلم توضا ثلاثا ثلاثا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-415-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c388",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 1,
+      "hadithIndex": 416,
+      "bookHadithIndex": 150,
+      "text": "حدثنا سفيان بن وكيع، حدثنا عيسى بن يونس، عن فايد ابي الورقاء بن عبد الرحمن، عن عبد الله بن ابي اوفى، قال رايت رسول الله صلى الله عليه وسلم توضا ثلاثا ثلاثا ومسح راسه مرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-416-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-416-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-1-416-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1433 @@
+{
+  "total": 630,
+  "totalPage": 13,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c50b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 803,
+      "bookHadithIndex": 1,
+      "text": "حدثنا علي بن محمد الطنافسي، حدثنا ابو اسامة، حدثني عبد الحميد بن جعفر، حدثنا محمد بن عمرو بن عطاء، قال سمعت ابا حميد الساعدي، يقول كان رسول الله صلى الله عليه وسلم اذا قام الى الصلاة استقبل القبلة ورفع يديه وقال \" الله اكبر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-803-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-803-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-803-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-803-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c50c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 804,
+      "bookHadithIndex": 2,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، حدثني جعفر بن سليمان الضبعي، حدثني علي بن علي الرفاعي، عن ابي المتوكل، عن ابي سعيد الخدري، قال كان رسول الله صلى الله عليه وسلم يستفتح صلاته يقول \" سبحانك اللهم وبحمدك وتبارك اسمك وتعالى جدك ولا اله غيرك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-804-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-804-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-804-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-804-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c50d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 805,
+      "bookHadithIndex": 3,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا محمد بن فضيل، عن عمارة بن القعقاع، عن ابي زرعة، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم اذا كبر سكت بين التكبير والقراءة . قال فقلت بابي انت وامي ارايت سكوتك بين التكبير والقراءة فاخبرني ما تقول قال \" اقول اللهم باعد بيني وبين خطاياى كما باعدت بين المشرق والمغرب اللهم نقني من خطاياى كالثوب الابيض من الدنس اللهم اغسلني من خطاياى بالماء والثلج والبرد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-805-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-805-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-805-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-805-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c50e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 806,
+      "bookHadithIndex": 4,
+      "text": "حدثنا علي بن محمد، وعبد الله بن عمران، قالا حدثنا ابو معاوية، حدثنا حارثة بن ابي الرجال، عن عمرة، عن عايشة، ان النبي صلى الله عليه وسلم كان اذا افتتح الصلاة قال \" سبحانك اللهم وبحمدك تبارك اسمك وتعالى جدك ولا اله غيرك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-806-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-806-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-806-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-806-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c50f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 807,
+      "bookHadithIndex": 5,
+      "text": "حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن عمرو بن مرة، عن عاصم العنزي، عن ابن جبير بن مطعم، عن ابيه، قال رايت رسول الله صلى الله عليه وسلم حين دخل في الصلاة قال \" الله اكبر كبيرا الله اكبر كبيرا - ثلاثا - الحمد لله كثيرا الحمد لله كثيرا - ثلاثا - سبحان الله بكرة واصيلا - ثلاث مرات - اللهم اني اعوذ بك من الشيطان الرجيم من همزه ونفخه ونفثه \" . قال عمرو همزه الموتة ونفثه الشعر ونفخه الكبر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-807-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-807-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-807-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-807-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c510",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 808,
+      "bookHadithIndex": 6,
+      "text": "حدثنا علي بن المنذر، حدثنا ابن فضيل، حدثنا عطاء بن السايب، عن ابي عبد الرحمن السلمي، عن ابن مسعود، عن النبي صلى الله عليه وسلم قال \" اللهم اني اعوذ بك من الشيطان الرجيم وهمزه ونفخه ونفثه \" . قال همزه الموتة ونفثه الشعر ونفخه الكبر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-808-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-808-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-808-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-808-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c511",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 809,
+      "bookHadithIndex": 7,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا ابو الاحوص، عن سماك بن حرب، عن قبيصة بن هلب، عن ابيه، قال كان النبي صلى الله عليه وسلم يومنا فياخذ شماله بيمينه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-809-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-809-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-809-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-809-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c512",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 810,
+      "bookHadithIndex": 8,
+      "text": "حدثنا علي بن محمد، حدثنا عبد الله بن ادريس، ح وحدثنا بشر بن معاذ الضرير، حدثنا بشر بن المفضل، قالا حدثنا عاصم بن كليب، عن ابيه، عن وايل بن حجر، قال رايت النبي صلى الله عليه وسلم يصلي فاخذ شماله بيمينه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-810-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-810-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-810-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-810-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c513",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 811,
+      "bookHadithIndex": 9,
+      "text": "حدثنا ابو اسحاق الهروي، ابراهيم بن عبد الله بن حاتم انبانا هشيم، انبانا الحجاج بن ابي زينب السلمي، عن ابي عثمان النهدي، عن عبد الله بن مسعود، قال مر بي النبي صلى الله عليه وسلم وانا واضع يدي اليسرى على اليمنى فاخذ بيدي اليمنى فوضعها على اليسرى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-811-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-811-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-811-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c514",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 812,
+      "bookHadithIndex": 10,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، عن حسين المعلم، عن بديل بن ميسرة، عن ابي الجوزاء، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يفتتح القراءة ب {الحمد لله رب العالمين}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-812-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-812-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-812-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-812-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c515",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 813,
+      "bookHadithIndex": 11,
+      "text": "حدثنا محمد بن الصباح، انبانا سفيان، عن ايوب، عن قتادة، عن انس بن مالك، ح وحدثنا جبارة بن المغلس، حدثنا ابو عوانة، عن قتادة، عن انس بن مالك، قال كان رسول الله صلى الله عليه وسلم وابو بكر وعمر يفتتحون القراءة ب {الحمد لله رب العالمين}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-813-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-813-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-813-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-813-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c516",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 814,
+      "bookHadithIndex": 12,
+      "text": "حدثنا نصر بن علي الجهضمي، وبكر بن خلف، وعقبة بن مكرم، قالوا حدثنا صفوان بن عيسى، حدثنا بشر بن رافع، عن ابي عبد الله ابن عم ابي هريرة، عن ابي هريرة، ان النبي صلى الله عليه وسلم كان يفتتح القراءة ب {الحمد لله رب العالمين}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-814-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-814-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-814-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c517",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 815,
+      "bookHadithIndex": 13,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا اسماعيل ابن علية، عن الجريري، عن قيس بن عباية، حدثني ابن عبد الله بن المغفل، عن ابيه، قال وقلما رايت رجلا اشد عليه في الاسلام حدثا منه فسمعني وانا اقرا {بسم الله الرحمن الرحيم} فقال اى بنى اياك والحدث فاني صليت مع رسول الله صلى الله عليه وسلم ومع ابي بكر ومع عمر ومع عثمان فلم اسمع رجلا منهم يقوله فاذا قرات فقل {الحمد لله رب العالمين}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-815-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-815-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-815-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c518",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 816,
+      "bookHadithIndex": 14,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شريك، وسفيان بن عيينة، عن زياد بن علاقة، عن قطبة بن مالك، سمع النبي صلى الله عليه وسلم يقرا في الصبح {والنخل باسقات لها طلع نضيد}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-816-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-816-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-816-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-816-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c519",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 817,
+      "bookHadithIndex": 15,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا ابي، حدثنا اسماعيل بن ابي خالد، عن اصبغ، مولى عمرو بن حريث عن عمرو بن حريث، قال صلينا مع النبي صلى الله عليه وسلم فكان يقرا في الفجر فكاني اسمع قراءته {فلا اقسم بالخنس الجوار الكنس}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-817-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-817-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-817-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c51a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 818,
+      "bookHadithIndex": 16,
+      "text": "حدثنا محمد بن الصباح، حدثنا عباد بن العوام، عن عوف، عن ابي المنهال، عن ابي برزة، ح وحدثنا سويد، حدثنا معتمر بن سليمان، عن ابيه، حدثه ابو المنهال، عن ابي برزة، ان رسول الله صلى الله عليه وسلم كان يقرا في الفجر ما بين الستين الى الماية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-818-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-818-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-818-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-818-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c51b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 819,
+      "bookHadithIndex": 17,
+      "text": "حدثنا ابو بشر، بكر بن خلف حدثنا ابن ابي عدي، عن حجاج الصواف، عن يحيى بن ابي كثير، عن عبد الله بن ابي قتادة، وعن ابي سلمة، عن ابي قتادة، قال كان رسول الله صلى الله عليه وسلم يصلي بنا فيطيل في الركعة الاولى من الظهر ويقصر في الثانية وكذلك في الصبح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-819-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-819-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-819-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-819-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c51c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 820,
+      "bookHadithIndex": 18,
+      "text": "حدثنا هشام بن عمار، حدثنا سفيان بن عيينة، عن ابن جريج، عن ابن ابي مليكة، عن عبد الله بن السايب، قال قرا رسول الله صلى الله عليه وسلم في صلاة الصبح ب {المومنون} فلما اتى على ذكر عيسى اصابته شرقة فركع . يعني سعلة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-820-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-820-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-820-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-820-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c51d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 821,
+      "bookHadithIndex": 19,
+      "text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا وكيع، وعبد الرحمن بن مهدي، قالا حدثنا سفيان، عن مخول، عن مسلم البطين، عن سعيد بن جبير، عن ابن عباس، قال كان رسول الله صلى الله عليه وسلم يقرا في صلاة الصبح يوم الجمعة {الم * تنزيل } و {هل اتى على الانسان}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-821-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-821-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-821-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-821-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c51e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 822,
+      "bookHadithIndex": 20,
+      "text": "حدثنا ازهر بن مروان، حدثنا الحارث بن نبهان، حدثنا عاصم بن بهدلة، عن مصعب بن سعد، عن ابيه، قال كان رسول الله صلى الله عليه وسلم يقرا في صلاة الفجر يوم الجمعة {الم * تنزيل} و {هل اتى على الانسان}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-822-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-822-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-822-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c51f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 823,
+      "bookHadithIndex": 21,
+      "text": "حدثنا حرملة بن يحيى، حدثنا عبد الله بن وهب، اخبرني ابراهيم بن سعد، عن ابيه، عن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم كان يقرا في صلاة الفجر يوم الجمعة {الم * تنزيل} و {هل اتى على الانسان}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-823-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-823-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-823-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-823-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c520",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 824,
+      "bookHadithIndex": 22,
+      "text": "حدثنا اسحاق بن منصور، انبانا اسحاق بن سليمان، انبانا عمرو بن ابي قيس، عن ابي فروة، عن ابي الاحوص، عن عبد الله بن مسعود، ان رسول الله صلى الله عليه وسلم كان يقرا في صلاة الفجر يوم الجمعة {الم * تنزيل} و {هل اتى على الانسان} . قال اسحاق هكذا حدثنا عمرو عن عبد الله لا اشك فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-824-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-824-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-824-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-824-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c521",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 825,
+      "bookHadithIndex": 23,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، حدثنا معاوية بن صالح، حدثنا ربيعة بن يزيد، عن قزعة، قال سالت ابا سعيد الخدري عن صلاة، رسول الله صلى الله عليه وسلم فقال ليس لك في ذلك خير . قلت بين رحمك الله . قال كانت الصلاة تقام لرسول الله صلى الله عليه وسلم الظهر فيخرج احدنا الى البقيع فيقضي حاجته ويجيء فيتوضا فيجد رسول الله صلى الله عليه وسلم في الركعة الاولى من الظهر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-825-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-825-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-825-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-825-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c522",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 826,
+      "bookHadithIndex": 24,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا الاعمش، عن عمارة بن عمير، عن ابي معمر، قال قلت لخباب باى شىء كنتم تعرفون قراءة رسول الله صلى الله عليه وسلم في الظهر والعصر قال باضطراب لحيته",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-826-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-826-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-826-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-826-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c523",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 827,
+      "bookHadithIndex": 25,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو بكر الحنفي، حدثنا الضحاك بن عثمان، حدثني بكير بن عبد الله بن الاشج، عن سليمان بن يسار، عن ابي هريرة، قال ما رايت احدا اشبه صلاة برسول الله صلى الله عليه وسلم من فلان . قال وكان يطيل الاوليين من الظهر ويخفف الاخريين ويخفف العصر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-827-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-827-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-827-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-827-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c524",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 828,
+      "bookHadithIndex": 26,
+      "text": "حدثنا يحيى بن حكيم، حدثنا ابو داود الطيالسي، حدثنا المسعودي، حدثنا زيد العمي، عن ابي نضرة، عن ابي سعيد الخدري، قال اجتمع ثلاثون بدريا من اصحاب رسول الله صلى الله عليه وسلم فقالوا تعالوا حتى نقيس قراءة رسول الله صلى الله عليه وسلم فيما لم يجهر فيه من الصلاة . فما اختلف منهم رجلان فقاسوا قراءته في الركعة الاولى من الظهر بقدر ثلاثين اية وفي الركعة الاخرى قدر النصف من ذلك وقاسوا ذلك في صلاة العصر على قدر النصف من الركعتين الاخريين من الظهر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-828-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-828-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-828-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-828-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c525",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 829,
+      "bookHadithIndex": 27,
+      "text": "حدثنا بشر بن هلال الصواف، حدثنا يزيد بن زريع، حدثنا هشام الدستوايي، عن يحيى بن ابي كثير، عن عبد الله بن ابي قتادة، عن ابيه، قال كان رسول الله صلى الله عليه وسلم يقرا بنا في الركعتين الاوليين من صلاة الظهر ويسمعنا الاية احيانا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-829-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-829-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-829-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-829-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c526",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 830,
+      "bookHadithIndex": 28,
+      "text": "حدثنا عقبة بن مكرم، حدثنا سلم بن قتيبة، عن هاشم بن البريد، عن ابي اسحاق، عن البراء بن عازب، قال كان رسول الله صلى الله عليه وسلم يصلي بنا الظهر فنسمع منه الاية بعد الايات من سورة لقمان والذاريات",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-830-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-830-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-830-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c527",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 831,
+      "bookHadithIndex": 29,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وهشام بن عمار، قالا حدثنا سفيان بن عيينة، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، عن امه، - قال ابو بكر بن ابي شيبة هي لبابة - انها سمعت رسول الله صلى الله عليه وسلم يقرا في المغرب بالمرسلات عرفا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-831-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-831-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-831-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-831-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c528",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 832,
+      "bookHadithIndex": 30,
+      "text": "حدثنا محمد بن الصباح، انبانا سفيان، عن الزهري، عن محمد بن جبير بن مطعم، عن ابيه، قال سمعت النبي صلى الله عليه وسلم يقرا في المغرب بالطور . قال جبير في غير هذا الحديث فلما سمعته يقرا {ام خلقوا من غير شىء ام هم الخالقون} الى قوله {فليات مستمعهم بسلطان مبين } كاد قلبي يطير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-832-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-832-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-832-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-832-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c529",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 833,
+      "bookHadithIndex": 31,
+      "text": "حدثنا احمد بن بديل، حدثنا حفص بن غياث، حدثنا عبيد الله، عن نافع، عن ابن عمر، قال كان النبي صلى الله عليه وسلم يقرا في المغرب {قل يا ايها الكافرون} و {قل هو الله احد}",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-833-alalbani",
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-833-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-833-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-833-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c52a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 834,
+      "bookHadithIndex": 32,
+      "text": "حدثنا محمد بن الصباح، انبانا سفيان بن عيينة، ح وحدثنا عبد الله بن عامر بن زرارة، حدثنا يحيى بن زكريا بن ابي زايدة، جميعا عن يحيى بن سعيد، عن عدي بن ثابت، عن البراء بن عازب، انه صلى مع النبي صلى الله عليه وسلم العشاء الاخرة قال فسمعته يقرا بالتين والزيتون",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-834-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-834-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-834-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c52b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 835,
+      "bookHadithIndex": 33,
+      "text": "حدثنا محمد بن الصباح، انبانا سفيان، ح وحدثنا عبد الله بن عامر بن زرارة، حدثنا ابن ابي زايدة، جميعا عن مسعر، عن عدي بن ثابت، عن البراء، مثله . قال فما سمعت انسانا، احسن صوتا او قراءة منه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-835-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-835-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-835-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-835-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c52c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 836,
+      "bookHadithIndex": 34,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابي الزبير، عن جابر، ان معاذ بن جبل، صلى باصحابه العشاء فطول عليهم فقال له النبي صلى الله عليه وسلم \" اقرا بالشمس وضحاها وسبح اسم ربك الاعلى والليل اذا يغشى واقرا بسم ربك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-836-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-836-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-836-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-836-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c52d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 837,
+      "bookHadithIndex": 35,
+      "text": "حدثنا هشام بن عمار، وسهل بن ابي سهل، واسحاق بن اسماعيل، قالوا حدثنا سفيان بن عيينة، عن الزهري، عن محمود بن الربيع، عن عبادة بن الصامت، ان النبي صلى الله عليه وسلم قال \" لا صلاة لمن لم يقرا فيها بفاتحة الكتاب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-837-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-837-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-837-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c52e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 838,
+      "bookHadithIndex": 36,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا اسماعيل ابن علية، عن ابن جريج، عن العلاء بن عبد الرحمن بن يعقوب، ان ابا السايب، اخبره انه، سمع ابا هريرة، يقول قال رسول الله صلى الله عليه وسلم \" من صلى صلاة لم يقرا فيها بام القران فهي خداج غير تمام \" . فقلت يا ابا هريرة فاني اكون احيانا وراء الامام . فغمز ذراعي وقال يا فارسي اقرا بها في نفسك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-838-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-838-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-838-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-838-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c52f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 839,
+      "bookHadithIndex": 37,
+      "text": "حدثنا ابو كريب، حدثنا محمد بن الفضيل، ح وحدثنا سويد بن سعيد، حدثنا علي بن مسهر، جميعا عن ابي سفيان السعدي، عن ابي نضرة، عن ابي سعيد، قال قال رسول الله صلى الله عليه وسلم \" لا صلاة لمن لم يقرا في كل ركعة ب {الحمد لله} وسورة في فريضة او غيرها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-839-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-839-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-839-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c530",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 840,
+      "bookHadithIndex": 38,
+      "text": "حدثنا الفضل بن يعقوب الجزري، حدثنا عبد الاعلى، عن محمد بن اسحاق، عن يحيى بن عباد بن عبد الله بن الزبير، عن ابيه، عن عايشة، قالت سمعت رسول الله صلى الله عليه وسلم يقول \" كل صلاة لا يقرا فيها بام الكتاب فهي خداج",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-840-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-840-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-840-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-840-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c531",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 841,
+      "bookHadithIndex": 39,
+      "text": "حدثنا الوليد بن عمرو بن السكين، حدثنا يوسف بن يعقوب السلعي، حدثنا حسين المعلم، عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال \" كل صلاة لا يقرا فيها بفاتحة الكتاب فهي خداج فهي خداج",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-841-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-841-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-841-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-841-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c532",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 842,
+      "bookHadithIndex": 40,
+      "text": "حدثنا علي بن محمد، حدثنا اسحاق بن سليمان، حدثنا معاوية بن يحيى، عن يونس بن ميسرة، عن ابي ادريس الخولاني، عن ابي الدرداء، قال ساله رجل فقال اقرا والامام يقرا قال سال رجل النبي صلى الله عليه وسلم افي كل صلاة قراءة فقال رسول الله صلى الله عليه وسلم \" نعم \" . فقال رجل من القوم وجب هذا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-842-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-842-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-842-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c533",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 843,
+      "bookHadithIndex": 41,
+      "text": "حدثنا محمد بن يحيى، حدثنا سعيد بن عامر، حدثنا شعبة، عن مسعر، عن يزيد الفقير، عن جابر بن عبد الله، قال كنا نقرا في الظهر والعصر خلف الامام في الركعتين الاوليين بفاتحة الكتاب وسورة وفي الاخريين بفاتحة الكتاب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-843-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-843-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-843-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c534",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 844,
+      "bookHadithIndex": 42,
+      "text": "حدثنا جميل بن الحسن بن جميل العتكي، حدثنا عبد الاعلى، حدثنا سعيد، عن قتادة، عن الحسن، عن سمرة بن جندب، قال سكتتان حفظتهما عن رسول الله صلى الله عليه وسلم . فانكر ذلك عمران بن الحصين فكتبنا الى ابى بن كعب بالمدينة فكتب ان سمرة قد حفظ . قال سعيد فقلنا لقتادة ما هاتان السكتتان قال اذا دخل في صلاته واذا فرغ من القراءة . ثم قال بعد واذا قرا {غير المغضوب عليهم ولا الضالين} . قال وكان يعجبهم اذا فرغ من القراءة ان يسكت حتى يتراد اليه نفسه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-844-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-844-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-844-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-844-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c535",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 845,
+      "bookHadithIndex": 43,
+      "text": "حدثنا محمد بن خالد بن خداش، وعلي بن الحسين بن اشكاب، قالا حدثنا اسماعيل ابن علية، عن يونس، عن الحسن، قال قال سمرة حفظت سكتتين في الصلاة سكتة قبل القراءة وسكتة عند الركوع . فانكر ذلك عليه عمران بن الحصين فكتبوا الى المدينة الى ابى بن كعب فصدق سمرة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-845-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-845-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-845-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c536",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 846,
+      "bookHadithIndex": 44,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو خالد الاحمر، عن ابن عجلان، عن زيد بن اسلم، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" انما جعل الامام ليوتم به فاذا كبر فكبروا واذا قرا فانصتوا واذا قال {غير المغضوب عليهم ولا الضالين} فقولوا امين واذا ركع فاركعوا واذا قال سمع الله لمن حمده . فقولوا اللهم ربنا ولك الحمد واذا سجد فاسجدوا واذا صلى جالسا فصلوا جلوسا اجمعين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-846-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-846-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-846-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-846-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c537",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 847,
+      "bookHadithIndex": 45,
+      "text": "حدثنا يوسف بن موسى القطان، حدثنا جرير، عن سليمان التيمي، عن قتادة، عن ابي غلاب، عن حطان بن عبد الله الرقاشي، عن ابي موسى الاشعري، قال قال رسول الله صلى الله عليه وسلم \" اذا قرا الامام فانصتوا فاذا كان عند القعدة فليكن اول ذكر احدكم التشهد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-847-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-847-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-847-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-847-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c538",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 848,
+      "bookHadithIndex": 46,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وهشام بن عمار، قالا حدثنا سفيان بن عيينة، عن الزهري، عن ابن اكيمة، قال سمعت ابا هريرة، يقول صلى النبي صلى الله عليه وسلم باصحابه صلاة نظن انها الصبح فقال \" هل قرا منكم من احد \" . قال رجل انا . قال \" اني اقول ما لي انازع القران",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-848-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-848-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-848-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c539",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 849,
+      "bookHadithIndex": 47,
+      "text": "حدثنا جميل بن الحسن، حدثنا عبد الاعلى، حدثنا معمر، عن الزهري، عن ابن اكيمة، عن ابي هريرة، قال صلى بنا رسول الله صلى الله عليه وسلم فذكر نحوه وزاد فيه قال فسكتوا بعد فيما جهر فيه الامام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-849-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-849-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-849-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c53a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 850,
+      "bookHadithIndex": 48,
+      "text": "حدثنا علي بن محمد، حدثنا عبيد الله بن موسى، عن الحسن بن صالح، عن جابر، عن ابي الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" من كان له امام فان قراءة الامام له قراءة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-850-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-850-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-850-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c53b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 851,
+      "bookHadithIndex": 49,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وهشام بن عمار، قالا حدثنا سفيان بن عيينة، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" اذا امن القاري فامنوا فان الملايكة تومن فمن وافق تامينه تامين الملايكة غفر له ما تقدم من ذنبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-851-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-851-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-851-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-851-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c53c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 5,
+      "hadithIndex": 852,
+      "bookHadithIndex": 50,
+      "text": "حدثنا بكر بن خلف، وجميل بن الحسن، قالا حدثنا عبد الاعلى، حدثنا معمر، ح وحدثنا احمد بن عمرو بن السرح المصري، وهاشم بن القاسم الحراني، قالا حدثنا عبد الله بن وهب، عن يونس، جميعا عن الزهري، عن سعيد بن المسيب، وابي، سلمة بن عبد الرحمن عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا امن القاري فامنوا فمن وافق تامينه تامين الملايكة غفر له ما تقدم من ذنبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-852-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-852-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-852-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-5-852-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    }
+  ]
+}

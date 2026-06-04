@@ -1,0 +1,72 @@
+{
+  "total": 54,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c788dd1a4c9c86f0ba52",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2086,
+      "bookHadithIndex": 51,
+      "text": "Anas bin Malik narrated that the Messenger of Allah (S.A.W) said:\"The parable of the ill when he is cured and becomes healthy is that of hail that falls from the heavens in its purity and its color",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2086-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba53",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2087,
+      "bookHadithIndex": 52,
+      "text": "Abu Sa'eed Al-Khudri narrated that the Messenger of Allah (S.A.W) said:\"When one of you visits the ill, then reassure him regarding his lifespan. Indeed that will not repel anything, but it will comfort his soul",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2087-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba54",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2088,
+      "bookHadithIndex": 53,
+      "text": "Abu Hurairah narrated that the Prophet(S.A.W) visited a man who was ill, so he said:\"Cheer up, for indeed Allah said: 'It is My Fire which I impose upon My sinning slave as his portion of the Fire.\" (Hasan) Al-Hasan said: \"They would hope that the fever that occurred at night would atone for any deficiency caused by sins",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-28-2088-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c788dd1a4c9c86f0ba55",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 28,
+      "hadithIndex": 2089,
+      "bookHadithIndex": 54,
+      "text": "",
+      "grades": []
+    }
+  ]
+}

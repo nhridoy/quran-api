@@ -1,0 +1,108 @@
+{
+  "total": 54,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c611dd1a4c9c86f09e7f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 8,
+      "hadithIndex": 738,
+      "bookHadithIndex": 51,
+      "text": "Meymune (radıyallahü anha)’dan rivâyete göre: sallallahü aleyhi ve sellem), humre denilen bir çeşit sergi üzerinde namaz kılardı.) (Müslim, Mesacid: 48; Dârimi, Salat:)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-738-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-738-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-738-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09e80",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 8,
+      "hadithIndex": 739,
+      "bookHadithIndex": 52,
+      "text": "Ebû Hazım b. Dinar (radıyallahü anh)’dan rivâyete göre, bazı kimseler, Sehl b. Sa’d es Saidi‘nin yanına gelerek: Medine Mescidindeki Minberin hangi ağaçtan yapıldığında ihtilafa düşüp ona sordular Sehl‘de şunları anlattı: ben minberin hangi ağaçtan yapıldığını biliyorum. Hatta minberin yerine ilk konduğu günü de Rasûlüllah (sallallahü aleyhi ve sellem)’in oturduğu ilk günü de biliyorum. Rasûlüllah (sallallahü aleyhi ve sellem), bir kadına haber göndererek -Ravi Sehl’in o kadının ismini söylediğini fakat bu hadiste geçmediğini söylüyor- (Marangoz olan kölene emret insanlara konuşacağımda üzerine çıkacağım bir yer yapsın.) Bunun üzerine kadın, kölesine; Rasûlüllah (sallallahü aleyhi ve sellem)’in istediğini yapmasını emretti. Köle de ormandaki Tafra denilen ağaçtan isteneni yapıp getirdi. Kadın, bunu alıp Rasûlüllah (sallallahü aleyhi ve sellem)’e gönderdi. Rasûlüllah (sallallahü aleyhi ve sellem)’in emri üzerine bu minber işte şuraya kondu. Sonra Rasûlüllah (sallallahü aleyhi ve sellem) minberin üzerine çıkıp namaz kıldığını gördüm. Tekbir alıp namaza durdu, yine minber üzerinde rükû’a vardı sonra geri geri inerek yere secde etti sonra tekrar minbere çıktı, namazını bitirince insanlara dönerek şöyle buyurdu: insanlar: Benim namaz kıldığımı göresiniz ve bilesiniz ve Bana uyasınız diye böyle yaptım.) (Ebû Dâvûd, Salat: 222; Buhârî, Salat:)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-739-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-739-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-739-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09e81",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 8,
+      "hadithIndex": 740,
+      "bookHadithIndex": 53,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-740-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-740-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-740-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09e82",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 8,
+      "hadithIndex": 741,
+      "bookHadithIndex": 54,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-741-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-741-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-8-741-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

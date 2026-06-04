@@ -1,0 +1,648 @@
+{
+  "total": 423,
+  "totalPage": 9,
+  "page": 9,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf54",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3347,
+      "bookHadithIndex": 399,
+      "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن اسماعيل بن امية، قال سمعت رجلا، بدويا اعرابيا يقول سمعت ابا هريرة، يرويه يقول من قرا : (والتين والزيتون ) فقرا : ( اليس الله باحكم الحاكمين ) فليقل بلى وانا على ذلك من الشاهدين . قال ابو عيسى هذا حديث انما يروى بهذا الاسناد عن هذا الاعرابي عن ابي هريرة ولا يسمى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3347-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3347-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3347-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf55",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3348,
+      "bookHadithIndex": 400,
+      "text": "حدثنا عبد بن حميد، اخبرنا عبد الرزاق، عن معمر، عن عبد الكريم الجزري، عن عكرمة، عن ابن عباس، رضى الله عنهما : ( سندع الزبانية ) قال قال ابو جهل لين رايت محمدا يصلي لاطان على عنقه . فقال النبي صلى الله عليه وسلم \" لو فعل لاخذته الملايكة عيانا \" . قال ابو عيسى هذا حديث حسن صحيح غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3348-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3348-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3348-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3348-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf56",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3349,
+      "bookHadithIndex": 401,
+      "text": "حدثنا عبد الله بن سعيد ابو سعيد الاشج، حدثنا ابو خالد الاحمر، عن داود بن ابي هند، عن عكرمة، عن ابن عباس، قال كان النبي صلى الله عليه وسلم يصلي فجاء ابو جهل فقال الم انهك عن هذا الم انهك عن هذا الم انهك عن هذا فانصرف النبي صلى الله عليه وسلم فزبره فقال ابو جهل انك لتعلم ما بها ناد اكثر مني فانزل الله : ( فليدع ناديه * سندع الزبانية ) فقال ابن عباس فوالله لو دعا ناديه لاخذته زبانية الله . قال ابو عيسى هذا حديث حسن غريب صحيح . وفيه عن ابي هريرة رضى الله عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3349-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3349-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3349-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3349-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf57",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3350,
+      "bookHadithIndex": 402,
+      "text": "حدثنا محمود بن غيلان، حدثنا ابو داود الطيالسي، حدثنا القاسم بن الفضل الحداني، عن يوسف بن سعد، قال قام رجل الى الحسن بن علي بعد ما بايع معاوية فقال سودت وجوه المومنين . او يا مسود وجوه المومنين . فقال لا تونبني رحمك الله فان النبي صلى الله عليه وسلم اري بني امية على منبره فساءه ذلك فنزلت : ( انا اعطيناك الكوثر ) يا محمد يعني نهرا في الجنة ونزلت : ( انا انزلناه في ليلة القدر * وما ادراك ما ليلة القدر * ليلة القدر خير من الف شهر ) يملكها بعدك بنو امية يا محمد . قال القاسم فعددناها فاذا هي الف شهر لا يزيد يوم ولا ينقص . قال ابو عيسى هذا حديث غريب لا نعرفه الا من هذا الوجه من حديث القاسم بن الفضل . وقد قيل عن القاسم بن الفضل عن يوسف بن مازن . والقاسم بن الفضل الحداني هو ثقة وثقه يحيى بن سعيد وعبد الرحمن بن مهدي ويوسف بن سعد رجل مجهول ولا نعرف هذا الحديث على هذا اللفظ الا من هذا الوجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3350-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3350-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3350-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3350-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf58",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3351,
+      "bookHadithIndex": 403,
+      "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن عبدة بن ابي لبابة، وعاصم، هو ابن بهدلة سمعا زر بن حبيش، وزر بن حبيش يكنى ابا مريم يقول قلت لابى بن كعب ان اخاك عبد الله بن مسعود يقول من يقم الحول يصب ليلة القدر فقال يغفر الله لابي عبد الرحمن لقد علم انها في العشرة الاواخر من رمضان وانها ليلة سبع وعشرين ولكنه اراد ان لا يتكل الناس ثم حلف لا يستثني انها ليلة سبع وعشرين . قلت له باى شيء تقول ذلك يا ابا المنذر قال بالاية التي اخبرنا رسول الله صلى الله عليه وسلم او بالعلامة ان الشمس تطلع يوميذ لا شعاع لها . قال ابو عيسى هذا حديث حسن صحيح . حدثنا محمد بن العلاء حدثنا ابو بكر بن عياش عن عاصم بن بهدلة قال كان ابو وايل شقيق بن سلمة لا يتكلم ما دام زر بن حبيش جالسا . قال عاصم بن بهدلة وكان زر بن حبيش رجلا فصيحا وكان عبد الله بن مسعود يساله عن العربية . حدثنا احمد بن ابراهيم الدورقي حدثنا يزيد بن مهران الكوفي حدثنا ابو بكر بن عياش عن عاصم بن بهدلة قال مر رجل على زر بن حبيش وهو يوذن فقال يا ابا مريم اتوذن اني لارغب بك عن الاذان . فقال زر اترغب عن الاذان والله لا اكلمك ابدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3351-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3351-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3351-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3351-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf59",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3352,
+      "bookHadithIndex": 404,
+      "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا سفيان، عن المختار بن فلفل، قال سمعت انس بن مالك، يقول قال رجل للنبي صلى الله عليه وسلم يا خير البرية . قال \" ذلك ابراهيم \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3352-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3352-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3352-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3352-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf5a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3353,
+      "bookHadithIndex": 405,
+      "text": "حدثنا سويد بن نصر، اخبرنا عبد الله بن المبارك، اخبرنا سعيد بن ابي ايوب، عن يحيى بن ابي سليمان، عن سعيد المقبري، عن ابي هريرة، رضي الله عنه قال قرا رسول الله صلى الله عليه وسلم هذه الاية : ( يوميذ تحدث اخبارها ) قال \" اتدرون ما اخبارها \" . قالوا الله ورسوله اعلم . قال \" فان اخبارها ان تشهد على كل عبد او امة بما عمل على ظهرها تقول عمل يوم كذا كذا وكذا فهذه اخبارها \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3353-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3353-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3353-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf5b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3354,
+      "bookHadithIndex": 406,
+      "text": "حدثنا محمود بن غيلان، حدثنا وهب بن جرير، حدثنا شعبة، عن قتادة، عن مطرف بن عبد الله بن الشخير، عن ابيه، انه انتهى الى النبي صلى الله عليه وسلم وهو يقرا ( الهاكم التكاثر ) قال \" يقول ابن ادم مالي مالي وهل لك من مالك الا ما تصدقت فامضيت او اكلت فافنيت او لبست فابليت \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3354-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3354-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3354-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3354-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf5c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3355,
+      "bookHadithIndex": 407,
+      "text": "حدثنا ابو كريب، حدثنا حكام بن سلم الرازي، عن عمرو بن ابي قيس، عن الحجاج، عن المنهال بن عمرو، عن زر بن حبيش، عن علي، رضى الله عنه قال ما زلنا نشك في عذاب القبر حتى نزلت : (الهاكم التكاثر ) قال ابو كريب مرة عن عمرو بن ابي قيس هو رازي وعمرو بن قيس الملايي كوفي عن ابن ابي ليلى عن المنهال بن عمرو . قال ابو عيسى هذا حديث غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3355-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3355-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3355-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf5d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3356,
+      "bookHadithIndex": 408,
+      "text": "حدثنا ابن ابي عمر، حدثنا سفيان بن عيينة، عن محمد بن عمرو بن علقمة، عن يحيى بن عبد الرحمن بن حاطب، عن عبد الله بن الزبير بن العوام، عن ابيه، قال لما نزلت : (ثم لتسالن يوميذ عن النعيم، ) قال الزبير يا رسول الله فاى النعيم نسال عنه وانما هما الاسودان التمر والماء . قال \" اما انه سيكون \" . قال هذا حديث حسن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3356-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3356-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3356-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3356-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf5e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3357,
+      "bookHadithIndex": 409,
+      "text": "حدثنا عبد بن حميد، حدثنا احمد بن يونس، عن ابي بكر بن عياش، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، قال لما نزلت هذه الاية : (ثم لتسالن يوميذ عن النعيم ) قال الناس يا رسول الله عن اى النعيم نسال وانما هما الاسودان والعدو حاضر وسيوفنا على عواتقنا . قال \" ان ذلك سيكون \" . قال ابو عيسى وحديث ابن عيينة عن محمد بن عمرو عندي اصح من هذا . سفيان بن عيينة احفظ واصح حديثا من ابي بكر بن عياش",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3357-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3357-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3357-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf5f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3358,
+      "bookHadithIndex": 410,
+      "text": "حدثنا عبد بن حميد، حدثنا شبابة، عن عبد الله بن العلاء، عن الضحاك بن عبد الرحمن بن عرزم الاشعري، قال سمعت ابا هريرة، يقول قال رسول الله صلى الله عليه وسلم \" ان اول ما يسال عنه يوم القيامة يعني العبد من النعيم ان يقال له الم نصح لك جسمك ونرويك من الماء البارد \" . قال ابو عيسى هذا حديث غريب . والضحاك هو ابن عبد الرحمن بن عرزب ويقال ابن عرزم وابن عرزم اصح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3358-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3358-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3358-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf60",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3359,
+      "bookHadithIndex": 411,
+      "text": "حدثنا عبد بن حميد، حدثنا عبد الرزاق، عن معمر، عن قتادة، عن انس : ( انا، اعطيناك الكوثر ) ان النبي صلى الله عليه وسلم قال \" هو نهر في الجنة \" . قال فقال النبي صلى الله عليه وسلم \" رايت نهرا في الجنة حافتاه قباب اللولو قلت ما هذا يا جبريل قال هذا الكوثر الذي قد اعطاكه الله \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3359-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3359-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3359-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3359-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf61",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3360,
+      "bookHadithIndex": 412,
+      "text": "حدثنا احمد بن منيع، حدثنا سريج بن النعمان، حدثنا الحكم بن عبد الملك، عن قتادة، عن انس، قال قال رسول الله صلى الله عليه وسلم \" بينا انا اسير في الجنة اذ عرض لي نهر حافتاه قباب اللولو . قلت للملك ما هذا قال هذا الكوثر الذي اعطاكه الله قال ثم ضرب بيده الى طينة فاستخرج مسكا ثم رفعت لي سدرة المنتهى فرايت عندها نورا عظيما \" . قال ابو عيسى هذا حديث حسن صحيح . وقد روي من غير وجه عن انس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3360-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3360-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3360-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3360-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf62",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3361,
+      "bookHadithIndex": 413,
+      "text": "حدثنا هناد، حدثنا محمد بن فضيل، عن عطاء بن السايب، عن محارب بن دثار، عن عبد الله بن عمر، قال قال رسول الله صلى الله عليه وسلم \" الكوثر نهر في الجنة حافتاه من ذهب ومجراه على الدر والياقوت تربته اطيب من المسك وماوه احلى من العسل وابيض من الثلج \" . قال هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3361-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3361-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3361-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3361-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf63",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3362,
+      "bookHadithIndex": 414,
+      "text": "حدثنا عبد بن حميد، حدثنا سليمان بن داود، عن شعبة، عن ابي بشر، عن سعيد بن جبير، عن ابن عباس، رضى الله عنهما قال كان عمر يسالني مع اصحاب النبي صلى الله عليه وسلم فقال له عبد الرحمن بن عوف اتساله ولنا بنون مثله فقال له عمر انه من حيث تعلم فساله عن هذه الاية : ( اذا جاء نصر الله والفتح ) فقلت انما هو اجل رسول الله صلى الله عليه وسلم اعلمه اياه وقرا السورة الى اخرها فقال له عمر والله ما اعلم منها الا ما تعلم . قال ابو عيسى هذا حديث حسن صحيح . حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن ابي بشر، بهذا الاسناد نحوه الا انه قال فقال له عبد الرحمن بن عوف اتساله ولنا ابن مثله . هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3362-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3362-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3362-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3362-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf64",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3363,
+      "bookHadithIndex": 415,
+      "text": "حدثنا هناد، واحمد بن منيع، حدثنا ابو معاوية، حدثنا الاعمش، عن عمرو بن مرة، عن سعيد بن جبير، عن ابن عباس، قال صعد رسول الله صلى الله عليه وسلم ذات يوم على الصفا فنادى \" يا صباحاه \" . فاجتمعت اليه قريش فقال \" اني نذير لكم بين يدى عذاب شديد ارايتم لو اني اخبرتكم ان العدو ممسيكم او مصبحكم اكنتم تصدقوني \" . فقال ابو لهب الهذا جمعتنا تبا لك . فانزل الله : ( تبت يدا ابي لهب وتب ) . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3363-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3363-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3363-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3363-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf65",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3364,
+      "bookHadithIndex": 416,
+      "text": "حدثنا احمد بن منيع، حدثنا ابو سعد، هو الصغاني عن ابي جعفر الرازي، عن الربيع بن انس، عن ابي العالية، عن ابى بن كعب، ان المشركين، قالوا لرسول الله صلى الله عليه وسلم انسب لنا ربك . فانزل الله : ( قل هو الله احد * الله الصمد ) فالصمد الذي لم يلد ولم يولد لانه ليس شيء يولد الا سيموت وليس شيء يموت الا سيورث وان الله عز وجل لا يموت ولا يورث : ( لم يكن له كفوا احد ) قال \" لم يكن له شبيه ولا عدل وليس كمثله شيء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3364-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3364-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3364-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf66",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3365,
+      "bookHadithIndex": 417,
+      "text": "حدثنا عبد بن حميد، حدثنا عبيد الله بن موسى، عن ابي جعفر الرازي، عن الربيع، عن ابي العالية، ان النبي صلى الله عليه وسلم ذكر الهتهم فقالوا انسب لنا ربك . قال فاتاه جبريل بهذه السورة : ( قل هو الله احد ) . فذكر نحوه ولم يذكر فيه عن ابى بن كعب وهذا اصح من حديث ابي سعد وابو سعد اسمه محمد بن ميسر وابو جعفر الرازي اسمه عيسى وابو العالية اسمه رفيع وكان عبدا اعتقته امراة صابية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3365-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3365-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3365-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf67",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3366,
+      "bookHadithIndex": 418,
+      "text": "حدثنا محمد بن المثنى، حدثنا عبد الملك بن عمرو العقدي، عن ابن ابي ذيب، عن الحارث بن عبد الرحمن، عن ابي سلمة، عن عايشة، ان النبي صلى الله عليه وسلم نظر الى القمر فقال \" يا عايشة استعيذي بالله من شر هذا فان هذا الغاسق اذا وقب \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3366-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3366-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3366-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3366-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf68",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3367,
+      "bookHadithIndex": 419,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3367-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3367-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3367-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf69",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3368,
+      "bookHadithIndex": 420,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3368-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3368-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3368-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c7cedd1a4c9c86f0bf6a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 47,
+      "hadithIndex": 3369,
+      "bookHadithIndex": 421,
+      "text": "حدثنا محمد بن بشار، حدثنا يزيد بن هارون، حدثنا العوام بن حوشب، عن سليمان بن ابي سليمان، عن انس بن مالك، عن النبي صلى الله عليه وسلم قال \" لما خلق الله الارض جعلت تميد فخلق الجبال فعاد بها عليها فاستقرت فعجبت الملايكة من شدة الجبال قالوا يا رب هل من خلقك شيء اشد من الجبال قال نعم الحديد . قالوا يا رب فهل من خلقك شيء اشد من الحديد قال نعم النار . فقالوا يا رب فهل من خلقك شيء اشد من النار قال نعم الماء . قالوا يا رب فهل من خلقك شيء اشد من الماء قال نعم الريح قالوا يا رب فهل من خلقك شيء اشد من الريح قال نعم ابن ادم تصدق بصدقة بيمينه يخفيها من شماله \" . قال ابو عيسى هذا حديث غريب لا نعرفه مرفوعا الا من هذا الوجه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3369-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3369-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-47-3369-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    }
+  ]
+}

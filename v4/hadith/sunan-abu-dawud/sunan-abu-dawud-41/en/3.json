@@ -1,0 +1,63 @@
+{
+  "total": 102,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c59add1a4c9c86f098f3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4594,
+      "bookHadithIndex": 101,
+      "text": "Narrated AbuHurayrah: The Prophet (ﷺ) said: No recompense may be demanded if the fire spreads",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f098f4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4595,
+      "bookHadithIndex": 102,
+      "text": "Narrated Anas bin Malik:Al-Rubayyi', sister of Anas b. al-Nadr, broke (one of) the front teeth of a woman. They came to the Prophet (ﷺ). He made a decision in accordance with the Book of Allah that retaliation should be taken. Anas b. al-Nadr said: I swear by Him who has sent you the truth, her front tooth will not be broken today. He replied: Anas ! Allah's decree is retaliation. But the people were agreeable to accepting a fine, so the Prophet (ﷺ) said: Among Allah's servants there are those who, if they adjured Allah, He (Allah) would consent to it. Abu Dawud said: I heard Ahmad b. Hanbal say: He was asked : How retaliation of a tooth is taken ? He said: It is broken with a file",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2703)"
+        }
+      ]
+    }
+  ]
+}

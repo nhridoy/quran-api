@@ -1,0 +1,1408 @@
+{
+  "total": 770,
+  "totalPage": 16,
+  "page": 7,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c493dd1a4c9c86f089b4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 691,
+      "bookHadithIndex": 301,
+      "text": "Sufyan b. ‘Uyainah a dit : J’ai vu Sharik qui nous a dirigé la prière de l’asr lors d’un enterrement. Il a placé sa coiffe devant lui, c’est-à-dire pour accomplir la prière obligatoire à l’heure",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-691-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-691-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-691-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089b5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 692,
+      "bookHadithIndex": 302,
+      "text": "Ibn 'Umar رضي الله عنه a dit : Le Prophète ﷺ priait en direction de son chameau",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-692-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-692-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-692-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-692-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (430) Sahih Muslim (502)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089b6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 693,
+      "bookHadithIndex": 303,
+      "text": "Rapporté par Al-Miqdad ibn al-Aswad رضي الله عنه : Je n’ai jamais vu le Messager d’Allah ﷺ prier devant un bâton, un pilier ou un arbre sans que celui-ci soit en face de son sourcil droit ou gauche, mais jamais directement en face de lui",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-693-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-693-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-693-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-693-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089b7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 694,
+      "bookHadithIndex": 304,
+      "text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Ne priez pas derrière une personne qui dort ou qui parle. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-694-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-694-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-694-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089b8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 695,
+      "bookHadithIndex": 305,
+      "text": "Rapporté par Sahl ibn Abu Hathmah رضي الله عنه : Le Prophète ﷺ a dit : « Quand l’un de vous prie face à une sutrah, qu’il s’en approche et ne laisse pas le diable interrompre sa prière. » Abu Dawud a dit : Cette tradition a aussi été rapportée par Waqid b. Muhammad de Safwan, de Muhammad b. Sahl, d’après son père, ou de Muhammad b. Sahl du Prophète ﷺ. Certains l’ont rapportée de Nafi’ b. Jubair, d’après Sahl b. Sa’d. Il y a une variation dans la chaîne des rapporteurs",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-695-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-695-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-695-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089b9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 696,
+      "bookHadithIndex": 306,
+      "text": "Sahl رضي الله عنه a dit : La distance entre l’endroit où le Prophète ﷺ se tenait et la qibla (c’est-à-dire la sutrah ou le mur de la mosquée) permettait à une chèvre de passer",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-696-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-696-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-696-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-696-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (496) Sahih Muslim (508)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089ba",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 697,
+      "bookHadithIndex": 307,
+      "text": "Abu Sa’id al-Khudri رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Quand l’un de vous prie, il ne doit laisser personne passer devant lui ; il doit l’en empêcher autant que possible ; mais s’il refuse, qu’il le repousse, car ce n’est qu’un diable. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-697-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-697-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-697-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-697-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (505)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089bb",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 698,
+      "bookHadithIndex": 308,
+      "text": "Abu Sa’id al-Khudri رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Quand l’un de vous prie, qu’il se place face à une sutrah (écran ou objet) et qu’il s’en approche. » Il a ensuite rapporté la tradition dans le même sens",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-698-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-698-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-698-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-698-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089bc",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 699,
+      "bookHadithIndex": 309,
+      "text": "Abu ‘Ubaid a dit : J’ai vu ‘Ata b. Yazid al-Laithi prier debout. Je suis passé devant lui ; il m’a alors repoussé. Il m’a ensuite dit : Abu Sa’id al-Khudri رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Si l’un de vous peut empêcher quelqu’un de passer entre lui et la qibla, qu’il le fasse. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-699-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-699-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-699-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-699-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089bd",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 700,
+      "bookHadithIndex": 310,
+      "text": "Abu Salih a dit : Je rapporte ce que j’ai vu et entendu d’Abu Sa’id. Abu Sa’id est entré chez Marwan et a dit : J’ai entendu le Messager d’Allah ﷺ dire : « Quand l’un de vous prie face à un objet qui le sépare des gens, et que quelqu’un veut passer devant lui, qu’il le repousse au niveau de la poitrine ; s’il insiste, qu’il le repousse plus fermement, car ce n’est qu’un diable. » Abu Dawud a dit : Sufyan Ath-Thawri a dit : “Quelqu’un passe fièrement devant moi pendant que je prie, alors je l’arrête, mais si c’est une personne faible, je ne l’arrête pas.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-700-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-700-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-700-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-700-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (509) Sahih Muslim (505)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089be",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 701,
+      "bookHadithIndex": 311,
+      "text": "Rapporté par Abu Juhaim رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si celui qui passe devant une personne en prière savait la faute qu’il commet, il préférerait rester immobile quarante… plutôt que de passer devant elle. » Abu al-Nadr a dit : Je ne sais pas s’il a dit quarante jours, ou mois, ou années. Abu Dawud : Sufyan al-Thawri a dit : « Si un homme passe fièrement devant moi pendant que je prie, je l’arrête, mais si c’est une personne faible, je ne l’arrête pas. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-701-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-701-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-701-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-701-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (510) Sahih Muslim (507)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089bf",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 702,
+      "bookHadithIndex": 312,
+      "text": "Hafs a rapporté que le Messager d’Allah ﷺ a dit, et une autre version de cette tradition transmise par une autre chaîne a : Abu Dharr رضي الله عنه a dit (et non le Prophète) : « Si rien comme le dos d’une selle ne se trouve devant un homme qui prie, alors un âne, un chien noir et une femme annulent sa prière. » Je lui ai demandé : « Pourquoi le chien noir est-il mentionné, et pas un chien rouge, jaune ou blanc ? » Il a répondu : « Mon neveu, j’ai posé la même question au Messager d’Allah ﷺ que toi. Il a dit : “Le chien noir est un diable.” »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-702-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-702-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-702-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-702-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (510)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 703,
+      "bookHadithIndex": 313,
+      "text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Qatadah a dit : J’ai entendu Jabir ibn Zayd rapporter d’Ibn Abbas ; et Shu’bah a rapporté que le Prophète ﷺ a dit : « Une femme en période de menstrues et un chien annulent la prière. » Abu Dawud a dit : Sa’id, Hisham et Hammam ont rapporté cette tradition de Qatadah, d’après Jabir b. Zaid, comme une parole d’Ibn ‘Abbas",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-703-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-703-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-703-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 704,
+      "bookHadithIndex": 314,
+      "text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Ikrimah a rapporté d’Ibn Abbas, disant : Je pense que le Messager d’Allah ﷺ a dit : « Quand l’un de vous prie sans sutrah, un chien, un âne, un porc, un Juif, un Mage et une femme annulent sa prière, mais cela ne compte pas s’ils passent à plus d’une distance de jet de pierre. » Abu Dawud a dit : J’ai des doutes sur cette tradition. J’en ai discuté avec Ibrahim et d’autres. Je n’ai trouvé personne qui la rapporte de Hisham et la connaisse. Je pense que la confusion vient d’Ibn Abi Saminah, c’est-à-dire Muhammad b. Isma’il al-Basri, l’affranchi des Banu Hisham. Dans cette tradition, la mention du « Mage » est rejetée ; la mention de « à une distance de jet de pierre » et de « porc » est aussi rejetée. Abu Dawud a dit : Je n’ai entendu cette tradition que de Muhammad b. Isma’il b. Samurrah et je pense qu’il s’est trompé car il nous récitait de mémoire",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-704-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-704-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-704-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 705,
+      "bookHadithIndex": 315,
+      "text": "Yazid b. Namran a dit : J’ai vu un homme infirme à Tabuk. Il (l’homme) a dit : Je suis passé à dos d’âne devant le Prophète ﷺ alors qu’il priait. Il a dit (en le maudissant) : « Ô Allah, coupe-lui la marche. » Depuis ce jour, je n’ai plus pu marcher",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-705-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-705-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-705-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-705-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 706,
+      "bookHadithIndex": 316,
+      "text": "Rapporté par Sa’id : Cette tradition a aussi été rapportée par Sa’id avec la même chaîne de transmetteurs et dans le même sens. Il a ajouté : « Il a interrompu notre prière, qu’Allah interrompe sa marche. » Abu Dawud a dit : Cette version transmise par Mushir d’après Sa’id contient : « Il a interrompu notre prière. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-706-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-706-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-706-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 707,
+      "bookHadithIndex": 317,
+      "text": "Rapporté par Sa’id ibn Ghazwan d’après son père : Il fit une halte à Tabuk pendant son voyage pour accomplir le Hajj. Soudain, il vit un homme infirme et l’interrogea sur son état. L’homme répondit : « Je vais te raconter une tradition, mais ne la rapporte à personne tant que je suis vivant : Le Messager d’Allah ﷺ a campé à Tabuk près d’un palmier et il a dit : “Voici notre qiblah (direction de la prière).” Il a ensuite prié en se tournant vers elle. J’étais un enfant et je suis passé en courant entre lui et l’arbre. Il a alors dit en maudissant : “Il a interrompu notre prière, qu’Allah interrompe sa marche.” Depuis ce jour, je n’ai plus jamais pu me tenir debout sur mes pieds. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-707-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-707-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-707-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-707-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 708,
+      "bookHadithIndex": 318,
+      "text": "Rapporté par ‘Amr ibn Shu’aib d’après son père, d’après son grand-père : Nous sommes descendus du col d’Adhaakhir en compagnie du Messager d’Allah ﷺ. L’heure de la prière est arrivée et il a prié en direction de la qiblah, et nous étions derrière lui. Un chevreau est alors passé devant lui. Il a essayé de l’arrêter jusqu’à ce qu’il rapproche son ventre du mur pour le retenir, et finalement le chevreau est passé derrière lui, ou comme l’a dit Musaddad",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-708-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-708-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-708-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-708-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 709,
+      "bookHadithIndex": 319,
+      "text": "Rapporté par Ibn ‘Abbas : Le Prophète ﷺ priait un jour. Un chevreau est passé devant lui et il a essayé de l’arrêter",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-709-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-709-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-709-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-709-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 710,
+      "bookHadithIndex": 320,
+      "text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Je dormais devant le Prophète ﷺ, mes jambes entre lui et la qiblah. Shu’bah a dit : Je pense qu’elle a dit : « J’étais en période de menstrues. » Abu Dawud a dit : Cette tradition a été rapportée par al-Zuhri, ‘Ata, Abu Bakr ibn Hafs, Hisham ibn ‘Urwah, ‘Irak ibn Malik, Abu al-Aswad et Tamim ibn Salamah ; tous l’ont transmise d’après ‘Urwah, d’après ‘Aisha. Ibrahim l’a rapportée d’al-Aswad, d’après ‘Aisha. Abu al-Duha l’a rapportée de Masruq, d’après ‘Aisha. Al-Qasim ibn Muhammad et Abu Salamah l’ont rapportée d’après ‘Aisha. Aucun de ces transmetteurs n’a mentionné les mots « Et j’étais en période de menstrues »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-710-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-710-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-710-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih Sahih Bukhari (383) Sahih Muslim (512)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 711,
+      "bookHadithIndex": 321,
+      "text": "Rapporté par ‘Urwah d’après ‘Aisha رضي الله عنها : Le Messager d’Allah ﷺ priait la nuit et elle (‘Aisha) était allongée entre lui et la qiblah, dormant sur le lit où il dormait. Quand il voulait accomplir la prière du witr, il la réveillait et elle priait le witr",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-711-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-711-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-711-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-711-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (512) Sahih Muslim (512)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089c9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 712,
+      "bookHadithIndex": 322,
+      "text": "Rapporté par ‘Aisha رضي الله عنها : Je dormais avec mes jambes devant le Messager d’Allah ﷺ lorsqu’il priait la nuit (c’est-à-dire la prière du tahajjud à la fin de la nuit). Quand il se prosternait, il touchait mes jambes et je les repliais, puis il se prosternait",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-712-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-712-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-712-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-712-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (519)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089ca",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 713,
+      "bookHadithIndex": 323,
+      "text": "Rapporté par Abu An-Nadr, d’après Abu Salama ibn ‘Abdur Rahman, d’après ‘Aisha رضي الله عنها : Elle a dit : « Je dormais pendant que mes jambes étaient devant le Messager d’Allah ﷺ alors qu’il priait la nuit. Quand il voulait se prosterner, il me touchait les pieds, alors je les repliais, et il se prosternait. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-713-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-713-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-713-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-713-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (382) Sahih Muslim (512)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089cb",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 714,
+      "bookHadithIndex": 324,
+      "text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Je dormais allongée entre le Messager d’Allah ﷺ et la qiblah. Le Messager d’Allah ﷺ priait alors que j’étais devant lui. Quand il voulait accomplir la prière du witr – a ajouté le narrateur Uthman – il me pinçait – puis les narrateurs sont d’accord – et disait : « Écarte-toi. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-714-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-714-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-714-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-714-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089cc",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 715,
+      "bookHadithIndex": 325,
+      "text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Je suis venu à dos d’âne. Une autre version dit : Ibn Abbas a dit : Quand j’approchais de la puberté, je suis venu à dos d’une ânesse et j’ai trouvé le Messager d’Allah ﷺ dirigeant la prière à Mina. Je suis passé devant une partie du rang des prieurs, puis je suis descendu et j’ai laissé mon ânesse paître dans le pâturage, et j’ai rejoint le rang, et personne ne m’a fait de remarque. Abu Dawud a dit : Ce sont les paroles d’al-Qa’nabi, et elles sont complètes. Malik a dit : Je considère cela comme permis au moment où l’iqamah de la prière est prononcée",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-715-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-715-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-715-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-715-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (493) Sahih Muslim (504)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089cd",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 716,
+      "bookHadithIndex": 326,
+      "text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : AbuSahba’ a dit : Nous avons discuté avec Ibn Abbas des choses qui interrompent la prière. Il a dit : Moi et un garçon des Banu AbdulMuttalib sommes venus à dos d’âne, et le Messager d’Allah ﷺ dirigeait la prière. Il est descendu et moi aussi. J’ai laissé l’âne devant le rang des prieurs. Le Prophète ﷺ n’a pas prêté attention à cela. Ensuite, deux filles des Banu AbdulMuttalib sont venues et se sont placées au milieu du rang, mais il n’a pas prêté attention à cela non plus",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-716-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-716-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-716-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089ce",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 717,
+      "bookHadithIndex": 327,
+      "text": "La narration mentionnée ci-dessus a aussi été rapportée par Mansur avec une chaîne différente. Cette version dit : Puis deux filles des Banu ‘Abd al-Muttalib sont venues en se disputant. Il les a attrapées. ‘Uthman (un narrateur) a dit : Il les a séparées. Et Dawud (un autre narrateur) a dit : Il les a éloignées l’une de l’autre, mais il n’a pas prêté attention à cela",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-717-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-717-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-717-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-717-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089cf",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 718,
+      "bookHadithIndex": 328,
+      "text": "Rapporté par Al-Fadl ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ est venu vers nous accompagné d’Abbas alors que nous étions dans une de nos terres à la campagne. Il a prié dans le désert sans sutrah devant lui, et une ânesse et une chienne à nous jouaient devant lui, mais il n’a pas prêté attention à cela",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-718-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-718-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-718-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-718-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 719,
+      "bookHadithIndex": 329,
+      "text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Prophète ﷺ a dit : « Rien n’interrompt la prière, mais repousse autant que tu peux toute personne qui passe devant toi, car c’est seulement un diable. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-719-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-719-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-719-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 720,
+      "bookHadithIndex": 330,
+      "text": "Abu al-Waddak a dit : Un jeune homme des Quraish est passé devant Abu Sa’id al-Khudri رضي الله عنه alors qu’il priait. Il l’a repoussé. Il est revenu une deuxième fois. Il l’a encore repoussé une troisième fois. Quand il a terminé la prière, il a dit : « Rien ne coupe la prière ; mais le Messager d’Allah ﷺ a dit : Repousse autant que tu peux, car c’est seulement un diable. » Abu Dawud a dit : Si deux traditions du Prophète ﷺ semblent en contradiction, il faut tenir compte de la pratique des Compagnons après lui",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-720-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-720-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-720-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 721,
+      "bookHadithIndex": 331,
+      "text": "Rapporté par Salim d’après son père (Ibn ‘Umar) رضي الله عنه : J’ai vu le Messager d’Allah ﷺ : quand il commençait la prière, il levait les mains à hauteur des épaules, et il faisait de même en s’inclinant et en relevant la tête après l’inclinaison. Sufyan (un narrateur) a dit une fois : « Quand il relevait la tête » ; et ensuite il disait : « Quand il relevait la tête après l’inclinaison. » Il ne levait pas les mains entre les deux prosternations",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-721-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-721-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-721-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (735، 736، 738) Sahih Muslim (390)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 722,
+      "bookHadithIndex": 332,
+      "text": "Rapporté par ‘Abd Allah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ levait les mains à hauteur des épaules quand il commençait la prière, puis il prononçait le takbir (Allah est le plus grand) dans cette position, puis il s’inclinait. Et quand il relevait le dos (la tête) après l’inclinaison, il levait les mains à hauteur des épaules et disait : « Allah entend celui qui Le loue. » Mais il ne levait pas les mains en se prosternant ; il les levait plutôt lorsqu’il prononçait le takbir avant l’inclinaison, jusqu’à la fin de sa prière",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-722-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-722-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-722-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 723,
+      "bookHadithIndex": 333,
+      "text": "Rapporté par ‘Abd al-Jabbar ibn Wa’il (fils de Hujr) : J’étais un petit garçon et je ne comprenais pas la prière de mon père. Alors Wa’il ibn ‘Alqamah a rapporté que Wa’il ibn Hujr a dit : J’ai prié avec le Messager d’Allah ﷺ. Il levait les mains en prononçant le takbir (Allah est le plus grand), puis il tirait son vêtement autour de lui, puis posait sa main droite sur la gauche et mettait ses mains dans son vêtement. Quand il allait s’incliner, il sortait ses mains de son vêtement et les levait. Et quand il relevait la tête après l’inclinaison, il levait les mains. Ensuite, il se prosternait et posait son front entre ses mains. Et quand il relevait la tête après la prosternation, il levait aussi les mains jusqu’à la fin de la prière. Muhammad (un narrateur) a dit : J’en ai parlé à al-Hasan ibn Abu al-Hasan qui a dit : « C’est ainsi que le Messager d’Allah ﷺ priait ; certains le faisaient et d’autres non. » Abu Dawud a dit : Cette tradition a été rapportée par Hammam d’après ibn Juhadah, mais il n’a pas mentionné le fait de lever les mains après avoir relevé la tête à la fin de la prosternation",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-723-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-723-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-723-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 724,
+      "bookHadithIndex": 334,
+      "text": "Rapporté par Wa’il ibn Hujr رضي الله عنه : Il a vu que lorsque le Prophète ﷺ se levait pour prier, il levait les mains jusqu’à ce qu’elles soient en face de ses épaules et plaçait ses pouces au niveau de ses oreilles ; puis il prononçait le takbir (Allah est le plus grand)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-724-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-724-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-724-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 725,
+      "bookHadithIndex": 335,
+      "text": "Rapporté par Wa’il ibn Hujr رضي الله عنه : Il a vu le Messager d’Allah ﷺ lever les mains lorsqu’il prononçait le takbir (Allah est le plus grand)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-725-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-725-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-725-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-725-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 726,
+      "bookHadithIndex": 336,
+      "text": "Rapporté par Wa’il ibn Hujr رضي الله عنه : J’ai observé exprès la prière du Messager d’Allah ﷺ, comment il l’accomplissait. Le Messager d’Allah ﷺ s’est levé, s’est tourné vers la qiblah et a prononcé le takbir (Allah est le plus grand), puis il a levé les mains devant ses oreilles, puis il a posé sa main droite sur la gauche (en les tenant). Quand il allait s’incliner, il les levait de la même manière. Ensuite, il posait les mains sur ses genoux. Quand il relevait la tête après l’inclinaison, il les levait de la même façon. Lorsqu’il se prosternait, il posait son front entre ses mains. Ensuite, il s’asseyait, étendait son pied gauche et posait sa main gauche sur sa cuisse gauche, et gardait son coude droit éloigné de sa cuisse droite. Il fermait deux doigts et formait un cercle (avec les doigts). J’ai vu (Asim ibn Kulayb) Bishr ibn al-Mufaddal faire ainsi : il formait le cercle avec le pouce et le majeur et pointait l’index",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-726-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-726-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-726-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-726-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 727,
+      "bookHadithIndex": 337,
+      "text": "La tradition ci-dessus a aussi été transmise par ‘Asim ibn Kulaib avec une chaîne différente et dans le même sens. Cette version précise : « Il a ensuite posé sa main droite sur le dos de la main gauche, sur le poignet et l’avant-bras. » Elle ajoute aussi : « Je suis revenu plus tard, pendant une saison de grand froid. J’ai vu les gens porter des vêtements épais et lever les mains sous leurs habits (c’est-à-dire lever les mains avant et après l’inclinaison). »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-727-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-727-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-727-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089d9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 728,
+      "bookHadithIndex": 338,
+      "text": "Rapporté par Wa’il ibn Hujr رضي الله عنه : J’ai vu le Prophète ﷺ lever les mains devant ses oreilles lorsqu’il commençait la prière. Je suis revenu plus tard et j’ai vu les gens lever les mains jusqu’à la poitrine au début de la prière. Ils portaient de longs bonnets et des manteaux",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-728-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-728-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-728-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-728-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089da",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 729,
+      "bookHadithIndex": 339,
+      "text": "Rapporté par Wa’il ibn Hujr رضي الله عنه : Je suis venu voir le Prophète ﷺ en hiver ; j’ai vu ses compagnons lever les mains dans leurs vêtements pendant la prière",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-729-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-729-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-729-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-729-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089db",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 730,
+      "bookHadithIndex": 340,
+      "text": "Rapporté par Abu Humaid al-Sa’idi رضي الله عنه, qui a dit à un groupe de dix compagnons du Messager d’Allah ﷺ, dont faisait partie Abu Qatadah : « Je suis celui d’entre vous qui connaît le mieux la façon dont le Messager d’Allah ﷺ priait. » Ils dirent : « Pourquoi ? Par Allah, tu ne l’as pas suivi plus que nous, ni n’es resté plus longtemps en sa compagnie ! » Il répondit : « Si. » Ils dirent : « Alors décris-nous (comment le Prophète priait). » Il dit : « Quand le Messager d’Allah ﷺ se levait pour prier, il levait les mains à hauteur des épaules et prononçait le takbir (Allah est le plus grand), jusqu’à ce que chaque os prenne sa place correctement. Ensuite, il récitait (des versets du Coran), puis il prononçait le takbir (Allah est le plus grand), levant les mains à hauteur des épaules, puis il s’inclinait, posant les paumes sur ses genoux et gardant le dos droit, sans lever ni baisser la tête. Ensuite, il relevait la tête en disant : “Allah entend celui qui Le loue”, puis il levait les mains à hauteur des épaules, puis il disait : “Allah est le plus grand”, puis il se prosternait, gardant les bras écartés du corps. Ensuite, il relevait la tête, pliait son pied gauche et s’asseyait dessus, et ouvrait les orteils pendant la prosternation. Ensuite, il disait : “Allah est le plus grand”, puis il relevait la tête, pliait le pied gauche et s’asseyait dessus jusqu’à ce que chaque os reprenne sa place. Il faisait la même chose pour la deuxième rak’ah. À la fin des deux rak’ahs, il se levait et prononçait le takbir (Allah est le plus grand), levant les mains à hauteur des épaules comme au début de la prière. Il faisait ainsi pour le reste de la prière ; et après la prosternation qui précède le salut final (taslim), il étendait son pied gauche et s’asseyait sur sa hanche gauche. Ils dirent : “Tu as dit vrai. C’est ainsi qu’il ﷺ priait.” »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-730-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-730-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-730-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-730-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089dc",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 731,
+      "bookHadithIndex": 341,
+      "text": "Rapporté par ‘Amr al-Amiri : J’ai assisté à une réunion des compagnons du Messager d’Allah ﷺ. Ils ont commencé à discuter de la façon dont il priait. Abu Humaid a alors rapporté une partie de ce récit et a dit : Lorsqu’il s’inclinait, il saisissait ses genoux avec ses paumes et écartait ses doigts ; puis il courbait son dos sans lever la tête et sans tourner le visage de côté. Quand il s’asseyait à la fin de deux rak‘as, il s’asseyait sur la plante de son pied gauche et relevait le droit, et après la quatrième, il posait sa hanche gauche au sol et étendait ses deux pieds d’un côté",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-731-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-731-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-731-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089dd",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 732,
+      "bookHadithIndex": 342,
+      "text": "Ce même récit a aussi été rapporté par Muhammad b. ‘Amr b. ‘Ata’ à travers une autre chaîne de transmetteurs. Cette version ajoute : « Quand il se prosternait, il ne posait pas ses bras au sol ni ne les serrait contre lui ; il dirigeait ses doigts vers la qibla. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-732-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-732-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-732-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-732-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (828)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089de",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 733,
+      "bookHadithIndex": 343,
+      "text": "Abbas ou ‘Ayyash b. Sahl as-Sa’idi a dit qu’il était présent à une réunion à laquelle assistait son père, qui était l’un des compagnons du Prophète ﷺ, ainsi qu’Abu Huraira, Abu Humaid al-Sa’idi et Abu Usaid. Il a rapporté le même récit avec quelques ajouts ou omissions. Il a dit : Il levait ensuite la tête après s’être incliné et disait : « Allah entend celui qui Le loue, à Toi, notre Seigneur, la louange », et il levait les mains. Ensuite, il disait : « Allah est le plus grand » ; puis il se prosternait et s’appuyait sur ses paumes, ses genoux et le bout de ses orteils pendant la prosternation ; puis il prononçait le takbir (Allah est le plus grand), s’asseyait sur sa hanche et relevait l’autre pied ; puis il prononçait le takbir et se prosternait ; puis il prononçait le takbir et se relevait, sans s’asseoir sur sa hanche. (Le narrateur) a ensuite raconté le reste du récit. Il a ajouté : Ensuite, il s’asseyait à la fin de deux rak‘as ; quand il allait se lever après deux rak‘as, il prononçait le takbir ; puis il accomplissait les deux dernières rak‘as de la prière. Le narrateur n’a pas mentionné qu’il s’asseyait sur sa hanche en écartant ses pieds",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-733-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-733-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-733-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089df",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 734,
+      "bookHadithIndex": 344,
+      "text": "Rapporté par ‘Abbas b. Sahl : Abu Humaid, Abu Usaid, Sahl b. Sa’d et Muhammad b. Maslamah se sont réunis une fois et ont discuté de la façon dont le Messager d’Allah ﷺ accomplissait la prière. Abu Humaid a dit : Je connais mieux que vous la façon dont le Messager d’Allah ﷺ priait. Il a ensuite décrit une partie de la prière et a dit : Il s’inclinait alors et posait ses mains sur ses genoux comme s’il les saisissait ; il les pliait, gardant les bras écartés du corps. Ensuite, il se prosternait et posait son nez et son front au sol ; il gardait ses bras écartés du corps et posait ses paumes au sol à hauteur de ses épaules ; puis il relevait la tête, chaque os reprenant sa place ; (il se prosternait deux fois) jusqu’à terminer ses prosternations. Ensuite, il s’asseyait et étendait son pied gauche, plaçant l’avant de son pied droit en direction de la qibla, la paume de sa main droite sur son genou droit, et la paume de sa main gauche sur son genou gauche, et il pointait du doigt. Abu Dawud a dit : Ce récit a été rapporté par Ibn al-Mubarak d’après Fulaih, qui l’a entendu de ‘Abbas b. Sahl ; mais je ne m’en souviens pas. Je pense qu’il a mentionné ‘Isa b. ‘Abd Allah qui a entendu ‘Abbas b. Sahl dire : J’ai accompagné Abu Humaid al-Sa’idi",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-734-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-734-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-734-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089e0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 735,
+      "bookHadithIndex": 345,
+      "text": "Rapporté par Abu Humaid : Il a dit : Quand il (le Prophète) se prosternait, il écartait largement les cuisses et ne laissait pas son ventre toucher ses cuisses. Abu Dawud dit qu’Ibn Mubarak a rapporté ce hadith d’après ‘Abbas b. Sahl, mais il ne s’en souvenait pas bien. On pense qu’il a mentionné ‘Isa b. ‘Abd Allah, ‘Abbas b. Sahl et Abu Humaid al-Sa’idi",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-735-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-735-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-735-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-735-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089e1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 736,
+      "bookHadithIndex": 346,
+      "text": "Rapporté par Wa’il b. Hujr : Dans ce récit du Prophète ﷺ : Quand il se prosternait, ses genoux touchaient le sol avant ses paumes ; lorsqu’il se prosternait, il posait son front au sol entre ses paumes et gardait ses aisselles éloignées de ses côtés. Hajjaj a rapporté de Hammam et Shaqiq nous a transmis un récit similaire de ‘Asim b. Kulaib d’après son père, du Prophète ﷺ. Et une autre version, rapportée par l’un d’eux – et je pense très probablement qu’elle a été rapportée par Muhammad b. Juhadah – dit : Lorsqu’il se relevait (après la prosternation), il se relevait avec ses genoux et s’appuyait sur ses cuisses",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-736-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-736-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-736-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089e2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 737,
+      "bookHadithIndex": 347,
+      "text": "Rapporté par Wa’il ibn Hujr : J’ai vu le Messager d’Allah ﷺ lever les pouces en prière jusqu’aux lobes de ses oreilles",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-737-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-737-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-737-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089e3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 738,
+      "bookHadithIndex": 348,
+      "text": "Rapporté par Abu Huraira رضي الله عنه : Quand le Messager d’Allah ﷺ prononçait le takbir (Allah est le plus grand) pour commencer la prière, il levait les mains à hauteur des épaules ; et quand il s’inclinait, il faisait de même ; et quand il relevait la tête pour se prosterner, il faisait de même ; et quand il se relevait à la fin de deux rak‘as, il faisait de même",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-738-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-738-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-738-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-738-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089e4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 739,
+      "bookHadithIndex": 349,
+      "text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Maymun al-Makki a dit qu’il a vu Abdullah ibn az-Zubayr diriger la prière. Il levait les mains (c’est-à-dire à hauteur des épaules) quand il se levait, quand il s’inclinait, quand il se prosternait, et quand il se relevait après la prosternation, il levait les mains. Puis je suis allé voir Ibn Abbas et je lui ai dit : J’ai vu Ibn az-Zubayr prier d’une manière que je n’avais jamais vue auparavant. Je lui ai alors parlé du fait qu’il levait les mains. Il a dit : Si tu veux voir la prière du Messager d’Allah ﷺ, prie comme Abdullah ibn az-Zubayr",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-739-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-739-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-739-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-739-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c493dd1a4c9c86f089e5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 2,
+      "hadithIndex": 740,
+      "bookHadithIndex": 350,
+      "text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Nadr ibn Kathir as-Sa‘di a dit : Abdullah ibn Tawus a prié à côté de moi dans la mosquée d’al-Khayf. Lorsqu’il a fait la première prosternation, il a relevé la tête et levé les mains à hauteur de son visage. Cela m’a paru étrange. Je l’ai donc dit à Wuhayb ibn Khalid. Wuhayb ibn Khalid lui a alors dit : Tu fais quelque chose que je n’ai vu personne faire. Ibn Tawus a répondu : J’ai vu mon père le faire, et mon père a dit : J’ai vu Ibn Abbas le faire. Je ne sais plus s’il a dit : Le Prophète ﷺ le faisait aussi",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-740-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-740-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-740-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-2-740-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

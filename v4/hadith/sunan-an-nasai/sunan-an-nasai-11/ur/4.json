@@ -1,0 +1,83 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c611dd1a4c9c86f09f9f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1026,
+      "bookHadithIndex": 151,
+      "text": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ کیا میں تمہیں رسول اللہ صلی اللہ علیہ وسلم کی نماز نہ بتاؤں؟ چنانچہ وہ کھڑے ہوئے اور پہلی بار اپنے دونوں ہاتھوں کو اٹھایا، پھر انہوں نے دوبارہ ایسا نہیں کیا ۱؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1027,
+      "bookHadithIndex": 152,
+      "text": "ابومسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ایسی نماز کافی نہیں ہوتی جس میں آدمی رکوع و سجود میں اپنی پیٹھ برابر نہ رکھے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1028,
+      "bookHadithIndex": 153,
+      "text": "انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: رکوع اور سجدے میں سیدھے رہو ۱؎ اور تم میں سے کوئی بھی اپنے دونوں بازو کتے کی طرح نہ بچھائے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

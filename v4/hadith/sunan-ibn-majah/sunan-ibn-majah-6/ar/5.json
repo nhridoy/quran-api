@@ -1,0 +1,153 @@
+{
+  "total": 205,
+  "totalPage": 5,
+  "page": 5,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c859dd1a4c9c86f0c849",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 6,
+      "hadithIndex": 1633,
+      "bookHadithIndex": 201,
+      "text": "حدثنا اسحاق بن منصور، انبانا عبد الوهاب بن عطاء العجلي، عن ابن عون، عن الحسن، عن ابى بن كعب، قال كنا مع رسول الله صلى الله عليه وسلم وانما وجهنا واحد فلما قبض نظرنا هكذا وهكذا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1633-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1633-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1633-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c84a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 6,
+      "hadithIndex": 1634,
+      "bookHadithIndex": 202,
+      "text": "حدثنا ابراهيم بن المنذر الحزامي، حدثنا خالي، محمد بن ابراهيم بن المطلب بن السايب بن ابي وداعة السهمي حدثني موسى بن عبد الله بن ابي امية المخزومي، حدثني مصعب بن عبد الله، عن ام سلمة بنت ابي امية، زوج النبي صلى الله عليه وسلم انها قالت كان الناس في عهد رسول الله صلى الله عليه وسلم اذا قام المصلي يصلي لم يعد بصر احدهم موضع قدميه فتوفي رسول الله صلى الله عليه وسلم فكان الناس اذا قام احدهم يصلي لم يعد بصر احدهم موضع جبينه فتوفي ابو بكر وكان عمر فكان الناس اذا قام احدهم يصلي لم يعد بصر احدهم موضع القبلة وكان عثمان بن عفان فكانت الفتنة فتلفت الناس يمينا وشمالا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1634-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1634-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1634-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1634-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c84b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 6,
+      "hadithIndex": 1635,
+      "bookHadithIndex": 203,
+      "text": "حدثنا الحسن بن علي الخلال، حدثنا عمرو بن عاصم، حدثنا سليمان بن المغيرة، عن ثابت، عن انس، قال قال ابو بكر بعد وفاة رسول الله صلى الله عليه وسلم لعمر انطلق بنا الى ام ايمن نزورها كما كان رسول الله صلى الله عليه وسلم يزورها . قال: فلما انتهينا اليها بكت فقالا لها: ما يبكيك؟ فما عند الله خير لرسوله . قالت: اني لاعلم ان ما عند الله خير لرسوله ولكن ابكي ان الوحى قد انقطع من السماء . قال: فهيجتهما على البكاء فجعلا يبكيان معها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1635-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1635-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1635-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1635-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c84c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 6,
+      "hadithIndex": 1636,
+      "bookHadithIndex": 204,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا الحسين بن علي، عن عبد الرحمن بن يزيد بن جابر، عن ابي الاشعث الصنعاني، عن اوس بن اوس، قال قال رسول الله صلى الله عليه وسلم \" ان من افضل ايامكم يوم الجمعة فيه خلق ادم وفيه النفخة وفيه الصعقة فاكثروا على من الصلاة فيه فان صلاتكم معروضة على . فقال رجل يا رسول الله كيف تعرض صلاتنا عليك وقد ارمت - يعني بليت - قال \" ان الله حرم على الارض ان تاكل اجساد الانبياء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1636-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1636-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1636-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1636-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c859dd1a4c9c86f0c84d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 6,
+      "hadithIndex": 1637,
+      "bookHadithIndex": 205,
+      "text": "حدثنا عمرو بن سواد المصري، حدثنا عبد الله بن وهب، عن عمرو بن الحارث، عن سعيد بن ابي هلال، عن زيد بن ايمن، عن عبادة بن نسى، عن ابي الدرداء، قال قال رسول الله صلى الله عليه وسلم \" اكثروا الصلاة على يوم الجمعة فانه مشهود تشهده الملايكة وان احدا لن يصلي على الا عرضت على صلاته حتى يفرغ منها \" . قال قلت وبعد الموت قال \" وبعد الموت ان الله حرم على الارض ان تاكل اجساد الانبياء \" . فنبي الله حى يرزق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1637-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1637-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1637-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-6-1637-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "total": 102,
+  "totalPage": 3,
+  "page": 3,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c59add1a4c9c86f098f3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4594,
+      "bookHadithIndex": 101,
+      "text": "Ebû Hureyre (r.a)'den; Rasûlullah (s.a.v); \"Ateş hederdir\" buyurdu",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4594-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f098f4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 41,
+      "hadithIndex": 4595,
+      "bookHadithIndex": 102,
+      "text": "Enes b. Mâlik (r.a) den; şöyle demiştir: Enes b. Nadr'ın kızkardeşi Rubeyyi' bir kadın'ın ön dişini kırdı. Hep birlikte Rasûlullah'a geldiler. O da Allah'ın kitabı ile kısasa hükmetti. Enes b. Nadr: \"Seni hak ile gönderen Allah'a yemin ederim ki, bugün onun (kardeşimin) dişi kırılmaz\" dedi. Rasûlullah (s.a.v): \"Yâ Enes! Allah'ın kitabı (hükmü) kısastır\" buyurdu. Bilâhere dişi kırılan kadının tarafı diyete razı olup, aldılar. Rasûlullah (s.a.v) buna şaştı ve: \"Şüphesiz, Allah'ın kulları arasında öyleleri var ki Allah'a yemin etse onu yerine getirir\" buyurdu. Ebû Davud şöyle der: Ahmed b. Hanbel'den işittim ki; kendisine: \"diş­te nasıl kısas yapılır\" denilmiş o da \"törpülenir\" demiştir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-41-4595-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2703)"
+        }
+      ]
+    }
+  ]
+}

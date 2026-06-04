@@ -1,0 +1,83 @@
+{
+  "total": 53,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c5dbdd1a4c9c86f09d5a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 4,
+      "hadithIndex": 445,
+      "bookHadithIndex": 51,
+      "text": "بسرہ بنت صفوان رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی اپنا ہاتھ اپنے ذکر ( عضو تناسل ) تک لے جائے ( چھوئے ) تو چاہیئے کہ وہ وضو کرے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-445-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-445-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-445-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09d5b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 4,
+      "hadithIndex": 446,
+      "bookHadithIndex": 52,
+      "text": "عروہ بن زبیر مروان بن حکم سے روایت کرتے ہیں کہ انہوں نے کہا: شرمگاہ چھونے پر وضو ہے، تو مروان نے کہا: مجھ سے اسے بسرہ بنت صفوان نے بیان کیا ہے، تو عروہ نے بسرہ کے پاس ( اس کی تصدیق کے لیے آدمی ) بھیجا، تو انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے ان چیزوں کا ذکر کیا جن سے وضو کیا جاتا ہے، تو آپ صلی اللہ علیہ وسلم نے فرمایا: ذکر چھونے سے بھی وضو ہے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-446-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-446-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-446-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09d5c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 4,
+      "hadithIndex": 447,
+      "bookHadithIndex": 53,
+      "text": "بسرہ بنت صفوان رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو اپنا ذکر ( عضو تناسل ) چھوئے، تو نماز نہ پڑھے یہاں تک کہ وضو کر لے ۔ ابوعبدالرحمٰن ( امام نسائی ) کہتے ہیں: ہشام بن عروہ نے اس حدیث ۱؎ کو اپنے باپ سے نہیں سنا ہے، «واللہ سبحانہ تعالیٰ اعلم»۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-447-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-447-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-447-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

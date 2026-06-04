@@ -1,0 +1,763 @@
+{
+  "total": 28,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c55add1a4c9c86f0953a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3641,
+      "bookHadithIndex": 1,
+      "text": "Передается от Касира ибн Кайcа: «Я сидел с Абу ад-Дардой в мечети Дамаска, и к нему подошёл какой-то человек и сказал: “О Абу ад-Дарда! Я прибыл к тебе из города Посланника ﷺ ради хадиса, который, как мне сказали, ты передаёшь от Посланника Аллаха ﷺ никакой иной потребности у меня нет”. Абу ад-Дарда сказал: “Поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Тому, кто отправился в путь, желая приобрести знания, Аллах облегчит один из путей, ведущих в Рай. Поистине, ангелы непременно будут простирать свои крылья над ищущим знания, выражая своё удовлетворение тем, что он делает. И, поистине, прощения для знающего непременно станут просить обитатели небес и земли, и даже рыбы в толще воды! И превосходство обладателя знания над простым поклоняющимся подобно превосходству луны в ночь полнолуния над прочими небесными светилами, и, поистине, обладающие знанием наследники пророков, а пророки не оставляют в наследство ни динаров, ни дирхемов. Они оставляют в наследство знание, а кто приобрёл его, тот приобрёл великий удел””»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3641-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3641-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3641-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0953b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3642,
+      "bookHadithIndex": 2,
+      "text": "Похожий хадис передаётся другим путём от Абу ад-Дарды от Пророка ﷺ",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3642-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3642-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3642-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0953c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3643,
+      "bookHadithIndex": 3,
+      "text": "Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Какой бы человек ни отправился в путь ради знания, Аллах непременно облегчит ему путь в Рай. А кого задержали его дела, того не продвинет вперёд его происхождение»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3643-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3643-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3643-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3643-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0953d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3644,
+      "bookHadithIndex": 4,
+      "text": "Передается от Абу Намля аль-Ансари, да будет доволен им Аллах: «Мы сидели у Посланника Аллаха ﷺ, а в это время у него сидел один иудей. Мимо проходила похоронная процессия, и иудей спросил: “О Мухаммад? Говорит ли этот покойный (, когда его допрашивают в могиле ангелы Мункар и Накир)?” Пророк ﷺ сказал в ответ: “Это известно только Аллаху”. Иудей сказал: “Он говорит”. Тогда Посланник Аллаха ﷺ сказал: “Когда люди Писания рассказывают вам что-нибудь, не верьте этому, но и не считайте ложью, и говорите: “Уверовали мы в Аллаха и Его посланников”. Если это ложь, то вы не поверите ей, а если это правда, вы не сочтёте её ложью”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3644-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3644-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3644-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0953e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3645,
+      "bookHadithIndex": 5,
+      "text": "Передается от Зейда ибн Сабита, да будет доволен им Аллах: «Посланник Аллаха ﷺ велел мне обучиться письму иудеев, и я исполнил его веление. Он сказал: “Поистине, клянусь Аллахом, я не могу доверить иудеям (читать и писать) письма для меня”. Я обучился их письму, и на это у меня не ушло и половины месяца. И я писал для него письма к иудеям и читал ему письма, которые писали ему они»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3645-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3645-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3645-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3645-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0953f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3646,
+      "bookHadithIndex": 6,
+      "text": "Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Я записывал всё, что слышал от Посланника Аллаха ﷺ желая выучить это наизусть, а курайшиты запретили мне делать это, сказав: “Ты записываешь всё, что слышишь от Посланника Аллаха ﷺ? Но ведь он человек, который говорит и в гневе, и в довольстве”. После этого я перестал записывать. Я рассказал обо всём Посланнику Аллаха ﷺ и он указал рукой на свой рот и сказал: “Пиши, ибо, клянусь Тем, в Чьей руке душа моя, не выходит из него ничего, кроме истины”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3646-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3646-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3646-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09540",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3647,
+      "bookHadithIndex": 7,
+      "text": "Передается от аль-Мутталиба ибн ‘Абдуллаха ибн Хантаба, что однажды Зейд ибн Сабит зашёл к Му‘авии и тот спросил его о хадисе и велел одному человеку записать для него этот хадис. Тогда Зейд сказал: «Посланник Аллаха ﷺ велел нам не записывать ничего из его слов». Тогда он стёр это",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3647-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3647-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3647-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3647-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09541",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3648,
+      "bookHadithIndex": 9,
+      "text": "Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Мы не записывали ничего, кроме ташаххуда и Корана»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3648-alalbani",
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3648-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3648-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09542",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3649,
+      "bookHadithIndex": 8,
+      "text": "Передается от Абу Хурайры, да будет доволен им Аллах: «Покорив Мекку, Пророк ﷺ встал среди людей и обратился к ним с речью. После этого Абу Шах, человек из числа жителей Йемена, встал и сказал: “О Посланник Аллаха! Запишите для меня эти слова”, и (Посланник Аллаха ﷺ) велел: “Запишите эту (проповедь) для Абу Шаха”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3649-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3649-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3649-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2434) Sahih Muslim (1355)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09543",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3650,
+      "bookHadithIndex": 10,
+      "text": "Передается от аль-Валида: «Я спросил Абу ‘Амра: “Что они записали?” Он ответил: “Хутбу, которую он слышал тогда”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3650-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3650-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3650-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09544",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3651,
+      "bookHadithIndex": 11,
+      "text": "Передается от ‘Абдуллаха ибн аз-Зубайра, да будет доволен Аллах им и его отцом: «Я спросил аз-Зубайра: “Что мешает тебе передавать хадисы Посланника Аллаха ﷺ подобно остальным его сподвижникам?” Он ответил: “Клянусь Аллахом, я занимал достойное место при нём, однако я слышал, как он сказал: “Кто возвёл на меня ложь, пусть приготовится занять своё место в Огне!””»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3651-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3651-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3651-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (107)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09545",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3652,
+      "bookHadithIndex": 12,
+      "text": "Передается от Джундуба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто сказал о Книге Всемогущего и Великого Аллаха по своему мнению и оказался прав, тот всё равно ошибся»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3652-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3652-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3652-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3652-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09546",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3653,
+      "bookHadithIndex": 13,
+      "text": "Один человек, прислуживавший Пророку ﷺ сказал, что Пророк ﷺ говоря что-то, повторял это трижды",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3653-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3653-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3653-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3653-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09547",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3654,
+      "bookHadithIndex": 14,
+      "text": "Передается от ‘Урвы: «Однажды Абу Хурайра сел возле комнаты ‘Аиши и дважды повторил: “Послушай, о хозяйка комнаты”, а ‘Аиша в это время молилась. Закончив молиться, она сказала ‘Урве: “Не удивляет ли тебя этот человек и его манера рассказывать? Если бы кто-нибудь захотел подсчитать слова Пророка ﷺ когда он рассказывал что-либо, то смог бы сделать это”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3654-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3654-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3654-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3654-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3567) Sahih Muslim (2493)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09548",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3655,
+      "bookHadithIndex": 15,
+      "text": "Передается от ‘Урвы ибн аз-Зубайра, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «Не удивляет ли тебя поведение Абу Хурайры? Он пришёл, сел рядом с моей комнатой и стал пересказывать хадисы Посланника Аллаха ﷺ так, чтобы я слышала. А я в это время совершала добровольную молитву. И не успела я закончить, как он встал и ушёл. Если бы я успела, я бы ответила ему. Поистине, Посланник Аллаха ﷺ никогда не говорил так быстро (, без пауз между словами и произнося их все друг за другом), как вы»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3655-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3655-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3655-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3655-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2493)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09549",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3656,
+      "bookHadithIndex": 16,
+      "text": "Передается от Му‘авии, да будет доволен Аллах им и его отцом, что Пророк ﷺ запретил задавать сложные запутанные вопросы, имеющие целью заставить учёного ошибиться",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3656-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3656-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3656-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3656-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0954a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3657,
+      "bookHadithIndex": 17,
+      "text": "Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто даёт фетву без знания, тот понесёт на себе бремя греха того, кому он её дал». А в версии Сулеймана аль-Махри добавлено: «И кто указал брату своему на какое-то дело, зная, что лучше поступить иначе, тот поступил вероломно по отношению к нему»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3657-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3657-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3657-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0954b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3658,
+      "bookHadithIndex": 18,
+      "text": "Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кого спросят о чём-то из знания (, в котором спрашивающий действительно нуждается) и он сокроет его, того Аллах взнуздает огненной уздой в Судный день»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3658-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3658-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3658-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0954c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3659,
+      "bookHadithIndex": 19,
+      "text": "Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Вы слышите, и от вас это слышат другие, и от тех тоже кто-то слышит»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3659-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3659-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3659-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0954d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3660,
+      "bookHadithIndex": 20,
+      "text": "Передается от Зейда ибн Сабита, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Да порадует Аллах человека, который, услышав от нас хадис, запомнит его и передаст другому. Возможно, тот, кому он передаст это знание, поймёт и усвоит его лучше него самого. Бывает, что носитель знания не понимает его должным образом”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3660-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3660-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3660-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0954e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3661,
+      "bookHadithIndex": 21,
+      "text": "Передается от Сахля ибн Са‘да, да будет доволен им Аллах, что Пророк ﷺ сказал: «Клянусь Аллахом, если Аллах приведёт через тебя к вере даже одного человека, это будет лучше для тебя, чем обладание красными верблюдами»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3661-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3661-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3661-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3661-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3701) Sahih Muslim (2406)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f0954f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3662,
+      "bookHadithIndex": 22,
+      "text": "Передается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Передавайте от бану Исраиль, в этом нет ничего предосудительного»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3662-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3662-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3662-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3662-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09550",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3663,
+      "bookHadithIndex": 23,
+      "text": "Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Пророк Аллаха ﷺ порой рассказывал нам о бану Исраиль до рассвета и поднялся только тогда, когда нужно было совершать молитву»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3663-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3663-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3663-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09551",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3664,
+      "bookHadithIndex": 24,
+      "text": "Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто приобретал знание, которое приобретают из стремления к Лику Всемогущего и Великого Аллаха, сделав это ради обретения каких-то мирских благ, тот не ощутит благоухания Рая в Судный день»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3664-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3664-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3664-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09552",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3665,
+      "bookHadithIndex": 25,
+      "text": "Передается от ‘Ауфа ибн Малика аль-Ашджа‘и, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Речи произносит правитель, человек, назначенный правителем (, кому правитель поручил это дело), или (стремящийся к власти и главенству) гордец”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3665-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3665-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3665-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09553",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3666,
+      "bookHadithIndex": 26,
+      "text": "Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах: «Однажды я сидел с группой бедных мухаджиров, и некоторые из них прятались за другими, потому что на них почти не было одежды. Кто-то читал нам Коран, и к нам подошёл Посланник Аллаха ﷺ и встал возле нас. Тогда чтец замолчал, и Посланник Аллаха ﷺ поприветствовал нас и спросил: “Что вы делали?” Мы сказали: “О Посланник Аллаха, этот человек читал нам Коран, и мы слушали Книгу Аллаха”. Тогда Посланник Аллаха ﷺ сказал: “Хвала Аллаху, Который включил в мою общину тех, вместе с кем мне велено проявлять терпение”. С этими словами Посланник Аллаха ﷺ сел среди нас как один из нас, а потом сделал нам знак рукой, чтобы мы сели кругом и он мог видеть лица сидящих. Я думаю, что из всех сидящих там он не знал никого, кроме меня. Посланник Аллаха ﷺ сказал: “Радуйтесь, о бедняки из числа мухаджиров, совершенному свету в Судный день. Вы войдёте в Рай на полдня раньше богатых, а это пятьсот лет”»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3666-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3666-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3666-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09554",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3667,
+      "bookHadithIndex": 27,
+      "text": "Передается от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Сидеть с людьми, поминающими Аллаха, со времени утренней молитвы /фаджр/ до восхода солнца желаннее для меня, чем освободить четырёх рабов из потомков (пророка) Исма‘иля, и сидеть с людьми, поминающими Аллаха, со времени послеполуденной молитвы до захода солнца желаннее для меня, чем освободить четырёх рабов»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3667-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3667-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3667-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c55add1a4c9c86f09555",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 26,
+      "hadithIndex": 3668,
+      "bookHadithIndex": 28,
+      "text": "Передается от ‘Абдуллаха, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ сказал мне: “Прочитай мне суру “ан-Ниса””. Я спросил: “Мне прочитать её тебе при том, что именно тебе она была ниспослана?” Посланник Аллаха ﷺ сказал: “Поистине, я желаю послушать её от другого”. И я прочитал ему её, и, когда я дошёл до слов “Что же произойдёт, когда Мы приведём по свидетелю от каждой общины, а тебя приведём свидетелем против этих?” (сура “ан-Ниса”, аят 41), я поднял голову и увидел, что из глаз Посланника Аллаха ﷺ текут слёзы»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3668-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3668-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3668-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-26-3668-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5049) Sahih Muslim (800)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "total": 325,
+  "totalPage": 7,
+  "page": 7,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c518dd1a4c9c86f08ee6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2021,
+      "bookHadithIndex": 301,
+      "text": "حدثنا عمرو بن عون، حدثنا خالد، عن حميد، عن بكر بن عبد الله، قال قال رجل لابن عباس ما بال اهل هذا البيت يسقون النبيذ وبنو عمهم يسقون اللبن والعسل والسويق ابخل بهم ام حاجة فقال ابن عباس ما بنا من بخل ولا بنا من حاجة ولكن دخل رسول الله صلى الله عليه وسلم على راحلته وخلفه اسامة بن زيد فدعا رسول الله صلى الله عليه وسلم بشراب فاتي بنبيذ فشرب منه ودفع فضله الى اسامة بن زيد فشرب منه ثم قال رسول الله صلى الله عليه وسلم \" احسنتم واجملتم كذلك فافعلوا \" . فنحن هكذا لا نريد ان نغير ما قال رسول الله صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2021-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2021-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2021-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2021-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1316)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ee7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2022,
+      "bookHadithIndex": 302,
+      "text": "حدثنا القعنبي، حدثنا عبد العزيز، - يعني الدراوردي - عن عبد الرحمن بن حميد، انه سمع عمر بن عبد العزيز، يسال السايب بن يزيد هل سمعت في الاقامة، بمكة شييا قال اخبرني ابن الحضرمي، انه سمع رسول الله صلى الله عليه وسلم يقول \" للمهاجرين اقامة بعد الصدر ثلاثا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2022-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2022-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2022-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2022-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3933) Sahih Muslim (1352)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ee8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2023,
+      "bookHadithIndex": 303,
+      "text": "حدثنا القعنبي، عن مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم دخل الكعبة هو واسامة بن زيد وعثمان بن طلحة الحجبي وبلال فاغلقها عليه فمكث فيها قال عبد الله بن عمر فسالت بلالا حين خرج ماذا صنع رسول الله صلى الله عليه وسلم فقال جعل عمودا عن يساره وعمودين عن يمينه وثلاثة اعمدة وراءه - وكان البيت يوميذ على ستة اعمدة - ثم صلى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2023-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2023-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2023-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2023-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (505) Sahih Muslim (1329)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ee9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2024,
+      "bookHadithIndex": 304,
+      "text": "حدثنا عبد الله بن محمد بن اسحاق الاذرمي، حدثنا عبد الرحمن بن مهدي، عن مالك، بهذا الحديث لم يذكر السواري قال ثم صلى وبينه وبين القبلة ثلاثة اذرع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2024-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2024-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2024-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2024-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08eea",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2025,
+      "bookHadithIndex": 305,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا ابو اسامة، عن عبيد الله، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم بمعنى حديث القعنبي . قال ونسيت ان اساله كم صلى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2025-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2025-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2025-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2025-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08eeb",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2026,
+      "bookHadithIndex": 306,
+      "text": "حدثنا زهير بن حرب، حدثنا جرير، عن يزيد بن ابي زياد، عن مجاهد، عن عبد الرحمن بن صفوان، قال قلت لعمر بن الخطاب كيف صنع رسول الله صلى الله عليه وسلم حين دخل الكعبة قال صلى ركعتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2026-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2026-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2026-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2026-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08eec",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2027,
+      "bookHadithIndex": 307,
+      "text": "حدثنا ابو معمر عبد الله بن عمرو بن ابي الحجاج، حدثنا عبد الوارث، عن ايوب، عن عكرمة، عن ابن عباس، ان النبي صلى الله عليه وسلم لما قدم مكة ابى ان يدخل البيت وفيه الالهة فامر بها فاخرجت قال فاخرج صورة ابراهيم واسماعيل وفي ايديهما الازلام فقال رسول الله صلى الله عليه وسلم \" قاتلهم الله والله لقد علموا ما استقسما بها قط \" . قال ثم دخل البيت فكبر في نواحيه وفي زواياه ثم خرج ولم يصل فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2027-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2027-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2027-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2027-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1601)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08eed",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2028,
+      "bookHadithIndex": 308,
+      "text": "حدثنا القعنبي، حدثنا عبد العزيز، عن علقمة، عن امه، عن عايشة، انها قالت كنت احب ان ادخل البيت فاصلي فيه فاخذ رسول الله صلى الله عليه وسلم بيدي فادخلني في الحجر فقال \" صلي في الحجر اذا اردت دخول البيت فانما هو قطعة من البيت فان قومك اقتصروا حين بنوا الكعبة فاخرجوه من البيت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2028-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2028-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2028-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2028-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08eee",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2029,
+      "bookHadithIndex": 309,
+      "text": "حدثنا مسدد، حدثنا عبد الله بن داود، عن اسماعيل بن عبد الملك، عن عبد الله بن ابي مليكة، عن عايشة، ان النبي صلى الله عليه وسلم خرج من عندها وهو مسرور ثم رجع الى وهو كييب فقال \" اني دخلت الكعبة ولو استقبلت من امري ما استدبرت ما دخلتها اني اخاف ان اكون قد شققت على امتي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2029-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2029-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2029-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08eef",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2030,
+      "bookHadithIndex": 310,
+      "text": "حدثنا ابن السرح، وسعيد بن منصور، ومسدد، قالوا حدثنا سفيان، عن منصور الحجبي، حدثني خالي، عن امي، صفية بنت شيبة قالت سمعت الاسلمية، تقول قلت لعثمان ما قال لك رسول الله صلى الله عليه وسلم حين دعاك قال \" اني نسيت ان امرك ان تخمر القرنين فانه ليس ينبغي ان يكون في البيت شىء يشغل المصلي \" . قال ابن السرح خالي مسافع بن شيبة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2030-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2030-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2030-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2030-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef0",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2031,
+      "bookHadithIndex": 311,
+      "text": "حدثنا احمد بن حنبل، حدثنا عبد الرحمن بن محمد المحاربي، عن الشيباني، عن واصل الاحدب، عن شقيق، عن شيبة، - يعني ابن عثمان - قال قعد عمر بن الخطاب - رضى الله عنه - في مقعدك الذي انت فيه فقال لا اخرج حتى اقسم مال الكعبة . قال قلت ما انت بفاعل . قال بلى لافعلن . قال قلت ما انت بفاعل . قال لم قلت لان رسول الله صلى الله عليه وسلم قد راى مكانه وابو بكر - رضى الله عنه - وهما احوج منك الى المال فلم يخرجاه . فقام فخرج",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2031-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2031-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2031-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2031-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2032,
+      "bookHadithIndex": 312,
+      "text": "حدثنا حامد بن يحيى، حدثنا عبد الله بن الحارث، عن محمد بن عبد الله بن انسان الطايفي، عن ابيه، عن عروة بن الزبير، عن الزبير، قال لما اقبلنا مع رسول الله صلى الله عليه وسلم من لية حتى اذا كنا عند السدرة وقف رسول الله صلى الله عليه وسلم في طرف القرن الاسود حذوها فاستقبل نخبا ببصره وقال مرة واديه ووقف حتى اتقف الناس كلهم ثم قال \" ان صيد وج وعضاهه حرام محرم لله \" . وذلك قبل نزوله الطايف وحصاره لثقيف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2032-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2032-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2032-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2032-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2033,
+      "bookHadithIndex": 313,
+      "text": "حدثنا مسدد، حدثنا سفيان، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا تشد الرحال الا الى ثلاثة مساجد مسجد الحرام ومسجدي هذا والمسجد الاقصى",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2033-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2033-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2033-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2033-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1189) Sahih Muslim (1397)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef3",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2034,
+      "bookHadithIndex": 314,
+      "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن الاعمش، عن ابراهيم التيمي، عن ابيه، عن علي، - رضى الله عنه - قال ما كتبنا عن رسول الله صلى الله عليه وسلم الا القران وما في هذه الصحيفة . قال قال رسول الله صلى الله عليه وسلم \" المدينة حرام ما بين عاير الى ثور فمن احدث حدثا او اوى محدثا فعليه لعنة الله والملايكة والناس اجمعين لا يقبل منه عدل ولا صرف وذمة المسلمين واحدة يسعى بها ادناهم فمن اخفر مسلما فعليه لعنة الله والملايكة والناس اجمعين لا يقبل منه عدل ولا صرف ومن والى قوما بغير اذن مواليه فعليه لعنة الله والملايكة والناس اجمعين لا يقبل منه عدل ولا صرف",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2034-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2034-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2034-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2034-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1870) Sahih Muslim (1370)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef4",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2035,
+      "bookHadithIndex": 315,
+      "text": "حدثنا ابن المثنى، حدثنا عبد الصمد، حدثنا همام، حدثنا قتادة، عن ابي حسان، عن علي، - رضى الله عنه - في هذه القصة عن النبي صلى الله عليه وسلم قال \" لا يختلى خلاها ولا ينفر صيدها ولا تلتقط لقطتها الا لمن اشاد بها ولا يصلح لرجل ان يحمل فيها السلاح لقتال ولا يصلح ان يقطع منها شجرة الا ان يعلف رجل بعيره",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2035-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2035-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2035-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2035-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef5",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2036,
+      "bookHadithIndex": 316,
+      "text": "حدثنا محمد بن العلاء، ان زيد بن الحباب، حدثهم حدثنا سليمان بن كنانة، مولى عثمان بن عفان اخبرنا عبد الله بن ابي سفيان، عن عدي بن زيد، قال حمى رسول الله صلى الله عليه وسلم كل ناحية من المدينة بريدا بريدا لا يخبط شجره ولا يعضد الا ما يساق به الجمل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2036-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2036-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2036-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef6",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2037,
+      "bookHadithIndex": 317,
+      "text": "حدثنا ابو سلمة، حدثنا جرير، - يعني ابن حازم - حدثني يعلى بن حكيم، عن سليمان بن ابي عبد الله، قال رايت سعد بن ابي وقاص اخذ رجلا يصيد في حرم المدينة الذي حرم رسول الله صلى الله عليه وسلم فسلبه ثيابه فجاء مواليه فكلموه فيه فقال ان رسول الله صلى الله عليه وسلم حرم هذا الحرم وقال \" من وجد احدا يصيد فيه فليسلبه ثيابه \" . فلا ارد عليكم طعمة اطعمنيها رسول الله صلى الله عليه وسلم ولكن ان شيتم دفعت اليكم ثمنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2037-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2037-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2037-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef7",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2038,
+      "bookHadithIndex": 318,
+      "text": "حدثنا عثمان بن ابي شيبة، حدثنا يزيد بن هارون، اخبرنا ابن ابي ذيب، عن صالح، مولى التوامة عن مولى، لسعد ان سعدا، وجد عبيدا من عبيد المدينة يقطعون من شجر المدينة فاخذ متاعهم وقال - يعني لمواليهم - سمعت رسول الله صلى الله عليه وسلم ينهى ان يقطع من شجر المدينة شىء وقال \" من قطع منه شييا فلمن اخذه سلبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2038-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2038-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2038-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2038-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef8",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2039,
+      "bookHadithIndex": 319,
+      "text": "حدثنا محمد بن حفص ابو عبد الرحمن القطان، حدثنا محمد بن خالد، اخبرني خارجة بن الحارث الجهني، اخبرني ابي، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم قال \" لا يخبط ولا يعضد حمى رسول الله صلى الله عليه وسلم ولكن يهش هشا رفيقا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2039-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2039-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2039-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2039-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08ef9",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2040,
+      "bookHadithIndex": 320,
+      "text": "حدثنا مسدد، حدثنا يحيى، ح وحدثنا عثمان بن ابي شيبة، عن ابن نمير، عن عبيد الله، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم كان ياتي قباء ماشيا وراكبا زاد ابن نمير ويصلي ركعتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2040-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2040-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2040-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2040-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1194) Sahih Muslim (1399)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08efa",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2041,
+      "bookHadithIndex": 321,
+      "text": "حدثنا محمد بن عوف، حدثنا المقري، حدثنا حيوة، عن ابي صخر، حميد بن زياد عن يزيد بن عبد الله بن قسيط، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" ما من احد يسلم على الا رد الله على روحي حتى ارد عليه السلام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2041-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2041-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2041-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2041-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08efb",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2042,
+      "bookHadithIndex": 322,
+      "text": "حدثنا احمد بن صالح، قرات على عبد الله بن نافع اخبرني ابن ابي ذيب، عن سعيد المقبري، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا تجعلوا بيوتكم قبورا ولا تجعلوا قبري عيدا وصلوا على فان صلاتكم تبلغني حيث كنتم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2042-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2042-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2042-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2042-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08efc",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2043,
+      "bookHadithIndex": 323,
+      "text": "حدثنا حامد بن يحيى، حدثنا محمد بن معن المديني، اخبرني داود بن خالد، عن ربيعة بن ابي عبد الرحمن، عن ربيعة، - يعني ابن الهدير - قال ما سمعت طلحة بن عبيد الله، يحدث عن رسول الله صلى الله عليه وسلم حديثا قط غير حديث واحد . قال قلت وما هو قال خرجنا مع رسول الله صلى الله عليه وسلم يريد قبور الشهداء حتى اذا اشرفنا على حرة واقم فلما تدلينا منها واذا قبور بمحنية قال قلنا يا رسول الله اقبور اخواننا هذه قال \" قبور اصحابنا \" . فلما جينا قبور الشهداء قال \" هذه قبور اخواننا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2043-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2043-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2043-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08efd",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2044,
+      "bookHadithIndex": 324,
+      "text": "حدثنا القعنبي، عن مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم اناخ بالبطحاء التي بذي الحليفة فصلى بها فكان عبد الله بن عمر يفعل ذلك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2044-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2044-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2044-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2044-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1532) Sahih Muslim (1257 After  1345)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c518dd1a4c9c86f08efe",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 11,
+      "hadithIndex": 2045,
+      "bookHadithIndex": 325,
+      "text": "حدثنا القعنبي، قال قال مالك لا ينبغي لاحد ان يجاوز المعرس اذا قفل راجعا الى المدينة حتى يصلي فيها ما بدا له لانه بلغني ان رسول الله صلى الله عليه وسلم عرس به . قال ابو داود سمعت محمد بن اسحاق المدني قال المعرس على ستة اميال من المدينة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2045-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-11-2045-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Maqtu"
+        }
+      ]
+    }
+  ]
+}

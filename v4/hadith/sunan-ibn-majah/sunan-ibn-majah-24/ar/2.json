@@ -1,0 +1,1448 @@
+{
+  "total": 129,
+  "totalPage": 3,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccdb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2803,
+      "bookHadithIndex": 51,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، عن ابي العميس، عن عبد الله بن عبد الله بن جابر بن عتيك، عن ابيه، عن جده، انه مرض فاتاه النبي صلى الله عليه وسلم يعوده فقال قايل من اهله ان كنا لنرجو ان تكون وفاته قتل شهادة في سبيل الله . فقال رسول الله صلى الله عليه وسلم \" ان شهداء امتي اذا لقليل القتل في سبيل الله شهادة والمطعون شهادة والمراة تموت بجمع شهادة - يعني الحامل - والغرق والحرق والمجنوب - يعني ذات الجنب - شهادة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2803-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2803-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2803-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2803-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccdc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2804,
+      "bookHadithIndex": 52,
+      "text": "حدثنا محمد بن عبد الملك بن ابي الشوارب، حدثنا عبد العزيز بن المختار، حدثنا سهيل، عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم انه قال \" ما تقولون في الشهيد فيكم \" . قالوا القتل في سبيل الله . قال \" ان شهداء امتي اذا لقليل من قتل في سبيل الله فهو شهيد ومن مات في سبيل الله فهو شهيد والمبطون شهيد والمطعون شهيد \" . قال سهيل واخبرني عبيد الله بن مقسم، عن ابي صالح، وزاد، فيه \" والغرق شهيد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2804-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2804-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2804-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2804-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccdd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2805,
+      "bookHadithIndex": 53,
+      "text": "حدثنا هشام بن عمار، وسويد بن سعيد، قالا حدثنا مالك بن انس، حدثني الزهري، عن انس بن مالك، ان النبي صلى الله عليه وسلم دخل مكة يوم الفتح وعلى راسه المغفر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2805-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2805-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2805-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2805-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccde",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2806,
+      "bookHadithIndex": 54,
+      "text": "حدثنا هشام بن عمار، حدثنا سفيان بن عيينة، عن يزيد بن خصيفة، عن السايب بن يزيد، ان شاء الله تعالى . ان النبي صلى الله عليه وسلم يوم احد اخذ درعين كانه ظاهر بينهما",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2806-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2806-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2806-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccdf",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2807,
+      "bookHadithIndex": 55,
+      "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا الوليد بن مسلم، حدثنا الاوزاعي، حدثني سليمان بن حبيب، قال دخلنا على ابي امامة فراى في سيوفنا شييا من حلية فضة فغضب وقال لقد فتح الفتوح قوم ما كان حلية سيوفهم من الذهب والفضة ولكن الانك والحديد والعلابي . قال ابو الحسن القطان العلابي العصب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2807-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2807-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2807-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2807-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2808,
+      "bookHadithIndex": 56,
+      "text": "حدثنا ابو كريب، حدثنا ابن الصلت، عن ابن ابي الزناد، عن ابيه، عن عبيد الله بن عبد الله، عن ابن عباس، ان رسول الله صلى الله عليه وسلم تنفل سيفه ذا الفقار يوم بدر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2808-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2808-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2808-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2808-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2809,
+      "bookHadithIndex": 57,
+      "text": "حدثنا محمد بن اسماعيل بن سمرة، انبانا وكيع، عن سفيان، عن ابي اسحاق، عن ابي الخليل، عن علي بن ابي طالب، قال كان المغيرة بن شعبة اذا غزا مع النبي صلى الله عليه وسلم حمل معه رمحا فاذا رجع طرح رمحه حتى يحمل له . فقال له علي لاذكرن ذلك لرسول الله صلى الله عليه وسلم . فقال \" لا تفعل فانك ان فعلت لم ترفع ضالة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2809-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2809-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2809-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2810,
+      "bookHadithIndex": 58,
+      "text": "حدثنا محمد بن اسماعيل بن سمرة، انبانا عبيد الله بن موسى، عن اشعث بن سعيد، عن عبد الله بن بسر، عن ابي راشد، عن علي، قال كانت بيد رسول الله صلى الله عليه وسلم قوس عربية فراى رجلا بيده قوس فارسية فقال \" ما هذه القها وعليكم بهذه واشباهها ورماح القنا فانهما يزيد الله بهما في الدين ويمكن لكم في البلاد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2810-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2810-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2810-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2810-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2811,
+      "bookHadithIndex": 59,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، انبانا هشام الدستوايي، عن يحيى بن ابي كثير، عن ابي سلام، عن عبد الله بن الازرق، عن عقبة بن عامر الجهني، عن النبي صلى الله عليه وسلم قال \" ان الله ليدخل بالسهم الواحد الثلاثة الجنة صانعه يحتسب في صنعته الخير والرامي به والممد به \" . وقال رسول الله صلى الله عليه وسلم \" ارموا واركبوا وان ترموا احب الى من ان تركبوا وكل ما يلهو به المرء المسلم باطل الا رميه بقوسه وتاديبه فرسه وملاعبته امراته فانهن من الحق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2811-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2811-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2811-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2811-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2812,
+      "bookHadithIndex": 60,
+      "text": "حدثنا يونس بن عبد الاعلى، حدثنا عبد الله بن وهب، اخبرني عمرو بن الحارث، عن سليمان بن عبد الرحمن، عن القاسم بن عبد الرحمن، عن عمرو بن عبسة، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من رمى العدو بسهم فبلغ سهمه العدو اصاب او اخطا فيعدل رقبة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2812-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2812-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2812-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2812-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2813,
+      "bookHadithIndex": 61,
+      "text": "حدثنا يونس بن عبد الاعلى، انبانا عبد الله بن وهب، اخبرني عمرو بن الحارث، عن ابي علي الهمداني، انه سمع عقبة بن عامر الجهني، يقول سمعت رسول الله صلى الله عليه وسلم يقرا على المنبر \" {واعدوا لهم ما استطعتم من قوة} الا وان القوة الرمى \" ثلاث مرات",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2813-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2813-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2813-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2813-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2814,
+      "bookHadithIndex": 62,
+      "text": "حدثنا حرملة بن يحيى المصري، انبانا عبد الله بن وهب، اخبرني ابن لهيعة، عن عثمان بن نعيم الرعيني، عن المغيرة بن نهيك، انه سمع عقبة بن عامر الجهني، يقول سمعت رسول الله صلى الله عليه وسلم يقول \" من تعلم الرمى ثم تركه فقد عصاني",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2814-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2814-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2814-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2814-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2815,
+      "bookHadithIndex": 63,
+      "text": "حدثنا محمد بن يحيى، حدثنا عبد الرزاق، انبانا سفيان، عن الاعمش، عن زياد بن الحصين، عن ابي العالية، عن ابن عباس، قال مر النبي صلى الله عليه وسلم بنفر يرمون فقال \" رميا بني اسماعيل فان اباكم كان راميا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2815-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2815-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2815-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2815-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2816,
+      "bookHadithIndex": 64,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو بكر بن عياش، عن عاصم، عن الحارث بن حسان، قال قدمت المدينة فرايت النبي صلى الله عليه وسلم قايما على المنبر وبلال قايم بين يديه متقلد سيفا واذا راية سوداء فقلت من هذا قالوا هذا عمرو بن العاص قدم من غزاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2816-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2816-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2816-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2816-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cce9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2817,
+      "bookHadithIndex": 65,
+      "text": "حدثنا الحسن بن علي الخلال، وعبدة بن عبد الله، قال حدثنا يحيى بن ادم، حدثنا شريك، عن عمار الدهني، عن ابي الزبير، عن جابر بن عبد الله، ان النبي صلى الله عليه وسلم دخل مكة يوم الفتح ولواوه ابيض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2817-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2817-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2817-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccea",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2818,
+      "bookHadithIndex": 66,
+      "text": "حدثنا عبد الله بن اسحاق الواسطي الناقد، حدثنا يحيى بن اسحاق، عن يزيد بن حيان، سمعت ابا مجلز، يحدث عن ابن عباس، ان راية، رسول الله صلى الله عليه وسلم كانت سوداء ولواوه ابيض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2818-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2818-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2818-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cceb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2819,
+      "bookHadithIndex": 67,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الرحيم بن سليمان، عن حجاج، عن ابي عمر، - مولى اسماء - عن اسماء بنت ابي بكر، انها اخرجت جبة مزررة بالديباج فقالت كان النبي صلى الله عليه وسلم يلبس هذه اذا لقي العدو",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2819-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2819-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2819-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2819-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccec",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2820,
+      "bookHadithIndex": 68,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا حفص بن غياث، عن عاصم الاحول، عن ابي عثمان، عن عمر، انه كان ينهى عن الحرير، والديباج، الا ما كان هكذا ثم اشار باصبعه ثم الثانية ثم الثالثة ثم الرابعة وقال كان رسول الله صلى الله عليه وسلم ينهانا عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2820-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2820-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2820-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2820-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cced",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2821,
+      "bookHadithIndex": 69,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، عن مساور، حدثني جعفر بن عمرو بن حريث، عن ابيه، قال كاني انظر الى رسول الله صلى الله عليه وسلم وعليه عمامة سوداء قد ارخى طرفيها بين كتفيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2821-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2821-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2821-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccee",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2822,
+      "bookHadithIndex": 70,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، حدثنا حماد بن سلمة، عن ابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم دخل مكة وعليه عمامة سوداء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2822-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2822-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2822-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2822-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccef",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2823,
+      "bookHadithIndex": 71,
+      "text": "حدثنا عبيد الله بن عبد الكريم، حدثنا سنيد بن داود، عن خالد بن حيان الرقي، انبانا علي بن عروة البارقي، حدثنا يونس بن يزيد، عن ابي الزناد، عن خارجة بن زيد، قال رايت رجلا سال ابي عن الرجل، يغزو فيشتري ويبيع ويتجر في غزوه فقال له ابي كنا مع رسول الله صلى الله عليه وسلم بتبوك نشتري ونبيع وهو يرانا ولا ينهانا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2823-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2823-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2823-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2823-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2824,
+      "bookHadithIndex": 72,
+      "text": "حدثنا جعفر بن مسافر، حدثنا ابو الاسود، حدثنا ابن لهيعة، عن زبان بن فايد، عن سهل بن معاذ بن انس، عن ابيه، عن رسول الله صلى الله عليه وسلم قال \" لان اشيع مجاهدا في سبيل الله فاكفه على رحله غدوة او روحة احب الى من الدنيا وما فيها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2824-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2824-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2824-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2824-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2825,
+      "bookHadithIndex": 73,
+      "text": "حدثنا هشام بن عمار، حدثنا الوليد بن مسلم، حدثنا ابن لهيعة، عن الحسن بن ثوبان، عن موسى بن وردان، عن ابي هريرة، قال ودعني رسول الله صلى الله عليه وسلم فقال \" استودعك الله الذي لا تضيع ودايعه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2825-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2825-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2825-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2825-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2826,
+      "bookHadithIndex": 74,
+      "text": "حدثنا عباد بن الوليد، حدثنا حبان بن هلال، حدثنا ابو محصن، عن ابن ابي ليلى، عن نافع، عن ابن عمر، قال كان رسول الله صلى الله عليه وسلم اذا اشخص السرايا يقول للشاخص \" استودع الله دينك وامانتك وخواتيم عملك",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2826-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2826-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2826-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2827,
+      "bookHadithIndex": 75,
+      "text": "حدثنا هشام بن عمار، حدثنا عبد الملك بن محمد الصنعاني، حدثنا ابو سلمة العاملي، عن ابن شهاب، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم قال لاكثم بن الجون الخزاعي \" يا اكثم اغز مع غير قومك يحسن خلقك وتكرم على رفقايك يا اكثم خير الرفقاء اربعة وخير السرايا اربعماية وخير الجيوش اربعة الاف ولن يغلب اثنا عشر الفا من قلة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2827-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2827-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2827-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2827-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2828,
+      "bookHadithIndex": 76,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو عامر، حدثنا سفيان، عن ابي اسحاق، عن البراء بن عازب، قال كنا نتحدث ان اصحاب، رسول الله صلى الله عليه وسلم كانوا يوم بدر ثلاثماية وبضعة عشر على عدة اصحاب طالوت من جاز معه النهر وما جاز معه الا مومن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2828-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2828-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2828-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2828-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2829,
+      "bookHadithIndex": 77,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، عن ابن لهيعة، اخبرني يزيد بن ابي حبيب، عن لهيعة بن عقبة، قال سمعت ابا الورد، صاحب النبي صلى الله عليه وسلم يقول اياكم والسرية التي ان لقيت فرت وان غنمت غلت",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2829-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2829-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2829-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2830,
+      "bookHadithIndex": 78,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن سفيان، عن سماك بن حرب، عن قبيصة بن هلب، عن ابيه، قال سالت رسول الله صلى الله عليه وسلم عن طعام النصارى فقال \" لا يختلجن في صدرك طعام ضارعت فيه نصرانية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2830-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2830-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2830-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2831,
+      "bookHadithIndex": 79,
+      "text": "حدثنا علي بن محمد، حدثنا ابو اسامة، حدثني ابو فروة، يزيد بن سنان حدثني عروة بن، رويم اللخمي، عن ابي ثعلبة الخشني، - قال ولقيه وكلمه - قال اتيت رسول الله صلى الله عليه وسلم فسالته فقلت يا رسول الله قدور المشركين نطبخ فيها قال \" لا تطبخوا فيها \" . قلت فان احتجنا اليها فلم نجد منها بدا قال \" فارحضوها رحضا حسنا ثم اطبخوا وكلوا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2831-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2831-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2831-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2832,
+      "bookHadithIndex": 80,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، حدثنا مالك بن انس، عن عبد الله بن يزيد، عن نيار، عن عروة بن الزبير، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" انا لا نستعين بمشرك \" . قال علي في حديثه عبد الله بن يزيد او زيد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2832-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2832-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2832-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2832-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccf9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2833,
+      "bookHadithIndex": 81,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا يونس بن بكير، عن محمد بن اسحاق، عن يزيد بن رومان، عن عروة، عن عايشة، ان النبي صلى الله عليه وسلم قال \" الحرب خدعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2833-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Mutawatir"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2833-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Mutawatir"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2833-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2833-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccfa",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2834,
+      "bookHadithIndex": 82,
+      "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا يونس بن بكير، عن مطر بن ميمون، عن عكرمة، عن ابن عباس، ان النبي صلى الله عليه وسلم قال \" الحرب خدعة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2834-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2834-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2834-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccfb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2835,
+      "bookHadithIndex": 83,
+      "text": "حدثنا يحيى بن حكيم، وحفص بن عمرو، قالا حدثنا عبد الرحمن بن مهدي، ح وحدثنا محمد بن اسماعيل، انبانا وكيع، قالا حدثنا سفيان، عن ابي هاشم الرماني، - قال ابو عبد الله هو يحيى بن الاسود - عن ابي مجلز، عن قيس بن عباد، قال سمعت ابا ذر، يقسم لنزلت هذه الايات في هولاء الرهط الستة يوم بدر {هذان خصمان اختصموا في ربهم} الى قوله: { ان الله يفعل ما يريد} في حمزة بن عبد المطلب وعلي بن ابي طالب وعبيدة بن الحارث وعتبة بن ربيعة وشيبة بن ربيعة والوليد بن عتبة اختصموا في الحجج يوم بدر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2835-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2835-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2835-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2835-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccfc",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2836,
+      "bookHadithIndex": 84,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا ابو العميس، وعكرمة بن عمار، عن اياس بن سلمة بن الاكوع، عن ابيه، قال بارزت رجلا فقتلته فنفلني رسول الله صلى الله عليه وسلم سلبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2836-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2836-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2836-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2836-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccfd",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2837,
+      "bookHadithIndex": 85,
+      "text": "حدثنا محمد بن الصباح، انبانا سفيان بن عيينة، عن يحيى بن سعيد، عن عمر بن كثير بن افلح، عن ابي محمد، مولى ابي قتادة عن ابي قتادة، ان رسول الله صلى الله عليه وسلم نفله سلب قتيل قتله يوم حنين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2837-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2837-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2837-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2837-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccfe",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2838,
+      "bookHadithIndex": 86,
+      "text": "حدثنا علي بن محمد، حدثنا ابو معاوية، حدثنا ابو مالك الاشجعي، عن نعيم بن ابي هند، عن ابن سمرة بن جندب، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" من قتل فله السلب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2838-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2838-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2838-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2838-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0ccff",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2839,
+      "bookHadithIndex": 87,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، قال حدثنا الصعب بن جثامة، قال سيل النبي صلى الله عليه وسلم عن اهل الدار من المشركين يبيتون فيصاب النساء والصبيان قال \" هم منهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2839-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2839-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2839-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2839-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd00",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2840,
+      "bookHadithIndex": 88,
+      "text": "حدثنا محمد بن اسماعيل، انبانا وكيع، عن عكرمة بن عمار، عن اياس بن سلمة بن الاكوع، عن ابيه، قال غزونا مع ابي بكر هوازن على عهد النبي صلى الله عليه وسلم فاتينا ماء لبني فزارة فعرسنا حتى اذا كان عند الصبح شنناها عليهم غارة فاتينا اهل ماء فبيتناهم فقتلناهم تسعة او سبعة ابيات",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2840-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2840-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2840-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2840-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd01",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2841,
+      "bookHadithIndex": 89,
+      "text": "حدثنا يحيى بن حكيم، حدثنا عثمان بن عمر، انبانا مالك بن انس، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم راى امراة مقتولة في بعض الطريق فنهى عن قتل النساء والصبيان",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2841-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2841-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2841-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2841-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd02",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2842,
+      "bookHadithIndex": 90,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، عن سفيان، عن ابي الزناد، عن المرقع بن عبد الله بن صيفي، عن حنظلة الكاتب، قال غزونا مع رسول الله صلى الله عليه وسلم فمررنا على امراة مقتولة قد اجتمع عليها الناس فافرجوا له فقال (ما كانت هذه تقاتل فيمن يقاتل) . ثم قال لرجل (انطلق الى خالد بن الوليد فقل له ان رسول الله صلى الله عليه وسلم يامرك يقول لا تقتلن ذرية ولا عسيفا). حدثنا ابو بكر بن ابي شيبة، حدثنا قتيبة، حدثنا المغيرة بن عبد الرحمن، عن ابي الزناد، عن المرقع، عن جده، رباح بن الربيع عن النبي صلى الله عليه وسلم نحوه. قال ابو بكر بن ابي شيبة يخطي الثوري فيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2842-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2842-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2842-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2842-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd03",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2843,
+      "bookHadithIndex": 91,
+      "text": "حدثنا محمد بن اسماعيل بن سمرة، حدثنا وكيع، عن صالح بن ابي الاخضر، عن الزهري، عن عروة بن الزبير، عن اسامة بن زيد، قال بعثني رسول الله صلى الله عليه وسلم الى قرية يقال لها ابنى فقال \" ايت ابنى صباحا ثم حرق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2843-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2843-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2843-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2843-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd04",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2844,
+      "bookHadithIndex": 92,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم حرق نخل بني النضير وقطع . وهي البويرة فانزل الله عز وجل {ما قطعتم من لينة او تركتموها قايمة } الاية",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2844-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2844-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2844-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2844-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd05",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2845,
+      "bookHadithIndex": 93,
+      "text": "حدثنا عبد الله بن سعيد، حدثنا عقبة بن خالد، عن عبيد الله، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم حرق نخل بني النضير وقطع . وفيه يقول شاعرهم فهان على سراة بني لوى حريق بالبويرة مستطير",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2845-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2845-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2845-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2845-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd06",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2846,
+      "bookHadithIndex": 94,
+      "text": "حدثنا علي بن محمد، ومحمد بن اسماعيل، قالا حدثنا وكيع، عن عكرمة بن عمار، عن اياس بن سلمة بن الاكوع، عن ابيه، قال غزونا مع ابي بكر هوازن على عهد رسول الله صلى الله عليه وسلم فنفلني جارية من بني فزارة من اجمل العرب عليها قشع لها فما كشفت لها عن ثوب حتى اتيت المدينة فلقيني النبي صلى الله عليه وسلم في السوق فقال \" لله ابوك هبها لي \" . فوهبتها له فبعث بها ففادى بها اسارى من اسارى المسلمين كانوا بمكة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2846-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2846-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2846-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2846-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd07",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2847,
+      "bookHadithIndex": 95,
+      "text": "حدثنا علي بن محمد، حدثنا عبد الله بن نمير، عن عبيد الله، عن نافع، عن ابن عمر، قال ذهبت فرس له فاخذها العدو فظهر عليهم المسلمون فرد عليه في زمن رسول الله صلى الله عليه وسلم . قال وابق عبد له فلحق بالروم فظهر عليهم المسلمون فرده عليه خالد بن الوليد بعد وفاة رسول الله صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2847-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2847-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2847-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2847-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd08",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2848,
+      "bookHadithIndex": 96,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن ابي عمرة، عن زيد بن خالد الجهني، قال توفي رجل من اشجع بخيبر فقال النبي صلى الله عليه وسلم \" صلوا على صاحبكم \" . فانكر الناس ذلك وتغيرت له وجوههم فلما راى ذلك قال \" ان صاحبكم غل في سبيل الله \" . قال زيد فالتمسوا في متاعه فاذا خرزات من خرز يهود ما تساوي درهمين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2848-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2848-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2848-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd09",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2849,
+      "bookHadithIndex": 97,
+      "text": "حدثنا هشام بن عمار، حدثنا سفيان بن عيينة، عن عمرو بن دينار، عن سالم بن ابي الجعد، عن عبد الله بن عمرو، قال كان على ثقل النبي صلى الله عليه وسلم رجل يقال له كركرة . فمات فقال النبي صلى الله عليه وسلم \" هو في النار \" . فذهبوا ينظرون فوجدوا عليه كساء او عباءة قد غلها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2849-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2849-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2849-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2849-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd0a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2850,
+      "bookHadithIndex": 98,
+      "text": "حدثنا علي بن محمد، حدثنا ابو اسامة، عن ابي سنان، عيسى بن سنان عن يعلى بن شداد، عن عبادة بن الصامت، قال صلى بنا رسول الله صلى الله عليه وسلم يوم حنين الى جنب بعير من المقاسم ثم تناول شييا من البعير فاخذ منه قردة - يعني وبرة - فجعل بين اصبعيه ثم قال \" يا ايها الناس ان هذا من غنايمكم ادوا الخيط والمخيط فما فوق ذلك فما دون ذلك فان الغلول عار على اهله يوم القيامة وشنار ونار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2850-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2850-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2850-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2850-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd0b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2851,
+      "bookHadithIndex": 99,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن سفيان، عن يزيد بن يزيد بن جابر، عن مكحول، عن زيد بن جارية، عن حبيب بن مسلمة، ان النبي صلى الله عليه وسلم نفل الثلث بعد الخمس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2851-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2851-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2851-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cd0c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 24,
+      "hadithIndex": 2852,
+      "bookHadithIndex": 100,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن عبد الرحمن بن الحارث الزرقي، عن سليمان بن موسى، عن مكحول، عن ابي سلام الاعرج، عن ابي امامة، عن عبادة بن الصامت، ان النبي صلى الله عليه وسلم نفل في البداة الربع وفي الرجعة الثلث",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2852-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2852-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2852-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-24-2852-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

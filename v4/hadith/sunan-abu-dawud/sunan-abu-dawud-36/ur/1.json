@@ -1,0 +1,713 @@
+{
+  "total": 26,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c59add1a4c9c86f09777",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4214,
+      "bookHadithIndex": 1,
+      "text": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے بعض شاہان عجم کو خط لکھنے کا ارادہ فرمایا تو آپ سے عرض کیا گیا کہ وہ ایسے خطوط کو جو بغیر مہر کے ہوں نہیں پڑھتے تو آپ صلی اللہ علیہ وسلم نے چاندی کی ایک انگوٹھی بنوائی اور اس میں «محمد رسول الله» کندہ کرایا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4214-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4214-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4214-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4214-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5872)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09778",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4215,
+      "bookHadithIndex": 2,
+      "text": "اس سند سے بھی انس سے عیسیٰ بن یونس کی روایت کے ہم معنی حدیث مروی ہے، اور اس میں یہ اضافہ ہے کہ پھر یہ انگوٹھی آپ صلی اللہ علیہ وسلم کی وفات تک آپ کے ہاتھ میں رہی پھر ابوبکر صدیق رضی اللہ عنہ کے ہاتھ میں رہی یہاں تک کہ ان کی وفات ہو گئی، پھر عمر رضی اللہ عنہ کے ہاتھ میں رہی یہاں تک کہ وہ بھی وفات پا گئے، پھر عثمان رضی اللہ عنہ کے ہاتھ میں رہی وہ ایک کنویں کے پاس تھے کہ اسی دوران انگوٹھی کنویں میں گر گئی، انہوں نے حکم دیا تو اس کا سارا پانی نکالا گیا لیکن وہ اسے پا نہیں سکے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4215-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4215-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4215-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4215-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09779",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4216,
+      "bookHadithIndex": 3,
+      "text": "انس رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کی انگوٹھی چاندی کی تھی، اس کا نگینہ حبشی تھا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4216-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4216-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4216-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4216-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5868) Sahih Muslim (2094)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0977a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4217,
+      "bookHadithIndex": 4,
+      "text": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کی پوری انگوٹھی چاندی کی تھی، اس کا نگینہ بھی چاندی کا تھا۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4217-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4217-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4217-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4217-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0977b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4218,
+      "bookHadithIndex": 5,
+      "text": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سونے کی انگوٹھی بنائی، اس کے نگینہ کو اپنی ہتھیلی کے پیٹ کی جانب رکھا اور اس میں «محمد رسول الله» کندہ کرایا، تو لوگوں نے بھی سونے کی انگوٹھیاں بنوا لیں، جب آپ نے انہیں سونے کی انگوٹھیاں پہنے دیکھا تو اسے پھینک دیا، اور فرمایا: اب میں کبھی اسے نہیں پہنوں گا پھر آپ صلی اللہ علیہ وسلم نے چاندی کی ایک انگوٹھی بنوائی جس میں «محمد رسول الله» کندہ کرایا، پھر آپ کے بعد وہی انگوٹھی ابوبکر رضی اللہ عنہ نے پہنی، پھر ابوبکر رضی اللہ عنہ کے بعد عمر رضی اللہ عنہ نے پھر ان کے بعد عثمان رضی اللہ عنہ نے پہنی یہاں تک کہ وہ بئراریس میں گر پڑی۔ ابوداؤد کہتے ہیں: عثمان سے لوگوں کا اختلاف اس وقت تک نہیں ہوا جب تک انگوٹھی ان کے ہاتھ میں رہی ( جب وہ گر گئی تو پھر اختلافات اور فتنے رونما ہونے شروع ہو گئے ) ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4218-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4218-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4218-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5866) Sahih Muslim (2091)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0977c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4219,
+      "bookHadithIndex": 6,
+      "text": "اس سند سے بھی ابن عمر رضی اللہ عنہما سے اس روایت میں مرفوعاً مروی ہے اس میں ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے «محمد رسول الله» کندہ کرایا، اور فرمایا: کوئی میری اس انگوٹھی کے طرز پر کندہ نہ کرائے پھر راوی نے آگے پوری حدیث بیان کی۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4219-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4219-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4219-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4219-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2091)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0977d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4220,
+      "bookHadithIndex": 7,
+      "text": "اس سند سے بھی ابن عمر رضی اللہ عنہما سے مرفوعاً یہی حدیث مروی ہے، اس میں یہ اضافہ ہے کہ لوگوں نے اسے ڈھونڈا لیکن وہ ملی نہیں، تو عثمان رضی اللہ عنہ نے ایک دوسری انگوٹھی بنوائی، اور اس میں «محمد رسول الله» کندہ کرایا۔ راوی کہتے ہیں: وہ اسی سے مہر لگایا کرتے تھے، یا کہا: اسے پہنا کرتے تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4220-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4220-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4220-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4220-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0977e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4221,
+      "bookHadithIndex": 8,
+      "text": "انس بن مالک رضی اللہ عنہ سے روایت ہے کہ انہوں نے ایک دن رسول اللہ صلی اللہ علیہ وسلم کے ہاتھ میں چاندی کی ایک انگوٹھی دیکھی تو لوگوں نے بھی انگوٹھیاں بنوا لیں اور پہننے لگے، پھر نبی اکرم صلی اللہ علیہ وسلم نے انگوٹھی پھینک دی تو لوگوں نے بھی پھینک دی۔ ابوداؤد کہتے ہیں: اسے زیاد بن سعد، شعیب اور ابن مسافر نے زہری سے روایت کیا ہے، اور سبھوں نے «من ورق» کہا ہے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4221-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4221-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4221-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4221-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2094) Sahih Muslim (5868)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0977f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4222,
+      "bookHadithIndex": 9,
+      "text": "عبداللہ بن مسعود رضی اللہ عنہ کہتے تھے کہ اللہ کے نبی کریم صلی اللہ علیہ وسلم دس خصلتیں ناپسند فرماتے تھے، زردی یعنی خلوق کو، سفید بالوں کے تبدیل کرنے کو ۱؎، تہ بند ٹخنوں سے نیچے لٹکانے کو، سونے کی انگوٹھی پہننے کو، بے موقع و محل اجنبیوں کے سامنے عورتوں کے زیب و زینت کے ساتھ اور بن ٹھن کر نکلنے کو، شطرنج کھیلنے کو، معوذات کے علاوہ سے جھاڑ پھونک کرنے کو، تعویذ اور گنڈے لٹکانے کو اور ناجائز جگہ منی ڈالنے کو، اور بچے کے فساد کو یعنی اسے کمزور کرنے کو اس طرح پر کہ ایام رضاعت میں اس کی ماں سے صحبت کرے البتہ اسے حرام نہیں ٹھہراتے تھے۔ ابوداؤد کہتے ہیں: اہل بصرہ اس حدیث کی سند میں منفرد ہیں، واللہ اعلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4222-alalbani",
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4222-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Munkar"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4222-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4222-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09780",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4223,
+      "bookHadithIndex": 10,
+      "text": "بریدہ رضی اللہ عنہ کہتے ہیں کہ ایک شخص نبی اکرم صلی اللہ علیہ وسلم کی خدمت میں آیا، وہ پتیل کی انگوٹھی پہنے ہوئے تھا تو آپ صلی اللہ علیہ وسلم نے اس سے فرمایا: کیا بات ہے، میں تجھ سے بتوں کی بدبو محسوس کر رہا ہوں؟ تو اس نے اپنی انگوٹھی پھینک دی، پھر لوہے کی انگوٹھی پہن کر آیا، تو آپ صلی اللہ علیہ وسلم نے فرمایا: کیا بات ہے، میں تجھے جہنمیوں کا زیور پہنے ہوئے دیکھتا ہوں؟ تو اس نے پھر اپنی انگوٹھی پھینک دی، اور عرض کیا: اللہ کے رسول! پھر کس چیز کی انگوٹھی بنواؤں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: چاندی کی بنواؤ اور اسے ایک مثقال سے کم رکھو ۱؎ ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4223-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4223-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4223-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4223-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09781",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4224,
+      "bookHadithIndex": 11,
+      "text": "معیقیب رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کی انگوٹھی لوہے کی تھی اس پر چاندی کی پالش تھی کبھی کبھی وہ انگوٹھی میرے ہاتھ میں ہوتی۔ ٍ راوی کہتے ہیں: اور نبی اکرم صلی اللہ علیہ وسلم کی انگوٹھی کے امین معیقیب تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4224-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4224-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4224-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09782",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4225,
+      "bookHadithIndex": 12,
+      "text": "علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا: کہو: اے اللہ! مجھے ہدایت دے، اور درستگی پر قائم رکھ، اور ہدایت سے سیدھی راہ پر چلنے کی نیت رکھو، درستگی سے تیر کی طرح سیدھا رہنے یعنی سیدھی راہ پر جمے رہنے کی نیت کرو اور آپ صلی اللہ علیہ وسلم نے مجھے منع فرمایا کہ انگوٹھی اس انگلی یا اس انگلی میں رکھوں انگشت شہادت یعنی کلمہ کی یا درمیانی انگلی میں ( عاصم جو حدیث کے راوی ہیں نے شک کیا ہے ) اور مجھے «قسیہ» اور «میثرہ» سے منع فرمایا۔ ابوبردہ رضی اللہ عنہ کہتے ہیں: تو ہم نے علی رضی اللہ عنہ سے پوچھا: «قسیہ» کیا ہے؟ تو انہوں نے کہا: ایک قسم کے کپڑے ہیں جو شام یا مصر سے آتے تھے، ان کی دھاریوں میں ترنج ( چکوترہ ) بنے ہوئے ہوتے تھے اور «میثرہ» وہ بچھونا ( بستر ) ہے جسے عورتیں اپنے خاوندوں کے لیے بنایا کرتی تھیں۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4225-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4225-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4225-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2078 After 2095)"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09783",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4226,
+      "bookHadithIndex": 13,
+      "text": "علی رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم سے ابوسلمہ بن عبدالرحمٰن نے بھی بیان کیا ہے کہ نبی اکرم صلی اللہ علیہ وسلم انگوٹھی اپنے داہنے ہاتھ میں پہنتے تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4226-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4226-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4226-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4226-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09784",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4227,
+      "bookHadithIndex": 14,
+      "text": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم انگوٹھی اپنے بائیں ہاتھ میں پہنتے تھے اور اس کا نگینہ آپ کی ہتھیلی کے نچلے حصہ کی طرف ہوتا تھا۔ ابوداؤد کہتے ہیں: ابن اسحاق اور اسامہ نے یعنی ابن زید نے نافع سے اسی سند سے روایت کیا ہے کہ آپ صلی اللہ علیہ وسلم اسے اپنے دائیں ہاتھ میں پہنتے تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4227-alalbani",
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4227-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4227-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09785",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4228,
+      "bookHadithIndex": 15,
+      "text": "نافع سے روایت ہے کہ ابن عمر رضی اللہ عنہما انگوٹھی اپنے بائیں ہاتھ میں پہنتے تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4228-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4228-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4228-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09786",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4229,
+      "bookHadithIndex": 16,
+      "text": "محمد بن اسحاق کہتے ہیں کہ میں نے صلت بن عبداللہ بن نوفل بن عبدالمطلب کو اپنے داہنے ہاتھ کی چھنگلی میں انگوٹھی پہنے دیکھا تو کہا: یہ کیا ہے؟ انہوں نے کہا: میں نے ابن عباس رضی اللہ عنہما کو اسی طرح اپنی انگوٹھی پہنے اور اس کے نگینہ کو اپنی ہتھیلی کی پشت کی طرف کئے دیکھا، اور کہا: یہ مت سمجھنا کہ صرف ابن عباس رضی اللہ عنہما ہی ایسا کرتے تھے، بلکہ وہ ذکر کرتے تھے کہ رسول اللہ صلی اللہ علیہ وسلم بھی اپنی انگوٹھی ایسے ہی پہنا کرتے تھے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4229-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4229-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4229-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4229-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09787",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4230,
+      "bookHadithIndex": 17,
+      "text": "عامر بن عبداللہ بن زبیر کہتے ہیں کہ ان کی ایک لونڈی زبیر کی ایک بچی کو عمر بن خطاب رضی اللہ عنہ کے پاس لے کر گئی، اس بچی کے پاؤں میں گھنٹیاں تھیں یعنی گھونگھرو تھے تو عمر رضی اللہ عنہ نے اسے کاٹ دیا، اور کہنے لگے: میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا ہے کہ ہر گھنٹی کے ساتھ شیطان ہوتا ہے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4230-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4230-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4230-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09788",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4231,
+      "bookHadithIndex": 18,
+      "text": "عبدالرحمٰن بن حسان کی لونڈی بنانہ کہتی ہیں کہ وہ ام المؤمنین عائشہ رضی اللہ عنہا کے پاس تھیں کہ اسی دوران ایک لڑکی آپ کے پاس آئی، اس کے پاؤں میں گھونگھرو بج رہے تھے تو آپ نے کہا: اسے میرے پاس نہ آنے دو جب تک تم انہیں کاٹ نہ دو، اور کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: فرشتے اس گھر میں داخل نہیں ہوتے جس میں گھنٹی ہو ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4231-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4231-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4231-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09789",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4232,
+      "bookHadithIndex": 19,
+      "text": "عبدالرحمٰن بن طرفہ کہتے ہیں کہ کے دادا عرفجہ بن اسعد کی ناک جنگ کلاب ۱؎ کے دن کاٹ لی گئی، تو انہوں نے چاندی کی ایک ناک بنوائی، انہیں اس کی بدبو محسوس ہوئی، تو نبی اکرم صلی اللہ علیہ وسلم نے انہیں حکم دیا، تو انہوں نے سونے کی ناک بنوا لی ۲؎۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4232-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4232-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4232-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0978a",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4233,
+      "bookHadithIndex": 20,
+      "text": "اس سند سے بھی عرفجہ بن اسعد سے اسی مفہوم کی حدیث مروی ہے، یزید کہتے ہیں میں نے ابواشہب سے پوچھا: عبدالرحمٰن بن طرفہ نے اپنے دادا عرفجہ کا زمانہ پایا ہے، تو انہوں نے کہا: ہاں ( پایا ہے ) ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4233-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4233-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4233-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0978b",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4234,
+      "bookHadithIndex": 21,
+      "text": "اس سند سے بھی اسی مفہوم کی حدیث مروی ہے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4234-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0978c",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4235,
+      "bookHadithIndex": 22,
+      "text": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے پاس نجاشی کی طرف سے کچھ زیور ہدیہ میں آئے اس میں سونے کی ایک انگوٹھی تھی جس میں یمنی نگینہ جڑا ہوا تھا، تو رسول اللہ صلی اللہ علیہ وسلم نے اسے ایک لکڑی سے بغیر اس کی طرف التفات کئے پکڑا، یا اپنی بعض انگلیوں سے پکڑا، پھر اپنی نواسی زینب کی بیٹی امامہ بنت ابی العاص کو بلایا اور فرمایا: بیٹی! اسے تو پہن لے ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4235-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4235-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4235-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0978d",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4236,
+      "bookHadithIndex": 23,
+      "text": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو اپنے محبوب کو آگ کا بالا پہنانا چاہے تو وہ اسے سونے کی بالی پہنا دے، اور جو اپنے محبوب کو آگ کا طوق ۱؎ پہنانا چاہے تو اسے سونے کا طوق پہنا دے اور جو اپنے محبوب کو آگ کا کنگن پہنانا چاہے وہ اسے سونے کا کنگن پہنا دے، البتہ سونے کے بجائے چاندی تمہارے لیے جائز ہے، لہٰذا تم اسی کو ناک یا کان میں استعمال کرو اور اس سے کھیلو۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4236-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4236-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4236-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0978e",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4237,
+      "bookHadithIndex": 24,
+      "text": "حذیفہ کی بہن سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اے عورتوں کی جماعت! کیا زیور بنانے کے لیے تمہیں چاندی نہیں ملتی، سنو! تم میں جو عورت بھی سونے کا زیور پہنے گی تو اسے قیامت کے دن اسی سے عذاب دیا جائے گا ۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4237-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4237-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4237-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4237-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f0978f",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4238,
+      "bookHadithIndex": 25,
+      "text": "اسماء بنت یزید رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس عورت نے سونے کا ہار پہنا تو قیامت کے دن اس کے گلے میں آگ کا ہار پہنایا جائے گا، اور جس عورت نے اپنے کان میں سونے کی بالی پہنی تو قیامت کے دن اس کے کان میں اسی کے ہم مثل آگ کی بالی پہنائی جائے گی۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4238-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4238-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4238-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4238-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c59add1a4c9c86f09790",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 36,
+      "hadithIndex": 4239,
+      "bookHadithIndex": 26,
+      "text": "معاویہ بن ابی سفیان رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے چیتوں کی کھال پر سواری کرنے اور سونا پہننے سے منع فرمایا ہے مگر جب «مقطّع» یعنی تھوڑا اور معمولی ہو ۱؎۔ ابوداؤد کہتے ہیں: ابوقلابہ کی ملاقات معاویہ رضی اللہ عنہ سے نہیں ہے۔",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4239-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4239-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-36-4239-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

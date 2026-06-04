@@ -1,0 +1,478 @@
+{
+  "total": 67,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb1e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2358,
+      "bookHadithIndex": 51,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre. Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Malının aynısını, iflâs etmiş bir şahsın yanında bulan bir kimse, o malı başka kimselere nazaran öncelikle alma hakkına sahibtir.» AÇIKLAMA 2361’de",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2358-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb1f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2359,
+      "bookHadithIndex": 52,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Herhangi bir adam bir eşya satar, sonra iflâs etmiş durumda olan bir adam'ın (yâni müşterisinin) yanında bu eşyaya aynısıyla yetişir ve eşyanın bedelinden bir şey teslim almış değil ise, eşya o adamın (hakkı) dır. Eğer adam eşyanın bedelinden bir şey teslim almış ise kendisi diğer alacaklıların mislidir.» AÇIKLAMA 2361’de",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2359-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2359-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2359-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb20",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2360,
+      "bookHadithIndex": 53,
+      "text": "Mcdîhe-i Münevvere kadısı (Ömer) bin Halde ez-Zurakî (r.a.)'den; Şöyle demiştir: Biz iflas etmiş bir arkadaşımız (ın elinde bulunan ve bedelini ödemediği bir mal) hakkında Ebû Hureyre'nin yanına gittik (O'na müracaat ettik). Ebû Hureyre (r.a.) söyle dedi. Bu (mesele). Nebi (Sallallahu Aleyhi ve Sellem)'in, hakkında şöyle hükmettiği (meselenin misli) dir: Herhangi bir adam ölür veya iflâs ederse (bedelini ödemediği) eşya sahibi, o eşyayı aynen (onun yanında) bulunca, kendi eşyasını (diğer hak sâhibîerinden) Öncelikle alma hakkına sâhibtir. AÇIKLAMA 2361’de",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2360-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb21",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2361,
+      "bookHadithIndex": 54,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir; «Herhangi bir kimse ölür de yanında (satın alıp bedelinin tamamını ödemediği başka) bir adamın malı aynen duruyor ise, mal sahibi malının bedelinden bir şey teslim almış olsun veya (hiç bir şey) teslim almamış olsun, diğer alacaklıların mislidir.»",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2361-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb22",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2362,
+      "bookHadithIndex": 55,
+      "text": "Abdullah bin Mes'ûd (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'e: (mu'min olan) insanların hangileri daha hayırlıdır? diye soruldu. Resûl-İ Ekrem (Sallallahu Aleyhi ve Sellem): «(En hayırlı insanlar) benim karn'ım (sahâbîlerim)dir. Sonra onların hemen ardından gelen (Tabiî) lerdir. Sonra bunların hemen ardından gelen (Tabiilerin Tabiî) leridir. Daha sonra bir takım insanlar gelir ki onlardan birisinin şâhidliği yeminini ve yemini şâhidliğini geçer.» Diğer tahric: Bu hadisi Buhari, Müslim, Tirmizi ve Nesai de rivayet etmişlerdir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2362-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb23",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2363,
+      "bookHadithIndex": 56,
+      "text": "Câbir bin Semûre (r.a.)'den: Şöyle demiştir: Ömer bin el-Hattâb (r.a.), Câbiye de bize bir hitabede bulundu ve şöyle söyledi: Ben aranızda böyle ayakta durduğum gibi Resulullah (Sallallahu Aleyhi ve Sellem) de aramızda ayağa kalktı ve şöyle buyurdu: «Benim ashabım, sonra onların hemen ardında gelen (Tabii) ler ve sonra bunların ardında gelen (Tabiilerin Tâbü)Ieri(n değerini takdir etmek) hakkında bana riâyet ediniz (yâni bana olan hürmetinizi göz önünde bulundurup benim hatırım için onlara saygılı olunuz). Daha sonra (ki kuşaklarda) yalancılık o kadar yayılacak ki, adam, şâhidlik etmesi taleb edilmediği halde şâhidlik edecek ve yemin etmesi teklif edilmediği halde yemin edecektir.» Not: Zevaid'de şöyle denilmiştir: Bu hadisin senedindeki raviler sika zatlardır. Ancak şu var ki, ravi Abdü'l-Melik bin Umeyr tedlisçidir ve bu hadisi an'ane ile rivayet etmiştir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2363-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb24",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2364,
+      "bookHadithIndex": 57,
+      "text": "Zeyd bin Hâlid el-Cühenî (r.a.)'den rivayet edildiğine göre; kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den, şöyle buyururken işitmiştir: «Şâhidlerin en hayırlısı, şâhidlik etmesi taleb edilmeden önce tanıklık görevini ifâ edendir.» Diğer tahric: Bu hadisi Malik. Ahmed. Müslim ve Ebu Davüd da rivayet etmişlerdir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2364-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2364-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2364-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb25",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2365,
+      "bookHadithIndex": 58,
+      "text": "Ebû Saîd-i Hudrî (r.a.)'den rivayet edildiğine göre kendisi: يَأَيُّهَا الَّذينَ آَمَنُوا إِذَا تَدَايَنْتُمْ بِدشيْنٍ إِلَى أَجَل مُسَمَّى [Bakara 282](Ey îman edenler birbirinize belirli bir süre için borçlandığınız zaman) âyetini okudu ve nihayet فَإِنْ أَمِنَ بَعْضُكُمْ بَعْضاً [Bakara 283] (Eğer bâzınız bâzınıza güvenirse — Yâni borcu sened, şâhidler veya rehinle tevsik etmeye gerek duymazsa— güvenilen (borçlu) kimse borcunu ödesin) âyetine gelince : Bu âyet, bundan öncekini neshettti, dedi. Not: Zevaid'de şöyle denilmiştir: Bu, mevkuf bir seneddir. Fakat merfu hükmündedir",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2365-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb26",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2366,
+      "bookHadithIndex": 59,
+      "text": "Amr bin Şuayb'ın dedesi (İbn Amr) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Hâin erkeğin, hâin kadının, İslâmiyet'te had cezasına çarptırılmış olan kimsenin şâhidiiği ve kin ile husûmet sahibinin, husûmet beslediği kişi aleyhinde şâhidlik etmesi caiz değildir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Haccac bin Ertat vardır. Bu ravi tedIis ederdi. Bunu da an'ane ile rivayet etmiştir. Tirmizi bu hadisi Aişe (r.anha)'dan rivayet etmiştir. Bu hadis Zevaid türünden sayılmıştır. Halbuki Ebu Davud da, bunu az bir değişiklikle rivayet etmiştir. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2366-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb27",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2367,
+      "bookHadithIndex": 60,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre, kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu hadîsi işitmiştir: «Bir bedevinin bir köy sahibi aleyhinde şâhidliği caiz değildir.» EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2367-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2367-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2367-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb28",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2368,
+      "bookHadithIndex": 61,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) bir şâhidle beraber (davacının) yemini ile (dâvanın subutuna) hükmetmiştir. Diğer tahric: Ebu Davud (3610); Tirmizi. AÇIKLAMA LİNKİ 2370’te",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2368-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2368-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2368-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb29",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2369,
+      "bookHadithIndex": 62,
+      "text": "Câbir (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) bir şâhidle beraber (davacının) yemini ile (dâvanın subutuna) hükmetmiştir. AÇIKLAMA LİNKİ 2370’te",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2369-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2369-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2369-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2370,
+      "bookHadithIndex": 63,
+      "text": "(Abdullah) bin Abbas (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bir şâhid ve (davacı) nın yemini ile hükmetti. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2370-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2371,
+      "bookHadithIndex": 64,
+      "text": "Sürrak (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) bir erkeğin şâhidliğini ve talibin (yâni davacının) yeminini geçerli saydı. Not: Zevaid'de şöyle denilmiştir: Tabii olan ravi (yani Sürrak'ın ravisi) mechuldür ve Sürrak (r.a.)'den bundan başka hadis rivayet edilmemiştir. Tahric: Ebu Huyreyre (r.a.)'ın 2368. hadisini Ebu Davud ve Tirmizi, Cabir (r.a.)'ın 2369. hadisini Tirmizi ve Ahmed, İbn-i Abbas (r.a.)'ın 2370. hadisini Müslim, Ebu Davud ve Nesai de rivayet etmişlerdir. Sürrak (r.a.)'m yukarıdaki hadisi ise Zevaid türündendir. AÇIKLAMA LİNKİ 2370'te",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2371-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2371-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2371-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2372,
+      "bookHadithIndex": 65,
+      "text": "Hureym bin Fâtik el-Esedî (r.a.)'den: Nebi (Sallallahu Aleyhi ve Sellem) (bir gün) sabah namazını kıldı. Sonra (namazdan) dönünce ayakta durdu ve üç kez: «Yalan yere şâhidlik etmek (günahlığı hususunda) Allah'a ortak koşmaya denk kılınmıştır,» buyurdu. Sonra şu âyeti okudu: (Ve Allah'a ortak koşmaksızm O'na yönelerek yalan yere şâhidlik etmekten çekinin) EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2372-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2372-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2372-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2373,
+      "bookHadithIndex": 66,
+      "text": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Allah yalancı şâhid için (cehennem) ateşi vacib kılmadıkça onun ayakları (yerinden) ayrılamıyacaktir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde bulunan Muhammed bin el-Fırat'ın zayıflığı üzerinde ittifak edilmiştir. İmam Ahmed de onu yalanlamıştır. EBU DAVUD HADİSLERİ VE İZAHLARI: 3597 – 3598 –",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2373-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 13,
+      "hadithIndex": 2374,
+      "bookHadithIndex": 67,
+      "text": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Kitab ehlinin birbirleri aleyhinde şâhidlik etmelerini caiz kılmıştır. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde bulunan Mücalid bin Said zayıftır",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2374-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2374-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-13-2374-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

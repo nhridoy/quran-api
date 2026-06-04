@@ -1,0 +1,83 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c611dd1a4c9c86f09f9f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1026,
+      "bookHadithIndex": 151,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله بن المبارك، عن سفيان، عن عاصم بن كليب، عن عبد الرحمن بن الاسود، عن علقمة، عن عبد الله، قال الا اخبركم بصلاة، رسول الله صلى الله عليه وسلم قال فقام فرفع يديه اول مرة ثم لم يعد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1027,
+      "bookHadithIndex": 152,
+      "text": "اخبرنا قتيبة، قال حدثنا الفضيل، عن الاعمش، عن عمارة بن عمير، عن ابي معمر، عن ابي مسعود، قال قال رسول الله صلى الله عليه وسلم \" لا تجزي صلاة لا يقيم الرجل فيها صلبه في الركوع والسجود",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1028,
+      "bookHadithIndex": 153,
+      "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله بن المبارك، عن سعيد بن ابي عروبة، وحماد بن سلمة، عن قتادة، عن انس، عن رسول الله صلى الله عليه وسلم قال \" اعتدلوا في الركوع والسجود ولا يبسط احدكم ذراعيه كالكلب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

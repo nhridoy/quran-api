@@ -1,0 +1,433 @@
+{
+  "total": 15,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb2f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2375,
+      "bookHadithIndex": 1,
+      "text": "It was narrated that Nu'man bin Bashir said that his father took him to the Prophet (ﷺ) and said:“Bear witness that I have given Nu'man such and such from my wealth.” He said: “Have you given all your children something like that which you have given to Nu'man?” He said: “No.” He said: “Then let someone other than me bear witness to that.” And he said: “Would you not like all your children to honor you equally?” He said: “Of course.” He said: “Then do not do this.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2375-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2375-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2375-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2375-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb30",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2376,
+      "bookHadithIndex": 2,
+      "text": "It was narrated from Nu'man bin Bashir that:his father gave him a gift of a slave, and he came to the Prophet (ﷺ) so that he could witness the gift. He said: “Have you given something to all of your children?” He said: “No.” He said: “Then take back (your gift).”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2376-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2376-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2376-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2376-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb31",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2377,
+      "bookHadithIndex": 3,
+      "text": "It was narrated from Ibn 'Abbas and Ibn 'Umar, who attributed the Hadith to the Prophet (ﷺ) that he said:“It is not permissible for a man to give a gift then take it back, except what a father gives to his child.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2377-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2377-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2377-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb32",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2378,
+      "bookHadithIndex": 4,
+      "text": "It was narrated from Amr bin Shu'aib, from his father, from, his Grandfather, that the Prophet (ﷺ) of Allah (SWT) said:“None of you should take back his gift, except a father (taking it back) from his son.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2378-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2378-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2378-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2378-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb33",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2379,
+      "bookHadithIndex": 5,
+      "text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“There is no lifelong grant. Whoever is given something as a lifelong grant, it is his.' ”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2379-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2379-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2379-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2379-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb34",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2380,
+      "bookHadithIndex": 6,
+      "text": "It was narrated that Jabir said:“I heard the Messenger of Allah (ﷺ) say: 'Whoever gives a lifelong grant to a man, it belongs to him (the recipient) and to his heirs. His (the giver's) words put an end to his right to it, and it belongs to the one to whom it was given for life and to his heirs.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2380-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2380-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2380-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2380-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb35",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2381,
+      "bookHadithIndex": 7,
+      "text": "It was narrated from Zaid bin Thabit that :the Prophet (ﷺ) ruled that a gift given for life belongs to the heirs (of the recipient)",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2381-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2381-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2381-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb36",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2382,
+      "bookHadithIndex": 8,
+      "text": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:“There is no Ruqba. Whoever is given a gift on the basis of Ruqba, it belongs to him, whether he lives or dies.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2382-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2382-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2382-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2382-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb37",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2383,
+      "bookHadithIndex": 9,
+      "text": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:“Umra belongs to the one to whom it is given, and Ruqba belongs to the one to whom it is given.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2383-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2383-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2383-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2383-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb38",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2384,
+      "bookHadithIndex": 10,
+      "text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“The likeness of one who takes back his gift is that of a dog that eats until it is full and vomits; then it goes back to its vomit and eats it again.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2384-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2384-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2384-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb39",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2385,
+      "bookHadithIndex": 11,
+      "text": "It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said:“The one who takes back his gift is like the one who goes back to his vomit.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2385-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2385-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2385-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2385-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb3a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2386,
+      "bookHadithIndex": 12,
+      "text": "It was narrated from Ibn`Umar that the Prophet (ﷺ) said:“The one who takes back his gift is like the dog that goes back to its vomit.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2386-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2386-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2386-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2386-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb3b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2387,
+      "bookHadithIndex": 13,
+      "text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“A man has more right to his gift so long as he has not gotten something in return for it.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2387-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2387-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2387-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb3c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2388,
+      "bookHadithIndex": 14,
+      "text": "It was narrated from 'Amr bin Shu'aib, from his father that he delivered:“It is not permissible for a woman to dispose of her wealth except with her husband's permission, once he has married her.”",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2388-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2388-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2388-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cb3d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 14,
+      "hadithIndex": 2389,
+      "bookHadithIndex": 15,
+      "text": "It was narrated from 'Abdullah bin Yahya, one of the sons of Ka'b bin Malik, from his grandfather, that :his grandmother Khairah, the wife of Ka'b bin Malik, came to the Messenger of Allah (ﷺ) with some jewelry belonging to her and said, I am giving this in charity. The Messenger of Allah (ﷺ) said to her: “It is not permissible for a woman to dispose of her wealth without her husband's permission. Did you ask Ka'b's permission?” She said: “Yes.” So the Messenger of Allah (ﷺ) sent for Ka'b bin Malik, her husband, and said, “Did you give Khairah permission to give her jewelry in charity?” He said: “Yes.” So the Messenger of Allah (ﷺ) accepted it from her",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2389-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2389-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2389-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-14-2389-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    }
+  ]
+}

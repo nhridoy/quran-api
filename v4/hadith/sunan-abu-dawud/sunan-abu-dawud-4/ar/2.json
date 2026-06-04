@@ -1,0 +1,68 @@
+{
+  "total": 52,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c4d4dd1a4c9c86f08be1",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 4,
+      "hadithIndex": 1248,
+      "bookHadithIndex": 51,
+      "text": "حدثنا عبيد الله بن معاذ، حدثنا ابي، حدثنا الاشعث، عن الحسن، عن ابي بكرة، قال صلى النبي صلى الله عليه وسلم في خوف الظهر فصف بعضهم خلفه وبعضهم بازاء العدو فصلى بهم ركعتين ثم سلم فانطلق الذين صلوا معه فوقفوا موقف اصحابهم ثم جاء اوليك فصلوا خلفه فصلى بهم ركعتين ثم سلم فكانت لرسول الله صلى الله عليه وسلم اربعا ولاصحابه ركعتين ركعتين . وبذلك كان يفتي الحسن . قال ابو داود وكذلك في المغرب يكون للامام ست ركعات وللقوم ثلاثا ثلاثا . قال ابو داود وكذلك رواه يحيى بن ابي كثير عن ابي سلمة عن جابر عن النبي صلى الله عليه وسلم وكذلك قال سليمان اليشكري عن جابر عن النبي صلى الله عليه وسلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1248-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1248-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1248-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1248-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c4d4dd1a4c9c86f08be2",
+      "editionId": "69b55e8d6f42ba7ccb2a1320",
+      "bookIndex": 4,
+      "hadithIndex": 1249,
+      "bookHadithIndex": 52,
+      "text": "حدثنا ابو معمر عبد الله بن عمرو، حدثنا عبد الوارث، حدثنا محمد بن اسحاق، عن محمد بن جعفر، عن ابن عبد الله بن انيس، عن ابيه، قال بعثني رسول الله صلى الله عليه وسلم الى خالد بن سفيان الهذلي - وكان نحو عرنة وعرفات - فقال \" اذهب فاقتله \" . قال فرايته وحضرت صلاة العصر فقلت اني لاخاف ان يكون بيني وبينه ما ان اوخر الصلاة فانطلقت امشي وانا اصلي اومي ايماء نحوه فلما دنوت منه قال لي من انت قلت رجل من العرب بلغني انك تجمع لهذا الرجل فجيتك في ذاك . قال اني لفي ذاك فمشيت معه ساعة حتى اذا امكنني علوته بسيفي حتى برد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1249-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1249-muhammadmuhyialdinabdulhamid",
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1249-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1320-4-1249-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    }
+  ]
+}

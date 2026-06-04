@@ -1,0 +1,918 @@
+{
+  "total": 82,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c88cdd1a4c9c86f0cbff",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2583,
+      "bookHadithIndex": 51,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو معاوية، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لعن الله السارق يسرق البيضة فتقطع يده ويسرق الحبل فتقطع يده",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2583-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2583-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2583-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2583-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc00",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2584,
+      "bookHadithIndex": 52,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا علي بن مسهر، عن عبيد الله، عن نافع، عن ابن عمر، قال قطع النبي صلى الله عليه وسلم في مجن قيمته ثلاثة دراهم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2584-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2584-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2584-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2584-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc01",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2585,
+      "bookHadithIndex": 53,
+      "text": "حدثنا ابو مروان العثماني، حدثنا ابراهيم بن سعد، عن ابن شهاب، ان عمرة، اخبرته عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" لا تقطع اليد الا في ربع دينار فصاعدا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2585-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2585-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2585-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc02",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2586,
+      "bookHadithIndex": 54,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو هشام المخزومي، حدثنا وهيب، حدثنا ابو واقد، عن عامر بن سعد، عن ابيه، عن النبي صلى الله عليه وسلم قال \" تقطع يد السارق في ثمن المجن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2586-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2586-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2586-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc03",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2587,
+      "bookHadithIndex": 55,
+      "text": "حدثنا ابو بكر بن ابي شيبة، وابو بشر بكر بن خلف ومحمد بن بشار وابو سلمة الجوباري يحيى بن خلف قالوا حدثنا عمر بن علي بن عطاء بن مقدم، عن حجاج، عن مكحول، عن ابن محيريز، قال سالت فضالة بن عبيد عن تعليق اليد، في العنق فقال السنة قطع رسول الله صلى الله عليه وسلم يد رجل ثم علقها في عنقه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2587-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2587-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2587-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2587-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc04",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2588,
+      "bookHadithIndex": 56,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابن ابي مريم، انبانا ابن لهيعة، عن يزيد بن ابي حبيب، عن عبد الرحمن بن ثعلبة الانصاري، عن ابيه، ان عمرو بن سمرة بن حبيب بن عبد شمس، جاء الى رسول الله صلى الله عليه وسلم فقال يا رسول الله اني سرقت جملا لبني فلان فطهرني . فارسل اليهم النبي صلى الله عليه وسلم فقالوا انا افتقدنا جملا لنا فامر به النبي صلى الله عليه وسلم فقطعت يده . قال ثعلبة انا انظر اليه حين وقعت يده وهو يقول الحمد لله الذي طهرني منك اردت ان تدخلي جسدي النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2588-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2588-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2588-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2588-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc05",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2589,
+      "bookHadithIndex": 57,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، عن ابي عوانة، عن عمر بن ابي سلمة، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا سرق العبد فبيعوه ولو بنش",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2589-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2589-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2589-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2589-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc06",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2590,
+      "bookHadithIndex": 58,
+      "text": "حدثنا جبارة بن المغلس، حدثنا حجاج بن تميم، عن ميمون بن مهران، عن ابن عباس، ان عبدا، من رقيق الخمس سرق من الخمس فرفع ذلك الى النبي صلى الله عليه وسلم فلم يقطعه وقال \" مال الله عز وجل سرق بعضه بعضا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2590-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2590-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2590-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2590-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc07",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2591,
+      "bookHadithIndex": 59,
+      "text": "حدثنا محمد بن بشار، حدثنا ابو عاصم، عن ابن جريج، عن ابي الزبير، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم قال \" لا يقطع الخاين ولا المنتهب ولا المختلس",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2591-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2591-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2591-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2591-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc08",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2592,
+      "bookHadithIndex": 60,
+      "text": "حدثنا محمد بن يحيى، حدثنا محمد بن عاصم بن جعفر المصري، حدثنا المفضل بن فضالة، عن يونس بن يزيد، عن ابن شهاب، عن ابراهيم بن عبد الرحمن بن عوف، عن ابيه، قال سمعت رسول الله صلى الله عليه وسلم يقول \" ليس على المختلس قطع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2592-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2592-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2592-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2592-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc09",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2593,
+      "bookHadithIndex": 61,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن عمه، واسع بن حبان، عن رافع بن خديج، قال قال رسول الله صلى الله عليه وسلم \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2593-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2593-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2593-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2593-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc0a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2594,
+      "bookHadithIndex": 62,
+      "text": "حدثنا هشام بن عمار، حدثنا سعد بن سعيد المقبري، عن اخيه، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا قطع في ثمر ولا كثر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2594-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2594-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2594-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc0b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2595,
+      "bookHadithIndex": 63,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شبابة، عن مالك بن انس، عن الزهري، عن عبد الله بن صفوان، عن ابيه، انه نام في المسجد وتوسد رداءه فاخذ من تحت راسه فجاء بسارقه الى النبي صلى الله عليه وسلم فامر به النبي صلى الله عليه وسلم ان يقطع فقال صفوان يا رسول الله لم ارد هذا ردايي عليه صدقة فقال رسول الله صلى الله عليه وسلم \" فهلا قبل ان تاتيني به",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2595-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2595-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2595-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2595-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc0c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2596,
+      "bookHadithIndex": 64,
+      "text": "حدثنا علي بن محمد، حدثنا ابو اسامة، عن الوليد بن كثير، عن عمرو بن شعيب، عن ابيه، عن جده، ان رجلا، من مزينة سال النبي صلى الله عليه وسلم عن الثمار فقال \" ما اخذ في اكمامه فاحتمل فثمنه ومثله معه وما كان في الجران ففيه القطع اذا بلغ ذلك ثمن المجن وان اكل ولم ياخذ فليس عليه \" . قال الشاة الحريسة منهن يا رسول الله قال \" ثمنها ومثله معه والنكال وما كان في المراح ففيه القطع اذا كان ما ياخذ من ذلك ثمن المجن",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2596-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2596-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2596-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2596-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc0d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2597,
+      "bookHadithIndex": 65,
+      "text": "حدثنا هشام بن عمار، حدثنا سعيد بن يحيى، حدثنا حماد بن سلمة، عن اسحاق بن ابي طلحة، سمعت ابا المنذر، - مولى ابي ذر - يذكر ان ابا امية، حدثه ان رسول الله صلى الله عليه وسلم اتي بلص فاعترف اعترافا ولم يوجد معه المتاع فقال رسول الله صلى الله عليه وسلم \" ما اخالك سرقت \" . قال بلى . ثم قال \" ما اخالك سرقت \" . قال بلى . فامر به فقطع . فقال النبي صلى الله عليه وسلم \" قل استغفر الله واتوب اليه \" . قال استغفر الله واتوب اليه . قال \" اللهم تب عليه \" . مرتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2597-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2597-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2597-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc0e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2598,
+      "bookHadithIndex": 66,
+      "text": "حدثنا علي بن ميمون الرقي، وايوب بن محمد الوزان، وعبد الله بن سعيد، قالوا حدثنا معمر بن سليمان، انبانا الحجاج بن ارطاة، عن عبد الجبار بن وايل، عن ابيه، قال استكرهت امراة على عهد رسول الله صلى الله عليه وسلم فدرا عنها الحد واقامه على الذي اصابها . ولم يذكر انه جعل لها مهرا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2598-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2598-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2598-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2598-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc0f",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2599,
+      "bookHadithIndex": 67,
+      "text": "حدثنا سويد بن سعيد، حدثنا علي بن مسهر، ح وحدثنا الحسن بن عرفة، حدثنا ابو حفص الابار، جميعا عن اسماعيل بن مسلم، عن عمرو بن دينار، عن طاوس، عن ابن عباس، ان رسول الله صلى الله عليه وسلم قال \" لا تقام الحدود في المساجد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2599-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2599-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2599-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc10",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2600,
+      "bookHadithIndex": 68,
+      "text": "حدثنا محمد بن رمح، انبانا عبد الله بن لهيعة، عن محمد بن عجلان، انه سمع عمرو بن شعيب، يحدث عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم نهى عن جلد الحد في المساجد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2600-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2600-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2600-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2600-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc11",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2601,
+      "bookHadithIndex": 69,
+      "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن يزيد بن ابي حبيب، عن بكير بن عبد الله بن الاشج، عن سليمان بن يسار، عن عبد الرحمن بن جابر بن عبد الله، عن ابي بردة بن نيار، ان رسول الله صلى الله عليه وسلم كان يقول \" لا يجلد احد فوق عشر جلدات الا في حد من حدود الله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2601-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2601-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2601-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2601-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc12",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2602,
+      "bookHadithIndex": 70,
+      "text": "حدثنا هشام بن عمار، حدثنا اسماعيل بن عياش، حدثنا عباد بن كثير، عن يحيى بن ابي كثير، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا تعزروا فوق عشرة اسواط",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2602-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2602-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2602-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2602-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc13",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2603,
+      "bookHadithIndex": 71,
+      "text": "حدثنا محمد بن المثنى، حدثنا عبد الوهاب، وابن ابي عدي، عن خالد الحذاء، عن ابي قلابة، عن ابي الاشعث، عن عبادة بن الصامت، قال قال رسول الله صلى الله عليه وسلم \" من اصاب منكم حدا فعجلت له عقوبته فهو كفارته والا فامره الى الله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2603-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2603-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2603-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2603-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc14",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2604,
+      "bookHadithIndex": 72,
+      "text": "حدثنا هارون بن عبد الله الحمال، حدثنا حجاج بن محمد، حدثنا يونس بن ابي اسحاق، عن ابي اسحاق، عن ابي جحيفة، عن علي، قال قال رسول الله صلى الله عليه وسلم \" من اصاب في الدنيا ذنبا فعوقب به فالله اعدل من ان يثني عقوبته على عبده ومن اذنب ذنبا في الدنيا فستره الله عليه فالله اكرم من ان يعود في شىء قد عفا عنه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2604-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2604-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2604-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc15",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2605,
+      "bookHadithIndex": 73,
+      "text": "حدثنا احمد بن عبدة، ومحمد بن عبيد المديني ابو عبيد، قالا حدثنا عبد العزيز بن محمد الدراوردي، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، ان سعد بن عبادة الانصاري، قال يا رسول الله الرجل يجد مع امراته رجلا ايقتله قال رسول الله صلى الله عليه وسلم \" لا \" . قال سعد بلى والذي اكرمك بالحق . فقال رسول الله صلى الله عليه وسلم \" اسمعوا ما يقول سيدكم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2605-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2605-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2605-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2605-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc16",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2606,
+      "bookHadithIndex": 74,
+      "text": "حدثنا علي بن محمد، حدثنا وكيع، عن الفضل بن دلهم، عن الحسن، عن قبيصة بن حريث، عن سلمة بن المحبق، قال قيل لابي ثابت سعد بن عبادة حين نزلت اية الحدود وكان رجلا غيورا ارايت لو انك وجدت مع ام ثابت رجلا اى شىء كنت تصنع قال كنت ضاربهما بالسيف انتظر حتى اجيء باربعة الى ما ذاك قد قضى حاجته وذهب . او اقول رايت كذا وكذا فتضربوني الحد ولا تقبلوا لي شهادة ابدا . قال فذكر ذلك للنبي صلى الله عليه وسلم فقال \" كفى بالسيف شاهدا \" . ثم قال \" لا اني اخاف ان يتتايع في ذلك السكران والغيران \" . قال ابو عبد الله يعني ابن ماجه سمعت ابا زرعة يقول هذا حديث علي بن محمد الطنافسي وفاتني منه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2606-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2606-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2606-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2606-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc17",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2607,
+      "bookHadithIndex": 75,
+      "text": "حدثنا اسماعيل بن موسى، حدثنا هشيم، ح وحدثنا سهل بن ابي سهل، حدثنا حفص بن غياث، جميعا عن اشعث، عن عدي بن ثابت، عن البراء بن عازب، قال مر بي خالي - سماه هشيم في حديثه الحارث بن عمرو - وقد عقد له النبي صلى الله عليه وسلم لواء فقلت له اين تريد فقال بعثني رسول الله صلى الله عليه وسلم الى رجل تزوج امراة ابيه من بعده فامرني ان اضرب عنقه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2607-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2607-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2607-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc18",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2608,
+      "bookHadithIndex": 76,
+      "text": "حدثنا محمد بن عبد الرحمن ابن اخي الحسين الجعفي، حدثنا يوسف بن منازل التيمي، حدثنا عبد الله بن ادريس، عن خالد بن ابي كريمة، عن معاوية بن قرة، عن ابيه، قال بعثني رسول الله صلى الله عليه وسلم الى رجل تزوج امراة ابيه ان اضرب عنقه واصفي ماله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2608-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2608-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2608-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc19",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2609,
+      "bookHadithIndex": 77,
+      "text": "حدثنا ابو بشر، بكر بن خلف حدثنا ابن ابي الضيف، حدثنا عبد الله بن عثمان بن خثيم، عن سعيد بن جبير، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" من انتسب الى غير ابيه او تولى غير مواليه فعليه لعنة الله والملايكة والناس اجمعين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2609-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2609-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2609-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc1a",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2610,
+      "bookHadithIndex": 78,
+      "text": "حدثنا علي بن محمد، حدثنا ابو معاوية، عن عاصم الاحول، عن ابي عثمان النهدي، قال سمعت سعدا، وابا، بكرة وكل واحد منهما يقول سمعت اذناى، ووعى، قلبي محمدا صلى الله عليه وسلم يقول \" من ادعى الى غير ابيه وهو يعلم انه غير ابيه فالجنة عليه حرام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2610-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2610-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2610-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2610-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc1b",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2611,
+      "bookHadithIndex": 79,
+      "text": "حدثنا محمد بن الصباح، انبانا سفيان، عن عبد الكريم، عن مجاهد، عن عبد الله بن عمرو، قال قال رسول الله صلى الله عليه وسلم \" من ادعى الى غير ابيه لم يرح رايحة الجنة وان ريحها ليوجد من مسيرة خمسماية عام",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2611-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2611-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2611-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc1c",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2612,
+      "bookHadithIndex": 80,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، حدثنا حماد بن سلمة، ح وحدثنا محمد بن يحيى، حدثنا سليمان بن حرب، ح وحدثنا هارون بن حيان، انبانا عبد العزيز بن المغيرة، قالا حدثنا حماد بن سلمة، عن عقيل بن طلحة السلمي، عن مسلم بن هيصم، عن الاشعث بن قيس، قال اتيت رسول الله صلى الله عليه وسلم في وفد كندة ولا يروني افضلهم فقلت يا رسول الله الستم منا . فقال \" نحن بنو النضر بن كنانة لا نقفو امنا ولا ننتفي من ابينا \" . قال فكان الاشعث بن قيس يقول لا اوتى برجل نفى رجلا من قريش من النضر بن كنانة الا جلدته الحد",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2612-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2612-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2612-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2612-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc1d",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2613,
+      "bookHadithIndex": 81,
+      "text": "حدثنا الحسن بن ابي الربيع الجرجاني، انبانا عبد الرزاق، اخبرني يحيى بن العلاء، انه سمع بشر بن نمير، انه سمع مكحولا، يقول انه سمع يزيد بن عبد الله، انه سمع صفوان بن امية، قال كنا عند رسول الله صلى الله عليه وسلم فجاء عمرو بن قرة فقال يا رسول الله ان الله قد كتب على الشقوة فما اراني ارزق الا من دفي بكفي فاذن لي في الغناء في غير فاحشة . فقال رسول الله صلى الله عليه وسلم \" لا اذن لك ولا كرامة ولا نعمة عين كذبت اى عدو الله لقد رزقك الله طيبا حلالا فاخترت ما حرم الله عليك من رزقه مكان ما احل الله عز وجل لك من حلاله . ولو كنت تقدمت اليك لفعلت بك وفعلت قم عني وتب الى الله اما انك ان فعلت بعد التقدمة اليك ضربتك ضربا وجيعا وحلقت راسك مثلة ونفيتك من اهلك واحللت سلبك نهبة لفتيان اهل المدينة \" . فقام عمرو وبه من الشر والخزى ما لا يعلمه الا الله فلما ولى قال النبي صلى الله عليه وسلم \" هولاء العصاة من مات منهم بغير توبة حشره الله عز وجل يوم القيامة كما كان في الدنيا مخنثا عريانا لا يستتر من الناس بهدبة كلما قام صرع",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2613-alalbani",
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2613-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2613-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Mawdu"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2613-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c88cdd1a4c9c86f0cc1e",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 20,
+      "hadithIndex": 2614,
+      "bookHadithIndex": 82,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، عن هشام بن عروة، عن ابيه، عن زينب بنت ام سلمة، عن ام سلمة، ان النبي صلى الله عليه وسلم دخل عليها فسمع مخنثا وهو يقول لعبد الله بن ابي امية ان يفتح الله الطايف غدا دللتك على امراة تقبل باربع وتدبر بثمان . فقال النبي صلى الله عليه وسلم \" اخرجوهم من بيوتكم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2614-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2614-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2614-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-20-2614-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    }
+  ]
+}

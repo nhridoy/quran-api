@@ -1,0 +1,678 @@
+{
+  "total": 24,
+  "totalPage": 1,
+  "page": 1,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c745dd1a4c9c86f0b81c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1524,
+      "bookHadithIndex": 1,
+      "text": "حدثنا قتيبة، حدثنا ابو صفوان، عن يونس بن يزيد، عن ابن شهاب، عن ابي سلمة، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" لا نذر في معصية وكفارته كفارة يمين \" . قال وفي الباب عن ابن عمر وجابر وعمران بن حصين . قال ابو عيسى هذا حديث لا يصح لان الزهري لم يسمع هذا الحديث من ابي سلمة . قال سمعت محمدا يقول روى غير واحد منهم موسى بن عقبة وابن ابي عتيق عن الزهري عن سليمان بن ارقم عن يحيى بن ابي كثير عن ابي سلمة عن عايشة عن النبي صلى الله عليه وسلم . قال محمد والحديث هو هذا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1524-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1524-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1524-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b81d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1525,
+      "bookHadithIndex": 2,
+      "text": "حدثنا ابو اسماعيل الترمذي، - واسمه محمد بن اسماعيل بن يوسف حدثنا ايوب بن سليمان بن بلال، حدثنا ابو بكر بن ابي اويس، عن سليمان بن بلال، عن موسى بن عقبة، ومحمد بن عبد الله بن ابي عتيق، عن الزهري، عن سليمان بن ارقم، عن يحيى بن ابي كثير، عن ابي سلمة، عن عايشة، عن النبي صلى الله عليه وسلم قال \" لا نذر في معصية الله وكفارته كفارة يمين \" . قال ابو عيسى هذا حديث غريب وهو اصح من حديث ابي صفوان عن يونس . وابو صفوان هو مكي واسمه عبد الله بن سعيد بن عبد الملك بن مروان وقد روى عنه الحميدي وغير واحد من جلة اهل الحديث . وقال قوم من اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم لا نذر في معصية الله وكفارته كفارة يمين . وهو قول احمد واسحاق واحتجا بحديث الزهري عن ابي سلمة عن عايشة . وقال بعض اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم لا نذر في معصية ولا كفارة في ذلك . وهو قول مالك والشافعي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1525-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1525-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1525-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b81e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1526,
+      "bookHadithIndex": 3,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1526-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1526-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1526-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b81f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1527,
+      "bookHadithIndex": 5,
+      "text": "حدثنا احمد بن منيع، حدثنا اسحاق بن يوسف الازرق، عن هشام الدستوايي، عن يحيى بن ابي كثير، عن ابي قلابة، عن ثابت بن الضحاك، عن النبي صلى الله عليه وسلم قال \" ليس على العبد نذر فيما لا يملك \" . قال وفي الباب عن عبد الله بن عمرو وعمران بن حصين . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1527-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1527-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1527-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1527-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b820",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1528,
+      "bookHadithIndex": 6,
+      "text": "حدثنا احمد بن منيع، حدثنا ابو بكر بن عياش، حدثني محمد، مولى المغيرة بن شعبة حدثني كعب بن علقمة، عن ابي الخير، عن عقبة بن عامر، قال قال رسول الله صلى الله عليه وسلم \" كفارة النذر اذا لم يسم كفارة يمين \" . قال ابو عيسى هذا حديث حسن صحيح غريب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1528-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1528-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1528-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b821",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1529,
+      "bookHadithIndex": 7,
+      "text": "حدثنا محمد بن عبد الاعلى الصنعاني، حدثنا المعتمر بن سليمان، عن يونس، هو ابن عبيد حدثنا الحسن، عن عبد الرحمن بن سمرة، قال قال رسول الله صلى الله عليه وسلم \" يا عبد الرحمن لا تسال الامارة فانك ان اتتك عن مسالة وكلت اليها وان اتتك عن غير مسالة اعنت عليها واذا حلفت على يمين فرايت غيرها خيرا منها فايت الذي هو خير ولتكفر عن يمينك \" . وفي الباب عن علي وجابر وعدي بن حاتم وابي الدرداء وانس وعايشة وعبد الله بن عمرو وابي هريرة وام سلمة وابي موسى . قال ابو عيسى حديث عبد الرحمن بن سمرة حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1529-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1529-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1529-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1529-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b822",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1530,
+      "bookHadithIndex": 8,
+      "text": "حدثنا قتيبة، عن مالك بن انس، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" من حلف على يمين فراى غيرها خيرا منها فليكفر عن يمينه وليفعل \" . قال وفي الباب عن ام سلمة . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . والعمل على هذا عند اكثر اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم ان الكفارة قبل الحنث تجزي وهو قول مالك بن انس والشافعي واحمد واسحاق . وقال بعض اهل العلم لا يكفر الا بعد الحنث . قال سفيان الثوري ان كفر بعد الحنث احب الى وان كفر قبل الحنث اجزاه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1530-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1530-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1530-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1530-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b823",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1531,
+      "bookHadithIndex": 9,
+      "text": "حدثنا محمود بن غيلان، حدثنا عبد الصمد بن عبد الوارث، حدثني ابي وحماد بن سلمة، عن ايوب، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" من حلف على يمين فقال ان شاء الله فقد استثنى فلا حنث عليه \" . قال وفي الباب عن ابي هريرة . قال ابو عيسى حديث ابن عمر حديث حسن . وقد رواه عبيد الله بن عمر وغيره عن نافع عن ابن عمر موقوفا . وهكذا روي عن سالم عن ابن عمر رضى الله عنهما موقوفا . ولا نعلم احدا رفعه غير ايوب السختياني وقال اسماعيل بن ابراهيم وكان ايوب احيانا يرفعه واحيانا لا يرفعه . والعمل على هذا عند اكثر اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم ان الاستثناء اذا كان موصولا باليمين فلا حنث عليه وهو قول سفيان الثوري والاوزاعي ومالك بن انس وعبد الله بن المبارك والشافعي واحمد واسحاق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1531-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1531-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1531-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b824",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1532,
+      "bookHadithIndex": 10,
+      "text": "حدثنا يحيى بن موسى، حدثنا عبد الرزاق، اخبرنا معمر، عن ابن طاوس، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" من حلف على يمين فقال ان شاء الله لم يحنث \" . قال ابو عيسى سالت محمد بن اسماعيل عن هذا فقال هذا حديث خطا اخطا فيه عبد الرزاق اختصره من حديث معمر عن ابن طاوس عن ابيه عن ابي هريرة عن النبي صلى الله عليه وسلم قال \" ان سليمان بن داود قال لاطوفن الليلة على سبعين امراة تلد كل امراة غلاما . فطاف عليهن فلم تلد امراة منهن الا امراة نصف غلام \" . فقال رسول الله صلى الله عليه وسلم \" لو قال ان شاء الله لكان كما قال \" . هكذا روي عن عبد الرزاق عن معمر عن ابن طاوس عن ابيه هذا الحديث بطوله وقال \" سبعين امراة \" . وقد روي هذا الحديث من غير وجه عن ابي هريرة عن النبي صلى الله عليه وسلم قال \" قال سليمان بن داود لاطوفن الليلة على ماية امراة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1532-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1532-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1532-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b825",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1533,
+      "bookHadithIndex": 11,
+      "text": "حدثنا قتيبة، حدثنا سفيان، عن الزهري، عن سالم، عن ابيه، سمع النبي صلى الله عليه وسلم عمر وهو يقول وابي وابي فقال \" الا ان الله ينهاكم ان تحلفوا بابايكم \" . فقال عمر فوالله ما حلفت به بعد ذلك ذاكرا ولا اثرا . قال وفي الباب عن ثابت بن الضحاك وابن عباس وابي هريرة وقتيلة وعبد الرحمن بن سمرة . قال ابو عيسى حديث ابن عمر حديث حسن صحيح . قال ابو عيسى قال ابو عبيد معنى قوله ولا اثرا . اى لم اثره عن غيري يقول لم اذكره عن غيري",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1533-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1533-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1533-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1533-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b826",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1534,
+      "bookHadithIndex": 12,
+      "text": "حدثنا هناد، حدثنا عبدة، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم ادرك عمر وهو في ركب وهو يحلف بابيه فقال رسول الله صلى الله عليه وسلم \" ان الله ينهاكم ان تحلفوا بابايكم ليحلف حالف بالله او ليسكت \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1534-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1534-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1534-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1534-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b827",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1535,
+      "bookHadithIndex": 13,
+      "text": "حدثنا قتيبة، حدثنا ابو خالد الاحمر، عن الحسن بن عبيد الله، عن سعد بن عبيدة، ان ابن عمر، سمع رجلا، يقول لا والكعبة . فقال ابن عمر لا يحلف بغير الله فاني سمعت رسول الله صلى الله عليه وسلم يقول \" من حلف بغير الله فقد كفر او اشرك \" . قال ابو عيسى هذا حديث حسن . وفسر هذا الحديث عند بعض اهل العلم ان قوله \" فقد كفر او اشرك \" على التغليظ . والحجة في ذلك حديث ابن عمر ان النبي صلى الله عليه وسلم سمع عمر يقول وابي وابي . فقال \" الا ان الله ينهاكم ان تحلفوا بابايكم \" . وحديث ابي هريرة عن النبي صلى الله عليه وسلم انه قال \" من قال في حلفه واللات والعزى فليقل لا اله الا الله \" . قال ابو عيسى هذا مثل ما روي عن النبي صلى الله عليه وسلم انه قال \" ان الرياء شرك \" . وقد فسر بعض اهل العلم هذه الاية : ( ومن كان يرجو لقاء ربه فليعمل عملا صالحا ) الاية قال لا يرايي",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1535-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1535-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1535-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b828",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1536,
+      "bookHadithIndex": 14,
+      "text": "حدثنا عبد القدوس بن محمد العطار البصري، حدثنا عمرو بن عاصم، عن عمران القطان، عن حميد، عن انس، قال نذرت امراة ان تمشي، الى بيت الله فسيل نبي الله صلى الله عليه وسلم عن ذلك فقال \" ان الله لغني عن مشيها مروها فلتركب \" . قال وفي الباب عن ابي هريرة وعقبة بن عامر وابن عباس . قال ابو عيسى حديث انس حديث حسن صحيح غريب من هذا الوجه . والعمل على هذا عند بعض اهل العلم وقالوا اذا نذرت امراة ان تمشي فلتركب ولتهد شاة",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1536-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1536-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1536-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1536-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b829",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1537,
+      "bookHadithIndex": 15,
+      "text": "",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1537-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1537-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b82a",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1538,
+      "bookHadithIndex": 17,
+      "text": "حدثنا قتيبة، حدثنا عبد العزيز بن محمد، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا تنذروا فان النذر لا يغني من القدر شييا وانما يستخرج به من البخيل \" . قال وفي الباب عن ابن عمر . قال ابو عيسى حديث ابي هريرة حديث حسن . والعمل على هذا عند بعض اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم كرهوا النذر . وقال عبد الله بن المبارك معنى الكراهية في النذر في الطاعة والمعصية وان نذر الرجل بالطاعة فوفى به فله فيه اجر ويكره له النذر",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1538-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1538-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1538-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1538-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b82b",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1539,
+      "bookHadithIndex": 18,
+      "text": "حدثنا اسحاق بن منصور، اخبرنا يحيى بن سعيد القطان، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، عن عمر، قال قلت يا رسول الله اني كنت نذرت ان اعتكف ليلة في المسجد الحرام في الجاهلية . قال \" اوف بنذرك \" . قال وفي الباب عن عبد الله بن عمرو وابن عباس . قال ابو عيسى حديث عمر حديث حسن صحيح . وقد ذهب بعض اهل العلم الى هذا الحديث قالوا اذا اسلم الرجل وعليه نذر طاعة فليف به . وقال بعض اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم لا اعتكاف الا بصوم . وقال اخرون من اهل العلم ليس على المعتكف صوم الا ان يوجب على نفسه صوما . واحتجوا بحديث عمر انه نذر ان يعتكف ليلة في الجاهلية فامره النبي صلى الله عليه وسلم بالوفاء . وهو قول احمد واسحاق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1539-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1539-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1539-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1539-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b82c",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1540,
+      "bookHadithIndex": 19,
+      "text": "حدثنا علي بن حجر، اخبرنا عبد الله بن المبارك، وعبد الله بن جعفر، عن موسى بن عقبة، عن سالم بن عبد الله، عن ابيه، قال كثيرا ما كان رسول الله صلى الله عليه وسلم يحلف بهذه اليمين \" لا ومقلب القلوب \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1540-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1540-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1540-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1540-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b82d",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1541,
+      "bookHadithIndex": 20,
+      "text": "حدثنا قتيبة، حدثنا الليث، عن ابن الهاد، عن عمر بن علي بن الحسين بن علي بن ابي طالب، عن سعيد ابن مرجانة، عن ابي هريرة، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من اعتق رقبة مومنة اعتق الله منه بكل عضو منه عضوا من النار حتى يعتق فرجه بفرجه \" . قال وفي الباب عن عايشة وعمرو بن عبسة وابن عباس وواثلة بن الاسقع وابي امامة وعقبة بن عامر وكعب بن مرة . قال ابو عيسى حديث ابي هريرة هذا حديث حسن صحيح غريب من هذا الوجه . وابن الهاد اسمه يزيد بن عبد الله بن اسامة بن الهاد وهو مدني ثقة قد روى عنه مالك بن انس وغير واحد من اهل العلم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1541-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1541-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1541-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1541-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b82e",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1542,
+      "bookHadithIndex": 21,
+      "text": "حدثنا ابو كريب، حدثنا المحاربي، عن شعبة، عن حصين، عن هلال بن يساف، عن سويد بن مقرن المزني، قال لقد رايتنا سبعة اخوة ما لنا خادم الا واحدة فلطمها احدنا فامرنا النبي صلى الله عليه وسلم ان نعتقها . قال وفي الباب عن ابن عمر . قال ابو عيسى هذا حديث حسن صحيح . وقد روى غير واحد هذا الحديث عن حصين بن عبد الرحمن فذكر بعضهم في الحديث قال لطمها على وجهها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1542-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1542-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1542-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1542-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b82f",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1543,
+      "bookHadithIndex": 22,
+      "text": "حدثنا احمد بن منيع، حدثنا اسحاق بن يوسف الازرق، عن هشام الدستوايي، عن يحيى بن ابي كثير، عن ابي قلابة، عن ثابت بن الضحاك، قال قال رسول الله صلى الله عليه وسلم \" من حلف بملة غير الاسلام كاذبا فهو كما قال \" . قال ابو عيسى هذا حديث حسن صحيح . وقد اختلف اهل العلم في هذا اذا حلف الرجل بملة سوى الاسلام فقال هو يهودي او نصراني ان فعل كذا وكذا ففعل ذلك الشىء فقال بعضهم قد اتى عظيما ولا كفارة عليه وهو قول اهل المدينة وبه يقول مالك بن انس والى هذا القول ذهب ابو عبيد . وقال بعض اهل العلم من اصحاب النبي صلى الله عليه وسلم والتابعين وغيرهم عليه في ذلك الكفارة وهو قول سفيان واحمد واسحاق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1543-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1543-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1543-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1543-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b830",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1544,
+      "bookHadithIndex": 23,
+      "text": "حدثنا محمود بن غيلان، حدثنا وكيع، عن سفيان، عن يحيى بن سعيد، عن عبيد الله بن زحر، عن ابي سعيد الرعيني، عن عبد الله بن مالك اليحصبي، عن عقبة بن عامر، قال قلت يا رسول الله ان اختي نذرت ان تمشي الى البيت حافية غير مختمرة . فقال النبي صلى الله عليه وسلم \" ان الله لا يصنع بشقاء اختك شييا فلتركب ولتختمر ولتصم ثلاثة ايام \" . قال وفي الباب عن ابن عباس . قال ابو عيسى هذا حديث حسن . والعمل على هذا عند اهل العلم وهو قول احمد واسحاق",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1544-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1544-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1544-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b831",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1545,
+      "bookHadithIndex": 24,
+      "text": "حدثنا اسحاق بن منصور، حدثنا ابو المغيرة، حدثنا الاوزاعي، حدثنا الزهري، عن حميد بن عبد الرحمن، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من حلف منكم فقال في حلفه واللات والعزى فليقل لا اله الا الله ومن قال تعال اقامرك فليتصدق \" . قال ابو عيسى هذا حديث حسن صحيح . وابو المغيرة هو الخولاني الحمصي واسمه عبد القدوس بن الحجاج",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1545-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1545-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1545-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1545-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b832",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1546,
+      "bookHadithIndex": 25,
+      "text": "حدثنا قتيبة، حدثنا الليث، عن ابن شهاب، عن عبيد الله بن عبد الله بن عتبة، عن ابن عباس، ان سعد بن عبادة، استفتى رسول الله صلى الله عليه وسلم في نذر كان على امه توفيت قبل ان تقضيه فقال النبي صلى الله عليه وسلم \" اقضه عنها \" . قال ابو عيسى هذا حديث حسن صحيح",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1546-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1546-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1546-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1546-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c745dd1a4c9c86f0b833",
+      "editionId": "69b55e8d6f42ba7ccb2a1322",
+      "bookIndex": 20,
+      "hadithIndex": 1547,
+      "bookHadithIndex": 26,
+      "text": "حدثنا محمد بن عبد الاعلى حدثنا عمران بن عيينة هو اخو سفيان بن عيينة عن حصين عن سالم بن ابي الجعد عن ابي امامة وغيره من اصحاب النبي صلى الله عليه وسلم عن النبي صلى الله عليه وسلم قال ايما امري مسلم اعتق امرا مسلما كان فكاكه من النار يجزي كل عضو منه عضوا منه وايما امري مسلم اعتق امراتين مسلمتين كانتا فكاكه من النار يجزي كل عضو منهما عضوا منه وايما امراة مسلمة اعتقت امراة مسلمة كانت فكاكها من النار يجزي كل عضو منها عضوا منها قال ابو عيسى هذا حديث حسن صحيح غريب من هذا الوجه قال ابو عيسى وفي الحديث ما يدل على ان عتق الذكور للرجال افضل من عتق الاناث لقول رسول الله صلى الله عليه وسلم من اعتق امرا مسلما كان فكاكه من النار يجزي كل عضو منه عضوا منه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1547-ahmadmuhammadshakir",
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1547-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1547-basharawadmaarouf",
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1322-20-1547-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

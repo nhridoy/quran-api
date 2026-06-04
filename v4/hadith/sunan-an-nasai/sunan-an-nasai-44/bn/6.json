@@ -1,0 +1,183 @@
+{
+  "total": 257,
+  "totalPage": 6,
+  "page": 6,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6d6dd1a4c9c86f0adfc",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 44,
+      "hadithIndex": 4699,
+      "bookHadithIndex": 251,
+      "text": "আমর ইবন আলী (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি দাস অথবা দাসীর মধ্যে নিজের অংশ মুক্ত করে, আর তার এত মাল রয়েছে, যা সেই দাস বা দাসীর অবশিষ্ট অংশের জন্য যথেষ্ট হয়, তবে সে তার মাল দ্বারা মুক্ত হয়ে যাবে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4699-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4699-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4699-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0adfd",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 44,
+      "hadithIndex": 4700,
+      "bookHadithIndex": 252,
+      "text": "কুতায়বা (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মধ্যে যার নিকট জমি অথবা খেজুর গাছ থাকে, সে যেন তার অংশীদারকে না জানিয়ে তা বিক্রয় না করে।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4700-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4700-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4700-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0adfe",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 44,
+      "hadithIndex": 4701,
+      "bookHadithIndex": 253,
+      "text": "মুহাম্মাদ ইবন আলা (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক এমন এজমালি সম্পত্তিতে ‘শুফআ’-এর আদেশ করেছেন, যা এখনও বণ্টন করা হয়নি, তা ঘরবাড়ি হোক বা বাগান, এক অংশীদারের নিজের অংশ অন্য অংশীদারকে না জানিয়ে এবং তার অনুমতি ছাড়া বিক্রি করা বৈধ নয়। সেই অংশীদারের ইচ্ছা, সে নিতেও পারে, নাও নিতে পারে। যদি কোন অংশীদার অন্য অংশীদারকে না জানিয়ে বিক্রি করে দেয়, তবে সে তার অধিক হকদার।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4701-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4701-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4701-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0adff",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 44,
+      "hadithIndex": 4702,
+      "bookHadithIndex": 254,
+      "text": "আলী ইবন হুজুর (রহঃ) ... আবু রাফে (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামবলেছেনঃ প্রতিবেশী শুফআর বেশি হকদার।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4702-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4702-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4702-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0ae00",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 44,
+      "hadithIndex": 4703,
+      "bookHadithIndex": 255,
+      "text": "ইসহাক ইবন ইবরাহীম (রহঃ) ... আমর ইবন শারীদ তার পিতা থেকে বর্ণনা করেন যে, তিনি বলেন, এক ব্যক্তি বললোঃ ইয়া রাসূলাল্লাহ্! আমার জমি আছে, যাতে কারও অংশীদারিত্ব নেই এবং কারো ভাগও নেই। তবে আমার প্রতিবেশী আছে। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ প্রতিবেশী শুফআর অধিক হকদার।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4703-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4703-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4703-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0ae01",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 44,
+      "hadithIndex": 4704,
+      "bookHadithIndex": 256,
+      "text": "হিলাল ইবন বিশর (রহঃ) ... আবূ সালামা (রহঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শুফ'আ প্রত্যেক এমন সম্পত্তিতে রয়েছে, যা বণ্টন করা হয়নি। যখন সীমানা চিহ্নিত হয়ে যায়, পথ নির্দিষ্ট হয়ে যায়, তখন আর শুফআ থাকে না।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4704-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4704-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4704-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6d6dd1a4c9c86f0ae02",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 44,
+      "hadithIndex": 4705,
+      "bookHadithIndex": 257,
+      "text": "মুহাম্মাদ ইবন আবদুল আযীয (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুফআ এবং প্রতিবেশীর অধিকারের পক্ষে ফায়সালা দিয়েছেন।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4705-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4705-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-44-4705-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

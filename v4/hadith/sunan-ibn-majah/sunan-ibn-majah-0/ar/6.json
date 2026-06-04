@@ -1,0 +1,468 @@
+{
+  "total": 266,
+  "totalPage": 6,
+  "page": 6,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e3",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 251,
+      "bookHadithIndex": 251,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن نمير، عن موسى بن عبيدة، عن محمد بن ثابت، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم يقول \" اللهم انفعني بما علمتني وعلمني ما ينفعني وزدني علما والحمد لله على كل حال",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-251-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-251-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-251-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-251-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e4",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 252,
+      "bookHadithIndex": 252,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يونس بن محمد، وسريج بن النعمان، قالا حدثنا فليح بن سليمان، عن عبد الله بن عبد الرحمن بن معمر ابي طوالة، عن سعيد بن يسار، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من تعلم علما مما يبتغى به وجه الله لا يتعلمه الا ليصيب به عرضا من الدنيا لم يجد عرف الجنة يوم القيامة \" . يعني ريحها . قال ابو الحسن انبانا ابو حاتم، حدثنا سعيد بن منصور، حدثنا فليح بن سليمان، فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-252-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-252-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-252-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-252-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e5",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 253,
+      "bookHadithIndex": 253,
+      "text": "حدثنا هشام بن عمار، حدثنا حماد بن عبد الرحمن، حدثنا ابو كرب الازدي، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" من طلب العلم ليماري به السفهاء او ليباهي به العلماء او ليصرف وجوه الناس اليه فهو في النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-253-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-253-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-253-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-253-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e6",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 254,
+      "bookHadithIndex": 254,
+      "text": "حدثنا محمد بن يحيى، حدثنا ابن ابي مريم، انبانا يحيى بن ايوب، عن ابن جريج، عن ابي الزبير، عن جابر بن عبد الله، ان النبي صلى الله عليه وسلم قال \" لا تعلموا العلم لتباهوا به العلماء ولا لتماروا به السفهاء ولا تخيروا به المجالس فمن فعل ذلك فالنار النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-254-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-254-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-254-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e7",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 255,
+      "bookHadithIndex": 255,
+      "text": "حدثنا محمد بن الصباح، انبانا الوليد بن مسلم، عن يحيى بن عبد الرحمن الكندي، عن عبيد الله بن ابي بردة، عن ابن عباس، عن النبي صلى الله عليه وسلم قال \" ان اناسا من امتي سيتفقهون في الدين ويقرءون القران ويقولون ناتي الامراء فنصيب من دنياهم ونعتزلهم بديننا . ولا يكون ذلك كما لا يجتنى من القتاد الا الشوك كذلك لا يجتنى من قربهم الا \" . قال محمد بن الصباح كانه يعني الخطايا",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-255-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-255-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-255-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-255-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e8",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 256,
+      "bookHadithIndex": 256,
+      "text": "حدثنا علي بن محمد، ومحمد بن اسماعيل، قالا حدثنا عبد الرحمن بن محمد المحاربي، حدثنا عمار بن سيف، عن ابي معاذ البصري، ح وحدثنا علي بن محمد، حدثنا اسحاق بن منصور، عن عمار بن سيف، عن ابي معاذ، عن ابن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" تعوذوا بالله من جب الحزن \" . قالوا يا رسول الله وما جب الحزن قال \" واد في جهنم يتعوذ منه جهنم كل يوم اربعماية مرة \" . قالوا يا رسول الله ومن يدخله قال \" اعد للقراء المرايين باعمالهم وان من ابغض القراء الى الله الذين يزورون الامراء \" . قال المحاربي الجورة . قال ابو الحسن حدثنا حازم بن يحيى حدثنا ابو بكر بن ابي شيبة ومحمد بن نمير قالا حدثنا ابن نمير عن معاوية النصري وكان ثقة ثم ذكر الحديث نحوه باسناده . حدثنا ابراهيم بن نصر، حدثنا ابو غسان، مالك بن اسماعيل حدثنا عمار بن سيف، عن ابي معاذ، . قال مالك بن اسماعيل قال عمار لا ادري محمد او انس بن سيرين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-256-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-256-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-256-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-256-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2e9",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 257,
+      "bookHadithIndex": 257,
+      "text": "حدثنا علي بن محمد، والحسين بن عبد الرحمن، قالا حدثنا عبد الله بن نمير، عن معاوية النصري، عن نهشل، عن الضحاك، عن الاسود بن يزيد، عن عبد الله بن مسعود، قال لو ان اهل العلم، صانوا العلم ووضعوه عند اهله لسادوا به اهل زمانهم ولكنهم بذلوه لاهل الدنيا لينالوا به من دنياهم فهانوا عليهم سمعت نبيكم صلى الله عليه وسلم يقول \" من جعل الهموم هما واحدا هم اخرته كفاه الله هم دنياه ومن تشعبت به الهموم في احوال الدنيا لم يبال الله في اى اوديتها هلك \" . قال ابو الحسن حدثنا خازم بن يحيى، حدثنا ابو بكر بن ابي شيبة، ومحمد بن عبد الله بن نمير، قالا حدثنا ابن نمير، عن معاوية النصري، - وكان ثقة - ثم ذكر الحديث نحوه باسناده",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-257-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-257-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-257-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-257-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ea",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 258,
+      "bookHadithIndex": 258,
+      "text": "حدثنا زيد بن اخزم، وابو بدر عباد بن الوليد قالا حدثنا محمد بن عباد الهنايي، حدثنا علي بن المبارك الهنايي، عن ايوب السختياني، عن خالد بن دريك، عن ابن عمر، ان النبي صلى الله عليه وسلم قال \" من طلب العلم لغير الله او اراد به غير الله فليتبوا مقعده من النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-258-alalbani",
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-258-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-258-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-258-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2eb",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 259,
+      "bookHadithIndex": 259,
+      "text": "حدثنا احمد بن عاصم العباداني، حدثنا بشير بن ميمون، قال سمعت اشعث بن سوار، عن ابن سيرين، عن حذيفة، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا تعلموا العلم لتباهوا به العلماء او لتماروا به السفهاء او لتصرفوا وجوه الناس اليكم فمن فعل ذلك فهو في النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-259-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-259-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-259-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ec",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 260,
+      "bookHadithIndex": 260,
+      "text": "حدثنا محمد بن اسماعيل، انبانا وهب بن اسماعيل الاسدي، حدثنا عبد الله بن سعيد المقبري، عن جده، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من تعلم العلم ليباهي به العلماء ويماري به السفهاء ويصرف به وجوه الناس اليه ادخله الله جهنم",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-260-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-260-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-260-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-260-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ed",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 261,
+      "bookHadithIndex": 261,
+      "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا اسود بن عامر، حدثنا عمارة بن زاذان، حدثنا علي بن الحكم، حدثنا عطاء، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" ما من رجل يحفظ علما فيكتمه الا اتي به يوم القيامة ملجما بلجام من النار \" . قال ابو الحسن - اى القطان - وحدثنا ابو حاتم، حدثنا ابو الوليد، حدثنا عمارة بن زاذان، فذكر نحوه . قال ابو الحسن ايضا وحدثنا ابراهيم بن نصر، قال حدثنا ابو نعيم، قال حدثنا عمارة بن زاذان، فذكر نحوه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-261-alalbani",
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-261-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-261-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ee",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 262,
+      "bookHadithIndex": 262,
+      "text": "حدثنا ابو مروان العثماني، محمد بن عثمان حدثنا ابراهيم بن سعد، عن الزهري، عن عبد الرحمن بن هرمز الاعرج، انه سمع ابا هريرة، يقول والله لولا ايتان في كتاب الله تعالى ما حدثت عنه - يعني عن النبي صلى الله عليه وسلم - شييا ابدا لولا قول الله {ان الذين يكتمون ما انزل الله من الكتاب} الى اخر الايتين",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-262-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-262-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-262-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-262-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2ef",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 263,
+      "bookHadithIndex": 263,
+      "text": "حدثنا الحسين بن ابي السري العسقلاني، حدثنا خلف بن تميم، عن عبد الله بن السري، عن محمد بن المنكدر، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" اذا لعن اخر هذه الامة اولها فمن كتم حديثا فقد كتم ما انزل الله",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-263-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-263-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-263-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-263-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2f0",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 264,
+      "bookHadithIndex": 264,
+      "text": "حدثنا احمد بن الازهر، حدثنا الهيثم بن جميل، حدثني عمر بن سليم، حدثنا يوسف بن ابراهيم، قال سمعت انس بن مالك، يقول سمعت رسول الله صلى الله عليه وسلم يقول \" من سيل عن علم فكتمه الجم يوم القيامة بلجام من نار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-264-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-264-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-264-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2f1",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 265,
+      "bookHadithIndex": 265,
+      "text": "حدثنا اسماعيل بن حبان بن واقد الثقفي ابو اسحاق الواسطي، حدثنا عبد الله بن عاصم، حدثنا محمد بن داب، عن صفوان بن سليم، عن عبد الرحمن بن ابي سعيد الخدري، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم \" من كتم علما مما ينفع الله به في امر الناس في الدين الجمه الله يوم القيامة بلجام من النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-265-alalbani",
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-265-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-265-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-265-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c81fdd1a4c9c86f0c2f2",
+      "editionId": "69b55e8d6f42ba7ccb2a1324",
+      "bookIndex": 0,
+      "hadithIndex": 266,
+      "bookHadithIndex": 266,
+      "text": "حدثنا محمد بن عبد الله بن حفص بن هشام بن زيد بن انس بن مالك، حدثنا ابو ابراهيم، اسماعيل بن ابراهيم الكرابيسي عن ابن عون، عن محمد بن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من سيل عن علم يعلمه فكتمه الجم يوم القيامة بلجام من نار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-266-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-266-muhammadfouadabdalbaqi",
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-266-shuaibalarnaut",
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1324-0-266-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    }
+  ]
+}

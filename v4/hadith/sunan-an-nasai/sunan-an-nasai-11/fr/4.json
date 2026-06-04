@@ -1,0 +1,83 @@
+{
+  "total": 153,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c611dd1a4c9c86f09f9f",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1026,
+      "bookHadithIndex": 151,
+      "text": "Rapporté par 'Alqamah : Abdullah a dit : « Voulez-vous que je vous parle de la façon dont le Messager d’Allah (ﷺ) priait ? Il se levait et levait les mains la première fois, puis il ne le refaisait plus. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1026-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1027,
+      "bookHadithIndex": 152,
+      "text": "Rapporté par Abu Mas'ud : Le Messager d’Allah (ﷺ) a dit : « La prière n’est pas valable si l’homme ne laisse pas sa colonne vertébrale se reposer pendant l’inclinaison et la prosternation. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1027-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c611dd1a4c9c86f09fa1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 11,
+      "hadithIndex": 1028,
+      "bookHadithIndex": 153,
+      "text": "Rapporté par Anas : Le Messager d’Allah (ﷺ) a dit : « Soyez modérés dans l’inclinaison et la prosternation, et ne posez pas vos avant-bras sur le sol comme le fait un chien. »",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-11-1028-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

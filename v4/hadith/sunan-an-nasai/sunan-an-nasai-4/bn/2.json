@@ -1,0 +1,83 @@
+{
+  "total": 53,
+  "totalPage": 2,
+  "page": 2,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c5dbdd1a4c9c86f09d5a",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 4,
+      "hadithIndex": 445,
+      "bookHadithIndex": 51,
+      "text": "। ইমরান ইবনু মূসা (রহঃ) ... বুসরা বিনত সাফওয়ান (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি তোমাদের কেউ নিজ লজ্জাস্থানে হাত রাখে, তবে সে যেন উযূ (ওজু/অজু/অযু) করে নেয়।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-445-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-445-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-445-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09d5b",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 4,
+      "hadithIndex": 446,
+      "bookHadithIndex": 52,
+      "text": "। কুতায়বা (রহঃ) ... মারওয়ান ইবনু হাকাম থেকে বর্ণিত। লজ্জাস্থান স্পর্শ করলে উযূ (ওজু/অজু/অযু) করতে হবে। মারওয়ান বলেন, বুসরা বিনত সাফওয়ান আমাকে এটা অবগত করেছেন। একথা শুনে উরওয়া (রাঃ) তার নিকট লোক পাঠালে তিনি বললেন, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি কি কাজে উযূ (ওজু/অজু/অযু) করতে হবে তার উল্লেখ করতে গিয়ে বলেছেন, পুরুষাঙ্গ স্পর্শ করলেও।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-446-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-446-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-446-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c5dbdd1a4c9c86f09d5c",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 4,
+      "hadithIndex": 447,
+      "bookHadithIndex": 53,
+      "text": "। ইসহাক ইবনু মানসূর (রহঃ) ... বুসরা বিনত সাফওয়ান (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যাক্তি নিজ গুপ্তাঙ্গ স্পর্শ করে সে যেন উযূ (ওজু/অজু/অযু) করা ব্যতীত সালাত আদায় না করে। আবূ আবদুর রহমান বলেন, হিশাম ইবনু উরওয়াহ হাদিসটি তার বাবা হতে শোনেন নি। আল্লাহই ভালো জানেন।",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-447-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-447-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-4-447-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

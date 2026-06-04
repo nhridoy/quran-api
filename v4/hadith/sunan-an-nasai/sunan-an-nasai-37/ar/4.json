@@ -1,0 +1,433 @@
+{
+  "total": 167,
+  "totalPage": 4,
+  "page": 4,
+  "pageSize": 50,
+  "items": [
+    {
+      "id": "69b6c6aadd1a4c9c86f0abb5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4116,
+      "bookHadithIndex": 151,
+      "text": "اخبرنا محمود بن غيلان، قال حدثنا ابو داود، عن شعبة، قال اخبرني منصور، قال سمعت ربعيا، يحدث عن ابي بكرة، قال قال رسول الله صلى الله عليه وسلم \" اذا اشار المسلم على اخيه المسلم بالسلاح فهما على جرف جهنم فاذا قتله خرا جميعا فيها",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4116-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4116-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4116-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abb6",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4117,
+      "bookHadithIndex": 152,
+      "text": "اخبرنا احمد بن سليمان، قال حدثنا يعلى، قال حدثنا سفيان، عن منصور، عن ربعي، عن ابي بكرة، قال اذا حمل الرجلان المسلمان السلاح احدهما على الاخر فهما على جرف جهنم فاذا قتل احدهما الاخر فهما في النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4117-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4117-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4117-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abb7",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4118,
+      "bookHadithIndex": 153,
+      "text": "اخبرني محمد بن اسماعيل بن ابراهيم، عن يزيد، عن سليمان التيمي، عن الحسن، عن ابي موسى، عن النبي صلى الله عليه وسلم قال \" اذا تواجه المسلمان بسيفيهما فقتل احدهما صاحبه فهما في النار \" . قيل يا رسول الله هذا القاتل فما بال المقتول قال \" اراد قتل صاحبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4118-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4118-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4118-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abb8",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4119,
+      "bookHadithIndex": 154,
+      "text": "اخبرني محمد بن اسماعيل بن ابراهيم، قال حدثنا يزيد، - وهو ابن هارون - قال انبانا سعيد، عن قتادة، عن الحسن، عن ابي موسى الاشعري، عن النبي صلى الله عليه وسلم قال \" اذا تواجه المسلمان بسيفيهما فقتل احدهما صاحبه فهما في النار مثله سواء",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4119-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4119-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4119-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abb9",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4120,
+      "bookHadithIndex": 155,
+      "text": "اخبرنا علي بن محمد بن علي المصيصي، قال حدثنا خلف، عن زايدة، عن هشام، عن الحسن، عن ابي بكرة، عن النبي صلى الله عليه وسلم قال \" اذا تواجه المسلمان بسيفيهما كل واحد منهما يريد قتل صاحبه فهما في النار \" . قيل له يا رسول الله هذا القاتل فما بال المقتول قال \" انه كان حريصا على قتل صاحبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4120-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4120-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4120-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abba",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4121,
+      "bookHadithIndex": 156,
+      "text": "اخبرنا محمد بن المثنى، قال حدثنا الخليل بن عمر بن ابراهيم، قال حدثني ابي قال، حدثني قتادة، عن الحسن، عن ابي بكرة، قال قال رسول الله صلى الله عليه وسلم \" اذا التقى المسلمان بسيفيهما فقتل احدهما صاحبه فالقاتل والمقتول في النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4121-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4121-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4121-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abbb",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4122,
+      "bookHadithIndex": 157,
+      "text": "اخبرنا احمد بن فضالة، قال حدثنا عبد الرزاق، قال انبانا معمر، عن ايوب، عن الحسن، عن الاحنف بن قيس، عن ابي بكرة، قال سمعت رسول الله صلى الله عليه وسلم يقول \" اذا تواجه المسلمان بسيفيهما فقتل احدهما صاحبه فالقاتل والمقتول في النار \" . قالوا يا رسول الله هذا القاتل فما بال المقتول قال \" انه اراد قتل صاحبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4122-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4122-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4122-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abbc",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4123,
+      "bookHadithIndex": 158,
+      "text": "اخبرنا احمد بن عبدة، عن حماد، عن ايوب، ويونس، والعلاء بن زياد، عن الحسن، عن الاحنف بن قيس، عن ابي بكرة، قال قال رسول الله صلى الله عليه وسلم \" اذا التقى المسلمان بسيفيهما فقتل احدهما صاحبه فالقاتل والمقتول في النار",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4123-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4123-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4123-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abbd",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4124,
+      "bookHadithIndex": 159,
+      "text": "اخبرنا مجاهد بن موسى، قال حدثنا اسماعيل، - وهو ابن علية - عن يونس، عن الحسن، عن ابي موسى الاشعري، ان رسول الله صلى الله عليه وسلم قال \" اذا تواجه المسلمان بسيفيهما فقتل احدهما صاحبه فالقاتل والمقتول في النار \" . قال رجل يا رسول الله هذا القاتل فما بال المقتول قال \" انه اراد قتل صاحبه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4124-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4124-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4124-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abbe",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4125,
+      "bookHadithIndex": 160,
+      "text": "اخبرنا احمد بن عبد الله بن الحكم، قال حدثنا محمد بن جعفر، قال حدثنا شعبة، عن واقد بن محمد بن زيد، انه سمع اباه، يحدث عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" لا ترجعوا بعدي كفارا يضرب بعضكم رقاب بعض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4125-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4125-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4125-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abbf",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4126,
+      "bookHadithIndex": 161,
+      "text": "اخبرنا محمد بن رافع، قال حدثنا ابو احمد الزبيري، قال حدثنا شريك، عن الاعمش، عن ابي الضحى، عن مسروق، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" لا ترجعوا بعدي كفارا يضرب بعضكم رقاب بعض لا يوخذ الرجل بجناية ابيه ولا جناية اخيه \" . قال ابو عبد الرحمن هذا خطا والصواب مرسل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4126-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4126-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4126-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abc0",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4127,
+      "bookHadithIndex": 162,
+      "text": "اخبرنا ابراهيم بن يعقوب، قال حدثنا احمد بن يونس، قال حدثنا ابو بكر بن عياش، عن الاعمش، عن مسلم، عن مسروق، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" لا ترجعوا بعدي كفارا يضرب بعضكم رقاب بعض ولا يوخذ الرجل بجريرة ابيه ولا بجريرة اخيه",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4127-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4127-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4127-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abc1",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4128,
+      "bookHadithIndex": 163,
+      "text": "اخبرنا محمد بن العلاء، قال حدثنا ابو معاوية، عن الاعمش، عن مسلم، عن مسروق، قال قال رسول الله صلى الله عليه وسلم \" لا الفينكم ترجعون بعدي كفارا يضرب بعضكم رقاب بعض لا يوخذ الرجل بجريرة ابيه ولا بجريرة اخيه \" . هذا الصواب",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4128-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4128-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4128-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abc2",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4129,
+      "bookHadithIndex": 164,
+      "text": "اخبرني ابراهيم بن يعقوب، قال حدثنا يعلى، قال حدثنا الاعمش، عن ابي الضحى، عن مسروق، قال قال رسول الله صلى الله عليه وسلم \" لا ترجعوا بعدي كفارا \" . مرسل",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4129-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4129-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4129-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abc3",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4130,
+      "bookHadithIndex": 165,
+      "text": "اخبرنا عمرو بن زرارة، قال انبانا اسماعيل، عن ايوب، عن محمد بن سيرين، عن ابي بكرة، عن النبي صلى الله عليه وسلم قال \" لا ترجعوا بعدي ضلالا يضرب بعضكم رقاب بعض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4130-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4130-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4130-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abc4",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4131,
+      "bookHadithIndex": 166,
+      "text": "اخبرنا محمد بن بشار، قال حدثنا محمد، وعبد الرحمن، قالا حدثنا شعبة، عن علي بن مدرك، قال سمعت ابا زرعة بن عمرو بن جرير، عن جرير، ان رسول الله صلى الله عليه وسلم في حجة الوداع استنصت الناس قال \" لا ترجعوا بعدي كفارا يضرب بعضكم رقاب بعض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4131-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4131-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4131-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ]
+    },
+    {
+      "id": "69b6c6aadd1a4c9c86f0abc5",
+      "editionId": "69b55e8d6f42ba7ccb2a1321",
+      "bookIndex": 37,
+      "hadithIndex": 4132,
+      "bookHadithIndex": 167,
+      "text": "اخبرنا ابو عبيدة بن ابي السفر، قال حدثنا عبد الله بن نمير، قال حدثنا اسماعيل، عن قيس، قال بلغني ان جرير بن عبد الله، قال قال لي رسول الله صلى الله عليه وسلم \" استنصت الناس \" . ثم قال \" لا الفينكم بعد ما ارى ترجعون بعدي كفارا يضرب بعضكم رقاب بعض",
+      "grades": [
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4132-abughuddah",
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4132-alalbani",
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "id": "69b55e8d6f42ba7ccb2a1321-37-4132-zubairalizai",
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}
