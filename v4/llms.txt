@@ -15,7 +15,9 @@ Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
 | File | CDN URL |
 |------|---------|
 | Reciter list | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json` |
+| Hadith editions | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.json` |
 | TypeScript types | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts` |
+| Hadith types | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith.d.ts` |
 | Full docs | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/README.md` |
 
 ## Endpoints
@@ -57,9 +59,31 @@ Same 4 categories as surah endpoints (`verse`, `image`, `audio/{reciter}`, `tafs
 - **Languages**: `ar` (7), `bn` (4), `en` (2), `ku` (1), `ru` (1), `ur` (3)
 - **Per verse**: `lang`, `authorName`, `tafsirName`, `tafsir` (HTML)
 
+### Hadith
+
+`/v4/hadith/editions.json`
+
+- **Editions**: 8 major hadith collections with multi-language support
+- **Languages**: `ar`, `en`, `bn`, `fr`, `tr`, `ur`, `id`, `ta`, `ru`, `ar-diacritics`
+
+`/v4/hadith/{edition-slug}/books.json`
+
+- **Books**: List of books within an edition, with hadith count per book
+
+`/v4/hadith/{edition-slug}/{edition-slug}-{book-index}/{lang-code}/hadith.json`
+
+- **Hadith**: All hadith entries for a specific book in a language
+- **Per hadith**: `id`, `editionId`, `bookIndex`, `hadithIndex`, `bookHadithIndex`, `text`, `grades`
+
+`/v4/hadith/{edition-slug}/{edition-slug}-{book-index}/{lang-code}/{page}.json`
+
+- **Paginated hadith**: Same structure as above, with `total`, `totalPage`, `page`, `pageSize`
+
 ## TypeScript Types
 
 `quran.d.ts` — `SurahHeader`, `SurahVerseText`, `SurahImage`, `SurahAudio`, `SurahTafsir`, `ReciterKey`, `ReciterInfo`, `RecitersList`, `TafsirId`, `TafsirLanguage`
+
+`hadith.d.ts` — `HadithEdition`, `HadithBook`, `HadithEntry`, `HadithGrade`, `HadithCollection`, `PaginatedHadithCollection`
 
 ## Key Differences from v2
 

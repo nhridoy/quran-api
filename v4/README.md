@@ -24,15 +24,28 @@ Every endpoint has two variants: `{file}.json` (pretty-printed, 2-space indent) 
 | Juz/para (image) | `/v4/juz/image/{id}.json` | [juz/image/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/juz/image/1.json) |
 | Juz/para (audio) | `/v4/juz/audio/{reciter}/{id}.json` | [juz/audio/ar.alafasy/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/juz/audio/ar.alafasy/1.json) |
 | Juz/para (tafsir) | `/v4/juz/tafsir/{lang}/{tafsir-id}/{id}.json` | [juz/tafsir/en/en-tafsir-maarif-ul-quran/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/juz/tafsir/en/en-tafsir-maarif-ul-quran/1.json) |
+| Hadith editions | `/v4/hadith/editions.json` | [hadith/editions.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.json) |
+| Hadith books | `/v4/hadith/{edition-slug}/books.json` | [hadith/sahih-al-bukhari/books.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/sahih-al-bukhari/books.json) |
+| Hadith (all) | `/v4/hadith/{edition-slug}/{edition-slug}-{book-index}/{lang-code}/hadith.json` | [hadith/sahih-al-bukhari/sahih-al-bukhari-1/en/hadith.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/sahih-al-bukhari/sahih-al-bukhari-1/en/hadith.json) |
+| Hadith (paginated) | `/v4/hadith/{edition-slug}/{edition-slug}-{book-index}/{lang-code}/{page}.json` | [hadith/sahih-al-bukhari/sahih-al-bukhari-1/en/1.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/sahih-al-bukhari/sahih-al-bukhari-1/en/1.json) |
 
 ## Supporting Files
 
 | File | CDN URL |
 |------|---------|
 | Reciter list | [reciters.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json) / [reciters.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.min.json) |
+| Hadith editions | [hadith/editions.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.json) / [hadith/editions.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.min.json) |
 | TypeScript types | [quran.d.ts](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts) |
+| Hadith types | [hadith.d.ts](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith.d.ts) |
 | API docs | [README.md](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/README.md) |
 | AI context | [llms.txt](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/llms.txt) |
+
+Using TypeScript? Download `quran.d.ts` and `hadith.d.ts` via jsDelivr and reference them in your project:
+
+```bash
+curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts
+curl -O https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith.d.ts
+```
 
 Using TypeScript? Download `quran.d.ts` via jsDelivr and reference it in your project:
 
@@ -304,6 +317,141 @@ The per-verse objects inside `surah[].verses` have the same fields as the corres
 
 ---
 
+## Hadith Editions
+
+8 major hadith collections with multi-language support. Full data in [`hadith/editions.json`](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.json).
+
+| Edition | Hadith Count | Languages |
+|---------|------------|-----------|
+| `forty-hadith-of-shah-waliullah-dehlawi` | 40 | ar, en, fr, ar-diacritics |
+| `muwatta-imam-malik` | 1,858 | ar, en, tr, ar-diacritics, bn |
+| `sahih-al-bukhari` | 7,563 | tr, en, bn, ar-diacritics, ta, ur, id, fr, ar |
+| `sahih-muslim` | 7,563 | bn, ar-diacritics, id, fr, en, tr, ru, ar, ta |
+| `sunan-abu-dawud` | 5,274 | ar, ru, id, ar-diacritics, fr, ur, bn, en, tr |
+| `sunan-an-nasai` | 5,758 | id, ur, ar, tr, en, fr, ar-diacritics, bn |
+| `sunan-al-tirmidhi` | 3,956 | en, ar-diacritics, ur, bn, ar, id, tr |
+| `forty-hadith-of-an-nawawi` | 42 | ar, tr, en, ar-diacritics, bn, fr |
+| `sunan-ibn-majah` | 4,341 | id, en, fr, tr, ur, bn, ar-diacritics, ar |
+| `forty-hadith-qudsi` | 40 | en, ar, fr, ar-diacritics |
+
+---
+
+## Hadith Data Structure
+
+### Editions (`/v4/hadith/editions.json`)
+
+```json
+[
+  {
+    "id": "69b55e8d6f42ba7ccb2a131e",
+    "slug": "sahih-al-bukhari",
+    "bookCount": 97,
+    "hadithCount": 7563,
+    "availableLanguages": ["tr", "en", "bn", "ar-diacritics", "ta", "ur", "id", "fr", "ar"],
+    "name": {
+      "tr": "Sahih-i Bukhari",
+      "en": "Sahih al-Bukhari",
+      "ar": "صحيح البخاري"
+    }
+  }
+]
+```
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `id` | string | Unique edition identifier |
+| `slug` | string | Edition slug for URL paths |
+| `bookCount` | int | Number of books in this edition |
+| `hadithCount` | int | Total hadith across all books |
+| `availableLanguages` | array | List of language codes available |
+| `name` | object | Edition name keyed by language code |
+
+---
+
+### Books (`/v4/hadith/{edition-slug}/books.json`)
+
+```json
+[
+  {
+    "id": "69b6bc020df084ec203b4817",
+    "editionId": "69b55e8d6f42ba7ccb2a1323",
+    "bookIndex": 1,
+    "hadithCount": 42,
+    "hadithIndexStart": 1,
+    "name": {
+      "ar": "الأربعون الحديث للنووي",
+      "en": "Forty Hadith of an-Nawawi"
+    }
+  }
+]
+```
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `id` | string | Unique book identifier |
+| `editionId` | string | Parent edition ID |
+| `bookIndex` | int | Book index within edition |
+| `hadithCount` | int | Hadith count in this book |
+| `hadithIndexStart` | int | Starting hadith index |
+| `name` | object | Book name keyed by language code |
+
+---
+
+### Hadith (All) (`/v4/hadith/{edition-slug}/{edition-slug}-{book-index}/{lang-code}/hadith.json`)
+
+```json
+{
+  "total": 42,
+  "items": [
+    {
+      "id": "69b6c81fdd1a4c9c86f0c1bf",
+      "editionId": "69b55e8d6f42ba7ccb2a1323",
+      "bookIndex": 1,
+      "hadithIndex": 1,
+      "bookHadithIndex": 1,
+      "text": "It is narrated on the authority of Amirul Mu'minin...",
+      "grades": []
+    }
+  ]
+}
+```
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `total` | int | Total hadith in collection |
+| `items` | array | Hadith entry objects |
+| `id` | string | Unique hadith identifier |
+| `editionId` | string | Parent edition ID |
+| `bookIndex` | int | Book index |
+| `hadithIndex` | int | Global hadith index |
+| `bookHadithIndex` | int | Position within book |
+| `text` | string | Hadith text in selected language |
+| `grades` | array | Scholar grades with `id`, `name`, `grade` |
+
+---
+
+### Hadith (Paginated) (`/v4/hadith/{edition-slug}/{edition-slug}-{book-index}/{lang-code}/{page}.json`)
+
+```json
+{
+  "total": 7563,
+  "totalPage": 76,
+  "page": 1,
+  "pageSize": 100,
+  "items": [...]
+}
+```
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `total` | int | Total hadith in book |
+| `totalPage` | int | Total pages (calculated) |
+| `page` | int | Current page number |
+| `pageSize` | int | Items per page |
+| `items` | array | Hadith entry objects |
+
+---
+
 ## Usage Examples
 
 ### Fetch verse text
@@ -344,6 +492,28 @@ const res = await fetch(
 );
 const data = await res.json();
 console.log(data.verses[0].tafsir); // HTML exegesis
+```
+
+### Fetch hadith editions
+
+```js
+const res = await fetch(`${BASE}/hadith/editions.json`);
+const editions = await res.json();
+
+console.log(editions[2].name.en); // "Sahih al-Bukhari"
+console.log(editions[2].hadithCount); // 7563
+```
+
+### Fetch hadith by book
+
+```js
+const res = await fetch(
+  `${BASE}/hadith/sahih-al-bukhari/sahih-al-bukhari-1/en/hadith.json`
+);
+const data = await res.json();
+
+console.log(data.total); // 7563
+console.log(data.items[0].text); // Hadith text
 ```
 
 ---
