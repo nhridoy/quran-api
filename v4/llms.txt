@@ -14,6 +14,7 @@ Every endpoint has `.json` (pretty) and `.min.json` (minified) variants.
 
 | File | CDN URL |
 |------|---------|
+| Surah list | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/list.json` |
 | Reciter list | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json` |
 | Hadith editions | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.json` |
 | TypeScript types | `https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts` |

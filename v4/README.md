@@ -33,6 +33,7 @@ Every endpoint has two variants: `{file}.json` (pretty-printed, 2-space indent) 
 
 | File | CDN URL |
 |------|---------|
+| Surah list | [surah/list.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/list.json) / [surah/list.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/surah/list.min.json) |
 | Reciter list | [reciters.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.json) / [reciters.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/reciters.min.json) |
 | Hadith editions | [hadith/editions.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.json) / [hadith/editions.min.json](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/hadith/editions.min.json) |
 | TypeScript types | [quran.d.ts](https://cdn.jsdelivr.net/gh/nhridoy/quran-api@latest/v4/quran.d.ts) |

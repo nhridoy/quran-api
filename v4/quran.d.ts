@@ -94,6 +94,12 @@ export interface SurahTafsir extends SurahHeader {
   verses: VerseTafsirEntry[];
 }
 
+// ===== Surah List (v4/surah/list.json) =====
+
+export type SurahListItem = SurahHeader;
+
+export type SurahList = SurahListItem[];
+
 // ===== Reciters =====
 
 export type ReciterKey =
